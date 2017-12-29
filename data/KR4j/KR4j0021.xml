@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+              <teiHeader>
+                  <fileDesc>
+                     <titleStmt>
+                        <title>Title</title>
+                     </titleStmt>
+                     <publicationStmt>
+                        <p>Information about publication or distribution</p>
+                     </publicationStmt>
+                     <sourceDesc>
+                        <p>Information about the source</p>
+                     </sourceDesc>
+                  </fileDesc>
+              </teiHeader>
+              <text>
+                  <body>
+            
+<div>
+    <p>
+<pc n="lb"/>
+                    
+丹陽詞原跋<pc n="lb"/>
+魯卿常之雖不逮李氏晏氏父子每填一詞輒流傳絲<pc n="lb"/>
+竹然紹興紹聖間俱負海内重望其詞亦能入雅字常<pc n="lb"/>
+之歸愚集余梓行既久復訂丹陽詞一巻以公同好如<pc n="lb"/>
+魯卿出處大略已詳鴻慶序中矣海虞毛晉識<pc n="lb"/>
+<pb n="1a"/>
+                </p>
+<p>
+</p>
+  </div>
+        </body>
+</text>
+</TEI>

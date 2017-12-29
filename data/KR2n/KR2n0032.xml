@@ -1,0 +1,4355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+              <teiHeader>
+                  <fileDesc>
+                     <titleStmt>
+                        <title>Title</title>
+                     </titleStmt>
+                     <publicationStmt>
+                        <p>Information about publication or distribution</p>
+                     </publicationStmt>
+                     <sourceDesc>
+                        <p>Information about the source</p>
+                     </sourceDesc>
+                  </fileDesc>
+              </teiHeader>
+              <text>
+                  <body>
+            
+<div>
+<head>金石林時地考巻上</head>
+    <p>
+<pc n="lb"/>
+                    
+欽定四庫全書<pc n="lb"/>
+<pc n="　"/>金石林時地考巻上<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>明<pc n="　"/>趙均<pc n="　"/>撰<pc n="lb"/>
+北直𨽻<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>周<pc n="lb"/>
+<pc n="　"/>周穆王壇山刻石四字<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>趙州贊皇縣<pc n="lb"/>
+<pc n="　"/>周宣王石鼓紀獵詩<hi>史籀篆</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>順天國子監<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>漢<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>宣父碑<hi>蔡邕𨽻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>真定府<pc n="lb"/>
+<pc n="　"/>無極山碑<hi>光和四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>真定府元氏縣<pc n="lb"/>
+<pc n="　"/>三公山碑<hi>光和四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>真定府元氏縣<pc n="lb"/>
+<pc n="　"/>白石神君碑<hi>光和二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>真定府元氏縣<pc n="lb"/>
+<pc n="　"/>燕然山銘<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>真定府元氏縣<pc n="lb"/>
+<pc n="　"/>北嶽恒山碑<hi>光和四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>真定府曲陽縣<pc n="lb"/>
+<pc n="　"/>北嶽安天王碑銘<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>真定府嶽廟<pc n="lb"/>
+<pc n="　"/>漢上谷太守張<graphic n="KR3176" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3176.png" mimeType="image/png"/>碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>棗强縣<pc n="lb"/>
+                    <pb n="1b"/>
+<pc n="　"/>漢孝子王𤣥碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>安喜縣<pc n="lb"/>
+<pc n="　"/>漢賈敏碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>棗强縣<pc n="lb"/>
+<pc n="　"/>漢韓延夀碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宛平縣<pc n="lb"/>
+<pc n="　"/>漢藁城縣長蔡湛碑<hi>光和四年在縣西二十五里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>藁城縣<pc n="lb"/>
+<pc n="　"/>冀州刺史王純碑<hi>延熹四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>昌平州<pc n="lb"/>
+<pc n="　"/>小黄門譙敏碑<hi>中平四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>棗强縣<pc n="lb"/>
+<pc n="　"/>漢劉盆碑<hi>于奕正天下金石志作劉盆子正始二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>梁澤縣<hi>一作深澤</hi>
+                    <pc n="lb"/>
+<pc n="　"/>淳于長夏承碑<hi>建寧三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廣平府學<pc n="lb"/>
+                    <pb n="2a"/>
+<pc n="　"/>
+                    <pc n="　"/>魏<pc n="lb"/>
+<pc n="　"/>魏中山太守常通碑<hi>州城西北三里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>定州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隋<pc n="lb"/>
+<pc n="　"/>隋龍藏寺碑<hi>一作龍華寺開皇六年張公禮撰</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>真定府<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>易州鐵像碑頌<hi>王瑞撰蘇靈芝書開元二十七年己夘</hi>易州<pc n="lb"/>
+<pc n="　"/>封龍山神碑<hi>李公緒記</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>元氏縣<pc n="lb"/>
+<pc n="　"/>唐僧亞棲草書千文<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>順天國子監<pc n="lb"/>
+                    <pb n="2b"/>
+<pc n="　"/>易州石亭府石浮圖頌<hi>大極元年王利貞文</hi>
+                    <pc n="lb"/>
+<pc n="　"/>易州新安府李公石浮圖銘<hi>開元十年梁髙望書</hi>房山縣<pc n="lb"/>
+<pc n="　"/>石浮屠銘<hi>景雲二年寗思道書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>雲居寺石浮圖銘<hi>開元十五年王大悦撰</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>房山縣<pc n="lb"/>
+<pc n="　"/>投龍壁詞<hi>張湛作開元二十七年己夘</hi>
+                    <pc n="lb"/>
+<pc n="　"/>易州刺史田琬徳政碑<hi>學士徐安貞撰逸士武功蘇靈芝書開元二十八年十月</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <hi>十六日建</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>易州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+                    <pb n="3a"/>
+<pc n="　"/>大觀御製五禮記<hi>大觀二年正月朔記</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>大名府元城縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>元<pc n="lb"/>
+<pc n="　"/>蘭亭帖<hi>趙孟頫臨</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>順天國子監<pc n="lb"/>
+<pc n="　"/>樂毅論<hi>趙孟頫臨</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>順天國子監<pc n="lb"/>
+<pc n="　"/>黄庭經<hi>趙孟頫臨</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>順天國子監<pc n="lb"/>
+<pc n="　"/>金丹四百字<hi>趙孟頫臨</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>順天國子監<pc n="lb"/>
+南直𨽻<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>周<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>延陵季子十字碑<hi>宣尼書季札墓上又一刻在江隂有宋崇寧二年朱彦記錢景瞻書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>丹徒縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>秦<pc n="lb"/>
+<pc n="　"/>秦李斯嶧山碑<hi>李西臺翻刻每行三字</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>應天府學<pc n="lb"/>
+<pc n="　"/>秦李斯小字泰山碑<hi>㦸門壁上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>應天府學<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>漢<pc n="lb"/>
+<pc n="　"/>漢髙祖感應碑<hi>延熹十年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>豐縣<pc n="lb"/>
+<pc n="　"/>溧陽長潘乾校官碑<hi>光和四年入元車禧翻本</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>溧陽縣<pc n="lb"/>
+                    <pb n="4a"/>
+<pc n="　"/>東海廟碑<hi>熹平元年在朐山廟中</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>淮安府海州<pc n="lb"/>
+<pc n="　"/>漢劉熈碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>徐州<pc n="lb"/>
+<pc n="　"/>歌風臺碑<hi>扶風曹喜書漢高祖大風歌</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>沛縣泗亭<pc n="lb"/>
+<pc n="　"/>潁川荀淑碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>潁上縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>三國<pc n="lb"/>
+<pc n="　"/>魏樂安長劉世碑<hi>在彭城又云李華文在常州未詳</hi>
+                    <pc n="lb"/>
+<pc n="　"/>吳主禪國山碑<hi>吴主皓立</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宜興縣<pc n="lb"/>
+<pc n="　"/>静安寺碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>松江上海<hi>西北門外</hi>
+                    <pc n="lb"/>
+                    <pb n="4b"/>
+<pc n="　"/>三段碑<hi>吴皇象書孫皓天璽元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>應天府學<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>晉<pc n="lb"/>
+<pc n="　"/>晉平西將軍周府君碑<hi>晉王右軍書陸機文在周王廟中</hi>宜興縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>梁<pc n="lb"/>
+<pc n="　"/>瘞鶴銘<hi>梁陶𢎞景書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鎮江焦山足<pc n="lb"/>
+<pc n="　"/>梁驃騎將軍碑<hi>貝儀淵書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>應天府<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隋<pc n="lb"/>
+<pc n="　"/>横山舍利靈塔銘<hi>隋嚴徳盛文魏瑗書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>吳縣横山<pc n="lb"/>
+                    <pb n="5a"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>攝山棲霞寺明徵君碑<hi>唐肅宗撰髙正臣書王知敬題額</hi>應天府<pc n="lb"/>
+<pc n="　"/>唐國師王法主真人立觀碑<hi>江旻撰貞觀十六年立</hi>句容茅山<pc n="lb"/>
+<pc n="　"/>桐栢真人王先生碑銘<hi>于敬之文王𤣥宗書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>茅山貞白先生碑隂記<hi>司馬子微述并書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>唐華陽𤣥静先生碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>唐李含光𤣥静先生碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>華陽景照大師碑<hi>陸長源撰竇衆書并篆額貞元三年</hi>句容茅山<pc n="lb"/>
+                    <pb n="5b"/>
+<pc n="　"/>唐寶厯崇元聖祖院碑<hi>賈餗文</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>唐王貞素碑<hi>徐鉉撰并篆額徐錯𨽻書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>茅山紫陽觀碑銘<hi>徐鉉撰楊𤣥鼎真書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>復禁山碑<hi>徐鉉文</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>靈寶院記<hi>王棲霞撰吕子元書并篆額太和三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>體𤣥先生潘尊師碑<hi>陳子昂撰復一碑在嵩山王適撰司馬子微書乃大周聖歴二</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <hi>年建</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>龍花寺損律和尚碑<hi>李華文張從申書李陽冰篆額及僧之戒行世謂四絶</hi>
+                    <pc n="lb"/>
+                    <pb n="6a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>揚州<pc n="lb"/>
+<pc n="　"/>白鵠廟池碑<hi>栁識撰張從申書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>瑯琊山庶子泉鑿泉題<hi>李陽冰篆</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>滁州<pc n="lb"/>
+<pc n="　"/>謙卦<hi>李陽冰篆有大小三種在人家庭壁上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>太平府<pc n="lb"/>
+<pc n="　"/>娑羅樹碑<hi>李邕撰并書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>刺史㕔記<hi>李華文</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>常州府<pc n="lb"/>
+<pc n="　"/>惠山寺碑<hi>獨孤及文</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>無錫縣<pc n="lb"/>
+<pc n="　"/>惠山泉碑<hi>陸羽文</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>無錫縣<pc n="lb"/>
+                    <pb n="6b"/>
+<pc n="　"/>許由廟碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>潁州箕山<pc n="lb"/>
+<pc n="　"/>漢髙祖頌<hi>王遹篆</hi>
+                    <pc n="lb"/>
+<pc n="　"/>山亭郷侯碑<hi>天寶十五載蔣冽建宋紹聖二年裔孫之奇之翰重建</hi>宜興縣<pc n="lb"/>
+<pc n="　"/>又蔣氏大宗碑<hi>蔣冽撰</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宜興縣<pc n="lb"/>
+<pc n="　"/>唐梁肅圯橋銘<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>淮安邳州<pc n="lb"/>
+<pc n="　"/>項王亭碑<hi>徐鉉篆</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>和州烏江<pc n="lb"/>
+<pc n="　"/>郷威儀碑<pc n="lb"/>
+<pc n="　"/>改修季子廟碑<hi>大厯十四年己未蘭陵蕭定記張從申書字甚入時與余所見茅山𤣥静</hi>
+                    <pc n="lb"/>
+                    <pb n="7a"/>
+<pc n="　"/>
+                    <hi>碑大異</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>丹徒縣<pc n="lb"/>
+<pc n="　"/>福興寺碑<hi>張從申書采石大路西竺寺地名銅井許    撰</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>溧陽貞義女碑<hi>唐李白文宋淳化五年董衍重刻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>溧陽縣<pc n="lb"/>
+<pc n="　"/>幽光顯揚之碑<hi>蔡卞書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>句容茅山<pc n="lb"/>
+<pc n="　"/>敬齋箴<hi>朱協極𨽻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蘓州府學<pc n="lb"/>
+<pc n="　"/>酒徳頌<hi>王魯卿篆</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蘓州府學<pc n="lb"/>
+<pc n="　"/>草書千文<hi>僧訥菴書末有晉陵孫仲賢跋語</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蘓州靈巖寺<pc n="lb"/>
+                    <pb n="7b"/>
+<pc n="　"/>草書千文<hi>宋徽宗書又云在滸墅公廨</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蘓州府學<pc n="lb"/>
+<pc n="　"/>食時五觀<hi>黄庭堅書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蘓州府學<pc n="lb"/>
+<pc n="　"/>心經<hi>章友直女篆其女適著作郎黄元</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>滁州瑯琊山<pc n="lb"/>
+<pc n="　"/>醉翁亭記<hi>蘓軾書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>滁州<pc n="lb"/>
+<pc n="　"/>豐樂亭記<hi>蘓軾書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>滁州<pc n="lb"/>
+<pc n="　"/>黄樓賦<hi>蘓轍撰蘓軾書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>徐州東北城<hi>樓上</hi>
+                    <pc n="lb"/>
+<pc n="　"/>寶晉齋帖<hi>米芾書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>丹陽<pc n="lb"/>
+<pc n="　"/>甲秀堂帖<pc n="lb"/>
+                    <pb n="8a"/>
+<pc n="　"/>韓蘄王碑<hi>趙雄文周必大書在靈巖山前</hi>
+                    <pc n="lb"/>
+<pc n="　"/>蟠松二大字<hi>蔡襄篆書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>虎丘劔池四大字<hi>蔡襄真書相傳為顔魯公書今查舊虎丘志訂為蔡公書無疑下同</hi>
+                    <pc n="lb"/>
+<pc n="　"/>生公講臺<hi>蔡襄篆書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>觀音經<hi>曽公亮等九十二人書刻石室中</hi>
+                    <pc n="lb"/>
+<pc n="　"/>觀音妙智力能救世間苦十字<pc n="lb"/>
+<pc n="　"/>辛君廟記<hi>辛君諱翼字大鵬秦漢時人宋理宗紹定六年四月一日齊郡晏彬立夏廷書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>金壇<pc n="lb"/>
+                    <pb n="8b"/>
+<pc n="　"/>
+                    <pc n="　"/>元<pc n="lb"/>
+<pc n="　"/>度人經<hi>趙孟頫小楷</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鎮江府學<pc n="lb"/>
+<pc n="　"/>行書千字文<hi>趙孟頫書今碑碎翻本有僧善啓跋</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>松江華亭縣<pc n="lb"/>
+<pc n="　"/>七姬權厝志<hi>宋克書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>寶雲寺記<hi>趙孟頫書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>松江<pc n="lb"/>
+<pc n="　"/>樂善堂帖<hi>趙孟頫書顧善夫勒石</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>崑山陳氏<pc n="lb"/>
+<pc n="　"/>無量夀院記<hi>釋餘澤撰文鋭書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蘓州齊門外<pc n="lb"/>
+<pc n="　"/>居竹記<hi>趙孟頫書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>松江府學<pc n="lb"/>
+                    <pb n="9a"/>
+<pc n="　"/>王清獻公碑<hi>歐陽𤣥撰在西山金井塢中</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂記<hi>周伯琦篆</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>國朝<pc n="lb"/>
+<pc n="　"/>白雲寺碑<hi>洪武二十五年姚少師撰滕用髙𨽻書在天平山南</hi>
+                    <pc n="lb"/>
+<pc n="　"/>善權和尚碑<hi>滕用衡𨽻書在穹窿山南</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>寶<graphic n="KR4260" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4260.png" mimeType="image/png"/>塔銘<hi>洪武二十五年僧𢎞道撰無書人名在結草菴</hi>
+                    <pc n="lb"/>
+<pc n="　"/>停雲館帖<pc n="lb"/>
+                    <pb n="9b"/>
+<pc n="　"/>歸来堂帖<pc n="lb"/>
+山西<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>漢<pc n="lb"/>
+<pc n="　"/>堯碑<hi>汾水東原上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>平陽府<pc n="lb"/>
+<pc n="　"/>漢敬歆碑<hi>縣西二十里墓上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>正平縣<pc n="lb"/>
+<pc n="　"/>郭林宗墓碑<hi>建寧二年蔡邕文并書又一碑云漢郭有道碑未詳</hi>介休縣<hi>又平晉縣</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>魏<pc n="lb"/>
+<pc n="　"/>魏車騎將軍穆祚碑<hi>縣南墓上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>介休縣<pc n="lb"/>
+                    <pb n="10a"/>
+<pc n="　"/>魏馮勍碑<hi>縣南墓上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>潞州上黨縣<pc n="lb"/>
+<pc n="　"/>魏陸巖碑<hi>縣南墓上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>潞州上黨縣<pc n="lb"/>
+<pc n="　"/>魏并州刺史王恒碑<hi>州東南二里墓旁</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>絳州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>後魏<pc n="lb"/>
+<pc n="　"/>龍門山御射臺碑<hi>後魏成帝射于此碑隂有從臣名</hi>山隂縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隋<pc n="lb"/>
+<pc n="　"/>周將楊忠碑<hi>隋文帝文在縣西十五里象山</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>太原縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+                    <pb n="10b"/>
+<pc n="　"/>晉祠之銘<hi>唐太宗御製御書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>太原縣<pc n="lb"/>
+<pc n="　"/>唐興寺碑<hi>開元六年許景先撰</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>門喜縣<pc n="lb"/>
+<pc n="　"/>鳳凰山來儀觀碑<hi>唐天寶四年道士董思珍碑記與五臺接境</hi>
+                    <pc n="lb"/>
+<pc n="　"/>古義士夷齊碑<hi>開元十三年梁昇卿文并書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蒲州首陽山<pc n="lb"/>
+<pc n="　"/>唐恒山祠碑<hi>栁公權書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>大同府渾源州<pc n="lb"/>
+<pc n="　"/>唐十道圖<pc n="lb"/>
+<pc n="　"/>唐段文昌墓碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>大同府城東<pc n="lb"/>
+<pc n="　"/>介子推墓碑<hi>真書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>介休縣<pc n="lb"/>
+                    <pb n="11a"/>
+<pc n="　"/>絳守名園池記<hi>今亡元大徳重刻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>絳州<pc n="lb"/>
+<pc n="　"/>李剛碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>太原縣<pc n="lb"/>
+<pc n="　"/>臯陶碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>臨汾縣<pc n="lb"/>
+<pc n="　"/>玉皇圖碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>臨汾縣<pc n="lb"/>
+<pc n="　"/>陵泉廟碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>垣曲縣<pc n="lb"/>
+<pc n="　"/>碧落天尊碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>絳州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>釋文<hi>唐咸通十一年七月十一日鄭承規書真字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>荀藐碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>榆次縣<pc n="lb"/>
+                    <pb n="11b"/>
+<pc n="　"/>韓信廟碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>靈石縣<pc n="lb"/>
+<pc n="　"/>鐵彌勒像頌<hi>開元二十九年辛巳六月二十四日癸邜建林諤撰房嶙妻髙氏書常山蘇倇</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <hi>題額</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>交城縣<hi>石壁寺</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>絳州文廟記<hi>宋李垂撰逸民趺望集刻晉王右軍書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>絳州<pc n="lb"/>
+<pc n="　"/>絳帖<hi>宋潘師旦刻十二卷今入晉王府姜堯章絳帖評作二十卷</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>國朝<pc n="lb"/>
+<pc n="　"/>寶賢堂帖<hi>晉府靖王以絳帖増入為之</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>晉府<pc n="lb"/>
+                    <pb n="12a"/>
+山東<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>秦<pc n="lb"/>
+<pc n="　"/>泰山刻石頌<hi>李斯篆在泰山上碑作五面今剥止存二十九字</hi>泰安州<pc n="lb"/>
+<pc n="　"/>嶧山刻石頌<hi>李斯篆宋元祐八年張文仲重摹于鄒縣孟廟元至元二十九年劉之美跋又</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <hi>有青社本</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄒縣<pc n="lb"/>
+<pc n="　"/>琅琊臺刻石頌<hi>李斯篆在琅玡山一云在鄒縣</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>密州高密縣<pc n="lb"/>
+<pc n="　"/>之罘山碑<hi>李斯篆剥落僅存二十一字</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>福山縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>漢<pc n="lb"/>
+                    <pb n="12b"/>
+<pc n="　"/>帝堯碑<hi>靈帝熹平四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曹州濟隂縣<pc n="lb"/>
+<pc n="　"/>濟隂太守孟郁修堯廟碑<hi>威宗永康元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>曹州濟隂縣<pc n="lb"/>
+<pc n="　"/>成陽靈臺碑<hi>建寧四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曹州濟隂縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>孔子廟置百石孔龢卒史碑<hi>永興元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>曲阜<pc n="lb"/>
+<pc n="　"/>漢魯相韓勑修孔廟禮器碑<hi>永夀二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>曲阜<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>漢魯相韓勑復顔氏繇役碑<hi>永夀六年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>曲阜孔廟<pc n="lb"/>
+                    <pb n="13a"/>
+<pc n="　"/>又勑修孔廟後碑<hi>兩側題名永夀三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜孔廟<pc n="lb"/>
+<pc n="　"/>靈濟碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜孔廟<pc n="lb"/>
+<pc n="　"/>魯相史晨祠孔廟奏銘<hi>建寧二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜孔廟<pc n="lb"/>
+<pc n="　"/>史晨饗孔廟後碑<hi>建寧二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜孔廟<pc n="lb"/>
+<pc n="　"/>漢謁者景君墓表<hi>安帝元初元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧學<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>剡令景君闕碑<hi>元初四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧學<pc n="lb"/>
+<pc n="　"/>孔謙謁廟碑<hi>永興二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜<pc n="lb"/>
+                    <pb n="13b"/>
+<pc n="　"/>漢泰山都尉孔宙碑<hi>延熹七年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜墓前<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>漢金郷長成侯碑<hi>建寧三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧<pc n="lb"/>
+<pc n="　"/>中郎馬江碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧<pc n="lb"/>
+<pc n="　"/>漢博陵郡孔彪碑<hi>建寧四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>中郎司江碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>任城縣<pc n="lb"/>
+<pc n="　"/>漢司𨽻校尉魯峻碑<hi>熹平二年即魯仲山有碑隂𨽻釋闕見金薤琳瑯</hi>
+                    <pc n="lb"/>
+                    <pb n="14a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧學<pc n="lb"/>
+<pc n="　"/>安平相孫根碑<hi>光和二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧學<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>童子逄盛碑<hi>光和四年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>漢光祿勲劉曜碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄆州鄆城縣<pc n="lb"/>
+<pc n="　"/>漢執金丞武榮碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧<pc n="lb"/>
+<pc n="　"/>麟臺志石<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鉅野縣<pc n="lb"/>
+                    <pb n="14b"/>
+<pc n="　"/>膠東令王君廟門碑<pc n="lb"/>
+<pc n="　"/>義井碑<pc n="lb"/>
+<pc n="　"/>麒麟鳳凰碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧州<pc n="lb"/>
+<pc n="　"/>魯相謁孔廟殘碑<pc n="lb"/>
+<pc n="　"/>南陽太守秦頡碑<hi>中平二年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>平原東郡門生蘇衡等題名<pc n="lb"/>
+<pc n="　"/>廬江太守范式碑<hi>青龍三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧州<pc n="lb"/>
+<pc n="　"/>中郎王政碑<hi>元嘉三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧州<pc n="lb"/>
+                    <pb n="15a"/>
+<pc n="　"/>中郎鄭固碑<hi>延嘉元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧州<pc n="lb"/>
+<pc n="　"/>方輿令薛君碑<hi>延嘉六年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>魚臺縣<pc n="lb"/>
+<pc n="　"/>防東尉司馬季徳碑<pc n="lb"/>
+<pc n="　"/>北海相景君碑<hi>順帝漢安二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧州<pc n="lb"/>
+<pc n="　"/>齊太公碑<hi>漢崔瓊𨽻書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>汲縣<pc n="lb"/>
+<pc n="　"/>漢侯伯咸碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>單縣<pc n="lb"/>
+<pc n="　"/>孔子廟前石壇上刻文<hi>𨽻字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>子思墓西石壇上刻文<hi>漢𨽻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜縣<pc n="lb"/>
+                    <pb n="15b"/>
+<pc n="　"/>魯諸陵石人胷前字<hi>漢𨽻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜縣<pc n="lb"/>
+<pc n="　"/>漢故樂安太守慶君碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>金郷縣<pc n="lb"/>
+<pc n="　"/>漢榖城令張遷碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東平縣學<pc n="lb"/>
+<pc n="　"/>鄆州學田記<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東平州學<pc n="lb"/>
+<pc n="　"/>漢兖州判吏李伯茂碑<pc n="lb"/>
+<pc n="　"/>漢封觀碑<pc n="lb"/>
+<pc n="　"/>漢孔龎碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜墓前<pc n="lb"/>
+<pc n="　"/>漢司農孔峽碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜墓前<pc n="lb"/>
+                    <pb n="16a"/>
+<pc n="　"/>漢尚書郎孔宏碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜墓前<pc n="lb"/>
+<pc n="　"/>漢御史孔翊碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜墓前<pc n="lb"/>
+<pc n="　"/>漢博士孔志碑<hi>天下金石志作孔吉</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜墓前<pc n="lb"/>
+<pc n="　"/>漢博士倪夀碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜墓前<pc n="lb"/>
+<pc n="　"/>漢費令田君徳政碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>沂州金郷縣<pc n="lb"/>
+<pc n="　"/>漢右司馬城鐵碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>金郷縣<pc n="lb"/>
+<pc n="　"/>漢安相平縣君碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>平度州髙宻縣<pc n="lb"/>
+<pc n="　"/>漢縣嵩碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>安丘縣<pc n="lb"/>
+                    <pb n="16b"/>
+<pc n="　"/>焦公墓碑<pc n="lb"/>
+<pc n="　"/>周公廟碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜孔廟<pc n="lb"/>
+<pc n="　"/>漢武帝臺碑<hi>武帝訪安期生立</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>萊州<pc n="lb"/>
+<pc n="　"/>漢武帝之罘石銘<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>福山縣興山<pc n="lb"/>
+<pc n="　"/>東海廟碑<hi>熹平元年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>堯母廟碑<hi>熹平四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟隂<pc n="lb"/>
+<pc n="　"/>伏羲廟碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>兖州曹縣<pc n="lb"/>
+<pc n="　"/>漢范滂碑<pc n="lb"/>
+                    <pb n="17a"/>
+<pc n="　"/>冉伯牛墓碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東平<pc n="lb"/>
+<pc n="　"/>舜廟碑碣<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東昌府歴山<pc n="lb"/>
+<pc n="　"/>髙陽陵碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東昌府<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>魏<pc n="lb"/>
+<pc n="　"/>魏封孔羨為宗聖侯碑<hi>曹植文梁鵠書黄初元年</hi>曲阜<pc n="lb"/>
+<pc n="　"/>魏邴原碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>安丘縣<pc n="lb"/>
+<pc n="　"/>魏羊續碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>兖州<pc n="lb"/>
+<pc n="　"/>魏縣炎并妻碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>長山縣<pc n="lb"/>
+                    <pb n="17b"/>
+<pc n="　"/>魏修孔子廟碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>安<pc n="　"/>縣<pc n="lb"/>
+<pc n="　"/>魏管寧碑<hi>在縣西五十里墓前</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>安<pc n="　"/>縣<pc n="lb"/>
+<pc n="　"/>魏太尉滿寵碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>金鄉縣<pc n="lb"/>
+<pc n="　"/>魏魯郡太守張猛龍碑<hi>真書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜孔廟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>北齊<pc n="lb"/>
+<pc n="　"/>青州大佛寺碑<hi>齊後主髙緯武平四年建</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>青州北門外<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<hi>唐李邕書龍興之寺四大字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+                    <pb n="18a"/>
+<pc n="　"/>唐𤣥宗紀泰山銘<hi>御製御書摹泰山山崕</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>泰安州泰山<pc n="lb"/>
+<pc n="　"/>唐定公墓碑<hi>即房𤣥齡也歐陽詢書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟南章丘縣<pc n="lb"/>
+<pc n="　"/>唐有道先生葉公碑<hi>李邕書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>金郷縣<pc n="lb"/>
+<pc n="　"/>重修孔子廟碑<hi>李邕文張庭珪𨽻書開元七年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>唐廣平宋文貞公碑<hi>顔真卿撰并書碑四面環刻與家廟碑同</hi>沙河縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>又碑側記<hi>亦真卿書但已經翻刻竟非顔體矣</hi>
+                    <pc n="lb"/>
+<pc n="　"/>漢東方朔畫賛<hi>晉夏侯湛撰唐顔真卿書并篆額</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>徳州陵縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂記<hi>顔真卿撰并書及題額</hi>
+                    <pc n="lb"/>
+                    <pb n="18b"/>
+<pc n="　"/>帝堯祠碑<hi>朱誕撰</hi>
+                    <pc n="lb"/>
+<pc n="　"/>鄭𤣥碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>髙密縣<pc n="lb"/>
+<pc n="　"/>大唐贈太師孔宣公碑<hi>崔行功文孫思範書碑隂有武徳九年十二月詔乾封元</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <hi>年祭文</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜孔廟<pc n="lb"/>
+<pc n="　"/>文宣王廟新門記<hi>裴平書裴孝智撰</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜孔廟<pc n="lb"/>
+<pc n="　"/>黄石公墓碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東阿<pc n="lb"/>
+<pc n="　"/>任城縣橋亭記<hi>王子言書游芳撰</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>任城縣<pc n="lb"/>
+<pc n="　"/>李綱碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鉅野縣<pc n="lb"/>
+                    <pb n="19a"/>
+<pc n="　"/>晉鄧艾碑<hi>𨽻書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>兖州府<pc n="lb"/>
+<pc n="　"/>李太白酒樓記<hi>唐沈光撰元楊桓篆書在于城樓下四幅</hi>濟寧州<pc n="lb"/>
+<pc n="　"/>李太白祠堂記<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟寧州<pc n="lb"/>
+<pc n="　"/>李太白遊泰山六詩<hi>篆書在泰山上余見陸樓謝靈運二詩亦類楊桓書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>泰安州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>孔子手植檜賛<hi>米芾草書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜<pc n="lb"/>
+<pc n="　"/>孔門聖賢像賛<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>兖州孔廟<pc n="lb"/>
+                    <pb n="19b"/>
+<pc n="　"/>孟子像碑<hi>在孟廟最古</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄒縣<pc n="lb"/>
+<pc n="　"/>閔子墓碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟南<pc n="lb"/>
+<pc n="　"/>神靈祠刻<hi>劉燁書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜<pc n="lb"/>
+<pc n="　"/>海市詩<hi>蘓軾真書又草書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>登州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>金<pc n="lb"/>
+<pc n="　"/>孔子碑<hi>王去非撰党懐英篆額王庭筠書世稱三絶</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東昌府<pc n="lb"/>
+<pc n="　"/>茶泉銘<hi>党懐英書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲阜<pc n="lb"/>
+<pc n="　"/>班彦公竹溪四絶句<hi>党懐英篆在州㦸門西壁上</hi>濟寧州<pc n="lb"/>
+                    <pb n="20a"/>
+<pc n="　"/>杏壇二字<hi>党懐英篆書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>普照寺記<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>沂州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>元<pc n="lb"/>
+<pc n="　"/>棲霞阡表<hi>趙孟頫書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>金郷縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>金石林時地考卷上<pc n="lb"/>
+<pb n="20b"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+<head>金石林時地考巻下</head>
+    <p>
+<pc n="lb"/>
+                    
+欽定四庫全書<pc n="lb"/>
+<pc n="　"/>金石林時地考巻下<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>明<pc n="　"/>趙均<pc n="　"/>撰<pc n="lb"/>
+河南<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>三代<pc n="lb"/>
+<pc n="　"/>殷比干銅盤銘<hi>唐開元中偃師農人得之地中文甚奇古計十六字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>河南府偃師縣<pc n="lb"/>
+<pc n="　"/>封比干墓碑<hi>古篆</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>衛輝府汲縣<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>
+                    <pc n="　"/>漢<pc n="lb"/>
+<pc n="　"/>楚相孫叔敖碑<hi>延熹三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>光州固始縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>漢酸棗令劉熊碑<hi>蔡邕𨽻書在延津廩延驛</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>開封府<pc n="lb"/>
+<pc n="　"/>漢議郎元賓碑<hi>延熹二年一云在光州</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>亳州<pc n="lb"/>
+<pc n="　"/>老子銘<hi>延熹八年在太清宫</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>亳州鹿邑縣<pc n="lb"/>
+<pc n="　"/>漢山陽太守祝睦碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歸徳州虞城縣<pc n="lb"/>
+<pc n="　"/>祝睦後碑<pc n="lb"/>
+                    <pb n="1b"/>
+<pc n="　"/>漢幽州刺史朱龜碑<hi>中平二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>亳州譙縣<pc n="lb"/>
+<pc n="　"/>漢費亭侯曹騰碑<hi>延熹三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>亳州<pc n="lb"/>
+<pc n="　"/>漢太丘長陳寔碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歸徳州永城縣<pc n="lb"/>
+<pc n="　"/>國三老袁良碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <hi>開封府扶溝縣又云在太康縣</hi>
+                    <pc n="lb"/>
+<pc n="　"/>髙陽令楊著碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>閿郷縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>漢沛相楊統碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>陜州閿郷縣<pc n="lb"/>
+<pc n="　"/>比軍侯郭仲奇碑<hi>建寧五年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>濟源縣<pc n="lb"/>
+                    <pb n="2a"/>
+<pc n="　"/>故民吳仲山碑<hi>熹平五年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>閿郷縣<pc n="lb"/>
+<pc n="　"/>司空宋俱碑<hi>一作司空鄭慎碑熹平二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄧州<pc n="lb"/>
+<pc n="　"/>漢繁陽令楊君碑<hi>熹平三年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>漢太尉劉寛碑<hi>中平二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>洛陽上東縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>劉寛後碑<pc n="lb"/>
+<pc n="　"/>劉寛神道碑<pc n="lb"/>
+                    <pb n="2b"/>
+<pc n="　"/>圉令趙君碑<hi>初平元年在文廟中</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄧州南陽縣<pc n="lb"/>
+<pc n="　"/>張平子碑<hi>崔瑗篆書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄧州西鄂縣<pc n="lb"/>
+<pc n="　"/>漢金城太守殷華碑<hi>酈炎撰一作衛覬</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>虞城縣<pc n="lb"/>
+<pc n="　"/>漢冀州從事郭容碑<hi>中平元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>孟州濟源縣<pc n="lb"/>
+<pc n="　"/>洛陽石柱銘<hi>在建昌門外石柱上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>洛陽<pc n="lb"/>
+<pc n="　"/>五部神廟碑<hi>在縣城南山北廟前</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄭縣<pc n="lb"/>
+<pc n="　"/>漢洛陽令董宣廟碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>洛陽<pc n="lb"/>
+<pc n="　"/>漢董宣傳<hi>楷書即漢書中傳</hi>
+                    <pc n="lb"/>
+                    <pb n="3a"/>
+<pc n="　"/>漢邊韶碑<hi>蔡邕書在府東北五里墓前</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>開封府<pc n="lb"/>
+<pc n="　"/>漢陳留太守程封碑<hi>在縣東五里墓下</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>開封府封丘縣<pc n="lb"/>
+<pc n="　"/>漢邊讓碑<hi>𨽻書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>開封府<pc n="lb"/>
+<pc n="　"/>漢董襲碑<hi>𨽻書在府東北墓前</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>開封府<pc n="lb"/>
+<pc n="　"/>漢昆陽令尹宙碑<hi>𨽻書額旁有從銘二字栁葉篆</hi>
+                    <pc n="lb"/>
+<pc n="　"/>漢袁騰碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>太康縣<pc n="lb"/>
+<pc n="　"/>漢光武皇帝碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>汝州汝濆鎮<pc n="lb"/>
+<pc n="　"/>竹邑侯相張夀碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歸徳州永城<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>漢西平令楊期碑<hi>文字漫滅首尾完在縣西南四十里</hi>尉氏縣<pc n="lb"/>
+<pc n="　"/>漢太尉掾橋載碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>永城縣<hi>又云尉城縣</hi>
+                    <pc n="lb"/>
+<pc n="　"/>漢繹令墓碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>永城縣<pc n="lb"/>
+<pc n="　"/>漢橋𤣥碑<hi>一作高𤣥碑司徒崔烈立</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>永城縣<pc n="lb"/>
+<pc n="　"/>漢僕射荀公碑<hi>在縣東北七里墓前</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>長葛縣<pc n="lb"/>
+<pc n="　"/>漢南陽太守秦君碑<hi>一作秦頡</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南陽<pc n="lb"/>
+<pc n="　"/>宋均墓石獸膊上天祿辟邪四字<pc n="　"/>南陽鄧州<pc n="lb"/>
+<pc n="　"/>漢宗資宅瓶瓦篆<hi>宗氏千秋四字</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南陽府<pc n="lb"/>
+                    <pb n="4a"/>
+<pc n="　"/>豫州刺史馮煥詔<hi>元初元年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>司徒掾梁休碑<hi>建安二十七年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>陳一桂碑<pc n="lb"/>
+<pc n="　"/>漢太公廟碑<hi>崔瑗書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>衛輝府<pc n="lb"/>
+<pc n="　"/>桐栢山淮源廟碑<hi>延熹六年正月八日乙丑立今亡元至正四年三月吴炳重摹</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>唐縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>魏<pc n="lb"/>
+<pc n="　"/>魏曹丕受禪表<hi>衛覬金針書世傳與尊號並梁鵠書顔以為鍾繇書</hi>許州<pc n="lb"/>
+                    <pb n="4b"/>
+<pc n="　"/>魏公卿上尊號奏<hi>黄初元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>許州<pc n="lb"/>
+<pc n="　"/>魏勸進碑<hi>黄初元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>許州<pc n="lb"/>
+<pc n="　"/>魏大饗碑<hi>延康元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>開封府扶溝縣<pc n="lb"/>
+<pc n="　"/>魏鍾繇碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>中牟縣<pc n="lb"/>
+<pc n="　"/>魏隠士程沖碑<hi>在縣南四里程𨼆真書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>封<pc n="　"/>縣<pc n="lb"/>
+<pc n="　"/>魏酸棗令母丘悦碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>延津縣<pc n="lb"/>
+<pc n="　"/>魏何伯申碑<hi>在縣東五十里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>陳留縣<pc n="lb"/>
+<pc n="　"/>魏章陵太守吕君碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南陽縣<pc n="lb"/>
+                    <pb n="5a"/>
+<pc n="　"/>魏袁渙碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>太康縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>砥柱山銘<hi>唐太宗勒銘南曰鬼門中曰神門北曰人門</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>陜州<pc n="lb"/>
+<pc n="　"/>嵩陽觀聖徳感應頌<hi>李材甫撰徐浩𨽻書天寶三年</hi>登封縣<pc n="lb"/>
+<pc n="　"/>唐文皇少林寺書<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>登封縣<pc n="lb"/>
+<pc n="　"/>祥符觀碑<hi>唐𤣥宗御書道徳經二碑</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>閿郷縣<pc n="lb"/>
+<pc n="　"/>少林寺靈運禪師碑<hi>崔琪撰天寶九載</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>登封縣<pc n="lb"/>
+<pc n="　"/>少林寺碑<hi>裴漼文并書開元十六年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>登封縣<pc n="lb"/>
+                    <pb n="5b"/>
+<pc n="　"/>少林寺戒壇銘<hi>釋義净撰張傑書開元三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>登封縣<pc n="lb"/>
+<pc n="　"/>流杯池碑<hi>唐武后幸温泉立薛曜正書宴石淙詩序似即此一作李嶠序殷仲容書久視元年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>汝州<pc n="lb"/>
+<pc n="　"/>大唐天后御製碑<hi>一詩一書並王知敬書永淳二年</hi>登封縣<pc n="lb"/>
+<pc n="　"/>平淮西碑<hi>裴晉公廟中韓愈撰</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>汝寧府<pc n="lb"/>
+<pc n="　"/>馮敦碑<pc n="lb"/>
+<pc n="　"/>元結表墓碑銘<hi>顔真卿文草書在滎陽縣舊在育洛山今見此碑正書字類茅山𤣥静碑</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>汝州魯山縣<pc n="lb"/>
+                    <pb n="6a"/>
+<pc n="　"/>顔母陳夫人碑<hi>顔真卿草書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄧州内郷縣<pc n="lb"/>
+<pc n="　"/>八闗齋碑<hi>顔真卿書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歸徳<pc n="lb"/>
+<pc n="　"/>張敬因碑<hi>顔真卿撰并書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>許州<pc n="lb"/>
+<pc n="　"/>周太師尉遲迥廟碑<hi>顔真卿銘蔡有鄰八分書并碑隂周伯璵序</hi>彰徳府<pc n="lb"/>
+<pc n="　"/>權徳輿墓碑<hi>韓愈撰</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>河南府城北<pc n="lb"/>
+<pc n="　"/>白居易墓碑<hi>李商𨼆撰在龍門山</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>河南府城南<pc n="lb"/>
+<pc n="　"/>微子墓碑<hi>唐賈至撰城西南十二里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歸徳<pc n="lb"/>
+<pc n="　"/>後周郭進屏盜碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>衛輝府<pc n="lb"/>
+                    <pb n="6b"/>
+<pc n="　"/>左雄碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄧州<pc n="lb"/>
+<pc n="　"/>諸葛廬碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南陽<hi>城西南七里</hi>
+                    <pc n="lb"/>
+<pc n="　"/>周紀信碑<hi>盧藏用撰并𨽻</hi>
+                    <pc n="lb"/>
+<pc n="　"/>嵩嶽中天王廟碑<hi>盧崖州撰孫崇望書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>天封觀韓子題名<hi>唐韓愈題宋歐陽脩跋</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>登封縣<pc n="lb"/>
+<pc n="　"/>遺教經<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歸徳府<pc n="lb"/>
+<pc n="　"/>蘭亭序<hi>禇遂良臨本</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歸徳府<pc n="lb"/>
+<pc n="　"/>孝烈將軍廟碑<hi>廟祀木蘭</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歸徳廟中<pc n="lb"/>
+                    <pb n="7a"/>
+<pc n="　"/>唐滎陽鄭君崔氏合祔墓誌銘<hi>秦貫撰</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>相國寺碑<hi>吴郢書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>開封府<pc n="lb"/>
+<pc n="　"/>晝錦堂記<hi>蔡襄書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>彰徳府<pc n="lb"/>
+<pc n="　"/>汝帖十二卷<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>汝州<pc n="lb"/>
+<pc n="　"/>真篆九經<hi>一行篆字一行真字余家有殘碑事載弁陽老人周密癸辛雜識别集汴梁雜事篇</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>開封府<hi>相國寺</hi>
+                    <pc n="lb"/>
+<pc n="　"/>司馬温公神道碑<hi>蘇軾奉勅撰并書玉册官臣王磻奉㫖摹刻</hi>夏縣<pc n="lb"/>
+                    <pb n="7b"/>
+<pc n="　"/>
+                    <pc n="　"/>國朝<pc n="lb"/>
+<pc n="　"/>東書堂帖<hi>周王臨凡二十卷</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>周府<pc n="lb"/>
+<pc n="　"/>蘭亭臨本并圖<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>周府<pc n="lb"/>
+陜西<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>先秦<pc n="lb"/>
+<pc n="　"/>詛楚文<hi>凡三種並同而人名異</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鳳翔府<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>祝巫咸一<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>祝大沈久湫一<pc n="lb"/>
+                    <pb n="8a"/>
+<pc n="　"/>
+                    <pc n="　"/>祝亞駝一<pc n="lb"/>
+<pc n="　"/>嶧山碑<hi>李斯篆已燬于火鄭文寶重刻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府學<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>漢<pc n="lb"/>
+<pc n="　"/>鴻都門隸書石經殘碑<hi>熹平四年蔡邕𨽻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>西安府學壁龕<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>石經尚書<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>石經魯詩<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>石經儀禮<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>石經春秋公羊傳<pc n="lb"/>
+                    <pb n="8b"/>
+<pc n="　"/>
+                    <pc n="　"/>石經論語<pc n="lb"/>
+<pc n="　"/>益州太守無名碑<hi>永夀二年三月立</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>益州太守髙頥碑<pc n="lb"/>
+<pc n="　"/>益州太守城埧碑<pc n="lb"/>
+<pc n="　"/>是邦雄傑碑<pc n="lb"/>
+<pc n="　"/>仲秋下旬碑<pc n="lb"/>
+<pc n="　"/>燉煌太守武班碑<pc n="lb"/>
+                    <pb n="9a"/>
+<pc n="　"/>司𨽻校尉楊厥斜谷碑<hi>威宗建和二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>漢中府鳳縣<pc n="lb"/>
+<pc n="　"/>楊震墓碑<hi>墓在華隂縣東二十五里諸子孫皆有碑凡九道今屬陜州閿郷縣墓在兩縣界</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+<pc n="　"/>縣三老楊信碑<hi>和平元年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>仙人唐公房碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>漢中府城固縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>華州城隍廟碑<hi>光化二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+<pc n="　"/>西嶽華山碑<hi>漢郭香察書漢碑題名獨此</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+                    <pb n="9b"/>
+<pc n="　"/>華山亭碑<hi>衛覬𨽻即陳摶睡處光和元年戊午嵗</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+<pc n="　"/>𢎞農太守樊毅修華嶽廟碑<hi>光和二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>樊毅復華下民租詔碑<hi>光和二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>華山石闕銘<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華隂縣<hi>祠後苑中</hi>
+                    <pc n="lb"/>
+<pc n="　"/>華嶽題名<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+<pc n="　"/>南北二廟真君詞<hi>有碑九道</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+                    <pb n="10a"/>
+<pc n="　"/>漢孝子蔡順墓碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>渭南縣<pc n="lb"/>
+<pc n="　"/>涼州刺史魏元丕碑<pc n="lb"/>
+<pc n="　"/>漢四皓神几字<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄭縣<hi>舊屬華隂</hi>
+                    <pc n="lb"/>
+<pc n="　"/>漢劉黨碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>延安府<pc n="lb"/>
+<pc n="　"/>漢槐里令曹全開南門碑<hi>中平二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>郃陽縣<pc n="lb"/>
+<pc n="　"/>漢司徒劉奇碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>延安府<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<hi>人名</hi>
+                    <pc n="lb"/>
+<pc n="　"/>殽阬君神祠碑<hi>靈帝</hi>
+                    <pc n="lb"/>
+                    <pb n="10b"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>武都太守李翕西狹頌<hi>建寧四年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>鞏昌府<pc n="lb"/>
+<pc n="　"/>李翕澠池五瑞碑<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>李翕析里橋郙閣頌<hi>建寧五年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>漢中府畧陽縣<pc n="lb"/>
+<pc n="　"/>漢耿勲摩崖碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鞏昌府天井山<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>魏<pc n="lb"/>
+<pc n="　"/>魏三體石經<pc n="lb"/>
+                    <pb n="11a"/>
+<pc n="　"/>
+                    <pc n="　"/>左傳遺字<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>孟蜀<pc n="lb"/>
+<pc n="　"/>孟蜀石經<hi>一百四十六巻宋續刻完共二百五十五碑</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>西安府學<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>周易九巻略例一卷九碑<hi>孟蜀孫逢吉書二萬四千三百三十七字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>尚書十三卷十一碑<hi>孟蜀周徳貞書闕唐諱二萬七千一百三十四字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>毛詩十九卷十五碑<hi>孟蜀張紹文書三萬九千二百三十四字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>禮記二十卷三十三碑<hi>孟蜀張紹文書九萬九千零十字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>儀禮十七卷二十碑<hi>五萬七千一百十一字</hi>
+                    <pc n="lb"/>
+                    <pb n="11b"/>
+<pc n="　"/>
+                    <pc n="　"/>周禮十二卷十七碑<hi>孟蜀孫明古書四萬五千八百零六字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>春秋經傳三十卷六十六碑<hi>不題書人名不諱唐諱諱祥字十九萬六</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <hi>千八百十五字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>公羊傳十二卷十七碑<hi>宋田况刻四萬四千七百四十八字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>穀梁傳十二卷十五碑<hi>宋真宗後刋諱恒字四萬二千八十九字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>孝經一卷一碑<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>爾雅三卷四碑<hi>一萬七百九十一字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>論語<pc n="lb"/>
+                    <pb n="12a"/>
+<pc n="　"/>
+                    <pc n="　"/>孟子<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>九經字様一卷二碑<hi>唐𤣥度</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>五經文字三卷一碑<hi>張參</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>六朝<pc n="lb"/>
+<pc n="　"/>羲之筆陣圖<hi>相傳羲之書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>羊欣筆陣圖義<hi>李後主續之</hi>
+                    <pc n="lb"/>
+<pc n="　"/>真草千文<hi>陳僧智永書末有大觀己丑薛嗣昌記</hi>
+                    <pc n="lb"/>
+<pc n="　"/>消災呪隂符經<hi>行書</hi>
+                    <pc n="lb"/>
+                    <pb n="12b"/>
+<pc n="　"/>謝靈運草書詩二首<hi>殘缺不能成讀二詩集中闕查見庾信集當是庾公書妄題</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>後周華嶽頌<hi>万紐于瑾撰趙文淵書天和二年丁亥</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+<pc n="　"/>隋净住寺釋迦佛像碑<hi>崔行功文𨽻書在開元寺塔院</hi>西安府<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>御書孝經<hi>𤣥宗𨽻末有草書跋又有廷臣官勲一作四面環轉刻</hi>西安府<pc n="lb"/>
+<pc n="　"/>梁國公主碑<hi>明皇八分書在縣東北十五里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蒲城縣<pc n="lb"/>
+<pc n="　"/>西嶽華山碑<hi>明皇八分書大字四十雖殘缺甚好</hi>
+                    <pc n="lb"/>
+                    <pb n="13a"/>
+<pc n="　"/>唐一行禪師塔碑<hi>明皇文并八分書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>灞橋東源上<pc n="lb"/>
+<pc n="　"/>祖菴諸碑<pc n="lb"/>
+<pc n="　"/>孔子廟堂碑<hi>虞世南撰并書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>宜祿驛碑<hi>虞世南書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <hi>都州驛旁僧寺中</hi>
+                    <pc n="lb"/>
+<pc n="　"/>唐國子祭酒孔頴達碑<hi>貞觀二十一年立類虞世南</hi>醴泉縣<pc n="lb"/>
+<pc n="　"/>髙昌王墓碑<hi>陜西行都司梁州衛巙子山</hi>
+                    <pc n="lb"/>
+<pc n="　"/>岐國公家廟碑<hi>張𢎞靖書袁滋撰額</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>安山街西廟中<pc n="lb"/>
+<pc n="　"/>唐誠節馮昭泰碑<hi>梁昇卿八分書𤣥宗篆額寢廟也在慈恩寺</hi>西安府<pc n="lb"/>
+                    <pb n="13b"/>
+<pc n="　"/>唐御史臺精舎碑<hi>開元十一年立獄中崔湜文梁昇卿八分書</hi>西安府<pc n="lb"/>
+<pc n="　"/>唐靖立馮公碑<hi>張堅題答馮紹正表八分書慈恩寺</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>幽州昭仁寺碑<hi>朱子奢撰</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>幽州<pc n="lb"/>
+<pc n="　"/>九成宫醴泉銘<hi>貞觀六年魏徵撰歐陽詢書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>醴泉<pc n="lb"/>
+<pc n="　"/>皇甫誕碑<hi>于志寧撰歐陽詢書原碑已損止存數行今行世者皆翻本也</hi>西安<pc n="lb"/>
+<pc n="　"/>右僕射虞恭公温彦博碑<hi>歐陽詢書今存半段</hi>宜祿驛<pc n="lb"/>
+<pc n="　"/>隋姚辨墓志<hi>歐陽詢書虞世基撰</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>唐昭陵六馬賛<hi>歐陽詢書八分書在縣北太宗陵上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>醴泉縣<pc n="lb"/>
+                    <pb n="14a"/>
+<pc n="　"/>唐宗聖觀記<hi>陳叔達撰序歐陽詢撰銘鄭樵金石略云即歐公八分書今不題書人名</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>盩厔縣<pc n="lb"/>
+<pc n="　"/>金蘭帖<hi>歐陽詢書六十字</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>多寶寺道因法師碑<hi>歐陽通書李儼文</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>唐故大達法師𤣥秘塔碑銘<hi>裴休撰栁公權書</hi>西安<pc n="lb"/>
+<pc n="　"/>西平王李晟墓碑<hi>裴休撰栁公權書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>髙陵縣<pc n="lb"/>
+<pc n="　"/>唐昇𤣥先生碑<hi>栁公權書在寶應宫</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>金剛經<hi>栁公權書鄭䖍題額在唐興寺</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>咸寧<pc n="lb"/>
+                    <pb n="14b"/>
+<pc n="　"/>唐圭峯定慧禪師傳法碑<hi>栁公權篆額裴休撰并書</hi>同州學<pc n="lb"/>
+<pc n="　"/>蘭亭序<hi>褚遂良書後有延陵之印</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>同州學<pc n="lb"/>
+<pc n="　"/>聖教序記<hi>龍朔三年褚遂良書在同州倅㕔碑作一面</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>同州學<pc n="lb"/>
+<pc n="　"/>聖教序記<hi>永徽四年褚遂良書碑作兩面字法與同州本似無異對視便優劣殊途矣</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>集書聖教序記般若心經<hi>僧懐仁集王羲之書</hi>西安<pc n="lb"/>
+<pc n="　"/>金剛經<hi>僧懐仁集王羲之書在鴈塔下</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>遺教經<hi>小楷在𢎞福寺</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>同州<pc n="lb"/>
+                    <pb n="15a"/>
+<pc n="　"/>大禹祠碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>同州郃陽縣<pc n="lb"/>
+<pc n="　"/>唐三藏法師塔銘<hi>僧建初行書在興教寺</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>唐三藏不空和尚碑<hi>徐浩真書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>唐雲麾將軍李思訓碑<hi>李邕書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蒲城縣<pc n="lb"/>
+<pc n="　"/>唐羽林將軍臧懐亮碑<hi>李邕書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>咸寧縣<hi>一作在三原縣</hi>
+                    <pc n="lb"/>
+<pc n="　"/>唐郭敬之墓碑<hi>蕭華書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>咸寧縣<pc n="lb"/>
+<pc n="　"/>唐郭敬之廟碑<hi>顔真卿書郭廟</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>咸寧縣<pc n="lb"/>
+<pc n="　"/>顔氏家廟碑<hi>碑四面環轉真卿文并書李陽冰篆額</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+                    <pb n="15b"/>
+<pc n="　"/>唐李抱玉墓碑<hi>顔真卿書杜永村</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>長安縣<pc n="lb"/>
+<pc n="　"/>唐李抱玉廟碑<hi>同上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>長安縣<pc n="lb"/>
+<pc n="　"/>多寶塔感應碑文<hi>岑勲文顔真卿書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>金天王祠題名<hi>顔真卿等四人乾元元年戊戌題訖</hi>
+                    <pc n="lb"/>
+<pc n="　"/>與郭英乂争坐帖稿<hi>顔真卿書又米海岳臨本</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>祭伯父濠州刺史文<hi>顔真卿草書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>咸寧縣<pc n="lb"/>
+<pc n="　"/>祭杲卿十三姪文<hi>顔真卿草書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>咸寧縣<pc n="lb"/>
+<pc n="　"/>唐尚書臧懐恪碑<hi>顔真卿書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>三原縣<pc n="lb"/>
+                    <pb n="16a"/>
+<pc n="　"/>臧氏糾宗碑<hi>顔真卿書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>三原縣<pc n="lb"/>
+<pc n="　"/>臧氏故宅碑<hi>顔真卿書在三家村</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>三原縣<pc n="lb"/>
+<pc n="　"/>唐果毅都督臧崇碑<hi>在九坡城臧氏墓上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>三原縣<pc n="lb"/>
+<pc n="　"/>唐旌儒廟碑<hi>顔真卿文張行書在縣西四十里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>富平縣<pc n="lb"/>
+<pc n="　"/>李光弼墓碑<hi>顔真卿文張少弟行書在縣西四十里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>富平縣<pc n="lb"/>
+<pc n="　"/>篆書千文<hi>李陽冰書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>李氏三英碑<hi>李季卿文陽冰書篆</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>李氏先塋記<hi>李陽冰篆</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+                    <pb n="16b"/>
+<pc n="　"/>張説西嶽華山碑<hi>開元十二年立</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+<pc n="　"/>唐華山堂闕銘<hi>張旭八分書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂題名<pc n="lb"/>
+<pc n="　"/>唐鎮逺將軍段敬修之碑<hi>張旭八分書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>草書千文<hi>張旭狂草今亡過半</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>草書千文<hi>懐素書大小三種大者極佳小者體促</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>聖母帖<hi>懐素書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>藏真律公帖<hi>懐素游絲字</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+                    <pb n="17a"/>
+<pc n="　"/>懐素自序帖<hi>草書前六行蘇舜欽補有魏良臣跋建業文房印</hi>三原縣<pc n="lb"/>
+<pc n="　"/>實際寺隆闡法師碑<hi>釋懐惲書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>搗衣篇<hi>釋彦修草書後附張旭書簡</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>咸陽縣<pc n="lb"/>
+<pc n="　"/>唐信行禪師碑<hi>薛稷書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>長安縣<pc n="lb"/>
+<pc n="　"/>唐報本寺碑<hi>侯翊書在寺中</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>武功縣<pc n="lb"/>
+<pc n="　"/>報恩充孝觀<hi>大周萬嵗通天立</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>漢中府<pc n="lb"/>
+<pc n="　"/>狄仁傑碑<hi>唐垂拱建今剥落</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寧州<pc n="lb"/>
+<pc n="　"/>龍門禹廟宗孝方題名<hi>一作宗季方</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>韓城縣<pc n="lb"/>
+                    <pb n="17b"/>
+<pc n="　"/>唐濟安侯廟記<hi>李巨川撰栁懐素書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華州<pc n="lb"/>
+<pc n="　"/>華陽山洞景大師碑<hi>陸長源撰</hi>
+                    <pc n="lb"/>
+<pc n="　"/>王維竹石碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>平涼府華亭縣<pc n="lb"/>
+<pc n="　"/>扶蘇墓碑<hi>城西四十里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寧州<pc n="lb"/>
+<pc n="　"/>唐韋文修經閣記<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鞏昌府<pc n="lb"/>
+<pc n="　"/>唐郭子儀墓碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>合水縣<pc n="lb"/>
+<pc n="　"/>華嶽精享昭應碑<hi>咸廙撰劉升𨽻書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>華隂縣<pc n="lb"/>
+<pc n="　"/>千福寺楚金禪師碑<hi>釋飛錫撰吴通微書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+                    <pb n="18a"/>
+<pc n="　"/>又楚金禪師碑<hi>李陽冰書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>石柱題名<hi>大中十二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府<pc n="lb"/>
+<pc n="　"/>秦相樗里子墓碣<hi>張行誼書在省街西廟又碑亦行誼書在墓前</hi>
+                    <pc n="lb"/>
+<pc n="　"/>唐𤣥度十八體書<hi>在香城寺</hi>
+                    <pc n="lb"/>
+<pc n="　"/>唐榮州刺史臧公碑<hi>唐張頌行書在墓前</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>三原縣<pc n="lb"/>
+<pc n="　"/>資聖寺額<hi>殷仲容楷書崇仁坊</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>長安縣<pc n="lb"/>
+<pc n="　"/>上京薦福寺碑<hi>韓擇木書史惟則篆額景鳯街仁王寺中</hi>長安縣<pc n="lb"/>
+<pc n="　"/>唐武衛中郎將臧希忱碑<hi>韓擇木八分書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>三原縣<pc n="lb"/>
+                    <pb n="18b"/>
+<pc n="　"/>唐贈揚州都督臧希晏碑<hi>韓秀弼文八分書</hi>三原縣<pc n="lb"/>
+<pc n="　"/>唐草書心經<hi>唐鄭萬鈞書今人以為羲之書非也</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安<pc n="lb"/>
+<pc n="　"/>英國公李勣碑<hi>髙宗御製御書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>醴泉縣<pc n="lb"/>
+<pc n="　"/>馮宿碑<hi>字拱之開國公贈吏部尚書王起撰文栁公權書并篆額</hi>西安府學<pc n="lb"/>
+<pc n="　"/>遍覺法師塔銘<hi>即𤣥奘劉軻文沙門建初書卧碑</hi>
+                    <pc n="lb"/>
+<pc n="　"/>寂照和尚碑銘<hi>段成式文釋無可書顧𤣥篆額書法甚佳而文不能句</hi>咸陽縣<pc n="lb"/>
+<pc n="　"/>邠國公功徳銘<hi>楊承和撰并書為宦者梁守謙造經作</hi>西安府學<pc n="lb"/>
+<pc n="　"/>古篆老子<hi>髙翿書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>終南山<pc n="lb"/>
+                    <pb n="19a"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>武功㳺師雄墓碑<hi>邵䶵書張枲篆額在成徳堂</hi>
+                    <pc n="lb"/>
+<pc n="　"/>凌虚臺記<hi>蘇軾行書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>杜工部古栢行<hi>龍巖草書庚辰九月</hi>
+                    <pc n="lb"/>
+<pc n="　"/>韓文公五箴<hi>李寂篆</hi>
+                    <pc n="lb"/>
+<pc n="　"/>夫子廟堂記<hi>唐程浩撰宋釋夢英倣栁公權書并篆額宋太平興國七年壬午立</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府學<pc n="lb"/>
+<pc n="　"/>六書偏旁<hi>釋夢英書郭忠恕跋咸平二年己亥</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府學<pc n="lb"/>
+                    <pb n="19b"/>
+<pc n="　"/>十八體書<hi>釋夢英篆江文通休上人怨别詩宋太祖乾徳五年</hi>西安府學<pc n="lb"/>
+<pc n="　"/>夢英千文<hi>篆書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西安府學<pc n="lb"/>
+<pc n="　"/>郭忠恕千文<hi>篆書</hi>
+                    <pc n="lb"/>
+<pc n="　"/>老子度闗圖像<hi>宋真宗御製</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>元<pc n="lb"/>
+<pc n="　"/>𤣥門掌教大師孫公碑<hi>鄧文原撰趙孟頫書趙世延篆額</hi>盩厔縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>國朝<pc n="lb"/>
+<pc n="　"/>國朝補十三經闕文<pc n="lb"/>
+                    <pb n="20a"/>
+浙江<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>秦<pc n="lb"/>
+<pc n="　"/>㑹稽岑石頌<hi>元至正元年辛巳五月望申屠駉以徐摹本刻于㑹稽黌舎</hi>紹興<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂嶧山頌<hi>亦申屠駉于是年二月五日以闗中鄭文寶本校徐摹重刻</hi>
+                    <pc n="lb"/>
+<pc n="　"/>石柱刻<hi>上有古篆十數字似秦時刻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>於潜縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>漢<pc n="lb"/>
+<pc n="　"/>棠邑令費鳳碑<hi>熹平六年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湖州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+                    <pb n="20b"/>
+<pc n="　"/>梁相費汎碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湖州<pc n="lb"/>
+<pc n="　"/>金粟山碑<hi>有篆文三十六字天册元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>海鹽縣<pc n="lb"/>
+<pc n="　"/>馬大仙廟碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>富陽縣<pc n="lb"/>
+<pc n="　"/>禹陵窆石<hi>古𨽻題名十餘字</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>紹興<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>晉<pc n="lb"/>
+<pc n="　"/>晉王羲之墓碑<hi>孫綽文王獻之書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>紹興諸暨縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>唐太宗屏風帖<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>餘杭官廨<pc n="lb"/>
+                    <pb n="21a"/>
+<pc n="　"/>唐沖真觀碑<hi>李邕書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>處州<pc n="lb"/>
+<pc n="　"/>唐永寧觀碑<hi>李邕書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>處州<pc n="lb"/>
+<pc n="　"/>城隍廟碑<hi>李陽冰篆書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>縉雲縣<pc n="lb"/>
+<pc n="　"/>忘歸臺銘<hi>李陽冰篆在吏隠山又有楷書吏隠山三字</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>縉雲縣<pc n="lb"/>
+<pc n="　"/>黄帝祠宇四字<hi>李陽冰篆</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>縉雲縣<pc n="lb"/>
+<pc n="　"/>天寧寺石柱記<hi>在寺前十二柱傳為顔真卿書俱斷碎今存六柱</hi>湖州府城<pc n="lb"/>
+<pc n="　"/>梓陽山刻<pc n="lb"/>
+<pc n="　"/>射堂記<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>長興<pc n="lb"/>
+                    <pb n="21b"/>
+<pc n="　"/>放生池碑<hi>顔真卿書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>長興<pc n="lb"/>
+<pc n="　"/>徐偃王廟碑<hi>顔真卿</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>衢州<pc n="lb"/>
+<pc n="　"/>阿育王寺常住田碑<hi>萬齊融撰范的書并篆額又有太和七年十二月刺史于季友</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <hi>記</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>慈谿縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>括蒼洞瓊章寶藏四字<hi>光宗書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>仙居縣<pc n="lb"/>
+<pc n="　"/>聖賢像賛<hi>髙宗製有五經石刻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>杭州府學<pc n="lb"/>
+<pc n="　"/>東嶽行宫記<pc n="lb"/>
+                    <pb n="22a"/>
+<pc n="　"/>孝女曹娥碑<hi>蔡卞書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>上虞縣<pc n="lb"/>
+<pc n="　"/>表忠觀碑<hi>蘇軾書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>杭州西湖東濱<pc n="lb"/>
+<pc n="　"/>李方叔馬劵<hi>蘇軾書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>嘉興府學<pc n="lb"/>
+<pc n="　"/>蘭亭記并圖<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>山隂<pc n="lb"/>
+<pc n="　"/>嚴子陵祠堂記<hi>范仲淹撰蔣暉書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>嚴州府<pc n="lb"/>
+<pc n="　"/>宋譯楞嚴咒<hi>開寶二年己巳嵗閏五月日天下大元帥吴越國王建在靈隠寺前石塔上名</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <hi>大佛頂陀羅尼與今異</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>杭州<pc n="lb"/>
+<pc n="　"/>髙麗寺宋理宗字<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>杭州<pc n="lb"/>
+                    <pb n="22b"/>
+<pc n="　"/>八大人覺經<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>嘉興<hi>東塔寺</hi>
+                    <pc n="lb"/>
+<pc n="　"/>放生池碑<hi>王隨撰錢塘僧思齊書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>照慶寺西<hi>石榻頭</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>元<pc n="lb"/>
+<pc n="　"/>𤣥元十子像<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>杭州<hi>北新闗公署</hi>
+                    <pc n="lb"/>
+<pc n="　"/>嘉興路儒學碑<hi>趙孟頫書牟巘記</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>嘉興府學<pc n="lb"/>
+<pc n="　"/>碧瀾二大字<hi>趙孟頫書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湖州公館<pc n="lb"/>
+<pc n="　"/>雲居二大字<hi>趙孟頫書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>杭州雲居山<pc n="lb"/>
+<pc n="　"/>天寧萬夀禪寺六大字<hi>趙孟頫書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>湖州天寧寺<pc n="lb"/>
+                    <pb n="23a"/>
+<pc n="　"/>王婦碑<hi>元至元十三年台哈布哈小篆書清風嶺事</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>紹興府學<pc n="lb"/>
+<pc n="　"/>東嶽行宫碑<hi>趙孟頫書縣西五里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>長興縣<pc n="lb"/>
+江西<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>梁<pc n="lb"/>
+<pc n="　"/>月儀帖<hi>蕭子雲書自正月至十二月</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>臨江府學<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>石門山寶峯院碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南昌靖安縣<pc n="lb"/>
+<pc n="　"/>石泉碑<hi>葛洪書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南康葛洪山<pc n="lb"/>
+                    <pb n="23b"/>
+<pc n="　"/>夀松圖石<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南康建昌縣<pc n="lb"/>
+<pc n="　"/>薦福碑<hi>顔真卿書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>饒州<pc n="lb"/>
+<pc n="　"/>東林寺碑<hi>李邕文并書至元三年重刻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>九江府<pc n="lb"/>
+<pc n="　"/>復東林寺碑<hi>崔黯撰栁公權書大中丁丑</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>九江府<pc n="lb"/>
+<pc n="　"/>惠遠法師碑<hi>裴休</hi>
+                    <pc n="lb"/>
+<pc n="　"/>麻姑壇記<hi>顔真卿小楷背有晉唐名人小楷</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>建昌府<pc n="lb"/>
+<pc n="　"/>戴叔倫遺愛碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>撫州府<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+                    <pb n="24a"/>
+<pc n="　"/>宋朝歴代鐘鼎款識帖二十卷<hi>薛尚功編次</hi>九江府庫<pc n="lb"/>
+<pc n="　"/>戲魚堂帖<hi>劉次莊以淳化帖刻于臨江又名臨江帖</hi>
+                    <pc n="lb"/>
+<pc n="　"/>狄梁公碑<hi>范仲淹撰文黄庭堅書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>九江彭澤縣<pc n="lb"/>
+<pc n="　"/>七佛偈<hi>黄庭堅書在開先寺</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南康<pc n="lb"/>
+<pc n="　"/>歸去来辭二<hi>一黄庭堅書一蘇軾書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南康<pc n="lb"/>
+<pc n="　"/>醉翁亭記<hi>蘇軾行書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>吉安府學<pc n="lb"/>
+<pc n="　"/>瀧岡阡表<hi>歐陽脩撰不知何人書疑即公書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>永豐<pc n="lb"/>
+<pc n="　"/>心經<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>吉水清涼寺<pc n="lb"/>
+                    <pb n="24b"/>
+<pc n="　"/>孝經<hi>小楷今缺不全無書人名</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>吉安府學<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>元<pc n="lb"/>
+<pc n="　"/>孔顔像贊<hi>元顔輝筆</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>吉安府學<pc n="lb"/>
+<pc n="　"/>玉枕蘭亭<hi>小楷</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>建昌府<pc n="lb"/>
+<pc n="　"/>歸田賦<hi>趙孟頫行書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>臨江學<pc n="lb"/>
+<pc n="　"/>子昂書簡<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>臨江學<pc n="lb"/>
+<pc n="　"/>示子手帖<hi>趙孟頫行書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>臨江學<pc n="lb"/>
+<pc n="　"/>四體千文<hi>左丞周伯温書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄱陽縣<pc n="lb"/>
+                    <pb n="25a"/>
+湖廣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>夏<pc n="lb"/>
+<pc n="　"/>神禹治水碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>長沙府<hi>岣嶁山</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>漢<pc n="lb"/>
+<pc n="　"/>司徒掾梁休碑<hi>建安二十七年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>穀城縣<pc n="lb"/>
+<pc n="　"/>荆州刺史度尚碑<hi>永康元年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>義井銘<hi>漢靈帝光和三年𨽻書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>道州<pc n="lb"/>
+<pc n="　"/>𤣥儒先生婁夀碑<hi>熹平三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>襄陽府光化縣<pc n="lb"/>
+                    <pb n="25b"/>
+<pc n="　"/>
+                    <pc n="　"/>晉<pc n="lb"/>
+<pc n="　"/>峴山碑<hi>羊祜沒襄陽人思慕而立是碑</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>襄陽府<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>彌明碑<hi>端平二年七月立磨滅彌明隠居南嶽水廉洞</hi>
+                    <pc n="lb"/>
+<pc n="　"/>磨崖碑<hi>元結作大唐中興頌顔真卿書于浯溪崖上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鈞州<pc n="lb"/>
+<pc n="　"/>漥樽銘<hi>元結作真卿書在報恩寺小石山巔有穴可為樽刻銘于上</hi>道州<hi>城外報恩寺</hi>
+                    <pc n="lb"/>
+<pc n="　"/>陽華巖銘<hi>元結作邑令崔令問篆刻之崖上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>道州<hi>東南七里山下</hi>
+                    <pc n="lb"/>
+<pc n="　"/>嶽麓寺碑<hi>李邕行書字徑寸</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>衡山麓<pc n="lb"/>
+                    <pb n="26a"/>
+<pc n="　"/>怡亭銘<hi>裴虬撰李莒八分書李陽冰篆額世稱三絶在江中島上</hi>武昌<pc n="lb"/>
+<pc n="　"/>山南東道四大字<hi>李陽冰篆</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>襄陽<pc n="lb"/>
+<pc n="　"/>陰符經<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>潭帖<hi>宋僧希白刻于潭之郡齋</hi>
+                    <pc n="lb"/>
+四川<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>漢<pc n="lb"/>
+<pc n="　"/>益州太守修周公禮殿記<hi>初平二年</hi>成都府<pc n="lb"/>
+                    <pb n="26b"/>
+<pc n="　"/>蜀都太守何君閣道碑<hi>光武中元二年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>卬僰道中<pc n="lb"/>
+<pc n="　"/>廣漢屬國辛李二君造橋碑<hi>延熹七年</hi>
+                    <pc n="lb"/>
+<pc n="　"/>雒陽令王稚子碑闕<hi>和帝元興元年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>新都縣<pc n="lb"/>
+<pc n="　"/>上庸長司馬孟臺神道碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南漢州徳陽縣<pc n="lb"/>
+<pc n="　"/>廣漢太守沈子琚碑<hi>熹平五年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>綿竹縣<pc n="lb"/>
+<pc n="　"/>巴郡太守張納功徳碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>重慶府<pc n="lb"/>
+<pc n="　"/>漢故益州太守楊府君諱宗字徳仲墓道碑<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夾江縣<pc n="lb"/>
+                    <pb n="27a"/>
+<pc n="　"/>漢故中官令楊府君諱暢字仲普墓道碑<pc n="　"/>夾江縣<pc n="lb"/>
+<pc n="　"/>趙相雍勸碑<hi>縣西二里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>嘉定州夾江縣<pc n="lb"/>
+<pc n="　"/>雅州髙孝亷碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>梓潼縣<pc n="lb"/>
+<pc n="　"/>夾江縣酒館碑<pc n="lb"/>
+<pc n="　"/>巴官夾鐵盆碑<hi>明帝永平七年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>巫山縣<pc n="lb"/>
+<pc n="　"/>漢沛國史墓闕文<hi>縣東六里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>梓潼縣<pc n="lb"/>
+<pc n="　"/>漢諌議大夫王褒墓碑<hi>今剥</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>資縣<pc n="lb"/>
+<pc n="　"/>漢議郎李業墓闕<hi>縣西五里</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>梓潼縣<pc n="lb"/>
+                    <pb n="27b"/>
+<pc n="　"/>漢安元年十二字<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>成都府商縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>諸葛武侯祠堂記<hi>裴度文栁公權書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>成都府<pc n="lb"/>
+<pc n="　"/>干祿字書<hi>顔元孫撰真卿書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>潼川州<pc n="lb"/>
+<pc n="　"/>霄漢閣三字<hi>顔真卿書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廣平府<pc n="lb"/>
+<pc n="　"/>唐章懐太子墓銘<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>巴縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>浣花草堂碑<hi>張忠定公石像</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>灌縣<pc n="lb"/>
+                    <pb n="28a"/>
+<pc n="　"/>禮殿聖賢闕<hi>宋王素摹石為七卷凡一百五十八</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>成都府學<pc n="lb"/>
+<pc n="　"/>梁武祠堂古帝王將相畫像<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>灌縣<pc n="lb"/>
+<pc n="　"/>石室畫像<hi>太守張恢立皆三皇至孔門弟子諸像後有跋在魯恭墓前</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>元<pc n="lb"/>
+<pc n="　"/>子昂臨黄庭經<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>成都府新津<hi>縣學</hi>
+                    <pc n="lb"/>
+<pc n="　"/>子昂書千文<hi>大者方尺石刻小者四寸木刻</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蜀府<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>國朝<pc n="lb"/>
+<pc n="　"/>詹孟舉千文<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蜀府<pc n="lb"/>
+                    <pb n="28b"/>
+<pc n="　"/>書法要覽<hi>蜀府長史劉仲珩真書洪熈己巳七月刻石</hi>
+                    <pc n="lb"/>
+福建<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>梁<pc n="lb"/>
+<pc n="　"/>出師頌<hi>蕭子雲書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>福州府學<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>尊勝幢陀羅尼經<hi>劉鏞書咸通四年癸未八月</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>漳州<pc n="lb"/>
+<pc n="　"/>般若寺神光碑<hi>李陽冰篆于烏石花巖上</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>福州<pc n="lb"/>
+<pc n="　"/>唐天祐忠懿王徳政碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>福州<pc n="lb"/>
+                    <pb n="29a"/>
+<pc n="　"/>玉枕蘭亭<hi>禇遂良書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>福州府學<pc n="lb"/>
+<pc n="　"/>靈巖廣化寺額<hi>栁公權書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>興化<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>萬安橋碑<hi>蔡襄撰并書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>泉州晉江縣<pc n="lb"/>
+<pc n="　"/>淳化帖<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>泉州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>元<pc n="lb"/>
+<pc n="　"/>吳志淳𨽻書千文<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>福州府學<pc n="lb"/>
+<pc n="　"/>歴代帝王聖賢將相像<hi>元玉林居士刻于廬風書院閩中張士賢序</hi>
+                    <pc n="lb"/>
+                    <pb n="29b"/>
+廣東<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>漢<pc n="lb"/>
+<pc n="　"/>桂陽太守周憬功勲銘<hi>熹平三年</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>韶州樂昌縣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>碑隂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>元結涵暉谷銘<hi>在鳴絃峰下</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>英徳縣<pc n="lb"/>
+<pc n="　"/>斗魁臺記<hi>李邕撰在城北七星巖</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>肇慶府<pc n="lb"/>
+<pc n="　"/>玉乳臺三字<hi>李綱書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>徳慶<pc n="lb"/>
+                    <pb n="30a"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>韓文公廟碑<hi>歐陽脩撰東坡書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>潮州<pc n="lb"/>
+<pc n="　"/>拙賦<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>潮州<pc n="lb"/>
+廣西<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>唐<pc n="lb"/>
+<pc n="　"/>逍遙樓刻<hi>顔真卿書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>桂林<pc n="lb"/>
+<pc n="　"/>李衛公西嶽書<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>栁州<pc n="lb"/>
+<pc n="　"/>白象山二篆字<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>栁州洛容縣<pc n="lb"/>
+                    <pb n="30b"/>
+<pc n="　"/>
+                    <pc n="　"/>宋<pc n="lb"/>
+<pc n="　"/>羅池廟碑<hi>沈傳師書又蘇軾書大字銘</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>栁州<pc n="lb"/>
+<pc n="　"/>范滂傳石刻<hi>黄庭堅書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>慶逺府<pc n="lb"/>
+<pc n="　"/>元祐黨籍碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>桂林府<hi>龍𨼆巖石壁</hi>
+                    <pc n="lb"/>
+雲南<pc n="lb"/>
+<pc n="　"/>爨王墓碑<hi>成都閭丘均撰洛陽賈餘絢書</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>昆明縣<hi>東十五里</hi>
+                    <pc n="lb"/>
+<pc n="　"/>南詔碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>太和縣<pc n="lb"/>
+<pc n="　"/>諸葛武侯碑<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宜良縣<pc n="lb"/>
+                    <pb n="31a"/>
+<pc n="　"/>地符石<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>金石林時地考巻下<pc n="lb"/>
+<pb n="31b"/>
+                </p>
+<p>
+</p>
+  </div>
+        </body>
+</text>
+</TEI>

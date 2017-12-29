@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+              <teiHeader>
+                  <fileDesc>
+                     <titleStmt>
+                        <title>Title</title>
+                     </titleStmt>
+                     <publicationStmt>
+                        <p>Information about publication or distribution</p>
+                     </publicationStmt>
+                     <sourceDesc>
+                        <p>Information about the source</p>
+                     </sourceDesc>
+                  </fileDesc>
+              </teiHeader>
+              <text>
+                  <body>
+            
+<div>
+    <p>
+<pc n="lb"/>
+                    
+克齋詞跋<pc n="lb"/>
+案花菴草堂二集俱不載沈端節故其品行亦無從考<pc n="lb"/>
+帷馬端臨云字約之家於苕溪豈即沈會宗同族孫沈<pc n="lb"/>
+會宗詞亦不多見其膾炙人口者惟詠賈耘老苕上水<pc n="lb"/>
+閣一闋云景物因人成勝槩滿目更無塵可礙等開簾<pc n="lb"/>
+幕小闌干衣未解心先快明月清風如有待誰信門前車<pc n="lb"/>
+馬隘别是人間開世界坐中無物不清涼山一帯水一<pc n="lb"/>
+派流水白雲長自在苕溪漁隠云賈耘老水閣遺址正<pc n="lb"/>
+                    <pb n="1a"/>
+與余水閣相近景物清曠悉如㑹宗之詞故余嘗有句<pc n="lb"/>
+云三間小閣賈耘老一首佳詞沈會宗今讀克齋詞風致<pc n="lb"/>
+亦甚相類獨長於咏物寫景又不墮鄭衛惡習殆梅溪<pc n="lb"/>
+竹屋之流歟海雲毛晉識<pc n="lb"/>
+<pb n="1b"/>
+                </p>
+<p>
+</p>
+  </div>
+        </body>
+</text>
+</TEI>

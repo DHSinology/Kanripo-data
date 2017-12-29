@@ -1,0 +1,5001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+              <teiHeader>
+                  <fileDesc>
+                     <titleStmt>
+                        <title>Title</title>
+                     </titleStmt>
+                     <publicationStmt>
+                        <p>Information about publication or distribution</p>
+                     </publicationStmt>
+                     <sourceDesc>
+                        <p>Information about the source</p>
+                     </sourceDesc>
+                  </fileDesc>
+              </teiHeader>
+              <text>
+                  <body>
+            
+<div>
+    <p>
+<pc n="lb"/>
+                    
+白蓮集卷一<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊<pc n="　"/>巳<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日草堂作<pc n="lb"/>
+沙泉帶草堂𥿄帳卷空牀静是真消息吟非俗肺腸園<pc n="lb"/>
+林坐青影梅杏嚼紅香誰住原西寺鐘聲送夕陽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄鏡湖方干䖏士<pc n="lb"/>
+賀監舊山川空耒近百年聞君與琹鶴終日在漁船島<pc n="lb"/>
+露㴱秋石湖澄半夜天雲門幾囬去題徧好林泉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人歸吴<pc n="lb"/>
+此説歸耕釣迢迢向海涯春寒逰子路村晚主人家<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>山緑過茶重尋舊隣里菱藕正開花<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>仰<pc n="lb"/>
+避地依真境安閑似舊溪干戈百里外泉石亂峯西草<pc n="lb"/>
+瑞香難歇松靈盖盡低尋應報休馬瓶錫向南携<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夜坐<pc n="lb"/>
+百蟲聲裏坐夜色共冥冥逺憶諸峰頂曽棲此性靈月<pc n="lb"/>
+華澄有象詩思在無形徹曙都忘寝虗牕日照經<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>新栽松<pc n="lb"/>
+野僧教種法苒苒出蓬蒿百歲催人老千年待爾髙静<pc n="lb"/>
+宜兼竹石幽合近猿猱他日成陰後秋風吹海濤<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>期友人<pc n="lb"/>
+早晚逐兹耒閑門日為開亂蛩鳴白草殘菊藉蒼苔困<pc n="lb"/>
+                    <pb n="1b"/>
+卧誰驚𧺫閑行自𣣔廽何時此携手吾子本夛才<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>和鄭谷郎中看棋<pc n="lb"/>
+箇是仙家事何人合用心幾時終一局萬木老千岑有<pc n="lb"/>
+路如飛出無機似陸沉樵夫可䏻解也此廢光陰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄銭塘羅給事<pc n="lb"/>
+憤憤嘔䜛書無人誦子虗傷心天祐末搔首懿宗𥘉海<pc n="lb"/>
+樹青叢短湖山翠點踈秋濤㸔足否羅刹石邊居<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>戊辰歲湘中寄鄭谷郎中<pc n="lb"/>
+白髮乆慵簪常聞病亦吟瘦應成鶴骨閑想似禅心上<pc n="lb"/>
+國楊花亂滄洲荻笋深不堪思翠盖西望獨沾襟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寓言<pc n="lb"/>
+                    <pb n="2a"/>
+造化安䏻保山川鑿𣣔飜精華銷地底珠玉聚侯門始<pc n="lb"/>
+作驕奢本終為禍亂根亡家與亡國去此更何言<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄王振拾遺<hi>戊辰歲</hi>
+                    <pc n="lb"/>
+折檻意何如<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>安信不虗近来焚諌草深去覔山居<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>餘分眀知在䖏難寄亂離書<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>經賈島舊居<pc n="lb"/>
+先生居䖏所野燒幾為灰若有吟䰟在應随夜魄廽地<pc n="lb"/>
+寕銷志氣天忍罪清才古木霜風暁江禽共宿来<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人逰塞<pc n="lb"/>
+槐桞野橋邊行塵暗馬前秋風来漢地客路入胡天鴈<pc n="lb"/>
+聚河流濁羊群磧艸膻那堪隴頭宿鄊夣逐潺湲<pc n="lb"/>
+                    <pb n="2b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>桃花<pc n="lb"/>
+千株含露態何䖏照人紅風暖仙源裏春和水國中流<pc n="lb"/>
+鶯應見落舞蝶未知空擬𣣔求圗画枝枝帶竹叢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>聞雁<pc n="lb"/>
+何䖏人驚𧺫飛耒過草堂丹心劳避弋萬里念随楊影<pc n="lb"/>
+㫁風天月聲孤荻㟁霜眀年趂春去江上别鴛鴦<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人逰南<pc n="lb"/>
+南國夛山水君逰興可知船中江上景晚泊早行時子<pc n="lb"/>
+羙遺䰟地藏真舊墨池經過幾銷日荒草裏尋碑<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送益公歸舊居<pc n="lb"/>
+舊隐終牽夣春殘結束㱕溪山無伴過風雨有花飛片<pc n="lb"/>
+                    <pb n="3a"/>
+石留題字孤潭照浣衣鄰僧喜相接掃<graphic n="KR0985" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0985.png" mimeType="image/png"/>與開扉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>不睡<pc n="lb"/>
+永夜不𣣔睡虗堂閉復開却離燈影去待得月光耒落<pc n="lb"/>
+葉逢巢住飛萤值我廻天眀拂經案一炷白檀灰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>新秋雨後<pc n="lb"/>
+夜雨洗河漢詩懐覺有靈籬聲新蟋蟀草影老蜻蜓静<pc n="lb"/>
+引閑機彂凉吹逺思醒逍遙向誰説時泥漆園經<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送劉蜕秀才赴舉<pc n="lb"/>
+百彂百中<pc n="　"/>年丹枝如計分一箭的無偏文<pc n="lb"/>
+物兵銷國闗河雪霽天都人㸔春榜韓字在誰前<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>留題仰山大師塔院<pc n="lb"/>
+                    <pb n="3b"/>
+嵐光叠杳冥曉翠<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>窓眀𣣔𧺫逰方去重来繞塔行亂<pc n="lb"/>
+雲開鳥道群木彂秋聲曾約諸徒弟香燈盡此生<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>亂中聞谷呉延保下世<pc n="lb"/>
+小諫纔埋玉星郎亦逝川國由夛聚道天似不客賢兵<pc n="lb"/>
+火焚詩草江流漲墓田長安巳塗炭追想更凄然<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送東林寺睦公往呉國<pc n="lb"/>
+八月江行好風㠶日亱飄煙霞經北固禾黍過南朝社<pc n="lb"/>
+客無宗炳詩家有鲍昭莫囙賢相請不返舊山椒<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>除亱<pc n="lb"/>
+亱久誰同坐爐寒鼎亦澄亂松飄雨雪一室掩香燈白<pc n="lb"/>
+髮添新歲清吟减舊朋眀朝待晴旭池上㸔春氷<pc n="lb"/>
+                    <pb n="4a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送秘上人<pc n="lb"/>
+誰喜老閑身春山𧺫送君𣣔慿蓮社信轉入洞庭雲道<pc n="lb"/>
+路長無阻干戈漸未聞秋来向何䖏相憶雁成群<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>庽居岳麓謝進士沈彬再訪<pc n="lb"/>
+去歲来尋我留題在蘚痕又囙風雪亱重宿古松門玉<pc n="lb"/>
+有疑休泣詩無主且言眀朝此相送披褐入桃源<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>對雪<pc n="lb"/>
+松門堆復積埋石亦埋莎為瑞還難得居貧莫厭夛聽<pc n="lb"/>
+憐终亱落吟惜一年過誰在江樓望漫漫堕緑波<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>和岷公送李評事往宜春<pc n="lb"/>
+兵火銷鄰境龍沙有去人江潭牽興逺風物入題新雪<pc n="lb"/>
+                    <pb n="4b"/>
+湛將殘臘霞眀向早春郡侯開宴䖏桃李照歌塵<pc n="lb"/>
+老憶逰方日天涯錫獨摇凌晨従北固衝雪向南朝鬂<pc n="lb"/>
+髮泉邊剃香燈樹下燒雙峰諸道友夏滿有書招<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>過荆門<pc n="lb"/>
+路出荆門逺行行日𣣔西草枯蠻塜亂山㫁漢江低野<pc n="lb"/>
+店叢蒿短煙村簇樹齊飜思故林去在䖏有猿啼<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>山中荅人<pc n="lb"/>
+謾道詩名出何曾著苦吟忽耒還有意巳過即無心夏<pc n="lb"/>
+日山長往霜天寺獨尋故人憐拙朴時復寄空林<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈盧眀府閑居<pc n="lb"/>
+                    <pb n="5a"/>
+鬂霜垂七十江國久辭官滿篋新風雅何人舊歲寒閑<pc n="lb"/>
+居當野水幽鳥宿漁竿終𣣔相尋去兵戈時轉難<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>幽庭<pc n="lb"/>
+不放生纎草従教遍緑苔還妨長者至未著牡丹開蛺<pc n="lb"/>
+蝶空飛過鶺鴒時下耒南鄰折芳子到此寂寥回<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送休歸歸長沙寕覲<pc n="lb"/>
+吾子此歸寕風煙是舊經無窮芳草色何䖏故山青偶<pc n="lb"/>
+泊鳴蝉島難眠好月汀殷勤問安外湘㟁採詩灵<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>將逰嵩華行次荆渚<pc n="lb"/>
+蓮峰映敷水嵩嶽<graphic n="KR1062" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1062.png" mimeType="image/png"/>伊河兩䖏思歸久前賢隐去夛閒<pc n="lb"/>
+身應絶跡在世幸無他㑹向紅霞嵪僧龕對薜蘿<pc n="lb"/>
+                    <pb n="5b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逺思<pc n="lb"/>
+逺思極何䖏南樓煙水長秋風過鴻鴈逰子在瀟湘海<pc n="lb"/>
+面雲生白天涯堕晚光徘徊古堤上曾此贈垂楊<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄勉二三子<pc n="lb"/>
+不見二三子悠然吴椘間盡應生白髮幾箇在青山<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>莫放間君聞國風否千載詠闗闗<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>渚宫江亭寓目<pc n="lb"/>
+津亭雖極望未稱本心閑白有三江水青無一點山新<pc n="lb"/>
+鴻喧夕浦逺棹聚空灣終遂歸匡社孤帆即此還<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蝴蝶<pc n="lb"/>
+何䖏背繁紅迷芳到檻重分飛還獨出成隊偶相逢逺<pc n="lb"/>
+                    <pb n="6a"/>
+害終防雀争先不避蜂桃蹊牽往復蘭徑引相従翠裛<pc n="lb"/>
+丹心冷香凝粉翅濃可尋穿樹影難覔宿花蹤日晚来<pc n="lb"/>
+仍急春殘舞未慵西風舊池館猶得採芙蓉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送劉秀才往東洛<pc n="lb"/>
+羡子去東周行行非旅逰煙霄有兄弟事業盡曹劉洛<pc n="lb"/>
+水清奔夏松雲白入秋来年遂鵬化一舉上瀛洲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>移竹<pc n="lb"/>
+舊溪千寓竿風雨亱珊珊白首来江國黄金買歲寒乍<pc n="lb"/>
+移傷粉節終遶著朱阑㑹得乗春力新抽錦籜看<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>雉<pc n="lb"/>
+角角䫫關關春晴錦羽乾文呈五色異瑞入九苞難暮<pc n="lb"/>
+                    <pb n="6b"/>
+宿江蘭暖朝飛緑野寒山梁從行者錯觧仲尼嘆<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懐轩辕先生<pc n="lb"/>
+不得先生信空懐汗漫秋月華離寉背日影上鰲頭𣣔<pc n="lb"/>
+学孤雲去其如重骨留槎程在何䖏人世屡荒丘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>永亱感懐鄭谷郎中<pc n="lb"/>
+展轉復展轉所思安可論亱凉難就枕月好重開门霜<pc n="lb"/>
+殺百草盡蛩㱕四壁根生耒苦章句早遇至公言<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>賣松者<pc n="lb"/>
+未得凌雲價何慙所買真自知桃李世有爱歲寒人瑟<pc n="lb"/>
+瑟𥘉離涧青青未識塵寕同買花者貴逐片時春<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>丙寅歲寄潘㱕仁<pc n="lb"/>
+                    <pb n="7a"/>
+九圡盡荒墟干戈殺害餘㪅湏憂去國未可守貧居康<pc n="lb"/>
+泰終来在編聫莫破除他年遇知己無恥報襜褕<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>甞茶<pc n="lb"/>
+石屋曉煙生松窓鐡碾声囙留来客試共說寄僧名味<pc n="lb"/>
+撃詩魔亂香搜睡思輕春風霅川上憶傍緑叢行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>楊花<pc n="lb"/>
+暖景照悠悠遮空勢漸稠乍如飛雪逺未似落花休萬<pc n="lb"/>
+帶都门外千株渭水頭紛紜知近夏銷歇恐成秋軟著<pc n="lb"/>
+朝簮去狂随别騎逰斾衝離舘驛鶯撲繞宫流江國晴<pc n="lb"/>
+愁對池塘晚見浮虗窓萦茟雅深院藉苔幽静堕王孫<pc n="lb"/>
+酒繁沾客子裘詠吟何潔白根本属風流向日還輕舉<pc n="lb"/>
+                    <pb n="7b"/>
+囙風㪅自由不堪思汴㟁千里到揚州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詠影<pc n="lb"/>
+萬物患有象不䏻逃大眀始随殘魄㓕又逐曉光生曲<pc n="lb"/>
+直寕相隐洪纎必自呈還如至公世洞鍳是非情<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南歸舟中<hi>二首</hi>
+                    <pc n="lb"/>
+南㱕乗客棹道蹃免﨑嘔江上經時莭舩中聴鷓鴣春<pc n="lb"/>
+容含衆岫雨氣泛平蕪落日停舟望王維未有圗<pc n="lb"/>
+長江春氣寒客况棹声间亱泊諸村雨程廽數郡山枽<pc n="lb"/>
+根垂㫁岸浪沫聚空灣已去鄰園近随縁是暂還<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送遷客<pc n="lb"/>
+天涯即<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>州謫去莫多愁若似承㤙好何如佞主休瘴<pc n="lb"/>
+                    <pb n="8a"/>
+昏銅柱黒草赤火山秋應想尭陰下當時獬豸頭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題中上人院<pc n="lb"/>
+髙房占境幽講退即冥搜欠鶴同支遁多時似惠休瓶<pc n="lb"/>
+澄孤井浪案白小窓秋莫道㱕山字朝賢日献酬<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逢鄊友<pc n="lb"/>
+無况来江島逢居話滯留生緣同一國相識共他州竹<pc n="lb"/>
+影斜青蘚茶香在白鷗猶憐心道合多事亦冥搜<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>自勉<pc n="lb"/>
+試算<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>生事中年欠五年知非未落後讀易尚加前分<pc n="lb"/>
+受詩魔役寕容俗態牽閒吟見秋水數隻釣魚舡<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄詩友<pc n="lb"/>
+                    <pb n="8b"/>
+天地有萬物盡應輸苦心他人雖𣣔觧此道柰何深返<pc n="lb"/>
+朴遺時態關河度歲陰相思去秋夕共對冷燈吟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>居道林寺書懐<pc n="lb"/>
+花落水喧喧端居信晝<pc n="　"/>誰来看山寺自要掃松门是<pc n="lb"/>
+事皆䏻諱唯詩未懶言傳闻好時世亦𣣔背啼猿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>經吴<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>觀<pc n="lb"/>
+中元齋醮後銭燼滿空壇老鶴心何待尊師鬂已乾<graphic n="KR1814" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1814.png" mimeType="image/png"/>
+燈古殿亱霜霰大椿寒誰見長生蹃人间事萬端<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>劔客<pc n="lb"/>
+㧞劔遶殘樽歌终便出门西風滿天雪何䖏報人㤙勇<pc n="lb"/>
+死尋常事輕讐不足論翻言易水上細碎動離䰟<pc n="lb"/>
+                    <pb n="9a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>白髮<pc n="lb"/>
+莫染亦莫鑷任從伊滿頭白雖無柰薬黑也不禁秋静<pc n="lb"/>
+枕聽蝉卧閒垂看水流浮生未逹此多為爾為愁<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秋興寄㣧公<pc n="lb"/>
+風聲吹竹徤凉氣着身輕誰有閑雲去江邊看水行村<pc n="lb"/>
+遥紅樹逺野濶白煙平試裂芭蕉片題詩問竺卿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>野歩<pc n="lb"/>
+城裏無閒䖏却尋城外行田園經雨水鄊國憶桑耕傍<pc n="lb"/>
+涧蕨薇老隔村岡壠横何窮此心興時復鷓鴣聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>殘春<pc n="lb"/>
+三月看無也芳時此可嗟園林𣣔向夕風雨更吹花影<pc n="lb"/>
+                    <pb n="9b"/>
+亂衝人蝶聲繁遶塹蛙那堪傍楊柳飛絮滿鄰家<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬尚顔<pc n="lb"/>
+取盡風騷妙名髙身倍闲乆離王者闕𣣔向祖師山幕<pc n="lb"/>
+府秋招去溪鄰日望還伊余豈詶敵耒往踏苔斑<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>苦熱<pc n="lb"/>
+雲势險扵峰金流㫁竹風萬方應望雨片景𣣔焚空毒<pc n="lb"/>
+害芙蓉死煩蒸瀑布紅㤙多是團扇出入画屏中<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送歐陽秀才赴舉<pc n="lb"/>
+莫疑空手去無㧞取髙科直是文章好争如德行多煙<pc n="lb"/>
+霄心一寸霜雪路千坡稱意東歸後交親那喜何<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>放鷺䉆<pc n="lb"/>
+                    <pb n="10a"/>
+潔白雖堪<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>腥膻不那何到頭從所𣣔還汝舊滄波<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝王秀才見示詩卷<pc n="lb"/>
+誰見少年心低摧向苦吟後湏離影响得必洞精㴱道<pc n="lb"/>
+院春苔徑僧樓夏竹林天如<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>才子何慮未知音<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送徐秀才之吴<pc n="lb"/>
+呉都覇道昌才子去觀光望闕雲天近朝宗水路長海<pc n="lb"/>
+门收片雨建業泊殘陽𣣔问淮王信仙都即帝鄊<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>獨院偶作<pc n="lb"/>
+風篁清一院坐卧润肌膚此境終抛去鄰房肯信無身<pc n="lb"/>
+非王者役门是祖師徒畢境伊雲鳥從耒我友于<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬元員外見寄<pc n="lb"/>
+                    <pb n="10b"/>
+僻苍誰相訪風籬翠蔓牽易中通性命貧裏過流年且<pc n="lb"/>
+有吟情撓都無俗亊煎時闻得新意多是此忘緣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄文秀大師<pc n="lb"/>
+皎然靈一時還有屈扵詩世豈無英主天何惜大師道<pc n="lb"/>
+终歸正始心莫问多岐覧卷堪驚立貞風喜未衰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏雨<pc n="lb"/>
+霮䨴蔽穹蒼冥濛自一方當時消酷毒随䖏有清凉著<pc n="lb"/>
+物聲雖暴兹<pc n="　"/>润即長乍紅萦急電㣲白露殘陽應禱<pc n="lb"/>
+尤難得經旬甚不妨吟聽喧竹樹立見漲池塘衆類聲<pc n="lb"/>
+休出羣峯色盡藏䫋沲耒洞壑汗漫入瀟湘下叶黎甿<pc n="lb"/>
+望髙祛旱暵光幽齋飄卧簟極浦洒㱕檣藓在階從<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>
+<pc n="lb"/>
+                    <pb n="11a"/>
+花衰苑任傷闲思濟時力謌詠彂哀腸<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝興公上人寄山水簇子<pc n="lb"/>
+半幅古潺顔看来心意闲何湏尋鳥道即此出人间巘<pc n="lb"/>
+暮疑啼狖松深認掩關知君逺相恵免我憶㱕山<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬微上人<pc n="lb"/>
+古律皆深妙新吟𣸪造㣲搜難窮月窟琢苦盡天機晚<pc n="lb"/>
+檜清蝉咽寒江白鳥飛他年舊山去為子逺携㱕<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>同光歲送人及第東㱕<pc n="lb"/>
+西笑道何光新朝舊桂堂春官如白傅内試似文皇變<pc n="lb"/>
+化龍三十升騰鳳一行還家筬多興滿袖月中香<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄江居耿䖏士<pc n="lb"/>
+                    <pb n="11b"/>
+野癖雖相似生涯即不同紅霞禅石上明月釣舡中酔<pc n="lb"/>
+倒蘆花白吟縁蓼㟁红相思何以寄吾道本空空<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫二首<pc n="lb"/>
+一卧四十日𧺫来秋氣深巳甘長逝魄還見舊交心撑<pc n="lb"/>
+柱笻猶重枝梧力未任終將此形陋㱕死故丘林<pc n="lb"/>
+秋風巳傷骨更帶竹聲吹抱疢關门久扶羸傍砌時無<pc n="lb"/>
+生即不可有死必相随除却㱕真覺何由擬免之<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送中觀進公㱕巴陵<pc n="lb"/>
+一論破雙空持行大國中不知從此去何䖏挫邪宗晝<pc n="lb"/>
+雨懸㠶黑殘陽泊島紅應游到㴩㟁相憶遶茶叢<pc n="lb"/>
+白蓮集卷第一<pc n="lb"/>
+                    <pb n="12a"/>
+<pb n="12b"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+    <p>
+<pc n="lb"/>
+                    
+白蓮集卷第二<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊<pc n="　"/>己<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄鄭谷郎中<pc n="lb"/>
+清名喧省閣雅頌出吾唐叠嶠供秋望無雲到夕陽自<pc n="lb"/>
+封修葯院别掃著僧牀㡬夣中朝亊依依鵷鷺行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>㱕雁<pc n="lb"/>
+塞门春已暖連影𧺫蘋風雲夣千行去湘川一亱空江<pc n="lb"/>
+人休舉網虜將又虚弓莫失南来伴衡陽樹即紅<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>登大林寺觀白太傅題版<pc n="lb"/>
+九疊蒼崕裏禅家鑿翠開清時誰夣到白傅獨尋来怪<pc n="lb"/>
+石和僧㝎闲雲共鶴廽任兹休去者心是不然灰<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈<graphic n="KR1311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1311.png" mimeType="image/png"/>松先輩<pc n="lb"/>
+今歲赴春闈逹如夫子稀山中把卷去牓下注官㱕椘<pc n="lb"/>
+月吟前落江禽酒外飛闲遊向諸寺却看白麻衣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日江寺寄無上人<pc n="lb"/>
+講終齋磬罷何䖏稱真心古寺髙杉下炎天獨院深燕<pc n="lb"/>
+和江鳥語墻奪暮花陰大府多才子閒過在竹林<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日梅雨中寄睦公<pc n="lb"/>
+梅月来林寺冥冥各闭门已應雙履跡全沒亂雲根琢<pc n="lb"/>
+句心無味看經眼亦昬何時見晴霽招我凭巖軒<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>傷鄭谷郎中<pc n="lb"/>
+鍾陵千首㑅茟绝亦身終知落干戈裏誰家煨燼中吟<pc n="lb"/>
+                    <pb n="1b"/>
+齋春長蕨釣渚亱鳴鴻惆悵秋江月曾招我看同<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <graphic n="KR0916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0916.png" mimeType="image/png"/>行題友壁<pc n="lb"/>
+山衲冝何䖏經行避暑深峰西多古寺日午亂松陰鶴<pc n="lb"/>
+黙堪分静蝉涼觧助吟殷勤題壁去秋早此相尋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>别東林後寄囬修睦<pc n="lb"/>
+昨亱從香社辭君出薜蘿晚来巾舃上已覺俗塵多逺<pc n="lb"/>
+路萦芳草遥空共白波南朝在天末此去重經過<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>古松<pc n="lb"/>
+雷電不敢伐鱗皴势萬端蠧依枯莭死虵入朽根盤影<pc n="lb"/>
+浸僧禅<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>声吹鶴夣寒尋常風雨亱應有鬼神看<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日栖霞寺書懐寄張逸人<pc n="lb"/>
+                    <pb n="2a"/>
+人中林下現名自有闲忙建業紅塵熱栖霞白石凉倚<pc n="lb"/>
+身檉儿稳洒面瀑流香不似髙齋裡花連竹影長<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>訪自牧上人不遇<pc n="lb"/>
+然諾竟如何諸侯見重多髙房度江雨經月長寒莎道<pc n="lb"/>
+本同騷雅書曾到薜蘿相尋未相見危阁望滄波<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題東林白蓮<pc n="lb"/>
+大士生兠率空池滿白蓮秋風眀月下齋日影堂前色<pc n="lb"/>
+後群芳坼香殊百和然誰知白染性一片好心田<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄懐江西徴岷二律師<pc n="lb"/>
+亂後江邊寺堪懐二律師幾畨新弟子一様舊威儀院<pc n="lb"/>
+影連春竹窓声接雨池共缘山水癖乆别共題詩<pc n="lb"/>
+                    <pb n="2b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東林作寄金陵知已<pc n="lb"/>
+十八賢貞在時来拂蘚看已知前亊逺更結後人難泉<pc n="lb"/>
+滴勝清磬松香掩白檀慿君聴朝貴誰𣣔厭簮冠<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>山寺喜道者<pc n="lb"/>
+闰年春過後山寺始花𨳩還有無心者闲尋此境来鳥<pc n="lb"/>
+幽声忽㫁茶好味重廽知住南岩乆冥心㘴緑苔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>再逰匡山<pc n="lb"/>
+紫霄兼二老相對倚空寒乆别成衰病重来更上難徑<pc n="lb"/>
+危雲母滑崖旱瀑流乾目㫁嵐煙際神僊有石壇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈浙西李推官<pc n="lb"/>
+他皆恃勲貴君獨<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>詩玄終日秋光裡無人竹影邉東<pc n="lb"/>
+                    <pb n="3a"/>
+樓生倚月北固積吟煙闻說鴛行裏夛才復少年<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題终南山隐者室<pc n="lb"/>
+终南山北面直下是長安自掃青苔室閒謌白石看風<pc n="lb"/>
+吟窓樹老日晒竇雲乾時向圭峰宿僧房瀑布寒<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>禅庭蘆竹十二韵呈鄭谷郎中<pc n="lb"/>
+錯錯在禅庭髙冝與竹名徤添秋雨响乾助亱風清雀<pc n="lb"/>
+静知枯折僧閒見笋生對吟殊洒落負氣甚孤貞宻謝<pc n="lb"/>
+编欄固齊由灌溉<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>松姿真可敵桞態薄難并映帶兼<pc n="lb"/>
+苔石参差逸画楹雪霜消後色蟲鳥黙時聲逺憶滄洲<pc n="lb"/>
+岸寒連暮角城幽根狂亂迸<graphic n="KR3684" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3684.png" mimeType="image/png"/>葉動相撑避暑湏<graphic n="KR0916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0916.png" mimeType="image/png"/>㘴<pc n="lb"/>
+迯眠必遶行未逢仙手詠俗眼見猶輕<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送孫鳳秀才赴舉<pc n="lb"/>
+九重方側席四海仰文眀好把孤吟去便随公道行梁<pc n="lb"/>
+園浮雪氣汴水漲春聲此日登僊衆君應最後生<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>落花<pc n="lb"/>
+朝開暮亦衰雨打復風吹古屋無人䖏殘陽滿地時静<pc n="lb"/>
+依青藓片闲綴緑莎枝繁艶根株在眀年向此期<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秋苔<pc n="lb"/>
+獨憐蒼翠文長與寂寥存鶴静窺秋片僧闲踏冷痕月<pc n="lb"/>
+眀䟱竹徑雨歇敗莎根別有深宫裡兼花鎻㫁䰟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>老將<pc n="lb"/>
+逐膚與<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>戎曾居第一功眀時不用武白首向秋風馬<pc n="lb"/>
+                    <pb n="4a"/>
+病霜飛草弓闲鴈過空免孫已成立膽氣亦英雄<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>城中示友人<pc n="lb"/>
+乆與寒灰合人中亦覺闲重城不鎖夣毎亱自㱕山雨<pc n="lb"/>
+破冥鴻出梧桐井月還唯君道心在来往寂寥间<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送友人逰湘中<pc n="lb"/>
+懐才難自住此去亦如僧何䖏西風亱孤吟旅舍燈路<pc n="lb"/>
+㳂湘樹叠山入椘雲層君有東来扎㱕鴻亦可慿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>經費㣲君舊居<pc n="lb"/>
+髙眠當聖代雲鳥未為孤天子徵不𧺫闲人親得無猿<pc n="lb"/>
+猱狂𣣔墜水石怪難圗寂寞荒齋外松杉相倚枯<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>巖陵釣䑓<pc n="lb"/>
+                    <pb n="4b"/>
+夫子垂竿䖏空江照古䑓無人更如此白浪自成堆鶴<pc n="lb"/>
+静尋山去魚狂入海廽登臨秋值晚樹石盡夛苔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>原上晚望<pc n="lb"/>
+倚杖聊攄望寒原逺近分亱来何䖏火燒出古人墳野<pc n="lb"/>
+势盤空澤江流合暮雲殘陽催百鳥各自著栖羣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送惠空上人㱕<pc n="lb"/>
+塵中名利热鳥外水雲闲吾子夛髙趣秋風獨自還空<pc n="lb"/>
+囊随客棹幾宿泊湖山應有吟僧在鄰居樹影间<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬章水知己<pc n="lb"/>
+新吟忽有寄千里到荆门落日雲𥘉碧殘年眼漸昏己<pc n="lb"/>
+為難敵手誰更入深論後信夛相寄吾生重此言<pc n="lb"/>
+                    <pb n="5a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>闲居<pc n="lb"/>
+漸覺春光媚塵銷㑅圡膏㣲寒放楊柳纎草入風騷睡<pc n="lb"/>
+少全無病身輕乍去袍前溪泛紅片何䖏落金桃<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>次韵酬鄭谷郎中<pc n="lb"/>
+林下髙眠𧺫相招得句時闲门流水入静話鷺鷥知毎<pc n="lb"/>
+許題成晚夛嫌雪阻期西齋㘴来乆風竹撼疎籬<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>思逰峨睂寄林下諸友<pc n="lb"/>
+剛有峨睂念秋来錫𣣔飛㑹抛湘寺去便逐蜀㠶㱕難<pc n="lb"/>
+世堪言善闲人合見機殷勤別諸友莫厭椘江薇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送劉秀才南逰<pc n="lb"/>
+南去謁諸侯名山亦得逰便應尋瀑布乘興上岣嶁髙<pc n="lb"/>
+                    <pb n="5b"/>
+鳥随雲𧺫寒星向地流相思應北望天晚石槁頭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>示諸侄<pc n="lb"/>
+莫问年將朽加飡已不夛形容渾痩削行止强牽拖死<pc n="lb"/>
+也何憂惱生而有詠謌候门終謝去却掃舊松蘿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆渚病中囙思匡廬遂成三百字寄梁先輩<pc n="lb"/>
+生老病死者早闻天竺書相随幾汨沒不了堪欷歔自<pc n="lb"/>
+理自可適他人誰與祛應當入寂㓕乃淂長銷除前月<pc n="lb"/>
+巳骨立今朝還貌舒披衣試歩履倚策聊躊蹰江月青<pc n="lb"/>
+眸冷秋風白髮䟱新題憶剡硾舊約懐匡廬張野乆絶<pc n="lb"/>
+跡楽天曾卜居空龕掩薜荔瀑布歕蟾蜍古檜鳴玄鶴<pc n="lb"/>
+<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>泉躍錦魚狂吟樹䕃映縱踏花蔫菸唇舌旣已闲心<pc n="lb"/>
+                    <pb n="6a"/>
+脾亦散攄松窓有偃息石徑無趦趄夣冷通仙闕神融<pc n="lb"/>
+合太虚千峯杳靄際萬<graphic n="KR0676" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0676.png" mimeType="image/png"/>眀清𥘉長往期非晚半生閒<pc n="lb"/>
+有餘依劉未是詠訪戴寕忘諸稽古堪求己觀時好笑<pc n="lb"/>
+渠埋頭逐小利沒脚拖長裾道種將闲養情田把薬鉏<pc n="lb"/>
+幽香彂蘭蕙穢莾摧丘墟散謂囊盈物那言庾滿儲㣲<pc n="lb"/>
+煙動晨爨細雨滋園蔬藓亂珍禽羽门稀長者車冥機<pc n="lb"/>
+坐兀兀著履行徐徐毎計親朱履夛怜奉隼旟簮嫌紅<pc n="lb"/>
+玳瑁社念金芙蕖海内競鉄馬篋中藏𥿄驢常言謝時<pc n="lb"/>
+去此意將何如<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>竟陵遇晝公<pc n="lb"/>
+髙跡何来此逰方漸老身𣣔投蓮岳夏𥘉過竟陵春錫<pc n="lb"/>
+                    <pb n="6b"/>
+影離雲逺衣痕拂藓新無言即相别此䖏不迷津<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>闻貫休下世<pc n="lb"/>
+吾師詩匠者真箇碧雲流争淂梁太子更為文選樓錦<pc n="lb"/>
+江新種樹㜈女舊山秋𣣔去焚香裏啼猿峽阻修<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>金山寺<pc n="lb"/>
+山帶金名逺樓䑓<graphic n="KR1062" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1062.png" mimeType="image/png"/>翠層<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>龍光照象風浪影揺燈檻<pc n="lb"/>
+外揚州樹舡通建業僧塵埃何所到青石㘴如氷<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>早秋雨後晚望<pc n="lb"/>
+暑氣時將薄蟲聲亱轉稠江湖經一雨日月换新秋有<pc n="lb"/>
+景堪援茟何人未上樓𣣔承凉冷興西向碧嵩逰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>過西塞山<pc n="lb"/>
+                    <pb n="7a"/>
+空江<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>野流風島葦颼颼殘日銜西塞孤㠶向北洲邊<pc n="lb"/>
+鴻渡漢口椘樹出吴頭終入髙雲裏身依片石休<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>溪齋二首<pc n="lb"/>
+豈敢言招隐㱕休喜自安一溪雲卧稳四海路行難瑞<pc n="lb"/>
+獸藏頭角幽禽惜羽翰子猷何䖏在老盡碧琅玕<pc n="lb"/>
+杉竹映溪關脩脩共歲寒幽人眠日晏花雨落春殘道<pc n="lb"/>
+玅言何强詩玄論甚難闲居有親賦搔首憶潘安<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>新秋<pc n="lb"/>
+始驚三伏盡又遇立秋時露彩朝還冷雲峯晚更竒壠<pc n="lb"/>
+香禾半熟原逈草微衰幸好清光裏安仁謾𧺫悲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄上荆渚囙夣廬岳乃阁壁賦詩<pc n="lb"/>
+                    <pb n="7b"/>
+夣繞嵯峨裏神踈骨亦寒覚来誰共說壁上自圗看古<pc n="lb"/>
+翠松藏寺春紅杏<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>壇㱕心幾時遂日向漸衰殘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>己夘歲值凍阻㱕有作<pc n="lb"/>
+河氷連地凍朔氣<graphic n="KR1062" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1062.png" mimeType="image/png"/>春寒闭户思㱕逺出门移歩難湖<pc n="lb"/>
+雲粘鴈重廟樹括風乾㘴看孤燈㷔微微向晚殘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送盧說亂後投知己<pc n="lb"/>
+兵㓂殘江墅生涯盡蕩除亊堪煎桂玉時莫倚詩書暮<pc n="lb"/>
+狖啼空半春山列雨餘舟中有新作廻寄示慵踈<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>讀峴山碑<pc n="lb"/>
+三載羊公政千年峴首碑何人㪅堕淚此道亦殊時兵<pc n="lb"/>
+火燒文缺江雲觸蘚滋那堪望黎庻帀地是瘡痍<pc n="lb"/>
+                    <pb n="8a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>過鹿门作<pc n="lb"/>
+鹿门埋孟子峴首載羊公萬古千秋裏青山眀月中政<pc n="lb"/>
+從㐮沔絶詩過洞庭空塵路誰囬眼松聲两䖏風<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題玉泉寺大師影堂<pc n="lb"/>
+大化終華頂霊蹤示玉泉由来負髙尚合向好山川洞<pc n="lb"/>
+壑藏諸怪杉松列痩煙千秌空樹影猶似覆長禅<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秌日銭塘作<pc n="lb"/>
+秌光眀水國㳺子倚長亭海浸全呉白山澄百越青英<pc n="lb"/>
+雄貴黎庶封圡絶精霊勾踐䰟如在應漸戦血腥<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人赴舉<pc n="lb"/>
+分有争忘得時来湏出山白雲終許在清世莫空還馹<pc n="lb"/>
+                    <pb n="8b"/>
+樹秌聲徤行衣雨點斑眀年從月裏滿握度春關<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>答人寒亱所寄<pc n="lb"/>
+通宵亦孤㘴但念舊峰雲白日還如此清闲本共君二<pc n="lb"/>
+毛凋一半百歲去三分早晚尋流水同㱕麋鹿群<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬洞庭陳秀才<pc n="lb"/>
+何必要識面見詩驚苦心此门從自古難学至如今青<pc n="lb"/>
+草湖雲濶黄陵廟木深精搜當好景得即動知音<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題鶴鳴泉八韵<pc n="lb"/>
+嘹嚦遺踪去澄眀物掩難噴開山面碧飛落寺门寒汲<pc n="lb"/>
+引随瓶滿分流逐䖏安幽虫乗葉過渇狖擁條看上有<pc n="lb"/>
+危峰叠旁冝怪石盤冷吞雙樹影甘润百毛端異早闻<pc n="lb"/>
+                    <pb n="9a"/>
+鎸玉靈終别建壇潇湘在何䖏終日自波澜<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>登金山寺<pc n="lb"/>
+四面白波聲中流翠嶠横望来堪目㫁上徹始心<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>鳥<pc n="lb"/>
+向天涯去雲連水國生重来與誰約題罷自吟行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄吴都沈員外彬<pc n="lb"/>
+歸休興若何朱紱盡還他自有園林濶誰争山水夛村<pc n="lb"/>
+煙晴莾蒼僧罄晚嵯峨野酔題拈隐相思何䖏麽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄眀月山僧<pc n="lb"/>
+山稱眀月好月出遍山眀要上諸峰去無妨半亱行白<pc n="lb"/>
+猿真雪色幽鳥古琹聲吾子居来乆應忘我在城<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄哭西川壇長廣濟大師<pc n="lb"/>
+                    <pb n="9b"/>
+千萬僧中寳三朝帝寵身還原未化火举國葬全真文<pc n="lb"/>
+集編金在碑銘刻玉新有誰於異代弹指禮遺塵<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬西川椘巒上人卷<pc n="lb"/>
+玉壘峨<graphic n="KR1453" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1453.png" mimeType="image/png"/>秀岷江錦水清古人搜不盡吾子得何精可<pc n="lb"/>
+信由前集堪闻正後生東西五千里夛謝寄無成<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>覧延西上人卷<pc n="lb"/>
+今體雕鎪妙古風研考精何人忘律韵爲子辨詩聲賈<pc n="lb"/>
+島苦兼此孟郊清獨行荆门見編集媿我老無成<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄洛下王<graphic n="KR0595" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0595.png" mimeType="image/png"/>訓先軰二首<pc n="lb"/>
+賈島存正始王維留格言千篇千古在一詠一驚䰟離<pc n="lb"/>
+别無他寄相思共此门陽春堪永恨郢路轉塵昏<pc n="lb"/>
+                    <pb n="10a"/>
+北極新英主髙科舊少年風流傳貴逹談笑取榮遷浴<pc n="lb"/>
+水秋空底嵩峰暁翠巔尋常誰並馬橋上戲成篇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬岳陽李主簿卷<pc n="lb"/>
+把卷思髙興瀟湘濶浸门無雲生翠浪有月動清䰟倚<pc n="lb"/>
+檻應窮底凝情合到源爲君吟所寄難甚至忘筌<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄懐江西僧逹禅翁<pc n="lb"/>
+長憶舊山日與君同聚沙未䏻精貝葉便学詠楊花苦<pc n="lb"/>
+甚傷心骨清還切齒牙何妨繼餘習前世是詩家<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送吴守眀先軰逰蜀<pc n="lb"/>
+憑君逰蜀去細爲話幽竒丧亂嘉陵馹塵埃賈島詩未<pc n="lb"/>
+應過錦府且合上峨<graphic n="KR1453" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1453.png" mimeType="image/png"/>既遂髙科後東西任所之<pc n="lb"/>
+                    <pb n="10b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄普眀大師可凖<pc n="lb"/>
+蓮嶽三微者論詩舊與君相留曾幾歲酬唱有新文翠<pc n="lb"/>
+竇容闲憇嵐峯許共分當年若同訪合得伴吟雲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>還黄<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>素秀才卷<pc n="lb"/>
+求己甚忘筌得之經渾然僻䏻離詭差清不尚妖妍冷<pc n="lb"/>
+淡闻姚監精竒見浪僊如君好風格自可繼前賢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>與張先軰話别<pc n="lb"/>
+為<pc n="　"/>者各自話離心及第還全蜀逰方歸二林巴<pc n="lb"/>
+江<pc n="　"/>漲椘野入吴深他日傳消息東㱕不易尋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄朱拾遺<pc n="lb"/>
+一闻㱕闕下幾畨熟金桃滄海期仍晚清資路漸髙研<pc n="lb"/>
+                    <pb n="11a"/>
+氷濡諌茟賦雪擁朝袍豈念空林下冥心㘴石劳<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆门送興禅師<pc n="lb"/>
+灑落南宗子逰方跡似雲青山尋䖏處赤葉路纷紛虎<pc n="lb"/>
+共松岩宿猿和石溜闻何峯一回首憶我在人羣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>過西山施睂吾舊居<pc n="lb"/>
+大志終難𧺫西峯卧翠堆牀前到秋<graphic n="KR0676" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0676.png" mimeType="image/png"/>枕上過春雷鶴<pc n="lb"/>
+見丹成去僧闻栗熟来荒齋松竹老鸞鶴自徘徊<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喜夏雨<pc n="lb"/>
+四郊雲影合千里雨聲来盡洗紅埃去併將清氣回潺<pc n="lb"/>
+湲浮椘甸蕭散露荆臺𣣔賦随車瑞濡毫謁䛕才<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬元員外見寄八韵<pc n="lb"/>
+                    <pb n="11b"/>
+舊隐夣牽仍㱕心只似蒸逺青憐島峭輕白<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>雲騰艶<pc n="lb"/>
+冶叢翻蜨腥膻地聚蝇雨聲連洒竹詩興繼填膺訪戴<pc n="lb"/>
+情彌切依劉力不勝衆人忘苦苦獨自愧兢兢䖏世無<pc n="lb"/>
+他望流年有病僧時惭大雅客遺韵許相承<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>浣口泊舟曉望天柱峯<pc n="lb"/>
+根盤潛岳半頂遍日輪邉冷碧無雲點危稜有瀑懸秀<pc n="lb"/>
+輕毛女下名與鼎湖偏誰見扶持力峩峩出後天<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄椘萍上人<pc n="lb"/>
+北面香爐秀南邉瀑布寒自来還獨去夏滿又秋殘日<pc n="lb"/>
+影松杉亂雲容洞壑寛何峯是憐側片石許相安<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>竹裏作六韵<pc n="lb"/>
+                    <pb n="12a"/>
+我来深䖏㘴剩覺有吟思忽似瀟湘㟁𣣔生風雨時冷<pc n="lb"/>
+煙濛古屋乾箨堕秋墀徑熱囙頻入身闲得遍欹踏多<pc n="lb"/>
+鞭節損題亂粉痕墮猶見前山叠微茫隔短籬<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄江西幕中孫鲂員外<pc n="lb"/>
+簮履為官興芙蓉結社縁應思陶令酔時訪逺公禅茶<pc n="lb"/>
+影中殘月松聲裏落泉此门曾共説知未遂終焉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>盆池<pc n="lb"/>
+盆沼䧟花邉孤眀似玉泉<graphic n="KR0636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0636.png" mimeType="image/png"/>虚心不淺待月底長圓<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>
+稳承天泽依微泛曙煙何湏照菱鏡即此鍳媸妍<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喜乾晝上人逺相訪<pc n="lb"/>
+彼此垂七十相逢意若何聖眀殊未至離亂㪅應夛澹<pc n="lb"/>
+                    <pb n="12b"/>
+                    <pb n="13a"/>
+<pb n="14a"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+    <p>
+<pc n="lb"/>
+                    
+白蓮集卷第三<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊<pc n="　"/>己<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>過陳陶䖏士舊居<pc n="lb"/>
+一室貯琴樽詩皆大雅言亱過秋竹寺酔打老僧门逺<pc n="lb"/>
+燒来籬下寒𬞞簇石根闲庭除鶴跡半是杖頭痕<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄敬亭清越<pc n="lb"/>
+敬亭山色古廟與寺松連住北修行過春風四十年鼎<pc n="lb"/>
+嘗天柱茗詩硾剡溪牋冥目應思著終南北闕前<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湘江漁父<pc n="lb"/>
+湘潭春水滿㟁逺草青青有客釣煙月無人論酔醒门<pc n="lb"/>
+前蛟蜃氣簑上蕙蘭馨曾受蒙荘子逍遥一卷經<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>書古寺僧房<pc n="lb"/>
+緑樹深深䖏長眀㷔㷔燈春時逰寺客花落闭门僧萬<pc n="lb"/>
+法心中寂孤泉石上澄勞生莫相问喧黙不相應<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湖西逸人<pc n="lb"/>
+老隐洞庭西漁樵共一溪琹前孤鶴影石上逺僧題橘<pc n="lb"/>
+柚園林熟兼葭徑路迷君䏻許隣並分藥斸春畦<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>瀟湘二十韵<pc n="lb"/>
+二水逺難論從離向坎奔冷穿千嶂脉清過幾州门阔<pc n="lb"/>
+去多凝白傍来盡帶渾經逰闻舜禹表裹見乾坤浦静<pc n="lb"/>
+魚闲釣湾凉鴈自屯月来分野底雲度見秋痕暮氣藏<pc n="lb"/>
+鄰寺寒濤聒近村離騷傳永恨皷瑟奏遺魂霧擁魚龍<pc n="lb"/>
+                    <pb n="1b"/>
+窟槎欹島嶼根秋風㠶上下落日樹沉昏桞少砂洲缺<pc n="lb"/>
+苔多古㟁存禽巢依橘柚獺徑入蘭蓀色自江南絶名<pc n="lb"/>
+闻海内尊吴頭雄莫遏漢口壮堪吞寥泬晴方映馮夷<pc n="lb"/>
+信忽飜渡遥峰翠叠汀小荻花繁势接湖煙漲聲和瘴<pc n="lb"/>
+雨歕急摇吟客舫狂濺野人樽䟽鑿誰窮夲澄鲜自有<pc n="lb"/>
+源對兹傷九曲含濁出崑崙<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>江行早彂<pc n="lb"/>
+舟子相呼𧺫長江未五㪅幾程星月在猶載夣魂行鳥<pc n="lb"/>
+亂村林過人喧水栅横蒼茫<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>野外漸認逺峰名<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宜陽道中作<pc n="lb"/>
+宜陽南面路下嶽又經過楓葉紅遮店芒花白滿坡猿<pc n="lb"/>
+                    <pb n="2a"/>
+無山漸薄鴈衆水還夛日落猶前去諸村牧監歌<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>落日<pc n="lb"/>
+晚照背髙臺殘鐘殘角催䏻銷幾度月已是半生来吹<pc n="lb"/>
+葉隂風彂漫空暝色囬囙思古人事㪅變畫成埃<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>春興<pc n="lb"/>
+桺暖鶯多語花眀艸盡長風流在詩句牽率在池塘呌<pc n="lb"/>
+切禽名宇飛忙蝶性荘時来真可惜自勉掇蘭芳<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逺山<pc n="lb"/>
+天際雲根破寒山列翠廻幽人當立乆白鳥背飛来瀑<pc n="lb"/>
+濺何州地僧尋幾嵪苔終湏拂巾履獨去謝塵埃<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>和鄭谷郎中幽棲之什<pc n="lb"/>
+                    <pb n="2b"/>
+誰知闲退跡门<graphic n="KR0985" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0985.png" mimeType="image/png"/>入寒汀静倚雲僧杖孤看野燒星墨<pc n="lb"/>
+霑吟石黑苔染釣舡青相對惟溪寺𥘉宵闻念經<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>勉道林謙光鴻藴二首<pc n="lb"/>
+舊林諸侄在還住<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>師房共<pc n="　"/>焚修地同闻水石香莫<pc n="lb"/>
+將闲世界擬敵好時光湏看南山下無名塜滿岡<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>渚宫自勉二首<pc n="lb"/>
+晨午殊豊足伊何撓肺腸形容侵老病山水憶韜藏必<pc n="lb"/>
+謝金䑓去還携鉄錫將東林露壇畔舊對白蓮房<pc n="lb"/>
+畢竟擬何求随縁去住休天涯逰勝境海上宿仙洲夣<pc n="lb"/>
+好尋無跡詩成旋不㽜從人笑輕事獨自憶荘周<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝㴩湖茶<pc n="lb"/>
+                    <pb n="3a"/>
+㴩湖唯上貢何以惠尋常還是詩心苦堪消蠟面香碾<pc n="lb"/>
+聲通一室烹色帶殘陽若有新春者西来信勿忘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄㱕州馬判官<pc n="lb"/>
+郡帶女䫋名民康境亦寕宴梳秋鬂白闲㘴暮山青贈<pc n="lb"/>
+客椒𥘉熟尋僧酒半醒應懐舊居䖏歌管隔墙聽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>倦客<pc n="lb"/>
+闭眼即關门人间事倦闻如何迎好客不似看闲雲少<pc n="lb"/>
+𣣔資三要多言讓十分踈慵本吾性任笑早離羣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送靈𧦬上人逰五䑓<pc n="lb"/>
+此去清凉頂期瞻大聖容便應過洛水即未上嵩峰殘<pc n="lb"/>
+照催行影幽林惜駐蹤想登金阁望東北極兵峰<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>静㘴<pc n="lb"/>
+㘴卧與行住入禅還出吟也應長日月消淂箇身心嘿<pc n="lb"/>
+論相<pc n="　"/>少黄梅付嘱㴱门前古松<graphic n="KR0985" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0985.png" mimeType="image/png"/>時𧺫歩淸陰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝虗中上人寄示題天策阁詩<pc n="lb"/>
+天策二首作境幽搜亦玄阁横三椘上題挂九霄邉寺<pc n="lb"/>
+額囙摽勝詩人合遇賢他時誰倚檻吟此豈忘筌<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆门寄懐章供奉兼呈幕中知己<pc n="lb"/>
+紫衣居貴上青衲老關中事佛门相似朝天路不同神<pc n="lb"/>
+凝無悪夣詩澹老真風闻道知音在官髙信莫通<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>江令石<pc n="lb"/>
+思量江令意<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>石甚悠悠貪向深宫去死同忘國休両<pc n="lb"/>
+                    <pb n="4a"/>
+株荒草裏千古暮江頭若似黄金貴隋軍也不留<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>月下作<pc n="lb"/>
+良夜如清晝幽人在小庭滿空垂列宿那箇是文星世<pc n="lb"/>
+界㱕誰是心䰟向自寕何當見堯舜重為造生靈<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逰道林寺四絶亭覌宋杜詩版<pc n="lb"/>
+宋杜詩題在風騷到此真獨来終日㸔一為拂秋塵古<pc n="lb"/>
+石生寒仞春松脱老鳞髙僧眼根净應見客吟神<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>勉詩僧<pc n="lb"/>
+莫把毛生刺低回謁李膺湏防知佛者觧笑<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>名僧道<pc n="lb"/>
+性宜如水詩情合似氷還同蓮社客聫唱遶香燈<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人墨<pc n="lb"/>
+                    <pb n="4b"/>
+珍重歲寒煙携来路幾千只應真典誥消得苦磨研正<pc n="lb"/>
+色浮端硯精光動蜀牋囙君强濡染捨此即忘筌<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人逰玉泉寺<pc n="lb"/>
+西風大雪開萬<pc n="　"/>向空堆客䝿猶尋去僧髙肯不来潭<pc n="lb"/>
+澄猿覷月竇冷鹿眠苔公子將才子聫題與未迴<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄鄭谷郎中<pc n="lb"/>
+詩心何以傳所證自同禅覔句如探虎逢知似得僊神<pc n="lb"/>
+清太古在字好雅風全曾沐星郎許終慙是斐然<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>春雨<pc n="lb"/>
+𣣔布如膏势先闻動地雷雲龍相得𧺫風電一時来霡<pc n="lb"/>
+霂農桑野冥𪷟楊柳䑓何人待晴暖庭有牡丹開<pc n="lb"/>
+                    <pb n="5a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>眀月峰<pc n="lb"/>
+眀月峰頭石曾闻学月眀别舒長亱彩髙照一村耕頗<pc n="lb"/>
+亂無私理徒驚鄙俗情傳云遭鑿後頑白在峥嵘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠紫栗拄杖<pc n="lb"/>
+仙掌峰前得何當此見遺百年衰朽骨六尺歲寒姿雪<pc n="lb"/>
+外兼松凭泉邉待月欹他時出山去猶謝見相随<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人逰湘湖<pc n="lb"/>
+君逰南國去旅夣若為寕一路随鴻雁千峯遶洞庭林<pc n="lb"/>
+眀楓盡落野黑燒𥘉經有興尋僧否湘西寺最灵<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>小松<pc n="lb"/>
+彂地纔過脉蟠根已有灵巖霜百草白深院一株青後<pc n="lb"/>
+                    <pb n="5b"/>
+亱蕭騷動空階蟋蟀聼誰扵千歲外吟遶老龍形<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>金江庽居<pc n="lb"/>
+老盤應未永聊此養闲䟱野趣今何似詩題舊不如春<pc n="lb"/>
+篁離籜盡陂藕折花𥘉終亱秋雲是從風恣卷舒<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>晚夏金江庽居答友生<pc n="lb"/>
+日日衝殘熱相尋入亂蒿闲中滋味逺詩裹是非髙碧<pc n="lb"/>
+聳新生竹紅垂半熟桃時難未可出且𣣔㳃豪曺<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄李洞秀才<pc n="lb"/>
+到䖏聴時論知君屈最㴱秋風幾西笑抱玉但傷心野<pc n="lb"/>
+水飜紅藕滄江老白禽相思未相識闻在蜀中吟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>過商山<pc n="lb"/>
+                    <pb n="6a"/>
+叠叠叠嵐寒紅塵翠裏盤前程有名利此路莫艱難雲<pc n="lb"/>
+木侵天老輪蹄到月殘何䏻尋四皓過盡見長安<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蝉八韵<pc n="lb"/>
+咽咽復啾啾夛来自蚤秋園林<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>正好風雨思相收在<pc n="lb"/>
+䖏声無别何人淚𣣔流冷憐天露滴傷共野禽逰静息<pc n="lb"/>
+深依竹驚移瞥過樓分眀晴渡口凄切暮關頭時節推<pc n="lb"/>
+應㝎飛鳴即未休年年闻爾苦逺憶所居幽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鷺鷥二首<pc n="lb"/>
+日日滄江去時時得意㱕自䏻終潔白何慮悮飜飛晚<pc n="lb"/>
+立銀塘濶秋栖玉露微殘陽葦花畔雙下釣<graphic n="KR1813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1813.png" mimeType="image/png"/>磯<pc n="lb"/>
+雪裏曾迷我籠中舊養君忽從紅蓼㟁飛出白鷗群影<pc n="lb"/>
+                    <pb n="6b"/>
+照翹灘浪翎濡宿島雲鴛鴻觧相憶天上列紛紛<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送僧㱕南岳<pc n="lb"/>
+濁世住終難孤峯念永安逆風睂磔磔衝雪錫珊珊石<pc n="lb"/>
+室關霞嫩松枝拂藓乾岩猿應認得連臂下勾欄<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日林下作<pc n="lb"/>
+煩暑莫相煎森森在眼前暫来還盡日獨㘴只闻蝉草<pc n="lb"/>
+媚終難死花飛卆未蔫秋風捨此去滿篋貯新篇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>村居寄懐<pc n="lb"/>
+風雨如尭代何心𣣔退藏諸侯行教化下國自耕桑道<pc n="lb"/>
+挫時機盡禅留話路長前溪乆不過忽覚早禾香<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬王秀才<pc n="lb"/>
+                    <pb n="7a"/>
+相扵分倍親静論到吟真王澤曾無外風騷甚少人鴻<pc n="lb"/>
+随秋過盡雪向臘飛頻何䖏夛幽勝期君作近隣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈無本上人<pc n="lb"/>
+往年吟月社固亂散揚州未免無端事何妨出世流洞<pc n="lb"/>
+庭禅過臘衡岳㘴經秋終説將衣鉢天台老去休<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄華山司空圖<pc n="lb"/>
+天下艱難際全家入華山幾勞丹詔问空見使臣還瀑<pc n="lb"/>
+布寒吹夣蓮峯翠<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>關兵戈阻相訪身老瘴雲间<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題真州精舍<pc n="lb"/>
+波心精舍好那㟁是繁華碍目無髙樹當门即逺沙晨<pc n="lb"/>
+齋来海客亱磬到漁家石鼎秋濤静禅回有岳茶<pc n="lb"/>
+                    <pb n="7b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懐道林寺囙寄仁用二上人<pc n="lb"/>
+名山知不逺長憶寺门松昨晚登樓見前年過夏峰雨<pc n="lb"/>
+餘雲脚樹風外日西鐘莫㪅来東㟁紅塵没馬踪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>尋陽道中作<pc n="lb"/>
+秋聲連岳樹草色遍汀洲夛事時為客無人䖏上樓雲<pc n="lb"/>
+䟱片雨歇野闊九江流𣣔向南朝去詩僧有惠休<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東林雨後望香爐峰<pc n="lb"/>
+翠<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>僧窓裡寒堆鳥道邉静思尋去路危遶落来泉暮<pc n="lb"/>
+雨開青壁朝陽照紫煙二林夛長老誰憶上頭禅<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄雙泉大師師兄<pc n="lb"/>
+清泉流眼底白道倚岩<graphic n="KR0994" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0994.png" mimeType="image/png"/>後亱禅𥘉入前溪樹折氷南<pc n="lb"/>
+                    <pb n="8a"/>
+<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>来的的北魏去騰騰敢告吾師意宻傳门外僧<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人润州尋兄弟<pc n="lb"/>
+君話南徐去迢迢過建康弟兄新得信鴻雁乆離行木<pc n="lb"/>
+落空林浪秋殘漸雪霜闲逰登北固東海望滄滄<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>貽張生<pc n="lb"/>
+日日見入寺未曾含酒容闲聼老僧語㘴到夕陽鐘竹<pc n="lb"/>
+裏行夛影花邉偶過踪猶言謝生計随我去孤峰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人逰雍亰<pc n="lb"/>
+君来乞詩别聊與愴前程九野未無事少年何逺行商<pc n="lb"/>
+雲盤翠險秦甸下煙<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>應見周南化如今在雍亰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>春草<pc n="lb"/>
+                    <pb n="8b"/>
+䖏處碧萋萋<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>原帶日西堪随逰子路逺入鷓鴣啼金<pc n="lb"/>
+谷園應沒夫差國已迷𣣔尋蘭蕙徑荒穢滿汀畦<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懐華頂道人<pc n="lb"/>
+華頂星邉出真宜上士家無人觸牀榻滿屋貯煙霞㘴<pc n="lb"/>
+卧<graphic n="KR0916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0916.png" mimeType="image/png"/>天井晴眀見海涯禅餘槁上去屐齒印松花<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄自牧上人<pc n="lb"/>
+五老囘無計三峰去不成何言謝雲鳥此地識公卿夣<pc n="lb"/>
+媿將僧説心嫌觸類生南朝古山寺曾憶共尋行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>静㘴<pc n="lb"/>
+日日只騰騰心機何以興詩魔苦不利禅寂頗相應硯<pc n="lb"/>
+滿塵埃點衣夛㘴卧<graphic n="KR0994" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0994.png" mimeType="image/png"/>如斯自消息合是箇闲生<pc n="lb"/>
+                    <pb n="9a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人逰衡岳<pc n="lb"/>
+荆椘臘將殘江湖蒼莾间孤舟載髙興千里向名山雪<pc n="lb"/>
+浪来無㝎風㠶去是闲石槁僧問我應寄岳茶還<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>答知己自闕下寄書<pc n="lb"/>
+故人劳札翰千里寄荆䑓知戀文眀在未尋江漢来羣<pc n="lb"/>
+機喧白晝陸海漲黄埃得路應相咲無成守死灰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>新筍<pc n="lb"/>
+亂迸苔銭破参差小出欄層層離錦箨節節露琅玕直<pc n="lb"/>
+上心終勁四垂煙漸寛𣣔知含古律試剪鳳簫看<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>寄唐洙䖏士<pc n="lb"/>
+行僧去湘水㱕鴈度荆门彼此亾家國東西役夣䰟夛<pc n="lb"/>
+                    <pb n="9b"/>
+慵如長傲乆住不生根曾问興亾事丁寕寄勿言<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠竹蝇拂<pc n="lb"/>
+妙刮筠篁製纎柔玉柄同拂蝇聲滿室指月影遙空敢<pc n="lb"/>
+捨經行外常將宴㘴中揮談一無取千萬愧生公<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>新燕<pc n="lb"/>
+燕燕知何事年年應候来却縁華屋在長得好時催花<pc n="lb"/>
+外啣泥去空中接食囘不同黄雀意迷逐網羅媒<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝王先軰寄壇<pc n="lb"/>
+深謝髙科客名氊寄惠重静思生朔漠和雪長蒙茸摺<pc n="lb"/>
+㘴資禅悦鋪眠减病容他年從破砕憺去卧孤峰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄懐闕下髙輦先軰卷<pc n="lb"/>
+                    <pb n="10a"/>
+去歲逢亰使囙還所寄詩難留天上作曾换月中枝趣<pc n="lb"/>
+極僧迷㫖功深鬼不知仍闻得名後特地㪅忘疲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>和孫支使惠示院中庭竹之什<pc n="lb"/>
+憶就江僧乞和煙得一茎剪黄憎舊夲科緑惜新生䕶<pc n="lb"/>
+噪蝉身稳資吟客眼眀星郎有佳詠雅合此君聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>苦熱中江上懐爐峰舊居<pc n="lb"/>
+舊寄爐峰下杉松遶石房年年五六月江上憶清<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>乆<pc n="lb"/>
+別應荒廢終㱕隔渺茫何當便摇落披衲玩秋光<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送僧逰龍门香山寺<pc n="lb"/>
+君到香山寺探幽莫損神且尋風雅主細看楽天真<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>江上值春雨<pc n="lb"/>
+                    <pb n="10b"/>
+江臯正月雨<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>陸亦波澜半是峨睂雪重為泽國寒<pc n="lb"/>
+田淹寝盡客棹往来難愁殺騷人路滄浪正渺漫<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>七十作<pc n="lb"/>
+七十去百歲都来三十春縱饒生得到終免死無囙宻<pc n="lb"/>
+理方通理栖真始見真沃洲匡阜客幾刧不迷人<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝虚中寄新詩<pc n="lb"/>
+舊友一千里新詩五十篇此文經大匠不見已多年趣<pc n="lb"/>
+極同無迹精深合自然相思把行㘴南望隔塵烟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送彬座主赴龍安請講<pc n="lb"/>
+両論乆研精龍安受請行春城雨雪霽古寺殿堂眀白<pc n="lb"/>
+髮老僧聼金毛師子聲同流有誰共别著國風清<pc n="lb"/>
+                    <pb n="11a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日荆渚書懐<pc n="lb"/>
+嵩岳去值亂匡廬回阻兵中途息瓶錫十載依公卿不<pc n="lb"/>
+那猿鳥性但懐林泉聲何時遂情興吟遶杉松行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>春日西湖作<pc n="lb"/>
+一水遶孤島闭门掩春草曾無長者轍枉此问衰老<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝中上人寄茶<pc n="lb"/>
+春山穀雨前併手摘芳煙緑嫩難盈籠清和易晩天且<pc n="lb"/>
+招鄰院客試煮落花泉地逺劳相寄無来又隔年<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送節大徳㱕闕<pc n="lb"/>
+西亰曾入内東洛又朝天聖上方虚席僧中正乏賢晨<pc n="lb"/>
+光金殿裏紫氣玉簾前知祝唐尭化新㤙異往年<pc n="lb"/>
+                    <pb n="11b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>覧清尚卷<pc n="lb"/>
+李洞僻相似得詩先示師鬼神迷去䖏風月背吟時格<pc n="lb"/>
+己搜清竭名還看紫卑從容味髙作飜為古人疑<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆门送晝公㱕彭澤舊居<pc n="lb"/>
+彭澤舊居在匡廬翠叠前囙思從椘寺便附入吴舩㟁<pc n="lb"/>
+遶春殘樹江浮晚霽天應過虎溪社佇立想諸賢<pc n="lb"/>
+白蓮集卷第三<pc n="lb"/>
+                    <pb n="12a"/>
+<pb n="12b"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+    <p>
+<pc n="lb"/>
+                    
+白蓮集卷第四<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊<pc n="　"/>己<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>登祝融峰<pc n="lb"/>
+猿鳥不共到我来身𣣔浮四邉空碧落絶頂正清秋宇<pc n="lb"/>
+宙知何極華夷見細流壇西獨立乆白日轉神州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄貫休<pc n="lb"/>
+子羙曾吟䖏吾師𣸪去吟是何多勝地銷得二公心錦<pc n="lb"/>
+水流春濶峨睂叠雪深時逢蜀僧説㦯道近逰黔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送唐禀正字㱕萍川<pc n="lb"/>
+霜鬚芸阁吏乆掩白雲扉求謁元戎後還騎病馬㱕煙<pc n="lb"/>
+村蔬飲淡江驛雪泥肥知到中林日春風長涧薇<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄懐江西栖公<pc n="lb"/>
+龍沙為别日廬阜得書年不見来香社相思遶白蓮江<pc n="lb"/>
+僧㱕海寺椘路接吴煙老病何堪説扶羸寄此篇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>山中喜得友生書<pc n="lb"/>
+柴门關樹石未省夣塵埃落日啼猿裏同人有信来自<pc n="lb"/>
+成為拙隐難以謝夛<pc n="　"/>見説相思䖏前峰對古䑓<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠扇子及茶<pc n="lb"/>
+鎗旗封蜀茗圓潔製蛟綃好客分烹煑青蝇避動揺陸<pc n="lb"/>
+生誇妙法班女恨<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>颷多謝崔居士相思寄寂寥<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄監利司空學士<pc n="lb"/>
+詩家為政别清苦日闻新亂後無荒地㱕来盡逺人寛<pc n="lb"/>
+                    <pb n="1b"/>
+容民賦税憔悴吏精神何必河陽縣空傳桃李春<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>答陳秀才<pc n="lb"/>
+萬事皆可了有詩门最深古人難得志吾子苦留心野<pc n="lb"/>
+叠<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>雲朶苔重怪木陰他年立名字笑我老雙林<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逰橘洲<pc n="lb"/>
+春日上芳洲經春蘭杜幽此時尋橘㟁昨日在城樓鷺<pc n="lb"/>
+立青楓杪沙沉白浪頭漁家好生計<graphic n="KR0585" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0585.png" mimeType="image/png"/>底繫扁舟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄武陵道友<pc n="lb"/>
+阮肇迷仙䖏禅门接紫霞不知尋鶴路幾里入桃花晚<pc n="lb"/>
+樹陰摇藓春潭影弄砂何當見招我乞與片生涯<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠薬<pc n="lb"/>
+                    <pb n="2a"/>
+五金元造化九錬更精新敢謂長生客將遺必死人乆<pc n="lb"/>
+飡應换骨一服已通神終逐淮王去永抛浮世塵<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>還族弟卷<pc n="lb"/>
+豈要私相許君詩自入神風騷何句出瀑布一聫新苦<pc n="lb"/>
+若長如此名湏逺逐身闲齋舒復卷留滯忽經旬<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送周秀逰峽<pc n="lb"/>
+又向夔城去知難動旅䰟自非亡國客何慮㫁腸猿灔<pc n="lb"/>
+澦分髙仞瞿塘露洩痕眀年期此約<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>稳到荆门<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆门夏日寄洞山節公<pc n="lb"/>
+叠光摇翠木霊洞叠雲深五月經行䖏千秋檜栢陰山<pc n="lb"/>
+形<graphic n="KR0916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0916.png" mimeType="image/png"/>北渚僧格繼東林莫惜相招信余心是此心<pc n="lb"/>
+                    <pb n="2b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>再經蔣山與諸長老亱話<pc n="lb"/>
+逺迹都如鴈南行又北囬老僧猶記得往歲已曾耒話<pc n="lb"/>
+遍名山境焼殘黑檪灰無囙伴師往㱕思在天台<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄當陽張眀府<pc n="lb"/>
+玉泉神運寺寒罄徹琹堂有境霊如此為官興亦長吏<pc n="lb"/>
+愁清白甚民楽賦輸忘闻説巴山縣今来尚憶張<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逰三覺山<pc n="lb"/>
+白石路重重萦行势忽窮孤峰擎像阁萬木蔽星空世<pc n="lb"/>
+論随時變禅懐厯刼同良宵正冥目海日上牎紅<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>庭際晚菊上主人<pc n="lb"/>
+九月將𣣔盡幽叢始綻芳都縁含正氣不是背重陽採<pc n="lb"/>
+                    <pb n="3a"/>
+去蜂聲逺尋来蝶路長王孫㱕未晚猶得泛金觴<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送趙長史㱕闽川<pc n="lb"/>
+荆门與闽越關戍隔三千風雪揚㠶去䑓隍栺海邉客<pc n="lb"/>
+情消旅大王化似尭年莫失春廽約江城穀雨前<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>擬嵇康絶交寄湘中貫微<pc n="lb"/>
+何䖏同嵇懶吾徒道異諸本無文字学何<pc n="　"/>往来書嶽<pc n="lb"/>
+寺逍遥夣侯门勉强居相知在玄契莫訝八行踈<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄許州清古<pc n="lb"/>
+北来儒士說許下有吟僧白日身長倚清秋塔上層言<pc n="lb"/>
+雖依景得理要入無徴敢望夛相示孱㣲老不勝<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝丁秀才見示賦卷<pc n="lb"/>
+                    <pb n="3b"/>
+五首新裁剪搜羅盡指㱕誰曾師古律君自負天機聖<pc n="lb"/>
+后求賢乆名公得雋稀乘秋好擕去直望九霄飛<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>驚秋<pc n="lb"/>
+褰簾聽秋信晚傍竹聲㱕多故堪傷骨孤峰好拂衣梧<pc n="lb"/>
+桐凋緑盡菡蓞堕紅稀却恐吾形影嫌心與口違<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日雨中寄幕中知己<pc n="lb"/>
+北風吹夏雨和竹亞南軒豆枕欹<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>冷蓮峰入夣魂窓<pc n="lb"/>
+多斜迸<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>庭徧暴流痕清興知無限晴来示一言<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>亱次湘隂<pc n="lb"/>
+風濤出洞庭㠶影入澄清何䖏驚鴻𧺫孤舟趂月行時<pc n="lb"/>
+難多戦地野阔絶春耕骨肉知存否林園近郡城<pc n="lb"/>
+                    <pb n="4a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄唐禀正字<pc n="lb"/>
+䟱野還如舊何曾稱在城水邉無伴立天際有山横落<pc n="lb"/>
+日雲霞赤髙窓茟硯眀鮑昭夛所得時憶寄湯生<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宿舒湖希上人房<pc n="lb"/>
+入寺先来此經窓半在湖秋風新菡萏暮雨老菰蒲任<pc n="lb"/>
+聼浮生速䏻消默㘴無語来燈熖短嘒唳彂髙梧<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>戊辰歲江南感懐<pc n="lb"/>
+忽忽動中私人间何所之老過離亂世生在太<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>時桃<pc n="lb"/>
+李春無主杉松寺有期曾吟子山賦何啻舊凌遲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送林上人㱕永嘉舊居<pc n="lb"/>
+東越常懸思山门在永嘉秋光浮椘水㠶影背長沙城<pc n="lb"/>
+                    <pb n="4b"/>
+黑天台雨村眀海嶠霞時尋謝公跡春草有瑶花<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>答友生山居寄示<pc n="lb"/>
+嘉遁有新吟囙僧寄竹林静思来鳥外闲味遶松陰兵<pc n="lb"/>
+㓂慿陵甚溪山幾許深休爲反招隐携取一相尋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>新秋霽後晚眺懐先公<pc n="lb"/>
+雨霽湘椘晚水<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>天亦澄山中應觧夏渡口有行僧鳥<pc n="lb"/>
+列滄洲隊雲棑碧落層孤峰磬聲絶一點石龕燈<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>池上感興<pc n="lb"/>
+所向似無端風前冷凭阑旁人應闷見片水自闲看碧<pc n="lb"/>
+底紅鱗鬛澄邉白羽翰南山衆木葉飄著竹聲乾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>和曇域上人寄贈之什<pc n="lb"/>
+                    <pb n="5a"/>
+百病煎衰朽栖遅戦國中思量青壁寺行㘴赤松風道<pc n="lb"/>
+寄虗元合書傳往復空可憐禅月子香火國门束<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>弔雙泉大師真塔<pc n="lb"/>
+塔聳層峰後碑鎸巨石新不知將一句分付與何人静<pc n="lb"/>
+㘴雲生衲空山月照真後徒逰禮者猶認指迷津<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>暮冬送璘上人㱕華容<pc n="lb"/>
+故園雖不逺那免愴行思莾蒼<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>湖路霏㣲過雪時全<pc n="lb"/>
+無山阻隔㦯有客相随得見交親後春風動栁絲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秋亱聽業上人弹琹<pc n="lb"/>
+萬物都寂寂堪闻弹正聲人心盡如此天下自和<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>湘<pc n="lb"/>
+水㵼秋碧古風吹太清往年廬岳奏今夕更分眀<pc n="lb"/>
+                    <pb n="5b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠丹薬<pc n="lb"/>
+别後闻飡餌相逢訝道情肌膚紅色透髭髪黑光生仚<pc n="lb"/>
+洞誰傳與松房自煉成常蒙逺公惠亦覚骨毛輕<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆门病中寄懐貫㣲上人<pc n="lb"/>
+我衰君亦老相憶更何言際泥安禅力難醫必死根梅<pc n="lb"/>
+寒争雪彩日冷釀氷痕早晚東㱕去同尋入石门<hi>匡山</hi>
+                    <pc n="lb"/>
+<hi>逺大師常與諸賢逰石门洞玩錦綉谷</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>答孔秀才<pc n="lb"/>
+早向文章裡䏻降少壮心不愁人不<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>闲䖏自閒吟水<pc n="lb"/>
+國雲雷濶僧園竹樹㴱無嫌我衰颯時此一相尋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秋江<pc n="lb"/>
+                    <pb n="6a"/>
+両㟁山青映中流一棹聲逺無風浪動正向夕陽横島<pc n="lb"/>
+嶼蝉分宿沙洲客獨行浩然心自合何必濯吾纓<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>舩窓<pc n="lb"/>
+孤舸凭幽窓清波逼面<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>舉頭還有碍低眼即無妨瞥<pc n="lb"/>
+過沙禽翠斜分夕照光何時到山寺上阁看江鄊<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>永亱<pc n="lb"/>
+永日還欹枕良宵亦曲肱神闲無萬慮壁冷有殘燈香<pc n="lb"/>
+影浮龕象瓶聲著井氷尋思到何䖏海上㫁崖僧<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>中春愴懐寄二三知己<pc n="lb"/>
+眼暗心還白逢春强凭欄囙闻積雨亱却憶舊山寒竹<pc n="lb"/>
+撼煙叢滑花焼露朶乾故人相㑹䖏應話此衰殘<pc n="lb"/>
+                    <pb n="6b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>自遣<pc n="lb"/>
+了然知是夣既覚更何求死入孤峰去灰飛一燼休雲<pc n="lb"/>
+無空碧在天静月華流免有諸徒弟時来吊石頭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送陳覇㱕闽<pc n="lb"/>
+<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>風動行興含笑話<graphic n="KR0916" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0916.png" mimeType="image/png"/>途已得身名了全忘客道孤鄊<pc n="lb"/>
+程過百越㠶影遶重湖家在飛鳴外音書可寄無<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄孫闢呈鄭谷郎中<pc n="lb"/>
+衡岳去都忘清吟戀省郎淹流才半月詶唱頗盈箱雪<pc n="lb"/>
+長松檉格茶添語話香囙論楽安子年少老篇章<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆门送人自峨<graphic n="KR1453" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1453.png" mimeType="image/png"/>逰南岳<pc n="lb"/>
+峨<graphic n="KR1453" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1453.png" mimeType="image/png"/>来已逺衡岳去猶賖南浦懸㠶影西風亂荻花天<pc n="lb"/>
+                    <pb n="7a"/>
+涯遥夣澤山衆近長沙有興夛新作携將天府誇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝主人石筍<pc n="lb"/>
+西園罷宴逰東阁念林丘特减花邉峭来添竹裏幽憶<pc n="lb"/>
+過陽朔見曾記太湖求從此頻吟遶㱕山意亦休<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>經安公寺<pc n="lb"/>
+大聖威霊地安公晏㘴蹤未知長寂黙不見乆從容塔<pc n="lb"/>
+影髙羣木江聲壓暮鐘此逰幽勝後来夣亦應重<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秋夕寄諸姪<pc n="lb"/>
+毎到秋殘亱燈前憶故鄊園林紅橘柚窓户碧瀟湘離<pc n="lb"/>
+别身垂老艱難路去長弟兄應徤在兵火理耕桑<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝炭<pc n="lb"/>
+                    <pb n="7b"/>
+正擁寒灰次何當惠寂寥且留連亱向未敢滿爐燒必<pc n="lb"/>
+恐吞難盡唯愁撥易消豪家揑為獸紅迸錦首燋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏滿日偶作寄孫支使<hi>其年闰五月</hi>
+                    <pc n="lb"/>
+一百二十日煎熬幾不勝憶㱕滄海寺冷倚翠崕稜舊<pc n="lb"/>
+扇猶<graphic n="KR0894" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0894.png" mimeType="image/png"/>執新秋更欝蒸何當見<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>月擁衲訪詩朋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄清溪道友<pc n="lb"/>
+山门摇落空霜霰滿杉松眀月行禅䖏青苔遶石重泉<pc n="lb"/>
+聲喧萬壑鐘韵遍千峰終去焚香老同師大士蹤<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝重縁舊山水障子<pc n="lb"/>
+敢望重縁飾㣲茫洞壑春㘴看終未是㱕卧始應真已<pc n="lb"/>
+覚心中朽猶憐四面新不囙公子鍳零落幾成塵<pc n="lb"/>
+                    <pb n="8a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寺居<pc n="lb"/>
+鄰井雙梧上一蝉鳴隔墙依稀舊林日撩亂遶山堂難<pc n="lb"/>
+嘿吟風口終清飲露腸老僧加䕶物應任噪殘陽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>剃髪<pc n="lb"/>
+金刀闪冷光一剃一清<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>未免随朝夕依前長雪霜夏<pc n="lb"/>
+林欹石膩春涧沐泉香向老凋踈盡寒天不出房<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝髙輦先軰寄新唱和集<pc n="lb"/>
+敢謂神仚手多懐老比丘編聫来鹿野酬唱在龍樓洛<pc n="lb"/>
+浦精霊懾邙山鬼魅愁二南風雅道從此化東周<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送徐秀才逰吴國<pc n="lb"/>
+西江東注急孤棹若流星風浪相随白雲中獨過青他<pc n="lb"/>
+                    <pb n="8b"/>
+時誰共説此路我曾經好向吴朝看衣冠盡漢庭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>憶在匡廬日<pc n="lb"/>
+憶在匡廬日秋風八月時松聲虎溪寺塔影鴈门師歩<pc n="lb"/>
+碧葳𬎼徑吟香菡蓞池何當舊泉石㱕去洗心脾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄三覚寺從益上人<hi>又云三覚山</hi>
+                    <pc n="lb"/>
+山下人来説夛時不下山是應終未是闲得且湏闲海<pc n="lb"/>
+面雲㱕竇猿邉月上關尋思亂峰頂空送衲僧還<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>殘秋感愴<pc n="lb"/>
+日日加衰病心心趣寂寥殘陽𧺫闲望萬木聳寒條椘<pc n="lb"/>
+寺新為客吴江舊看潮此懐何以寄風雨暮蕭蕭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄南徐劉員外二首<pc n="lb"/>
+                    <pb n="9a"/>
+竟陵兵革際㱕復舊園林早歲為官苦常闻説此心海<pc n="lb"/>
+邉山亱上城<pc n="　"/>寺秋尋應訝松風約蹉跎直到今<pc n="lb"/>
+晝公評衆製姚監選諸文風雅誰收我編聫獨有君餘<pc n="lb"/>
+生終此道萬事盡浮雲争得重携手探幽椘水濆<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>貽王秀才<pc n="lb"/>
+功到難搜䖏知難始是詩自䏻探虎子何慮屈男免此<pc n="lb"/>
+道真清氣前賢早白髭湏教至公手不惜付丹枝<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈孫生<pc n="lb"/>
+詩家詩自别君是繼詩人道出千途外功争一字新寂<pc n="lb"/>
+寥中影跡霜雪裏精神待折東堂桂㱕来更苦辛<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬元員外<pc n="lb"/>
+                    <pb n="9b"/>
+清洛碧嵩根寒流白照门園林經難别桃李幾株存衰<pc n="lb"/>
+老江南日凄凉海上村闲来晒朱紱涙滴舊煙蘿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>與楊秀才話別<pc n="lb"/>
+庾信哀何極仲宣悲苦夛囙思学文賦不勝弄干戈自<pc n="lb"/>
+古有如此扵今終若何到頭重策蹇㱕去舊烟蘿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄何崇丘員外<pc n="lb"/>
+门底桃源水<graphic n="KR0636" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0636.png" mimeType="image/png"/>空復映山髙吟煙雨霽殘日郡樓间变<pc n="lb"/>
+俗真無事分題是不闲尋思章㟁見全未有年顔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈劉五經<pc n="lb"/>
+往年長白山彂憤忍飢寒掃葉雪霜<graphic n="KR0668" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0668.png" mimeType="image/png"/>讀書唇歯乾羣<pc n="lb"/>
+經通講觧八十尚輕安今日江南寺相逢話世難<pc n="lb"/>
+                    <pb n="10a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送逰山道者<pc n="lb"/>
+我亦逰山者常經舊所經雪消天外碧春曉海中青可<pc n="lb"/>
+見亂離世况臨衰病形憐君此行興獨入白雲屏<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>舟中江上望玉梁山懐李尊師<pc n="lb"/>
+殘照玉梁巔哦峨逺棹前古来傳勝異人去学神仚白<pc n="lb"/>
+鹿老碧壑黄猿啼紫煙誰心共無事局上度流年<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>角<pc n="lb"/>
+闻説征人説嗚烏何䖏邉孤城沙塞地殘月雪霜天㑹<pc n="lb"/>
+轉吴風急吹長磧雁連應傷漢車騎名未勒燕然<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>言詩<pc n="lb"/>
+畢竟将何状根元在正思達人皆一貫迷者自夛岐觸<pc n="lb"/>
+                    <pb n="10b"/>
+類風騷逺懐賢肺腑衰河橋送別者二子好相知<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬王秀才<pc n="lb"/>
+離亂幾時休儒生厄逺逰亾家非漢代何䖏覔荆求旅<pc n="lb"/>
+夣寒燈屋鄊懐晝雨樓相逢話相殺誰復念風流<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>春居寄友生<pc n="lb"/>
+莎<graphic n="KR0985" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0985.png" mimeType="image/png"/>荒蕪甚名應共此情江村雷雨彂竹屋夣䰟驚社<pc n="lb"/>
+過夛来燕花繁漸老鶯相思意何<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>新作未曾評<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄答武林幕中何支使二首<pc n="lb"/>
+十萬雄軍幕三千上客才何當談笑外逺慰寂寥来騷<pc n="lb"/>
+雅鏘金擲風流酔玉頺争知江雪寺老病向寒灰<pc n="lb"/>
+南州無百戦北地有長征间殺何從亊傷㢤蘇子卿江<pc n="lb"/>
+                    <pb n="11a"/>
+樓聫雪句野寺看春耕门外滄浪水風波雜雨聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>浙江晚渡<pc n="lb"/>
+去年曾到此乆立滯前程歧路時難䖏風濤晚未<graphic n="KR0685" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0685.png" mimeType="image/png"/>汀<pc n="lb"/>
+蝉含老韵㟁荻簇枯聲莫泥關河险夛逰自逺行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人下第東㱕再謁舊主人<pc n="lb"/>
+一戦偶不捷東㱕計未空還携故書劔去謁舊英雄椘<pc n="lb"/>
+雪連吴樹西江正北風男免藝若是㑹合值眀公<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄謝髙先軰見寄二首<pc n="lb"/>
+穿鑿堪傷骨風騷乆痛心永言無絶唱忽此惠希音楊<pc n="lb"/>
+栁江湖晚芙蓉㠀嶼㴱何囙㑹僊手臨水一披襟<pc n="lb"/>
+詩在混茫水難搜到極玄有時還積思度歲未終篇片<pc n="lb"/>
+                    <pb n="11b"/>
+                    <pb n="12a"/>
+<pb n="13a"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+    <p>
+<pc n="lb"/>
+                    
+白蓮集卷第五<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊<pc n="　"/>己<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄仰山光味長者<pc n="lb"/>
+大仰禅棲䖏杉松到頂陰下来雖有路㱕去毎無心鳥<pc n="lb"/>
+道峰形直龍湫石影㴱經行誰得見半亱老猿吟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>貽廬岳陳沆秀才<pc n="lb"/>
+爲儒老雙鬂勤苦竟何如四海方磨劔空山自讀書石<pc n="lb"/>
+圍泉眼碧秋落洞门虚莫慮搜賢僻徵君舊此居<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>邉上<pc n="lb"/>
+漢地從休馬胡家自牧羊都来銷帝道渾不用兵防草<pc n="lb"/>
+上孤城白沙翻大漠黄秋風𧺫邉雁一一向瀟湘<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蟋蟀<pc n="lb"/>
+聲異蟪蛄聲聴湏是正聽無風来竹院有月在莎庭雖<pc n="lb"/>
+不妨調瑟夛堪伴誦經誰人向秋夕爲爾𣣔忘形<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄西山鄭谷神<pc n="lb"/>
+西望鄭先生焚修在杳冥幾番松骨朽未换鬂根青石<pc n="lb"/>
+闕凉調瑟秋壇亱拜星俗人應撫掌闲䖏誦黄庭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>讀參同契<pc n="lb"/>
+堪笑修仙侶燒金覔大還不知消息火只在寂寥關鬂<pc n="lb"/>
+白爐中術䰟飛海上山悲㢤五千字無用在人间<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>闻落葉<pc n="lb"/>
+椘樹雪晴後蕭蕭落晚風囙思故園亱臨水幾株空煑<pc n="lb"/>
+                    <pb n="1b"/>
+茗焼乾脆行苔踏爛紅来年未離此還見碧叢叢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝王先軰昆弟逰湘中囘各見示新詩<pc n="lb"/>
+瀟湘夛勝異宗社乆徘徊兄弟同逰去幽奇盡采来只<pc n="lb"/>
+應求妙唱何以示寒灰上國携㱕後唯呈不世才<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄酬髙輦推官<pc n="lb"/>
+道自闲機長詩從静境生不知春艶盡但覚雅風清竹<pc n="lb"/>
+膩題幽碧蕉乾裂翠聲何當九霄客重叠記無名<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逢詩僧<pc n="lb"/>
+禅玄無可並詩妙有何評五七字中苦百千年後清難<pc n="lb"/>
+求方至理不朽始為名珍重重相見忘機話此情<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>話道<pc n="lb"/>
+                    <pb n="2a"/>
+大道多大咲寂寥何以論霜楓翻落葉水鳥啄闲门服<pc n="lb"/>
+薬還傷性求珠亦損䰟無端鑿混沌一死不還源<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝歐陽侍郎寄示新集<pc n="lb"/>
+宫錦三十段金梭新織来殷勤謝君子迢逓寄寒灰鸑<pc n="lb"/>
+鷟對鼔舞神僊雙徘徊誰當巧裁製披去升瑤䑓<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西墅新居<pc n="lb"/>
+漸漸見苔青踈踈遍地生闲穿藤屐𧺫亂踏石堦行野<pc n="lb"/>
+鳥啼幽樹名僧笑此情殘陽竹陰裏老圃打门聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬孫魴<pc n="lb"/>
+幽人還<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>雲才子已從軍可信鴛鴻侣㪅思麋鹿羣新<pc n="lb"/>
+題雖有寄舊論竟難闻知己今如此編聫悉𣣔焚<pc n="lb"/>
+                    <pb n="2b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>掃地<pc n="lb"/>
+日日掃復灑不容纎物侵敢望来客口道似主人心蟻<pc n="lb"/>
+過光中少苔依润䖏深门前亦如此一徑入踈林<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>書匡山隐者壁<pc n="lb"/>
+紅霞青壁底石室薜蘿垂應有迷仙者曾逢採薬時桃<pc n="lb"/>
+花饒兩頰松葉淺長髭直是来城市何人識得伊<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送乾康禅師入山過夏<pc n="lb"/>
+由来喧滑境難駐寂寥蹤逼夏揺孤錫離城入亂峯雲<pc n="lb"/>
+门應近寺在路㦯穿松知在栖禅外題詩寄北宗<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>野鴨<pc n="lb"/>
+野鴨殊家鴨離羣忽逺飛長生縁甚瘦近死為傷肥江<pc n="lb"/>
+                    <pb n="3a"/>
+海逰空濶池塘啄細㣲紅蘭白蘋渚春暖刷毛衣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>傷秋<pc n="lb"/>
+旦暮餘生在肌膚十分無眠寒半榻朽立月一株枯夢<pc n="lb"/>
+已随雙樹詩猶却萬夫名山未歸得可惜死江湖<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懐東湖寺<pc n="lb"/>
+鉄柱東湖岸寺髙人亦閒往年曾每日来此看西山竹<pc n="lb"/>
+徑青苔合茶軒白鶴還而今在天末𣣔去已衰顔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄峴山願公三首<pc n="lb"/>
+形影更誰親應懐<graphic n="KR0238" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0238.png" mimeType="image/png"/>道人片言酬鑿歯半偈伏姚秦榛<pc n="lb"/>
+莾池經焼蒿莱寺過春心期重西去一共吊遺塵<pc n="lb"/>
+相思恨相逺至理那時何道咲忘言甚詩嫌背俗夛青<pc n="lb"/>
+                    <pb n="3b"/>
+苔闲阁闭白日㫁人過獨上西樓望荆门千萬坡<pc n="lb"/>
+彼此無悄息所思江漢遙轉闻夛患難甚說逺相招老<pc n="lb"/>
+至何悲歎生知便寂寥终朝踏松影携手虎溪槁<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>清袒作<pc n="lb"/>
+不惜白日短乍容清袒長㘴闻清露滴吟覚骨毛<graphic n="KR0765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0765.png" mimeType="image/png"/>興<pc n="lb"/>
+寝無諸病空闲有一床天眀振衣𧺫苔砌落花香<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈白䖏士<pc n="lb"/>
+莘野居何㝎浮生知是誰衣衫同野叟指趣似禅師白<pc n="lb"/>
+髮應無也丹砂乆服之仍闻創行計春暖向峨<graphic n="KR1453" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1453.png" mimeType="image/png"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>雀秀才宿話<pc n="lb"/>
+事轉闻夛事心休話苦心相留眀月寺共憶白雲岑蘚<pc n="lb"/>
+                    <pb n="4a"/>
+壁殘蛩韵霜軒倒竹陰開门又言別誰竟懐塵襟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懐天台華頂僧<pc n="lb"/>
+華頂危臨海丹霞裡石槁曾從國清寺上看月眀潮好<pc n="lb"/>
+鳥親香火狂泉噴泬寥𣣔㱕師智者頭白路迢迢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人赴官<pc n="lb"/>
+年少作𥘉官還如行路難兵荒經邑里風俗乆凋殘照<pc n="lb"/>
+硯花光淡漂書柳絮乾聊應充侍膳薄俸繼朝飡<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>水鶴<pc n="lb"/>
+鴛鴦與鸂鶒相狎豈慚君比雪還勝雪同羣亦出羣静<pc n="lb"/>
+巢孤島月寒夣九臯雲㱕路分眀過飛鳴即可闻<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湘中感興<pc n="lb"/>
+                    <pb n="4b"/>
+漁翁即㑹我傲兀葦邉行亂世難逸跡乘流擬濯纓江<pc n="lb"/>
+花紅細碎沙鳥白分眀向夕題詩䖏春風斑竹聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>九日逢虗中虗受<pc n="lb"/>
+椘后萍䑓下相逢九日時干戈人事地荒廢菊花籬我<pc n="lb"/>
+已夛衰病君猶盡黑髭皇天安罪得解語便吟詩<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈李眀府<pc n="lb"/>
+名家宰名邑將謂屈鋒鋩直是難蘇俗䏻消不下堂氷<pc n="lb"/>
+痕生硯水柳影透琹床何必稱瀟灑猶為詩酒狂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>暮春乆雨作<pc n="lb"/>
+積雨向春陰冥冥獨院深已無花落地空有竹藏禽簷<pc n="lb"/>
+溜聲何暴隣僧影亦沉誰知力耕者桑麦最關心<pc n="lb"/>
+                    <pb n="5a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>渚宫莫问詩一十五首<hi>并序</hi>
+                    <pc n="lb"/>
+予以辛已歲蒙主人命居龍安寺察其踈鄙免以趍奉<pc n="lb"/>
+爰降手翰曰盖知心在常禮也予不覺欣然而作顧<pc n="lb"/>
+謂形影曰爾夲青山一衲白石孤禅全王侯搆室安之<pc n="lb"/>
+給俸食之使之楽然萬事都外逰息自得則雲泉猿鳥<pc n="lb"/>
+不必為狎其放縦若是夫何繫乎自是龍門墙仞歴稔<pc n="lb"/>
+不復瞻覬况他家㢤囙創莫问之題凡一十五篇皆以<pc n="lb"/>
+莫问為首焉<pc n="lb"/>
+莫问踈人事王侯巳任伊不妨随野性還似在山時静<pc n="lb"/>
+入無聲楽狂抛正律詩自為仍自<graphic n="KR0738" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0738.png" mimeType="image/png"/>敢望至公知<pc n="lb"/>
+莫问休持鉢從貧乞已踈侯门叨月俸齋食剰年儲簮<pc n="lb"/>
+                    <pb n="5b"/>
+履三千外形骸六十餘舊峯何錬若松徑接匡廬<pc n="lb"/>
+莫问依劉跡金䑓又度秋威儀非上客談笑愧諸侯禮<pc n="lb"/>
+許無拘检詩推異軰流東林未歸得摇落椘江頭<pc n="lb"/>
+莫问無機性甘名百鈍人一床鋪冷落長日卧精神分<pc n="lb"/>
+巳踈知舊詩還得意新多才碧雲客時㦯此相親<pc n="lb"/>
+莫问關门意從来寡往還道應㱕淡泊身合在空闲四<pc n="lb"/>
+面苔圍緑孤窓雨灑斑夣尋何䖏去秋色水邉山<pc n="lb"/>
+莫问<pc n="　"/>逐性情人间髙此道禅外剰他名夏<pc n="lb"/>
+<pc n="　"/>松邉㘴秋灮水畔行㪅無時忌諱容易得題成<pc n="lb"/>
+莫问多山興晴樓獨凭時六年滄海寺一别白蓮池句<pc n="lb"/>
+早逢名匠禅曽見祖師冥搜與真性清净裡尋思<pc n="lb"/>
+                    <pb n="6a"/>
+莫问伊嵇懶流年巳付他話通時事少詩著野題多夢<pc n="lb"/>
+外春桃李心中舊薛蘿浮生此不悟剃髪竟如何<pc n="lb"/>
+莫问休行脚南方已徧尋了應湏自了心不是他心赤<pc n="lb"/>
+水珠何覔寒山偈莫吟誰同論此理杜口少知音<pc n="lb"/>
+莫问孱愚格天應只與闲合居長樹下那稱衆人间跡<pc n="lb"/>
+絶為真隐機忘是大還終當學支遁買取箇青山<pc n="lb"/>
+莫问無求意浮雲喻可知滿盈如不戒倚仗更何疑楽<pc n="lb"/>
+矣賢顔子窮乎聖仲尼已過知命歲休把運行推<pc n="lb"/>
+莫问闲行趣春風野水涯千门無<graphic n="KR1180" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1180.png" mimeType="image/png"/>女両㟁有楊花好<pc n="lb"/>
+鶴曽為客真龍或作虵踟蹰自廽首日脚背樓斜<pc n="lb"/>
+莫问真消息中心只自知清風含笑詠眀月混希夷壊<pc n="lb"/>
+                    <pb n="6b"/>
+衲涼天擁玄文静亱披善㢤温伯子言外認揚眉<pc n="lb"/>
+莫问衰殘質流光速可悲寸心修未了長夀𣣔何為坐<pc n="lb"/>
+卧身多倦經行骨漸疲分明說此苦珎重竺乾師<pc n="lb"/>
+莫问野騰騰勞形已不䏻慇懃無上士珎重有名僧生<pc n="lb"/>
+覺心心黙行思歩步氷終㱕石房裡一點亱深燈<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆州新秋病𧺫襍題一十五首<pc n="lb"/>
+病𧺫見王化融融古帝鄉暁煙凝氣紫晚色作雲黄四<pc n="lb"/>
+野歌豐稔千门唱樂康老身仍未死猶詠好風光<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見圖畫<pc n="lb"/>
+病𧺫見圗畫雲門興似燒衲衣㯶笠重嵩岳華山遙命<pc n="lb"/>
+在齋猶赴刀闲髮盡凋秋光漸輕徤𣣔去倚江橋<pc n="lb"/>
+                    <pb n="7a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見苔錢<pc n="lb"/>
+病𧺫見苔錢規模遍地圎兒童掃不破子母自相連润<pc n="lb"/>
+屋何曾有緣墻謾可憐虚教作銅臭空使外人傳<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見庭竹<pc n="lb"/>
+病𧺫見庭竹君應悲我情何妨甚消瘦却稱苦修行每<pc n="lb"/>
+謝侵牀影時廽傍枕聲秋來漸平復吟遶骨毛輕<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見生涯<pc n="lb"/>
+病𧺫見生涯資緣覺甚奢方袍嫌垢弊律服變光華頗<pc n="lb"/>
+愧同諸俗何嘗異出家三衣如兩翼珎重你寒鴉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見秋扇<pc n="lb"/>
+病𧺫見秋扇風前悟感傷念予當咽絶得爾致秋涼沙<pc n="lb"/>
+                    <pb n="7b"/>
+鷺如揺影汀蓮似綻香不同婕妤詠託意怨君王<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見衰葉<pc n="lb"/>
+病𧺫見衰葉飄然似我身偶乘風有韻𥘉落地無塵縱<pc n="lb"/>
+得紅霑露争如綠帶春因傷此懐抱聊寄一篇新<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見庭栢<pc n="lb"/>
+病𧺫見庭栢青青我不任力扶乾痩骨勉對歲寒心韻<pc n="lb"/>
+謝疎篁合根容片石侵衰殘想長夀時倚就閑吟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見庭蓮<pc n="lb"/>
+病起見庭蓮風荷已颯然開時闻馥郁枕上正纏綿本<pc n="lb"/>
+在滄江濶移来碧沼圎却思香社裏葉葉漏聲連<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見庭菊<pc n="lb"/>
+                    <pb n="8a"/>
+病𧺫見庭菊幾勞栽種工可䏻經卧疾相倚自成叢翠<pc n="lb"/>
+蕚低含露金英盡亞風那知子愛爾不在酒盃中<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見庭石<pc n="lb"/>
+病𧺫見庭石豈知經夏眠不䏻資藥價空自作苔錢翠<pc n="lb"/>
+憶藍光底青思瀑影邊嵒僧應笑我細碎種階前<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見庭莎<pc n="lb"/>
+病𧺫見庭莎綠階傍竹多遶行猶未得静聽復如何蟋<pc n="lb"/>
+蟀幽中響蟪蛄深處歌不緣田地窄剩種任婆娑<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見苔色<pc n="lb"/>
+病𧺫見苔色凝然陣未枯淺深圍柱礎詰曲遶廊廡碧<pc n="lb"/>
+翠文相间青黄勢自鋪為錢虗玷染畢竟不如無<pc n="lb"/>
+                    <pb n="8b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見秋月<pc n="lb"/>
+病𧺫見秋月正當三五時清光應鑒我幽思更同誰惜<pc n="lb"/>
+坐身猶倦牽吟氣尚羸明年七十六約此健相期<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病𧺫見闲雲<pc n="lb"/>
+病𧺫見闲雲空中聚又分滯留堪笑我舒卷不如君觸<pc n="lb"/>
+石終無跡徔風或有闻仙山足鸞鳳歸去自同群<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夜坐闻雪寄所知<pc n="lb"/>
+𥘉霄飛霰急竹樹洒乾輕不是知音者難教愛此聲漸<pc n="lb"/>
+凌孤燭白偏激苦心清堪想同文友忘眠坐到明<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懐洞庭<pc n="lb"/>
+憶過巴陵歲無人问去留中霄滿湖月獨自在僧樓漁<pc n="lb"/>
+                    <pb n="9a"/>
+父真闲唱靈均是謾愁今来欲長往誰借木蘭舟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>欲游龍山鹿苑有作<pc n="lb"/>
+龍山門不逺鹿苑路非遥合逐闲身去何湏待客招年<pc n="lb"/>
+華殘兩髩筋骨倦長宵闻説峯前寺新修白石橋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>再逢晝公<pc n="lb"/>
+竟陵西别後徧地𧺫刀兵彼此無緣著雲山有䖏行久<pc n="lb"/>
+吟難敵句終忍不求名年鬂俱如雪相看眼且明<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人逰武陵湘中<pc n="lb"/>
+為子歌行樂西南入武陵風烟無戦士賓榻有吟僧山<pc n="lb"/>
+遶軍城叠江臨寺阁層遍尋幽勝了湘水泛清澄<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬九經者<pc n="lb"/>
+                    <pb n="9b"/>
+九經三史學窮妙又窮微長白山𥘉出青雲路欲飛江<pc n="lb"/>
+僧酬雪<pc n="　"/>沙鶴識麻衣家在黄河北南來偶未歸<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄贈集灘二公<pc n="lb"/>
+闻有難名境因君住更名軒窗中夜色風月遶灘聲客<pc n="lb"/>
+好過無厭禽幽畫不成終期一尋去聊且寄吟僧<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日作<pc n="lb"/>
+燕省語相和風池滿芰荷可驚成事晚殊甚得闲多竹<pc n="lb"/>
+衆涼欺水苔繁綠勝莎無慙孤聖代賦詠有诗歌<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>行路難<pc n="lb"/>
+下浸與髙盤不為行路難是非真險惡翻覆作峯巒漆<pc n="lb"/>
+媿同時黑朱慙巧處丹令人畏相識欲畫白雲看<pc n="lb"/>
+                    <pb n="10a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送玉泉道者囬山寺<pc n="lb"/>
+却憶西峰頂經行絶愛憎别來心念念歸去雪層層石<pc n="lb"/>
+塢尋春笋苔龕續夜燈應悲塵土裡追逐利名僧<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝王拾遺見訪兼寄篇什<pc n="lb"/>
+竹裏安禅䖏生涯一印灰經年乞食過昨日谏臣来愧<pc n="lb"/>
+把黄梅偈曾酬白雪才因令識鳥跡重叠在蒼苔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題張氏池亭<pc n="lb"/>
+樹石叢叢别诗家趣向幽有時闲客散始覺细泉流蝶<pc n="lb"/>
+到琴棋畔花過島嶼頭月明红藕上應見白龜逰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人南逰<pc n="lb"/>
+且聽吟贈逺君此去蒙州瘴國頻闻说邊鴻亦不逰蠻<pc n="lb"/>
+                    <pb n="10b"/>
+花藏孔雀野石亂犀牛到彼誰相慰知音有郡侯<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題明公房<pc n="lb"/>
+寺北聞湘浪牕南見嶽雲自然髙日用何要出人群瓦<pc n="lb"/>
+滴殘松雨爐香匝印文近年精易道疑者曉紛紛<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄顧處士<pc n="lb"/>
+半年離别夢来往即湖邊兩幅關山雪尋常在眼前項<pc n="lb"/>
+容藏古翠張藻卷寒煙藍淀圗花鳥時人不惜錢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>貽徐生<pc n="lb"/>
+可䏻東海子清苦在貧居掃地無闲客堆窗有古書少<pc n="lb"/>
+年猶若此向老合何如去歲頻相訪今来亦見疎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝虚中上人晚秋見寄<pc n="lb"/>
+                    <pb n="11a"/>
+楚外同文在荊門得信時幾重相别意一首晚秋詩日<pc n="lb"/>
+暮山沈雨蓮殘水滿池登樓試南望為子動歸思<pc n="lb"/>
+白蓮集卷第五<pc n="lb"/>
+                    <pb n="11b"/>
+<pb n="12a"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+    <p>
+<pc n="lb"/>
+                    
+白蓮集卷第六<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊己<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄東林言之禅子<pc n="lb"/>
+闲思相送後幽院闭苔錢使我吟還廢闻君病未痊聽<pc n="lb"/>
+秋惟困坐怕客但言眠可惜東窗月無聊過一年<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寒節日寄鄉友<pc n="lb"/>
+歲歲逢寒食寥寥古寺家踏青思故里垂白看楊花原<pc n="lb"/>
+野稀疎雨江天冷淡霞滄浪與湘水歸恨共無涯<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>闻西蟾徔弟卜岩居岳西有寄<pc n="lb"/>
+瀑布見髙低岩開岩壁西碧雲多舊作紅葉幾新題滴<pc n="lb"/>
+<graphic n="KR0377" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0377.png" mimeType="image/png"/>中疎磬嵌空半椅梯仍闻樵子逕<pc n="　"/>不到前溪<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄懐西蟾師弟<hi>蟾師有萬里八九月一身西北風之句</hi>
+                    <pc n="lb"/>
+萬里八九月一身西北風自徔相示後長記在吟中見<pc n="lb"/>
+說南逰逺堪懐我姓同江邊忽得信囬到岳門東<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>撲滿子<pc n="lb"/>
+祗愛滿我腹争知滿害身到頭須撲破却散與他人<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄西川惠光大師曇域<pc n="lb"/>
+禅月有名子相知面未曾筆精垂壁溜詩澁滴杉氷蜀<pc n="lb"/>
+國徔栖泊蕪城幾廢興憶歸應寄夢東北過金陵<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>憶别匡山寄彭澤乾晝上人<pc n="lb"/>
+憶别匡山日無端是逺逰却廽看五老翻悔上孤舟蹭<pc n="lb"/>
+蹬三千里蹉跎二十秋近来空寄夢時到虎溪頭<pc n="lb"/>
+                    <pb n="1b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>又寄彭澤晝公<pc n="lb"/>
+聞君彭澤住結搆近陶公種菊心相似嘗茶味不同湖<pc n="lb"/>
+光秋枕上岳翠夏窗中八月東林去吟香菡萏風<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>因覽支使孫中丞看可準大師詩序有寄<pc n="lb"/>
+一千篇裏選三百首菁英玉尺新量出金刀舊翦成錦<pc n="lb"/>
+江增古翠僊掌减元精<hi>準公曽以诗遺访司空圖于華下</hi>自此為風格<pc n="lb"/>
+留傳诸後生<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>新秋病中枕上闻蝉<pc n="lb"/>
+枕上稍醒醒忽闻蝉上聲此時知不死昨日即前生更<pc n="lb"/>
+欲臨窗聽猶難䇿杖行尋應同蜕殻重飲露華清<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄雲蓋山先禅師<pc n="lb"/>
+                    <pb n="2a"/>
+曽尋湘水東古翠積秋濃長老禅栖䖏半天雲蓋風閒<pc n="lb"/>
+床饒得石雜樹少于松近有谁堪话瀏陽妙指蹤<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>落葉<pc n="lb"/>
+落多秋亦晚窗外見諸鄰世上谁驚盡林间獨埽頻蕭<pc n="lb"/>
+騷微月夜重叠早霜晨昨日繁隂在鶯聲樹樹春<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>次耒陽作<pc n="lb"/>
+遶岳復㳂湘衡陽又耒陽不堪思北客徔此入南荒旦<pc n="lb"/>
+夕多猿狖淹留少雪霜因經杜公墓惆悵學文章<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>舟中晚望祝融峰<pc n="lb"/>
+天際卓寒青舟中望晚晴十年關夢寐此日向峥嶸巨<pc n="lb"/>
+石凌空黑飛泉照野明終當躡孤頂坐看白雲生<pc n="lb"/>
+                    <pb n="2b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>弔杜工部墳<pc n="lb"/>
+鹏翅蹋于斯明君知不知域中詩價大荒外土墳卑瘴<pc n="lb"/>
+雨無時滴蠻風有穴吹唯應學太白魂魄往来疲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>岳中寄殷處士<pc n="lb"/>
+出岳與入岳新題寄後題遍尋僧壁上多在鴈峰西近<pc n="lb"/>
+説逰江寺将誰話石梯相思立髙巘山下草萋萋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送幽禅師<pc n="lb"/>
+霜繁野葉飛長老卷行衣浮世不知䖏白雲相待歸磬<pc n="lb"/>
+和天籟响禅助岳神威莫使言長往勞生待發機<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>燒<pc n="lb"/>
+獵獵寒蕪引承風埶不還放来應有主焚去到何山熖<pc n="lb"/>
+                    <pb n="3a"/>
+入空濛裏煙飛蒼莽間石中有良玉惆悵但傷顔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詠茶十二韻<pc n="lb"/>
+百草讓為靈功先百草成甘傳天下口貴占火前名出<pc n="lb"/>
+䖏春無雁收時谷有鶯封題徔澤國貢獻入秦京齅覺<pc n="lb"/>
+精新極嘗知骨自輕研通天柱響摘遶蜀山明賦客秋<pc n="lb"/>
+吟起禅師晝卧驚角開香滿室爐動綠凝鐺晚憶涼泉<pc n="lb"/>
+對閒思異菓并松黄乾旋泛雲母滑隨傾頗貴髙人寄<pc n="lb"/>
+尤宜别匱盛曾尋修事法妙盡陸先生<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄陽岐西峰僧<pc n="lb"/>
+西峰殘照東瀑布灑冥鴻閒憶髙牕外秋晴萬里空藤<pc n="lb"/>
+隂藏石磴衣毳落杉風日有谁来覔層層鳥道中<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逥雁峰<pc n="lb"/>
+瘴雨過孱顔危邊有逕<graphic n="KR0777" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0777.png" mimeType="image/png"/>壯堪扶夀岳靈合置僊壇影<pc n="lb"/>
+北鴻聲亂青南客道難他年思隱遁何處凭阑干<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈詢公上人<pc n="lb"/>
+威儀何貴重一室贮氷清終日松杉逕自多虫蟻行像<pc n="lb"/>
+前孤立影鍾外數珠聲知悟修来事今為第幾生<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秋興<pc n="lb"/>
+所見背時情闲行亦獨行晚涼思水石危阁望峥嶸雨<pc n="lb"/>
+外殘雲片風中亂葉聲舊山吟友在相憶夢應清<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>古寺老松<pc n="lb"/>
+百歲禅師説先師指此松小年行道遶早見偃枝重月<pc n="lb"/>
+                    <pb n="4a"/>
+檻移孤影秋庭卓一峰終當囙夜電拏攫便雲龍<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題無餘處士書齋<pc n="lb"/>
+閒地徔莎蘚誰人愛此心琴碁懐客逺風雪闭門深枕<pc n="lb"/>
+外江灘响窗西樹石隂他年衡岳寺為我一相尋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歲暮江寺住<pc n="lb"/>
+山衣枯槁容何處見年終風雪軍城外蒹葭古寺中孤<pc n="lb"/>
+村誰認磬極浦夜鳴鴻坐憶匡廬隐泉聲滴半空<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>新燕<pc n="lb"/>
+樓託近佳人應憐巧語新風光華屋暖絃管牡丹晨逺<pc n="lb"/>
+采江泥膩雙飛麥雨匀差池自有便敢觸杏梁塵<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喻吟<pc n="lb"/>
+                    <pb n="4b"/>
+日用是何專吟疲即坐禅此生還可喜餘事不相便頭<pc n="lb"/>
+白無邪裡魂清有象先江花與芳草莫染我情田<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>過湘江唐宏書齋<pc n="lb"/>
+四隣無俗迹終日大開門水曉来邊雁林秋下椘猿一<pc n="lb"/>
+家誰難在雙眼向書昏况近騷人廟吟應是古魂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>讀賈島集<pc n="lb"/>
+遺編三百首首首是遺冤知到千年外更逢何者論離<pc n="lb"/>
+秦空得罪入蜀但聽猿還似長沙祖惟餘賦鵩言<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄山中諸友<pc n="lb"/>
+自歸城裡寺長憶宿山門終夜冥心客諸峯呌月猿嵐<pc n="lb"/>
+光生眼力泉滴爽吟魂只待遊方遍還来掃樹根<pc n="lb"/>
+                    <pb n="5a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懷終南僧<pc n="lb"/>
+擾擾二京塵何門是了因萬重千叠嶂一去不来人鳥<pc n="lb"/>
+道春殘雪蘿龕晝定身寥寥石窗外天籟動衣巾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送二友生歸宜陽<pc n="lb"/>
+二生俱我友清苦輩流稀舊國居相近孤帆秋共歸殘<pc n="lb"/>
+陽沙鳥亂疎雨島楓飛幾宿多山䖏猿啼燭影微<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懷從弟<pc n="lb"/>
+孤窗燭影微何事阻吟思兄弟㫁消息山川長路岐月<pc n="lb"/>
+沈棲鶴島霜著呌猿枝可想爲懐抱多愁多難時<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>岳陽道中作<pc n="lb"/>
+客思尋常動未如今斷魂路岐經亂後風雪少人邨大<pc n="lb"/>
+                    <pb n="5b"/>
+澤鳴寒雁千峰啼晝猿争教此時白不上髩須根<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>赴鄭谷郎中招逰龍興觀讀題詩板謁七貞儀<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>像因有十八韻<pc n="lb"/>
+何處陪逰勝龍興古觀時詩懸大雅作殿禮七貞儀逺<pc n="lb"/>
+繼周南美彌旌拱北思雄才垂朴畧後輩仰箴規對坐<pc n="lb"/>
+茵花暖偕行蘚陣隳僧<pc n="　"/>初學結朝服久慵披到䖏琴<pc n="lb"/>
+棋傍登樓筆研隨論禅忘視聽譚老極希夷照日江光<pc n="lb"/>
+逺遮軒檜影欹觸鞋松子响窺立鶴雛癡始貴茶廵爽<pc n="lb"/>
+終憐酒散遲放懐還把杖憇石或搘頤眺逺凝清盻吟<pc n="lb"/>
+髙動白髭風鵬心不小蒿雀志徒卑頋我專無作于身<pc n="lb"/>
+忘有為叨因五字觧每忝重言期捨此應休也何人更<pc n="lb"/>
+                    <pb n="6a"/>
+賞之淹留仙境晚廽騎雪風吹<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>書李秀才壁<pc n="lb"/>
+干戈阻上書南國寄貧居舊里荒應盡新年病未除窗<pc n="lb"/>
+風連島樹門逕接鄰蔬我有閒来约相看雪滿株<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>聞尚顔下世<pc n="lb"/>
+岳僧傳的信聞在麓山亡群有為詩客誰来弔影堂夢<pc n="lb"/>
+休尋灞滻迹已絶瀟湘逺憶同吟石新秋檜柏涼<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>薔薇<pc n="lb"/>
+根本似玫瑰繁英刺外開香髙藂有架紅落地多苔去<pc n="lb"/>
+住閒人看晴明逺蝶来牡丹先幾日銷歇向塵埃<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送隆公上人<pc n="lb"/>
+                    <pb n="6b"/>
+獨携談柄去千里指人寰未㫁生徒望難教白日閒空<pc n="lb"/>
+江横落照大府向西山好聘陳那孔誰云刼石頑<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宿简寂觀<pc n="lb"/>
+萬壑雲霞影千年松檜聲如何教下士容易信長生月<pc n="lb"/>
+共虚無白香和沆<graphic n="KR1197" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1197.png" mimeType="image/png"/>清閒尋古廊畫記得列仙名<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>遇元上人<pc n="lb"/>
+七澤過名山相逢黄落殘杉松開寺晚泉月話心寒祖<pc n="lb"/>
+遍諸方禮經曾幾處看應懐出家院紫閣近長安<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>早梅<pc n="lb"/>
+萬木凍欲折孤根暖獨囬前村深雪裏昨夜一枝開風<pc n="lb"/>
+遞幽香去禽窺素豔来明年尤應律先發映春臺<pc n="lb"/>
+                    <pb n="7a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>聽泉<pc n="lb"/>
+落石幾萬仞遠聲飄冷空髙秋𥘉雨後半夜亂山中只<pc n="lb"/>
+有照壁月更無吹葉風幾曽廬岳聽到晚與僧同<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送孫逸人歸廬山<pc n="lb"/>
+獨自携琴鶴還歸瀑布東逍遥非俗趣楊柳謾春風草<pc n="lb"/>
+遶村程綠花盤石磴紅他時許相覔五老亂雲中<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>聽李尊師弹琴<pc n="lb"/>
+仙子弄瑶琴仙山松月深此聲含太古誰聽到無心洒<pc n="lb"/>
+石霜千片歕崖泉萬尋何人傳指法携向海中岑<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄武陵㣲上人<pc n="lb"/>
+善卷臺邊寺松筠繞祖堂秋聲度風雨曉色遍滄浪白<pc n="lb"/>
+                    <pb n="7b"/>
+石同誰坐清吟過我狂近聞爲古律雅道更重光<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>匡山寓居栖公<pc n="lb"/>
+外物盡已外閒游且自由好山逢過夏無事住經秋樹<pc n="lb"/>
+影殘陽寺茶香古石樓何時㝎休講歸嗽虎溪流<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湘西道林寺陶太尉井<pc n="lb"/>
+太尉遺孤井寒澄七百年未聞陵谷變終與姓名傳影<pc n="lb"/>
+浸無風樹光含有月天林僧晚来此滿汲洒金田<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄松江陸龜蒙處士<pc n="lb"/>
+萬卷功何用狂稱處士休闲欹太湖石醉聽洞庭秋道<pc n="lb"/>
+在誰開口詩成自點頭中間欲相訪尋便阻戈矛<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>閉門<pc n="lb"/>
+                    <pb n="8a"/>
+外事休關念灰心獨閉門無人来問我白日又黄昏燈<pc n="lb"/>
+集飛蛾影窗消迸雪痕中心自明了一句祖師言<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>看水<pc n="lb"/>
+范蠡東浮濶靈均北泛長誰知逺煙浪别有好思量故<pc n="lb"/>
+國門前急天涯棹裡忙難收上樓興渺漫正斜陽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄栖白上人<pc n="lb"/>
+萬國争名地吾師獨此閑題詩招上相看雪下南山内<pc n="lb"/>
+殿承恩久中條進表還嘗因秋貢客少得揜禅關<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>自題<pc n="lb"/>
+禅外求詩玅年来髩已秋未曽将一字容易謁諸侯挂<pc n="lb"/>
+夢山皆遠題詩石盡幽敢言梁太子傍采碧雲流<pc n="lb"/>
+                    <pb n="8b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>孫攴使来借詩集囙有謝<pc n="lb"/>
+冥搜從少小隨分得湻元聞説吟僧口多傳過蜀門相<pc n="lb"/>
+尋江島上共看夏雲根坐落遲遲日新題互把論<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日言懐<pc n="lb"/>
+苦𬒳流年廹衰羸老病情得歸青嶂死便共白雲生樹<pc n="lb"/>
+枿燒爐响崖稜躡屐聲此心人信否魂夢自分明<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>早秋寄友生<pc n="lb"/>
+雨多殘暑歇蝉急暮風清誰有閒心去江邊看水行河<pc n="lb"/>
+遥紅蓼簇野濶白煙平試折秋蓮葉題詩寄竺卿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送王秀才往松滋夏課<pc n="lb"/>
+松滋聞古縣明府是詩家静理餘無事欹眠盡落花江<pc n="lb"/>
+                    <pb n="9a"/>
+光摇夕照柳影帶殘霞君與應相與乘船泛月華<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喜𧦬公自武陵至<pc n="lb"/>
+已盡滄浪興還思湘椘行髩全無舊黑詩别有新清暫<pc n="lb"/>
+憇臨寒水時来扣静荆囊中有靈藥终不獻公卿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>假山<hi>并序</hi>
+                    <pc n="lb"/>
+<pc n="　"/>假山者蓋懐匡廬有作也往歲嘗居東郭因夢覺遂<pc n="lb"/>
+<pc n="　"/>圖于壁乞于十秋而攢青叠碧扵夢寐間宛若捫蘿<pc n="lb"/>
+<pc n="　"/>挽樹而升彼絶頂今所作倣像一面故不盡萬壑千<pc n="lb"/>
+<pc n="　"/>岩神仙鬼怪之宅聊得解懐既而功就乃激幽抱而<pc n="lb"/>
+<pc n="　"/>作是诗终于一百八十言爾<pc n="lb"/>
+匡廬久别離積翠杳天涯静室曾圗峭幽庭復創奇典<pc n="lb"/>
+                    <pb n="9b"/>
+衣酬土價擇日運工時信手成重叠隨心作蔽虧根盤<pc n="lb"/>
+驚院窄頂聳訝簷卑鎮地那言重當軒未厭危巨靈何<pc n="lb"/>
+忍擘秦正肯輕移曉覺莎煙觸寒聞竹籟吹藍灰澄古<pc n="lb"/>
+色泥水合凝滋引看僧来數牽吟客散遲九華渾彷彿<pc n="lb"/>
+五老頗參差蛛網藤蘿挂春霖瀑布垂加添雙石笋映<pc n="lb"/>
+帶小蓮池舊说雷居士曽闻逺大師红霞中结社白壁<pc n="lb"/>
+上題诗顧此诚徒爾勞心是妄為經營慙培塿賞翫愧<pc n="lb"/>
+童兒㑹入千峰去閒蹤任屬谁<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝西川可準上人逺寄诗集<pc n="lb"/>
+匡社經行外沷洲禅宴餘吾師還繼此後輩復何如江<pc n="lb"/>
+上傳風雅静中詩卷舒堪隨楽天集共伴白芙蕖<pc n="lb"/>
+                    <pb n="10a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秋空<pc n="lb"/>
+已覺秋空極更堪寥泬青只應容好月争合有妖星耿<pc n="lb"/>
+耿髙河截翛翛一雁經曾于洞庭宿上下徹心靈<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>與聶尊師话道<pc n="lb"/>
+伯陽遺妙旨杳杳與冥冥説即非難説行還不易行薬<pc n="lb"/>
+中迷九轉心外覔長生畢竟荒原上一盤蒿壠平<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送相里秀才自京至却囬<pc n="lb"/>
+夷門诗客至椘寺閉蕭騷老病语言濇少年風韻髙難<pc n="lb"/>
+于尋閬島險甚渉雲濤珍重西歸去無忘役思勞<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人寄南榴卓子<pc n="lb"/>
+幸附全材長良工斫器殊千枝文柏有一尺錦榴無品<pc n="lb"/>
+                    <pb n="10b"/>
+格宜仙菓精光稱玉壺憐君逺相寄多愧野蔬粗<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄舊居隣友<pc n="lb"/>
+别後如何趣搜竒少客同幾層山影下萬樹雪聲中晚<pc n="lb"/>
+鼎烹茶綠晨厨爨米紅何時携卷出世代有名公<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送朱秀才歸閩<pc n="lb"/>
+荆门来幾日欲往又囊空逺客歸南越单衣背北風近<pc n="lb"/>
+鄉微有雪到海漸無鴻努力成诗業無诸謁至公<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>龍潭作<pc n="lb"/>
+乍臨毛髪竪雙璧夾湍流白日鳥影過青苔龍氣浮蔽<pc n="lb"/>
+空雲出石應禱雨翻秋四面耕桑者先闻賀有秋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>依韻酧謝尊師見贈二首<hi>師欲調舉</hi>
+                    <pc n="lb"/>
+                    <pb n="11a"/>
+南國搜竒久偏傷杜甫坟重来經漢浦又去入嵩雲舊<pc n="lb"/>
+别人稀見新朝事漸闻莫将髙尚迹閒䖏傲明君<pc n="lb"/>
+岳頂休髙卧荆门訪揜扉新詩遺我别舊约與谁歸賢<pc n="lb"/>
+路曽無滯良時肯自違明年窺月窟仙桂露霏微<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送氷禅再往湖中<pc n="lb"/>
+行心寕肯住南去與誰群碧落髙空處清秋一片雲穿<pc n="lb"/>
+林瓶影滅背雨錫聲分應笑逰方久龍鍾椘水濆<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喜表公往椘王城<pc n="lb"/>
+己聞人捨地结搆舊基平一面湖光白隣家竹影清應<pc n="lb"/>
+難尋輦道空<pc n="　"/>是王城谁信興亡迹今来有磬聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>春雪𥘉晴喜友生至<pc n="lb"/>
+                    <pb n="11b"/>
+數日不見日飄飄勢忽開雖無忙事出還有故人来已<pc n="lb"/>
+盡南簷滴仍殘北牖堆眀朝望平逺相約在春臺<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>殘春連雨中偶作懐友人<pc n="lb"/>
+南鄰阻杖藜屐齒繞床泥漠漠長门揜遲遲日又西不<pc n="lb"/>
+知何興味更有好诗題還憶東林否行苔傍虎溪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送崔判官赴歸倅<pc n="lb"/>
+白首徔顔巷青𫀆去佐官只應微俸祿聊𥙷舊飢寒地<pc n="lb"/>
+説邱墟甚民聞旱歉殘春風吹綺席賓主醉相歡<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寒食日懐寄友人<pc n="lb"/>
+萬井追寒食闲扉獨不開梨花應折盡柳絮自飛来夢<pc n="lb"/>
+覺懐仙島吟行繞砌苔浮生已悟了時節任相催<pc n="lb"/>
+                    <pb n="12a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懷巴陵舊逰<pc n="lb"/>
+洞庭雲夢秋空碧共悠悠孟子狂題後何人更倚樓日<pc n="lb"/>
+西来逺棹風外見平流終欲重尋去僧窗古㟁頭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>招乾晝上人宿話<pc n="lb"/>
+連夜因風雪相尋在寂寥禅心誰指示詩卷自焚燒語<pc n="lb"/>
+黙隣寒漏窗扉向早朝天台若長往還渡海門潮<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆门秋日寄友人<pc n="lb"/>
+青溪知不逺白首要難歸空想煙雲裏春風鸞鶴飛誰<pc n="lb"/>
+論傳法偈自𥙷坐禅衣未謝侯門去尋常即揜扉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>哭鄭谷郎中<pc n="lb"/>
+朝衣聞典盡酒病覺難醫下世無遺恨傳家有大詩新<pc n="lb"/>
+                    <pb n="12b"/>
+                    <pb n="13a"/>
+<pb n="14a"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+    <p>
+<pc n="lb"/>
+                    
+白蓮集卷第七<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊<pc n="　"/>己<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題東林十八賢貞堂<pc n="lb"/>
+白藕花前舊影堂劉雷風骨畫龍章共輕天子諸侯貴<pc n="lb"/>
+同愛吾師一法長陶令醉多招不得謝公心亂入無方<pc n="lb"/>
+何人到此思高躅嵐黙苔痕滿粉牆<hi>謝靈運欲入社逺大師以其心亂却之</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題南岳般若寺<pc n="lb"/>
+諸峯翠少中峯翠五寺名高此寺名石路險盤嵐靄滑<pc n="lb"/>
+僧窗高倚泬㵳明凌空殿閣由天設遍地松杉是自生<pc n="lb"/>
+更有上方難上處紫苔紅蘚逺峥嶸<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄廬岳僧<pc n="lb"/>
+                    <pb n="1a"/>
+一聞飛錫别區中飛入西南瀑布峰天際雪埋千片石<pc n="lb"/>
+洞門冰折幾株松煙霞明媚栖心地苔蘚縈紆出世蹤<pc n="lb"/>
+莫问江邊舊居寺火燒兵刼㫁秋鍾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逰谷山寺<pc n="lb"/>
+城裏尋常見碧<graphic n="KR0994" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0994.png" mimeType="image/png"/>水邊朝莫送歸僧数峰雲脚垂平地<pc n="lb"/>
+一徑松聲徹上層寒澗不生浮世物隂崕尤積去年氷<pc n="lb"/>
+此生有底難抛事時復携笻信歩登<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>椘寺寒夜作<pc n="lb"/>
+寒爐局促坐成勞黯澹燈光照二毛水寺閉来僧寂寂<pc n="lb"/>
+雪風吹去雁嗷嗷江山積叠歸程逺魂夢穿㳂過處髙<pc n="lb"/>
+畢竟忘言是吾道袈裟不稱揖蕭曹<pc n="lb"/>
+                    <pb n="1b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送太禅師歸南岳<pc n="lb"/>
+石龕閒鏁白猿邊歸去程途半在舡林簇曉霜離水寺<pc n="lb"/>
+路穿新燒入山泉已㝷嵐壁臨空盡却看星辰向地懸<pc n="lb"/>
+有興寄題紅葉上不妨收拾别為編<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>山中寄凝密大師兄弟<pc n="lb"/>
+一爐薪盡室空然萬象何妨在眼前時有興来還覔句<pc n="lb"/>
+已無心去即安禅山門影落秋風樹水國光凝夕照天<pc n="lb"/>
+借问荀家兄弟内八龍頭角讓誰先<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>海棠花<pc n="lb"/>
+繁于桃李盛于梅寒食旬前社後歸半月暄和留豔態<pc n="lb"/>
+兩時風雨免傷摧人憐格異詩重賦蝶戀香多夜更来<pc n="lb"/>
+                    <pb n="2a"/>
+尤得殘紅向春暮牡丹相繼發池臺<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題贈湘西龍安寺利禅師<pc n="lb"/>
+頭白巳無行脚念自開荒寺住煙蘿門前路到瀟湘盡<pc n="lb"/>
+石上雲歸岳麓多南祖衣盂曾禮謁東林泉月舊經過<pc n="lb"/>
+閒来松外看城郭一片紅塵隔逝波<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄文浩百法<pc n="lb"/>
+當時六祖在黄梅五百人中眼獨開入室偈聞傳絶唱<pc n="lb"/>
+升堂客謾恃多才鉄牛無用成貞角石女能生是聖胎<pc n="lb"/>
+聞说欲抛經論去莫教惆悵却空廻<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人寄詩集<pc n="lb"/>
+所聞新事即戈矛欲去终疑是暗投逺客寄言還有在<pc n="lb"/>
+                    <pb n="2b"/>
+此<pc n="　"/>将謂惣無休千篇著述诚難得一字知音不易求<pc n="lb"/>
+時入思量向何處月圓孤凭水邊樓<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝元願上人逺檀溪集<pc n="lb"/>
+白首蕭條居漢浦清吟編集號檀溪有人收拾應如玉<pc n="lb"/>
+無主知音只似泥入理半筒黄葉句遣懐多擬碧雲題<pc n="lb"/>
+猶能為我相思在千里封来夢澤西<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄道林寺諸友<pc n="lb"/>
+吟興終依異境長舊逰時入静思量江聲裡過東西寺<pc n="lb"/>
+樹影中行上下方春色濕僧巾屨膩松花沾鶴骨毛香<pc n="lb"/>
+老来何計重歸去千里重湖浪渺茫<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈智滿三藏<pc n="lb"/>
+                    <pb n="3a"/>
+灌頂清涼一滴通大毗盧藏遍虚空欲飛薝葡花無盡<pc n="lb"/>
+湏待陁羅尼有功金杵力摧魔界黑水精光透夜燈紅<pc n="lb"/>
+可堪東獻明天子命服新酹賛國風<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝王先輩湘中囬惠示卷軸<pc n="lb"/>
+少小即懷風雅情獨能遺象琢湻精不教霜雪侵玄鬂<pc n="lb"/>
+便向雲霄换好名携去湘江聞皷瑟袖来緱嶺伴吹笙<pc n="lb"/>
+多君百首貽衰颯畱把吟行访竺卿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆渚寄懐西蜀無染大師兄<pc n="lb"/>
+大溈心付白崕前寳月分輝照蜀天聖主降情延北内<pc n="lb"/>
+諸侯稽首问南禅清秋不動驪龍海紅日無私罔象川<pc n="lb"/>
+欲聽吾宗舊山说地邊身老椘江邊<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>谢武陵徐廵官逺寄五七字詩集<pc n="lb"/>
+五字才将七字争為君聊敢试懸衡鼎湖菡萏摇金影<pc n="lb"/>
+蓬島鸞凰舞翠聲還是靈龜巢得稳要湏仙子駕方行<pc n="lb"/>
+兩編珍重遥相惠何日燈前盡此情<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>重宿舊房與愚上人静话<pc n="lb"/>
+曾此栖心過十冬今来瀟灑屬生公檀欒舊植青添翠<pc n="lb"/>
+菡萏新栽白换紅北面城臨燈影合西隣壁近講聲通<pc n="lb"/>
+不知門下趋<pc n="　"/>士何似當時石解空<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝南平王賜山雞<pc n="lb"/>
+五色文章類彩鸞椘人羅得半摧殘金籠莫恨傷冠幘<pc n="lb"/>
+玉粒湏慚剪羽翰孤立影危丹檻裏雙栖伴在白雲端<pc n="lb"/>
+                    <pb n="4a"/>
+上台愛育通幽細却放溪山去不難<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆門病中雨後書懐寄幙中知己<pc n="lb"/>
+病根翻作憶山勞一雨聊堪浣鬱陶心白未䏻忘水月<pc n="lb"/>
+眼青猶得見秋毫蝉聲晚促枝枝急雲影晴分片片高<pc n="lb"/>
+還憶赤松兄弟否别来應見鶴衣毛<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宿江寺<pc n="lb"/>
+島僧留宿慰衰顔舊住何妨老未還身共錫聲離鳥外<pc n="lb"/>
+迹同雲影過人間曾無夢入朝天路憶有詩題隔海山<pc n="lb"/>
+珍重来晨渡江去九華青裏扣松關<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝貫微上人寄示古風今體四軸<pc n="lb"/>
+四軸騷詞書八行捧吟肌骨遍清涼謾求龍樹能醫眼<pc n="lb"/>
+                    <pb n="4b"/>
+休问圗澄學洗膓今體盡搜𥘉剖判古風湻鑿未玄黄<pc n="lb"/>
+不知誰肯降文陣閟點旌旗敵子房<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆州貫休大師舊房<pc n="lb"/>
+疎篁抽笋栁垂隂舊是休公種境吟入貢文儒来請益<pc n="lb"/>
+出官卿相駐過尋右軍書畫神傳髓康樂文章夢授心<pc n="lb"/>
+消得青城千嶂下白蓮標塔帝恩深<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄谷山長老<pc n="lb"/>
+逰遍名山祖遍尋却来塵世渾光隂肯将的的吾師意<pc n="lb"/>
+擬付茫茫弟子心豈有虚空遮道眼不妨文字问知音<pc n="lb"/>
+滄浪萬頃三更月天上何如水底深<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄黄暉處士<pc n="lb"/>
+                    <pb n="5a"/>
+蒙氏藝傳黄士子獨聞相繼得名髙鋒鋩妙奪金雞距<pc n="lb"/>
+纖利精分玉兎毫濡染只應親賦咏風流不稱近弓刀<pc n="lb"/>
+何妨寄我臨池興忍使江淹役夢勞<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆門勉懐寄道林寺諸友<pc n="lb"/>
+榮枯得丧理昭然誰効離騷更问天生下便知真夢幻<pc n="lb"/>
+老来何必歎流年清風不變诗應在明月無蹤道可傳<pc n="lb"/>
+珍重匡廬沃州主披衣抛却好林泉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荅崔校書<pc n="lb"/>
+雪色衫衣绝點塵明知富貴是浮雲不隨喧滑迷貞性<pc n="lb"/>
+何用潺湲洗汚聞北闕㑹抛紅駊騀東林社憶白氛氲<pc n="lb"/>
+清吟有興頻相示欲答多慚蠧蝕文<pc n="lb"/>
+                    <pb n="5b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>乞櫻桃<pc n="lb"/>
+去年曽賦此花詩幾聽南園爛熟時嚼破紅香堪换骨<pc n="lb"/>
+摘殘丹顆欲燒枝流鶯偷啄心應醉行客潛窺眼亦癡<pc n="lb"/>
+聞说張筵就珠樹任從攀折半離披<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄南雅上人<pc n="lb"/>
+曾得音書慰暮年相思多故信難傳清吟何處題紅葉<pc n="lb"/>
+舊社空懐墮白蓮山水本同真趣向侯門剛有薄因緣<pc n="lb"/>
+他時不得君招隐㑹逐南歸椘客船<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄歐陽侍郎<hi>時在嘉州饋遣</hi>
+                    <pc n="lb"/>
+又聞繁惣在嘉州職重身闲倚市樓大象影和山面落<pc n="lb"/>
+兩江聲合郡前流棊輕國手知難敵詩是天才肯易酧<pc n="lb"/>
+                    <pb n="6a"/>
+畢竟男兒自髙達徔来心不是悠悠<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>與崔校書静話言懐<pc n="lb"/>
+同年生在咸通裏事物為儒趣盡高我性已甘披袒衲<pc n="lb"/>
+君心猶待脱藍𫀆霜髭曉幾臨銅鏡雪髩寒疎落剃刀<pc n="lb"/>
+出世朝天俱未得不妨還往有風騷<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠拄杖<pc n="lb"/>
+卭州靈境産修篁九節材應表九陽造化已能分尺度<pc n="lb"/>
+保持争合與尋常幽林翦破清秋影髙手携来綠玉光<pc n="lb"/>
+深谢魯儒憐潦倒欲教撑拄遶禅床<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝秦府推官寄丹臺集<pc n="lb"/>
+秦王手筆序丹臺不錯褒揚最上才鳳阙幾傳為匠碩<pc n="lb"/>
+                    <pb n="6b"/>
+龍门曽用振風雷錢郎未竭精華去元白終存作者来<pc n="lb"/>
+兩軸蚌胎驪頷耀枉臨禅室伴寒灰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題畫鷺鷥兼简孫郎中<pc n="lb"/>
+曽向滄江看不真却因圗晝見精神何妨金粉資髙格<pc n="lb"/>
+不用丹青點此身蒲葉㟁長堪映帶荻花叢晚好相親<pc n="lb"/>
+思量畫得勝籠得野性由来不戀人<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>賀行軍太傅得白氏東林集<pc n="lb"/>
+楽天歌詠有遺編留在東林伴白蓮百氏典墳隨喪亂<pc n="lb"/>
+一家風雅獨完全常闻荆渚通侯論果遂呉都使者傳<pc n="lb"/>
+仰賀斯文歸朗鑒永資聲政入薫絃<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>韶陽微公<pc n="lb"/>
+                    <pb n="7a"/>
+曲江晴影石千株吾子思歸夢㫁𥘉有信北来山叠叠<pc n="lb"/>
+無言南去雨疎疎祖師門接園林路丞相家同井邑居<pc n="lb"/>
+閒野老身留得否相招多是秀才書<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>将之匡廬過潯陽<pc n="lb"/>
+颿過潯陽晚霽開西風北鴈似相催大孤浪後青堆沒<pc n="lb"/>
+五老雲中翠叠来此路便堪歸水石何門更合向塵埃<pc n="lb"/>
+逺公林下蓮池畔箇箇髙人盡有才<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄湘幕王重書記<pc n="lb"/>
+抛擲浟江舊釣磯日參籌畫廢吟詩可能有事關心後<pc n="lb"/>
+得似無人識面時官好近闻加茜服藥靈曾说换霜髭<pc n="lb"/>
+髙才直氣平生志除却徒知即不知<pc n="lb"/>
+                    <pb n="7b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宿沈彬進士書院<pc n="lb"/>
+相期只為話篇章踏雪曽来宿此房喧滑盡消城滿滴<pc n="lb"/>
+窗扉初揜岳茶香舊山春暖生薇蕨大國塵昏懼殺傷<pc n="lb"/>
+應有太平時節在寒宵未卧共思量<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>静院<pc n="lb"/>
+花院相重點破苔誰心肯此話心灰好風時傍疎篁起<pc n="lb"/>
+幽鳥晚從何處来筆研興狂詩沈謝香燈魂㫁憶宗雷<pc n="lb"/>
+浮生已問空王了急箭光隂一任催<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送白處士逰峨嵋<pc n="lb"/>
+閒身誰道是覊逰西指峨嵋碧頂頭琴鶴幾程隨客棹<pc n="lb"/>
+風霜何處宿龍湫尋僧石磴臨天井研藥秋崖倒瀑流<pc n="lb"/>
+                    <pb n="8a"/>
+莫為寰瀛多事在客星相逐不逥休<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄顧蟾處士<hi>好于山水</hi>
+                    <pc n="lb"/>
+久聞為客過蒼梧休说移家歸鏡湖山水顛狂應盡在<pc n="lb"/>
+髩毛凋落免貧無和僧搶入雲中峭帶鶴驅成澗底孤<pc n="lb"/>
+春醉醒来有餘興因人乞與武陵圗<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懐金陵知舊<pc n="lb"/>
+海門相别住荆門六度秋光兩髩根萬象倒心難蓋口<pc n="lb"/>
+一生無事可傷魂石頭城外青山叠北固窗前白浪翻<pc n="lb"/>
+盡是共逰題板處有谁惆悵拂苔痕<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>驚秋<pc n="lb"/>
+曉窗驚覺向秋風萬里心凝澹蕩中池影碎翻紅菡萏<pc n="lb"/>
+                    <pb n="8b"/>
+井聲乾落綠梧桐破除閒事渾歸道銷耗勞生旋逐空<pc n="lb"/>
+妖殺尤原狐兎意豈知邱壠是英雄<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>聞沈彬赴吳都請辟<pc n="lb"/>
+長訝髙眠得穩無果隨徵辟起江湖鴛鴦已列尊罍貴<pc n="lb"/>
+鷗鶴休懷釣渚孤白首不妨扶漢祚清才何讓賦吳都<pc n="lb"/>
+可能更憶相尋夜雪滿諸峰大一爐<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄江夏仁公<pc n="lb"/>
+寺閣髙連黄鶴樓簷前檻底大江流幾因秋霽澄空外<pc n="lb"/>
+獨為詩情到上頭白日有餘閒送客紫衣何啻貴封侯<pc n="lb"/>
+别来多少新吟也不寄南宗老比丘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>中春林下偶作<pc n="lb"/>
+                    <pb n="9a"/>
+浄境無人可共携閒眠未起日光低浮生莫把還丹續<pc n="lb"/>
+萬事須将至理齊花在月明蝴蝶夢雨餘山綠杜鵑啼<pc n="lb"/>
+何能向外求攀折岩桂枝條拂石梯<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送劉秀才歸桑水寕覲<pc n="lb"/>
+歸和初喜戢戈矛乍捧鄉書感去留鴈序分飛離漢口<pc n="lb"/>
+鴒原騫翥在鰲頭家隣紫塞仍千里路過黄河更幾州<pc n="lb"/>
+應到髙堂問安後却携文入帝京游<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄曹松<pc n="lb"/>
+舊製新題削復刊工夫過甚琢瑯玕藥中求見黄芽動<pc n="lb"/>
+詩裏思聞白雪難扣寂頗同心在㝎鑿空何止髪冲冠<pc n="lb"/>
+夜來月苦懷髙論數樹霜邊獨傍欄<pc n="lb"/>
+                    <pb n="9b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酧蜀國歐陽學士<pc n="lb"/>
+因緣劉表駐經行又聽秋風墮葉聲鶴髪不堪言此世<pc n="lb"/>
+峨嵋空約在他生已徔禅祖參真性敢向詩家認好名<pc n="lb"/>
+深愧故人憐潦倒毎傳仙語下南荆<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄荆幕孫郎中<pc n="lb"/>
+珠履風流憶富春三千鵷鷺讓精神詩工鑿破清求妙<pc n="lb"/>
+道論研通白見貞四座共推操檄徤一家誰信買書貧<pc n="lb"/>
+别來鄉國魂應㫁劍閣東西盡戦塵<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝王詹事垂訪<pc n="lb"/>
+鳥外孤峰未得歸人間觸䫫是無機方悲鹿軫栖江寺<pc n="lb"/>
+忽訝軺車降竹扉王澤乍聞譚渙汗國風那得話玄微<pc n="lb"/>
+                    <pb n="10a"/>
+應驚老病炎天裏枯骨肩横一衲衣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題南平後園牡丹<pc n="lb"/>
+暖披烟艷照西園翠幄朱欄䕶列仙玉帳笙歌留盡日<pc n="lb"/>
+瑶䑓伴侶待歸天香多覺受風光剩紅重知含雨露偏<pc n="lb"/>
+上客分明記開處明年開更勝今年<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>和李書記<pc n="lb"/>
+繁極全分青帝功開時獨占上春風呉姬舞雪非貞豔<pc n="lb"/>
+漢后題詩是怨紅逺蝶戀香抛别苑野鶯銜得出深宫<pc n="lb"/>
+君看萬態當筵處羞殺薔薇點碎叢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝孫郎中寄示<pc n="lb"/>
+一念禅餘味國風早因持論偶名公久傷琴䘮人亡後<pc n="lb"/>
+                    <pb n="10b"/>
+忽有雲和雪唱同鎚琢静聞晜象外是非閒見寂寥中<pc n="lb"/>
+時来日往緣真趣不覺秋江度塞鴻<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>愛吟<pc n="lb"/>
+正堪凝思揜禅扄又被詩魔惱竺卿偶凭窗扉徔落照<pc n="lb"/>
+不眠風雪到殘更皎然未必迷前習支遁寕非悟後生<pc n="lb"/>
+傳冩㑹逢精鑒者也應知是詠閒情<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄懷東林寺匡白監事<pc n="lb"/>
+南岳别來無後約東林歸住有前緣閒搜好句題紅葉<pc n="lb"/>
+静斂雙眉對白蓮雁塔影分疎檜月虎溪聲合幾峰泉<pc n="lb"/>
+修心若似伊耶舍傳記須添十九賢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠十色花牋并碁子<pc n="lb"/>
+                    <pb n="11a"/>
+陵州碁子浣花牋深媿携来自錦川海蚌琢成星落落<pc n="lb"/>
+吳綾隐出鴈翩翩留防桂苑題詩客惜寄桃源敵手仙<pc n="lb"/>
+捧受不堪思出處七千餘里劍門前<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日寓居寄友人<pc n="lb"/>
+北逰兵阻復南還因寄荆州病揜關日月坐銷江上寺<pc n="lb"/>
+清涼魂斷剡中山披緇影迹堪藏拙出世身心合向閒<pc n="lb"/>
+多謝扶風大君子相思時對寂寥間<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>中秋十四日夜對月上南平主人<pc n="lb"/>
+今宵前夕皆堪玩何必圓時始竭才空説輪中自天子<pc n="lb"/>
+不知何處有樓臺終憂明夜雲遮却且掃閒居坐看来<pc n="lb"/>
+玉兔銀蟾似多意乍臨棠樹影徘徊<pc n="lb"/>
+                    <pb n="11b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠十才子圖<pc n="lb"/>
+丹青妙冩十才人玉峭氷稜姑射神醉舞離披真鸑鷟<pc n="lb"/>
+狂吟崩倒瑞麒麟翻騰造化山曽竭采掇珠璣海幾貧<pc n="lb"/>
+猶得知音與圖畫草堂閒挂似相親<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆門病中寄懷鄉人歐陽侍郎彬<pc n="lb"/>
+谁㑹荆州一老夫夢勞神役憶匡廬碧雲雁影紛紛去<pc n="lb"/>
+黄葉蝉聲漸漸無口澹莫分飡氣味身羸但覺病肌膚<pc n="lb"/>
+可憐饌玉燒蘭者肯慰寒隈雪夜爐<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送譚三藏入京<pc n="lb"/>
+阿闍黎與佛身同灌頂難施利濟功持呪力湏資運祚<pc n="lb"/>
+度人心要似虚空東周路踏紅塵裏北極門瞻紫氣中<pc n="lb"/>
+                    <pb n="12a"/>
+好進梵文沾帝澤却歸天䇿繼真風三藏住椘國天䇿寺<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄酬秦府高推官輦<pc n="lb"/>
+天台衢岳舊曽尋閒憶留題白石林歲月己殘衰颯髩<pc n="lb"/>
+風騷猶壮寂寥心緱山碧樹遮藏密丹穴紅霞揜映深<pc n="lb"/>
+争得相逢一携手拂衣同去聽玄音<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>叙懐寄髙推官<pc n="lb"/>
+搜新編舊與誰評自向無聲認有聲己覺愛来多廢道<pc n="lb"/>
+可堪傳去更沽名風松韻裏忘形坐霜月光中共影行<pc n="lb"/>
+還勝御溝寒夜水狂吟衝尹甚傷情<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送朱侍御自雒陽歸閬州寍覲<pc n="lb"/>
+尋常西望故園時幾䖏魂隨落照飛客路舊縈秦甸出<pc n="lb"/>
+                    <pb n="12b"/>
+鄉程今繞漢陽歸已過巫峽沉青靄忽認峨嵋在翠微<pc n="lb"/>
+徔此倚門休望斷交親喜换老萊衣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>貽惠暹上人<pc n="lb"/>
+經論功餘更業詩又扵難裏縱天機吳朝客見投文去<pc n="lb"/>
+楚國僧迎著紫歸已得聲名先振俗不妨風雪更探微<pc n="lb"/>
+金陵髙憶恩門在終挂雲颿重一飛<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酧西蜀廣濟大師見寄<pc n="lb"/>
+猶得吾師繼頌聲百篇相愛寄南荆卷開錦水霞光爛<pc n="lb"/>
+吟入峨嵋雪氣清椘外已甘推絶唱蜀中誰敢共懸衡<pc n="lb"/>
+應懐無可同無本終向風騷作弟兄<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>江寺春殘寄幕中知己二首<pc n="lb"/>
+                    <pb n="13a"/>
+誰遣西来負岳雲自由歸去更何因山龕薜荔應殘雪<pc n="lb"/>
+江寺玫瑰又度春早歲便師無學士臨年却作有為人<pc n="lb"/>
+何妨夜宴時相憶佯醉佯狂笑老身<pc n="lb"/>
+社蓮慚與幕蓮同岳寺蕭條儉府雄冷淡獨開香火裏<pc n="lb"/>
+殷妍行列綺羅中秋加玉露何傷白夜醉金缸不那紅<pc n="lb"/>
+閒憶遺民此心地一般無染喻真空<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄玉泉寶仁上人<pc n="lb"/>
+往歲曽尋聖跡時樹邊三遶禮吾師敢瞻䕶法将軍記<pc n="lb"/>
+且喜焚香弟子知後㑹未期心的的前峰欲下歩遲遲<pc n="lb"/>
+今来老劣難行甚空寂無緣但寄詩<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆渚懐寄僧逹禅弟三首<pc n="lb"/>
+                    <pb n="13b"/>
+電擊流年七十三齒衰氣沮竟何堪誰云有句傳天下<pc n="lb"/>
+自愧無心寄嶺南曉漱氣嫌通市井晚烹香憶落雲潭<pc n="lb"/>
+鄰峯道者還弹指蘚剥藤纒舊石龕<pc n="lb"/>
+十五年前㑹虎溪白蓮齋後便来西干戈時變信雖絶<pc n="lb"/>
+吳椘路長魂不迷黄葉喻曽同我悟碧雲情近與誰携<pc n="lb"/>
+春殘相憶荆江岸一隻杜鵑頭上啼<pc n="lb"/>
+鶴嶺僧来細語君依然髙尚迹難群自抛南岳三生石<pc n="lb"/>
+長傍西山數片雲丹訪葛洪無舊竈詩尋靈觀有遺文<pc n="lb"/>
+莫将離别為相隔心似虚空幾處分<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄孫魴秀才<pc n="lb"/>
+郡樓東面市牆西顔子生涯竹屋低書案飛揚風落絮<pc n="lb"/>
+                    <pb n="14a"/>
+地苔狼藉燕銜泥吟窗晚凭春篁密行徑斜穿夏菜齊<pc n="lb"/>
+别後相思頻夢到二年同此賦閒題<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送李評事往宜春<pc n="lb"/>
+蘭舟西去是通津名郡賢侯下禮頻山遍寺樓看仰岫<pc n="lb"/>
+臺連城閣上宜春鴻心夜過鄉心亂雪韻朝飛句韻新<pc n="lb"/>
+别有官榮身外趣月江松徑訪禅人<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>中春感興<pc n="lb"/>
+春風日日雨時時寒力潛徔暖勢衰一氣不言含有象<pc n="lb"/>
+萬靈何處謝無私詩通物理行堪掇道合天機坐可窺<pc n="lb"/>
+應是正人持造化盡驅幽細入爐鎚<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>早鶯<pc n="lb"/>
+                    <pb n="14b"/>
+何處經年絶好音暖風吹出囀喬林羽毛新刷陶潛菊<pc n="lb"/>
+喉舌初調叔夜琴藏雨並棲紅杏密避人雙入綠楊深<pc n="lb"/>
+曉来枝上千般語應共桃花説舊心<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬尚顔上人<pc n="lb"/>
+紫綬蒼髭百歲侵綠苔芳草繞堦深不妨好鳥喧髙卧<pc n="lb"/>
+切忌閒人聒正吟魯鼎寂寥休辨口刼灰銷變莫宣心<pc n="lb"/>
+還憐我有冥搜癖時把新詩過竹尋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄倪曙郎中<pc n="lb"/>
+風雨冥冥春闇移紅殘綠滿海棠枝帝鄉久别江鄉住<pc n="lb"/>
+椿筍何如櫻筍時海内擅名君作賦林間外學我為詩<pc n="lb"/>
+近聞南國升南省應笑無機老病師<pc n="lb"/>
+                    <pb n="15a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喜得自牧上人書<pc n="lb"/>
+吳都使者泛驚濤靈一傳書慰毳袍别興偶隨雲水逺<pc n="lb"/>
+知音本自國風高身依閑淡中銷日髪向清涼處落刀<pc n="lb"/>
+聞著括囊新集了擬教誰與序離騷<pc n="lb"/>
+白蓮集卷第七<pc n="lb"/>
+<pb n="15b"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+    <p>
+<pc n="lb"/>
+                    
+白蓮集卷第八<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊<pc n="　"/>己<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湘中寓居春日感懷<pc n="lb"/>
+江禽野獸兩堪傷避射驚弹合自忙頭角任多無獬豸<pc n="lb"/>
+羽毛雖衆讓鴛鴦落苔紅小櫻桃熟侵井青纎燕麦長<pc n="lb"/>
+吟把離騷憶前事汨羅春恨撼殘陽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>瀟湘<pc n="lb"/>
+寒清健碧逺相含珠媚根源在極南流古遞今空作島<pc n="lb"/>
+逗山冲壁自為潭遷来賈誼愁無限謫過靈均恨不堪<pc n="lb"/>
+畢竟輸他老漁叟綠簔青竹釣濃藍<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄友生<pc n="lb"/>
+                    <pb n="1a"/>
+風騷情味近如何門底寒流屋裏莎曽摘園蔬留我宿<pc n="lb"/>
+共吟江月看鴻過時危苦恨無收拾道妙深誇有琢磨<pc n="lb"/>
+涼夜欹眠應得夢平生心肺似君多<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬答退上人<pc n="lb"/>
+鬚髩三分白二分一生蹤跡出人群嵩丘夢憶諸峰雪<pc n="lb"/>
+衡岳禅依五寺雲青衲幾臨高瀑濯苦吟曽許斷猿聞<pc n="lb"/>
+荒村殘臘相逢夜月滿鴻夛楚水濆<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>山中春懷<pc n="lb"/>
+心魂役役不曽歸萬象相牽向極微所得或憂逢郢刃<pc n="lb"/>
+凡言皆欲奪天機逰深晚谷香充鼻坐苦春松粉滿衣<pc n="lb"/>
+何物不為狼藉境桃花和雨落霏霏<pc n="lb"/>
+                    <pb n="1b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄鄭谷郎中<pc n="lb"/>
+上國誰傳消息過醉眠醒坐對嵯峨身離道士衣裳少<pc n="lb"/>
+筆答禅師句偈多南㟁郡鐘涼度枕西齋竹露冷沾莎<pc n="lb"/>
+還應笑我降心外惹得詩魔助佛魔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄萍鄉唐禀正字<pc n="lb"/>
+新書聲價滿皇都高卧林中更起無春興酒香熏肺腑<pc n="lb"/>
+夜吟雲氣濕髭鬚同登水閣僧皆别共上魚船鶴亦孤<pc n="lb"/>
+長憶前年送行處洞門殘日照菖蒲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秋夕書懷<pc n="lb"/>
+涼多夜永擁山袍片石閒欹不覺勞蟋蟀繞床無夢寐<pc n="lb"/>
+梧桐滿地有蕭騷平生樂道心常切五字逢人價合高<pc n="lb"/>
+                    <pb n="2a"/>
+破落西窗向殘月露聲如雨滴蓬蒿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>亂後經西山寺<pc n="lb"/>
+松燒寺破是刀兵谷變陵遷事可驚雲裡乍逢新住主<pc n="lb"/>
+石邊重認舊題名閒臨菡萏荒池坐亂踏鴛鴦破瓦行<pc n="lb"/>
+欲伴髙僧重結社此身無計捨前程<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題梁賢巽公房<pc n="lb"/>
+吳王廟側有高房簾影南軒日正長吹苑野風桃葉碧<pc n="lb"/>
+壓畦春露菜花黄懸燈向後惟冥黙凭案前頭即渺茫<pc n="lb"/>
+知有虎溪歸夢切寺門松折社僧亾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>塘上閒作<pc n="lb"/>
+閒行閒坐藉莎煙此興堪思二古賢陶靖節居彭澤畔<pc n="lb"/>
+                    <pb n="2b"/>
+賀知章在鏡湖邊鴛鴦著對能飛綉菡萏成群不語仙<pc n="lb"/>
+形影騰騰夕陽裏數峰危翠滴漁船<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>江上望逺山寄鄭谷郎中<hi>公時退居仰山</hi>
+                    <pc n="lb"/>
+危碧層層映水天半垂岡壠下民田王維愛甚難抛畫<pc n="lb"/>
+支遁高多不惜錢巨石盡含金玉器亂峰閒鏁楝梁煙<pc n="lb"/>
+秦争漢奪空勞力却是巢由得稳眠<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人自蜀廽南逰<pc n="lb"/>
+錦水東浮情尚鬰湘波南泛思何長蜀魂巴狖悲殘夜<pc n="lb"/>
+越鳥燕鴻呌夕陽烟月幾般爲客路林泉四絶是吾鄉<pc n="lb"/>
+尋幽必有僧相指宋杜題詩近舊房<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄无願上人<pc n="lb"/>
+                    <pb n="3a"/>
+六十八去七十歲與師年鬂不争多誰言生死無消處<pc n="lb"/>
+還有修行那得何閑事安䏻窮好惡故人堪憶舊經過<pc n="lb"/>
+㑹歸原上焚身後一陣灰飛也任他<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懐瀟湘即事寄友人<pc n="lb"/>
+浸野淫空淡蕩和十年隣住聽漁歌城臨逺棹浮煙泊<pc n="lb"/>
+寺近閑人泛月過㟁引綠蕪春雨細汀連斑竹晚風多<pc n="lb"/>
+可憐千古懐沙處還有魚龍弄白波<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝橘洲人寄橘<pc n="lb"/>
+洞庭栽種似瀟湘綠繞人家帶夕陽霜裛露蒸千樹熟<pc n="lb"/>
+浪廽風撼一洲香洪崖遣後名何逺陸績懷来事更長<pc n="lb"/>
+藏贮待供賓客好石榴宜稱映舟光<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>自貽<pc n="lb"/>
+心中身外更何猜坐石看雲養聖胎名在好詩誰逐去<pc n="lb"/>
+跡依閒處自歸來時添瀑布新瓶水旋换㫋檀舊印灰<pc n="lb"/>
+晴出寺門驚往事古松千尺半蒼苔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄益上人<pc n="lb"/>
+長想尋君道路遥亂山霜後火新燒近聞移住鄰衡岳<pc n="lb"/>
+幾度題詩上石橋古木傳聲連峭壁一燈懸影過中宵<pc n="lb"/>
+風騷味薄誰相愛欹枕常多夢鮑昭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>行次宜春寄湘西諸友<pc n="lb"/>
+幸無名利路相迷雙履尋山上柏梯衣鉢祖辭梅嶺外<pc n="lb"/>
+香燈社别橘洲西雲中石壁青侵漢樹下苔錢綠繞溪<pc n="lb"/>
+                    <pb n="4a"/>
+我愛逺逰君愛住此心他約與誰携<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送略禅者歸南岳<pc n="lb"/>
+林下鐘殘又拂衣錫聲還獨向南飛千峰冷截冥鴻處<pc n="lb"/>
+一徑險通禅客歸青石上行苔片片古杉邊宿雨霏霏<pc n="lb"/>
+勞生有願應囬首忍著無心與物違<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄知己<pc n="lb"/>
+已得浮生到老閒且将新句擬玄關自知清興来無盡<pc n="lb"/>
+誰道淳風去不還三百正聲傳世後五千真理在人間<pc n="lb"/>
+此心終待相逢説時復登樓看莫山<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄吳拾遺<pc n="lb"/>
+新作将誰推重輕皎然評裡見權衡非無苦到難搜處<pc n="lb"/>
+                    <pb n="4b"/>
+合有清垂不朽名疎雨晚冲蓮葉响亂蝉涼抱檜梢鳴<pc n="lb"/>
+野橋閒背殘陽立翻憶蘇卿送子卿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>春晴感興<pc n="lb"/>
+連旬隂翳曉来晴水滿圓塘照日明㟁草短長邊過客<pc n="lb"/>
+江花紅白裡啼鶯野無征戦時堪望山有樓臺暖好行<pc n="lb"/>
+桑柘依依禾黍綠可憐歸去是張衡<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝道友拄杖<pc n="lb"/>
+翦自南岩瀑布邊寒光七尺乳珠連持来未入塵埃路<pc n="lb"/>
+乞與應憐老病年欹影夜歸青石澗卓痕秋過綠苔錢<pc n="lb"/>
+他時携上嵩峰頂把倚長松看洛川<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東林寄别修睦上人<pc n="lb"/>
+                    <pb n="5a"/>
+行心乞得見秋風雙履難留更住蹤紅葉正多離社客<pc n="lb"/>
+白雲無限向嵩峰囊中自欠詩千首身外誰知事幾重<pc n="lb"/>
+此别不知為後約年華相似逼衰容<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日原西避暑寄吟友<pc n="lb"/>
+熱煙疎竹古原西日日乘涼此杖藜閒處雨聲隨霹靂<pc n="lb"/>
+旱田人望隔虹霓蝉依獨樹乾吟苦鳥憶平川渴過齊<pc n="lb"/>
+別有相招好泉石瑞花瑶草盡堪携<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懷匡阜<pc n="lb"/>
+荆川連歲滯逰方拄杖塵封六尺光洗面有香思石溜<pc n="lb"/>
+冥心無撓憶山牀閒機但媿時機速静論湏慚世論長<pc n="lb"/>
+昨夜分明夢歸去薜蘿幽徑繞禅房<pc n="lb"/>
+                    <pb n="5b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>静坐<pc n="lb"/>
+繩床欹坐任崩頺雙眼醒醒閉復開日月更無間裏過<pc n="lb"/>
+風騷時有静中来天真自得生難捨世幻論驚死不廽<pc n="lb"/>
+何處堪投此踪跡水邊<pc n="　"/>去上髙臺<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄湘中諸友<pc n="lb"/>
+碧雲诸友盡黄眸石點花飛更说無嵐翠濕衣松接院<pc n="lb"/>
+芙蓉薫面寺臨湖沃洲高卧心何僻匡社長禅興亦孤<pc n="lb"/>
+争似椘王文物國金鏕紫綬讓前途<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>答无願上人書<pc n="lb"/>
+鄭生驅蹇峴山囬傳得安公好信来千里阻修俱老骨<pc n="lb"/>
+八行重叠慰寒灰春殘桃李猶開户雪滿杉松始上臺<pc n="lb"/>
+                    <pb n="6a"/>
+必有南逰山水興漢江平稳好浮杯<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送㣧公歸閩<pc n="lb"/>
+西朝歸去見髙情應戀香燈近聖明關令莫疑非馬辨<pc n="lb"/>
+道安還跨赤驢行充齋野店蔬無味洒笠平原雪有聲<pc n="lb"/>
+忍惜文章便閒得看他趨競取時名<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>感時<pc n="lb"/>
+忽忽枕前蝴蝶夢悠悠覺後利名塵無窮今日明朝事<pc n="lb"/>
+有限生来死去人終與狐狸為窟穴謾師龜鶴養精神<pc n="lb"/>
+可憐顔子能消息虚室坐忘心最真<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湖上逸人<pc n="lb"/>
+澹蕩光中翡翠飛田田初出柳絲絲吟㳂綠島時逢鶴<pc n="lb"/>
+                    <pb n="6b"/>
+醉泛清波或見龜七澤釣師應識我中原逐鹿不知誰<pc n="lb"/>
+秋風水寺僧相近一徑蘆花到竹籬<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懐巴陵<pc n="lb"/>
+垂白堪思大亂前薄逰曽駐洞庭邊尋僧古寺沿沙㟁<pc n="lb"/>
+倚杖殘陽落水天蘭芷蔫菸騷客廟烟波晴閣釣師舡<pc n="lb"/>
+此時欲買君山住懶就商人乞個錢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>渚宫謝楊秀才自嵩山相訪<pc n="lb"/>
+嵩峰有客逺相尋塵滿麻衣袖苦吟花盡草長方閉户<pc n="lb"/>
+道孤身老正傷心紅堆落日雲千仭碧撼涼風竹一林<pc n="lb"/>
+惆悵雅聲消歇去喜君聊此暫披襟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆門寄沈彬<pc n="lb"/>
+                    <pb n="7a"/>
+罷趣明聖懶徔知鶴氅褵褷遂性披道有静君堪託迹<pc n="lb"/>
+詩無賢子擬傳誰松聲白石邊行止日影紅霞裏夢思<pc n="lb"/>
+珍重兩篇千里達去年江上雪飛時<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>讀隂符經<pc n="lb"/>
+繞窗風竹骨輕安閒借隂符仰卧看絶利一源真有謂<pc n="lb"/>
+空勞萬卷是無端清虚可保昇雲易嗜欲終知入聖難<pc n="lb"/>
+三要洞開何用閉高臺時去凭欄杆<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄吳國知舊<pc n="lb"/>
+淮甸當年憶旅逰衲衣㯶笠外何求城中古巷尋詩客<pc n="lb"/>
+橋上殘陽背酒樓晴色水雲天合影晚聲名利市争頭<pc n="lb"/>
+可憐王化融融裏惆悵無僧似惠休<pc n="lb"/>
+                    <pb n="7b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>移居<pc n="lb"/>
+上台言任養疎愚乞與西城水滿湖吹榻好風終日有<pc n="lb"/>
+趣涼閒客片時無檀欒翠擁清蝉在菡萏紅殘白鳥孤<pc n="lb"/>
+欲問存思搜抉妙幾聨詩什敵三都<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喜彬上人逺見訪<pc n="lb"/>
+高吟欲繼沃洲師千里相尋問課虚殘臘江山行盡處<pc n="lb"/>
+滿衣風雪刲閒居携来律韻清何甚趣入幽微㫖不疎<pc n="lb"/>
+莫惜天機細搥琢他時終可擬芙蕖<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆州新秋寺居冩懷詩五首上南平王<pc n="lb"/>
+竹如翡翠侵簾影苔學琉璃布地紋髙卧更應無此樂<pc n="lb"/>
+逺逰何必愛他雲閒聽謝眺吟爲政静看蕭何坐致君<pc n="lb"/>
+                    <pb n="8a"/>
+只恐老身衰朽速他年不得頌鴻勲<pc n="lb"/>
+井梧黄落暮蝉清久駐金臺但暗驚事佛未憐諸弟子<pc n="lb"/>
+譚空争動上公卿合歸鳥外藏幽跡敢向人前認好名<pc n="lb"/>
+滿印白檀燈一盞可䏻酬謝得聰明<pc n="lb"/>
+金湯裡面境何求寳殿東邊院最幽栽種已添新竹影<pc n="lb"/>
+畫圖兼列逺山秋形容豈合親公子章句争堪狎士流<pc n="lb"/>
+虚負岷峨老僧約年年雪水下汀洲<pc n="lb"/>
+漢江西㟁蜀江東六稔安禅教化中託迹幸將王粲别<pc n="lb"/>
+歸心寕與子山同尊罍豈識曹參酒賓坐還親宋玉風<pc n="lb"/>
+又見去年三五夕一輪寒魄破烟空<pc n="lb"/>
+石龕閒鏁舊居峰何事膺門歲月重五七詩中叨見過<pc n="lb"/>
+                    <pb n="8b"/>
+三千客外許疎慵迎涼蟋蟀喧閒思積雨莓苔沒屐踪<pc n="lb"/>
+㑹待英雄啟金口却教擔錫入雲松<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送李秀才歸湘中<pc n="lb"/>
+詞客携文訪病夫因吟送别憶湘湖寒消浦溆催鴻雁<pc n="lb"/>
+暖入溪山養鷓鴣僧向月中尋岳麓雲從城上去蒼梧<pc n="lb"/>
+君歸爲問峰前寺舊住松房鎖在無<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄呉國西供奉<pc n="lb"/>
+别来相憶夢多迷君住東朝我椘西瑶闕合陪龜象位<pc n="lb"/>
+春山休記鷓鴣啼承恩位與千官别應制才将十子齊<pc n="lb"/>
+幾笑逺公慵送客殷勤只到寺前溪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠端溪硯<pc n="lb"/>
+                    <pb n="9a"/>
+端人鑿斷碧雲潯善價争教惜萬金礱琢己曽經敏手<pc n="lb"/>
+研磨終見透堅心安排得主難移動舍貯隨時任淺深<pc n="lb"/>
+保重更求裝鈿匣閒将濡染寄知音<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送吳先輩赴京<pc n="lb"/>
+烟霄已遂明經第江漢重来問苦吟託興偶憑風月逺<pc n="lb"/>
+忘機終在寂寥深千篇未聽常徒口一字湏防作者心<pc n="lb"/>
+此日與君聊話後老身難約更相尋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>和西蜀可準大師逺寄之什<pc n="lb"/>
+莫知何路去追攀空想人間出世間杜口已同居士室<pc n="lb"/>
+傳心休問祖師山禅中不住方爲定說處無生始是閒<pc n="lb"/>
+珍重希音逺相寄亂峰西望叠孱顔<pc n="lb"/>
+                    <pb n="9b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆門暮冬與節公話别<pc n="lb"/>
+漳河湘岸柳𨳩頭離别相逢四十秋我憶黄梅夢南國<pc n="lb"/>
+君懷明主去東周幾程霜雪經殘臘何處封疆過舊逰<pc n="lb"/>
+好及春風承帝澤莫忘衰朽卧林丘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>賀孫支使郎中遷居<pc n="lb"/>
+别認公侯禮上才築金何翅舊燕臺地連東閣横頭買<pc n="lb"/>
+門對西園正面開不隔紅塵趨棨㦸只拖珠履赴尊罍<pc n="lb"/>
+應逢明月清霜夜閒鎖笙歌宴此来<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>庭際新移松竹<pc n="lb"/>
+三莖瘦竹兩株松瑟瑟翛翛韵且同抱節乍離新澗雪<pc n="lb"/>
+盤根逺别舊林風歲寒相倚無塵地䕃影分明有月中<pc n="lb"/>
+                    <pb n="10a"/>
+更待陽和信催促碧梢青杪看凌空<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆門寄題禅月大師影堂<pc n="lb"/>
+澤國聞師泥日後蜀王全禮葬餘灰白蓮塔向青泉鏁<pc n="lb"/>
+禅月堂臨錦水開西岳千篇傳古律<hi>大師著西岳集三十卷盛傳於世</hi>
+                    <pc n="lb"/>
+南宗一卷印靈臺不堪隻履還西去葱嶺如今無使廽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>賀雪<pc n="lb"/>
+上清凝結下乾坤為瑞為祥表致君日月影徔光外過<pc n="lb"/>
+山河影向静中分歌揚郢路誰同聽聲洒梁園客共聞<pc n="lb"/>
+堪想畫堂簾捲次輕隨舞袖正紛紛<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆州寄貫微上人<pc n="lb"/>
+舊齋休憶對松關各在王侯顧遇間命服已沾天渥澤<pc n="lb"/>
+                    <pb n="10b"/>
+衲衣猶擁祖斕斑相思莫捄燒心火留滯難移壓腦山<pc n="lb"/>
+得失兩途俱不是笑他髙卧碧孱顔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送休師歸長沙寕覲<pc n="lb"/>
+高堂親老本師存多難長懸兩處魂已説戦塵消漢口<pc n="lb"/>
+便隨征棹别荆門晴吟野濶無耕地晚宿灣深有釣村<pc n="lb"/>
+他日更思衰老否七年相伴琢詩言<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>江上夏日<pc n="lb"/>
+無處清隂似剡溪火雲奇崛倚空齊千山冷叠湖光外<pc n="lb"/>
+一扇涼揺椘色西碧樹影疎風易㫁綠蕪平逺日難低<pc n="lb"/>
+故園舊寺臨湘水斑竹煙深越鳥啼<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>渚宫春日因懷有作<pc n="lb"/>
+                    <pb n="11a"/>
+舊業樹連湘樹逺家山雲與岳雲平僧来已説無畊釣<pc n="lb"/>
+鴈去那知有弟兄客思莫牽蝴蝶夢鄉心自憶鷓鴣聲<pc n="lb"/>
+沙頭南望堪膓㫁誰把歸舟載我行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>松化為石<hi>近聞金華山古松化為石</hi>
+                    <pc n="lb"/>
+盤根幾聳翠岩前却偃凌雲化至堅乍結精華齊永刼<pc n="lb"/>
+不隨凋變已千年逢賢必用鎸辭立遇聖終将刻印傳<pc n="lb"/>
+肯似荆山鑿餘者蘚封頑滯卧嵐煙<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄澧陽呉使君<pc n="lb"/>
+南客西来話使君涔陽風雨變行春四隣畊釣趨仁政<pc n="lb"/>
+千里煙花壓路塵去獸未勝除狡吏還珠争似復逋民<pc n="lb"/>
+紅蘭浦暖携才子爛醉連題賦白蘋<pc n="lb"/>
+                    <pb n="11b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湘江送客<pc n="lb"/>
+湘江秋色湛如氷椘客離懷暮不勝千里碧雲聞塞雁<pc n="lb"/>
+幾程青草見巴陵寒濤響叠晨征擄㟁葦藂明夜泊燈<pc n="lb"/>
+鸚鵡洲邊若廽首為思前事一捫膺<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>暮逰岳麓寺<pc n="lb"/>
+寺樓高出碧崖棱城裏誰知在上層初雪灑来喬木暝<pc n="lb"/>
+逺禽飛過大江澄閒消不睡憐長夜静照無言謝一燈<pc n="lb"/>
+囬首何邊是空地四村桑麥遍丘陵<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>林下留别道友<pc n="lb"/>
+住亦無依去是閒何心終戀此林間片雲孤鶴東西路<pc n="lb"/>
+四海九州多少山静坐趂涼移樹影興隨題處著苔斑<pc n="lb"/>
+                    <pb n="12a"/>
+秋来洗浣行衣了還爾鄰僧舊竹闗<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>道林寺居寄岳麓禅師二首<pc n="lb"/>
+門前石路徹中峰樹影泉聲在半空尋去未應勞上下<pc n="lb"/>
+往来殊已倦西東髭根盡白孤雪並心迹全忘片月同<pc n="lb"/>
+長憶高窗夏天裏古松青檜午時風<pc n="lb"/>
+山袍不稱下紅塵各是閒居島外身兩處烟霞門寂寂<pc n="lb"/>
+一般苔蘚石磷磷禅關悟後寕疑物詩格玄来不傍人<pc n="lb"/>
+月照經行更誰見露華松粉點衣巾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>亂後江西遇孫魴舊居因寄<pc n="lb"/>
+舊逰重到倍悲涼吟憶同人倚寺廧何處莫蝉喧逆旅<pc n="lb"/>
+此中山鳥噪垂楊寰區有主權兵器風月無人掌桂香<pc n="lb"/>
+                    <pb n="12b"/>
+欲寄此心空北望寒鴻天末失歸行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宜春江上寄仰山長老二首<pc n="lb"/>
+水隔孤城城隔山水邊時望憶師閒清泉白石中峰上<pc n="lb"/>
+落日半空栖鳥還雲影觸衣分朶朶雨聲吹磬散潺潺<pc n="lb"/>
+傳心莫學羅浮去後輩思量待扣闗<pc n="lb"/>
+雨晴天半碧光流影倒殘陽濕郡樓絶頂有人經刼在<pc n="lb"/>
+浮生無客暫時逰窗開萬壑春泉亂塔鏁孤燈萬木稠<pc n="lb"/>
+欲為吾師拂衣去白雲紅葉又新秋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>螢<pc n="lb"/>
+透牕穿竹住還移萬䫫俱閒始見伊難把寸光藏暗室<pc n="lb"/>
+自持孤影助明時空庭散逐金風起亂葉争投玉露垂<pc n="lb"/>
+                    <pb n="13a"/>
+後代儒生懶收拾夜深飛過讀書帷<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湘中送翁員外歸闕<pc n="lb"/>
+舩滿琴書與酒杯清湘影裏片颿開人歸南國鄉園去<pc n="lb"/>
+鴈逐西風日夜来天埶漸低分海樹山程欲盡見城臺<pc n="lb"/>
+此身未别江邊寺猶看星郎奉詔囬<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄居道林寺作<pc n="lb"/>
+嵐濕南朝殿塔寒此中因淂謝塵寰已同庭樹千株老<pc n="lb"/>
+未負溪雲一片閒石鏡舊逰臨皎潔岳蓮曾上徹孱顔<pc n="lb"/>
+如今衰颯成多病黄葉風前晝掩關<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>沙鷗<pc n="lb"/>
+暖傍漁舩睡不驚可憐孤潔似華亭晚来灣浦衝平碧<pc n="lb"/>
+                    <pb n="13b"/>
+晴過汀洲拂淺青翡翠静中修羽翼鴛鴦閒處事儀形<pc n="lb"/>
+何如飛入深宫去留與興亡作典經<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>和翁員外題馬太師宅賈相公井<pc n="lb"/>
+飛塵不敢下相干闇脈傍應潤牡丹心任短長投玉綆<pc n="lb"/>
+底須三五映金盤神工舊制泓澄在天澤時加㶑灔寒<pc n="lb"/>
+太傅欲旌前古事星郎屬思久憑欄<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>看雲<pc n="lb"/>
+何峰觸石濕苔錢便逐高風離瀑泉深處卧来真隐逸<pc n="lb"/>
+上頭行去是神僊千尋有影滄江底萬里無踪碧落邊<pc n="lb"/>
+長憶舊山青壁裏繞庵閒伴老僧禅<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>對雪寄荆幕知己<pc n="lb"/>
+                    <pb n="14a"/>
+猛埶微開萬里清月中看似日中明此時鷗鷺無人見<pc n="lb"/>
+何處關山有客行郢唱轉髙誰敢和巴歌相顧自銷聲<pc n="lb"/>
+江齋卷箔含毫久應想梁王禮<pc n="　"/>經<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送相里秀才赴舉<pc n="lb"/>
+兩上東堂不見春文明重去有誰親曽逢少海尊前客<pc n="lb"/>
+舊是神僊㑹裏人已遂風雲催化羽却将雷電助燒鱗<pc n="lb"/>
+明年自此登龍後囬首京門一路塵<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆門疾中喜謝尊師自南岳來相里秀才自<hi>京至</hi>
+                    <pc n="lb"/>
+閒堂晝卧眼初開强起徐行繞砌苔鶴氅人徔衡岳至<pc n="lb"/>
+鶉衣客自雒陽来坐聞隣樹栖幽鳥唫見江雲發早雷<pc n="lb"/>
+西咲東逰此相别兩塗消息待誰囬<pc n="lb"/>
+                    <pb n="14b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>吟興自述<pc n="lb"/>
+前習都由未盡空生知頑學妙難窮一千首出悲哀外<pc n="lb"/>
+五十年銷雪月中興去不妨歸静慮情来何止發真風<pc n="lb"/>
+曾無一字千聲利豈媿操心負至公<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送謝尊師自南岳出入京<pc n="lb"/>
+曽聽鹿鳴逢世亂因披羽服隐衡陽幾多事隔丹霄興<pc n="lb"/>
+三十年成兩髩霜芝术未甘消勇氣風騷無那激剛膓<pc n="lb"/>
+中朝舊有知音在可是悠悠入帝鄉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送司空學士赴京<pc n="lb"/>
+弘文初命下江邊難戀沙鷗與釣船藍綬乍稱新學士<pc n="lb"/>
+白衫初脱舊神僊龍山送别風生路雞樹從容雪點筵<pc n="lb"/>
+                    <pb n="15a"/>
+重謁往年金榜主便将才術佐陶甄<pc n="lb"/>
+白蓮集卷第八<pc n="lb"/>
+<pb n="15b"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+    <p>
+<pc n="lb"/>
+                    
+白蓮集卷第九<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊<pc n="　"/>己<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>春寄尚顔<pc n="lb"/>
+含桃花謝杏花開杜宇新啼燕子来好事可䏻無分得<pc n="lb"/>
+名山長似有人催簷聲未斷前旬雨電影還連後夜雷<pc n="lb"/>
+心跡共師争幾許俗人嫌處自遲廽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄梁先輩<pc n="lb"/>
+慈恩塔下曲江邊别後多應夢到仙時去與誰論此事<pc n="lb"/>
+亂来何處覔同年陳琳筆硯甘前席甪里煙霞待共眠<pc n="lb"/>
+愛惜麻衣好顔色未教朱紫汚天然<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆渚偶作<pc n="lb"/>
+                    <pb n="1a"/>
+無味吟詩即把經竟将疎野訪誰行身依江寺庭無樹<pc n="lb"/>
+山繞天涯路有兵竹瓦雨聲漂永日紙窗燈熖照殘更<pc n="lb"/>
+徔容一覺清涼夢歸到龍潭埽石枰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>城中晚夏思山<pc n="lb"/>
+葛衣沾汗功雖健紙扇摇風力甚卑苦熱恨無行脚處<pc n="lb"/>
+微涼喜到立秋時竹軒静看蜘蛛掛莎徑閑聽蟋蟀移<pc n="lb"/>
+天外有山歸即是豈同逰子暮何之<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>憶舊山<pc n="lb"/>
+誰請衰羸住北州七年魂㫁舊山丘心清檻底瀟湘月<pc n="lb"/>
+骨冷禅中太華秋高節未聞馴虎豹片言何以傲王侯<pc n="lb"/>
+應湏脱洒孤峯去始是分明個剃頭<pc n="lb"/>
+                    <pb n="1b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄骵休<pc n="lb"/>
+南州歸去為尋醫病色應除是舊時久别莫忘廬阜約<pc n="lb"/>
+却来湏有洞庭詩金陵往歲同窺井峴首前秋共讀碑<pc n="lb"/>
+兩處山河見興廢相思更切卧雲期<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>過陸鴻漸舊居<hi>陸生自有傳于井石又云行坐誦佛書故有此句</hi>
+                    <pc n="lb"/>
+椘客西来過舊居讀碑尋傳見終初佯狂未必輕儒業<pc n="lb"/>
+高尚何妨誦佛書種竹㟁香連菡萏煑茶泉影落蟾蜍<pc n="lb"/>
+如今若更生来此知有何人贈白驢<hi>時太守贈白驢</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄懷鍾陵舊逰因寄知己<pc n="lb"/>
+洪井僧来説舊逰西江東岸是城樓昔年淹跡因王化<pc n="lb"/>
+長日凭欄看水流貞觀上人栖樹石陳陶處士在林丘<pc n="lb"/>
+                    <pb n="2a"/>
+終拖老病重尋去得到匡廬死便休<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>遣懷<pc n="lb"/>
+病膓休洗老休醫七十䏻饒百歲期不死任還蓬島客<pc n="lb"/>
+無生自有雪山師浮雲聚散堪關慮明月相逢好展眉<pc n="lb"/>
+既兆未萌閒酌度不知中抱自尋思<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懐武陵因寄幕中韓先輩何徔事<pc n="lb"/>
+武陵嘉致迹多幽每見圖經恨白頭溪浪碧通何處去<pc n="lb"/>
+桃花紅過郡前流嘗聞相幕鴛鴻<pc n="　"/>日向神仙洞府逰<pc n="lb"/>
+鑿井耕田人在否如今天子正徵搜<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈樊䖏士<pc n="lb"/>
+小子聲名天下知滿簪霜雪白麻衣誰将一著争先後<pc n="lb"/>
+                    <pb n="2b"/>
+共向長安定是非有路未曽謀日用無貪終不亂天機<pc n="lb"/>
+閒尋道士過仙觀賭得黄庭兩卷歸<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荆渚逢禅友<pc n="lb"/>
+澤國相逢話一宵雲山偶别隔前朝社思匡岳無宗炳<pc n="lb"/>
+詩憶揚州有鮑昭晨野黍離春漠漠水天星燦夜迢迢<pc n="lb"/>
+閒吟莫忘傳心祖曽立堦前雪到腰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送僧歸洛中<pc n="lb"/>
+赤日彤霞照晚坡東州道路興如何蝉離椘柳鳴猶少<pc n="lb"/>
+葉到嵩雲落漸多海内自為閒去住關頭誰問舊經過<pc n="lb"/>
+丁寕與訪春山寺白樂天真在也麽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>道林寓居<pc n="lb"/>
+                    <pb n="3a"/>
+秋泉一片樹千株暮汲寒燒外有餘青嶂者邊来已熟<pc n="lb"/>
+紅塵那畔去應疎風騷未肯忘雕琢瀟灑無妨更剃除<pc n="lb"/>
+即問沃州開士僻愛禽憐駿意如何<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>僊掌<pc n="lb"/>
+峭形寒倚夕陽天毛女蓮花翠影連雲外自為高出手<pc n="lb"/>
+人間誰合闘揮拳鶴抛青漢来岩檜僧隔黄河望頂烟<pc n="lb"/>
+晴露紅霞長滿掌只應栖託是神僊<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>中秋月<pc n="lb"/>
+空碧無雲露濕衣群星光外湧清規東樓莫碍漸高影<pc n="lb"/>
+四海待看當午時還許分明吟皓魄肯教幽暗取丹枝<pc n="lb"/>
+可憐半夜婵娟影正對五侯殘酒池<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送禪者逰南岳<pc n="lb"/>
+忽隨南棹去潯陽誰住江邊樹下房塵夢是非都覺了<pc n="lb"/>
+野雲心地更何妨漸臨瀑布聽猿思却背岣嶁看鴈行<pc n="lb"/>
+想到中峰上層寺石窗秋霽見瀟湘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>聞道林諸友嘗茶因有寄<pc n="lb"/>
+旗槍冉冉綠叢圓穀雨初晴呌杜鵑摘帶岳華蒸曉露<pc n="lb"/>
+碾和松粉煑春泉高人夢惜藏岩裡白硾封題寄火前<pc n="lb"/>
+應念苦吟耽睡起不堪無過夕陽天<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>将歸舊山留别錯公<pc n="lb"/>
+舊峰前昨下来時白石叢叢問紫薇章句不堪歌有道<pc n="lb"/>
+溪山只合退無機雲含暖態晴猶在鶴養閒神晝不飛<pc n="lb"/>
+                    <pb n="4a"/>
+欲去更思過丈室二年頻此挹清暉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>聞尚顔上人剏居有寄<pc n="lb"/>
+麓山南面橘洲西别搆新齋與竹齊野客已聞将鶴贈<pc n="lb"/>
+江僧未説有詩題窗臨杳靄寒千嶂枕遍潺湲月一溪<pc n="lb"/>
+可想乍移吟榻䖏松隂冷濕壁新泥<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>庚午歲九日作<pc n="lb"/>
+門底秋苔嫩似藍此中消息興何堪亂離偷過九月九<pc n="lb"/>
+頭尾筭来三月三雲影半晴開夢澤菊花微暖傍江潭<pc n="lb"/>
+故人今日在不在胡雁背風飛向南<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逢進士沈彬<pc n="lb"/>
+欲話趨時首重搔因君倍惜剃頭刀千般貴在䏻過逹<pc n="lb"/>
+                    <pb n="4b"/>
+一片心閒不那高山叠好雲藏玉鳥海翻狂浪隔金鰲<pc n="lb"/>
+時應記得長安事曽向文塲屬思勞<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>聞王員外新恩有寄<pc n="lb"/>
+欲退無因貴逼来少儀官美右丞才青袍早訪淹花幕<pc n="lb"/>
+霜简方聞謝柏臺金諾静宜資講誦玉山寒稱奉罇罍<pc n="lb"/>
+西峰有客思相賀門隔瀟湘雪未開<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秋夕言懐寄所知<pc n="lb"/>
+休問蒙莊材不材孤燈影共傍寒灰忘詮話道心甘死<pc n="lb"/>
+候體論詩口懶開窗外風濤連建業夢中雲木憶天台<pc n="lb"/>
+相疎却是相知分誰訝經年一度来<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>答禅者<pc n="lb"/>
+                    <pb n="5a"/>
+五老峰前相遇時兩無言語只揚眉南宗北祖皆如此<pc n="lb"/>
+天上人間更問誰山衲静披雲片片銕刀涼削鬂絲絲<pc n="lb"/>
+閒吟莫學湯從事抛却袈裟負本師<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄尚顔<hi>公受徐州薛尚書見知</hi>
+                    <pc n="lb"/>
+莫向孤峯道息機有人偷眼羡吾師滿身光化年前寵<pc n="lb"/>
+幾軸開平歲裡詩北闕故人隨䘮亂南山舊寺在參差<pc n="lb"/>
+清吟但憶徐方政應恨當時不見時<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>梓栗杖送人<pc n="lb"/>
+禪家何物贈分襟只有天台杖一尋拄去客歸青洛逺<pc n="lb"/>
+采来僧入白雲深逰山曽把探龍穴出世期将指佛心<pc n="lb"/>
+此日江邊贈君後却携笻竹向東林<pc n="lb"/>
+                    <pb n="5b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄朗陵二禪友<pc n="lb"/>
+瀟湘曽宿話詩評荆椘連秋阻野情金錫罷逰雙鬂白<pc n="lb"/>
+鐵盂終守一齋清篇章老欲齊高手風月閒思到極精<pc n="lb"/>
+南望山門石何處滄浪雲夢浸天横<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>燈<pc n="lb"/>
+幽光耿耿草堂空窗隔飛蛾恨不通紅燼自凝清夜朶<pc n="lb"/>
+赤心長謝碧紗籠雲藏水國城臺裡雨閉松門殿塔中<pc n="lb"/>
+金屋玉堂開照睡豈知螢雪有深功<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄金陵幕中李郎中<pc n="lb"/>
+龍門支派富才䏻年少飛翔便大鵬久待尊罍臨鉄瓮<pc n="lb"/>
+又徔幢節鎮金陵精神一隻秋空鶴騷雅千尋夏井冰<pc n="lb"/>
+                    <pb n="6a"/>
+長憶相招宿華館數宵忘寢盡寒燈<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄韓蜕秀才<pc n="lb"/>
+松門高不似侯門蘚徑鞋踪觸處分逺事即為無害鳥<pc n="lb"/>
+多閒便是有情雲那憂寵辱来驚我且寄風騷去敵君<pc n="lb"/>
+知伴李膺琴酒外絳紗閒卷共論文<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湘中春興<pc n="lb"/>
+雨歇江明苑樹乾物妍時泰恣逰盤更無輕翠勝楊柳<pc n="lb"/>
+盡覺濃華在牡丹終日去還抛寂寞遶池廽却凭欄杆<pc n="lb"/>
+紅芳片片由青帝忍向西園看落殘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送錯公栖公南逰<pc n="lb"/>
+洪偃湯休道不殊高颿共載興何俱北京䘮亂離丹鳳<pc n="lb"/>
+                    <pb n="6b"/>
+南國煙花入鷓鴣明月團圓臨桂水白雲重叠起蒼梧<pc n="lb"/>
+威儀本是朝天士蹔向遼荒住得無<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄南嶽諸道友<pc n="lb"/>
+南望衡陽積瘴開去年曽踏雪逰囬謾為椘客蹉跎過<pc n="lb"/>
+却是邊鴻的當来乳竇孤明含海日石橋危滑長春苔<pc n="lb"/>
+終尋十八高人去共坐蒼崕養聖胎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送韓蜕秀才赴舉<pc n="lb"/>
+槐花館馹莫塵昏此去分明吏部孫才氣合居科第首<pc n="lb"/>
+風流幸是薦紳門春和洛水清無浪雪洗髙峰碧㫁根<pc n="lb"/>
+堪想都人齊指點列仙相次上崑崙<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>溪居寓言<pc n="lb"/>
+                    <pb n="7a"/>
+秋蔬數壠傍潺湲頗覺生涯異俗緣詩興難窮花草外<pc n="lb"/>
+野情何限水雲邊蟲聲遶屋無人語月影當松有鶴眠<pc n="lb"/>
+寄向東溪老樵道莫摧丹桂博青錢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>遣懷<pc n="lb"/>
+詩病相兼老病深世醫徒更費千金餘生豈必虚抛擲<pc n="lb"/>
+未死何妨樂詠吟流水不廽休歎息白雲無跡莫追尋<pc n="lb"/>
+閒身自有閒消處黄葉清風蝉一林<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>自湘中将入蜀留别諸友<pc n="lb"/>
+巾舄初隨入蜀舡風帆吼過洞庭烟七千里路到何處<pc n="lb"/>
+十二峰雲更那邊巫女暮歸林淅<graphic n="KR0377" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0377.png" mimeType="image/png"/>巴猿吟㫁月婵娟<pc n="lb"/>
+来年五月峨嵋雪坐看消融滿錦川<pc n="lb"/>
+                    <pb n="7b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄匡阜諸公<pc n="lb"/>
+松頭柏頂碧森森虚檻寒吹夏景深静社可追長往跡<pc n="lb"/>
+白蓮難問久修心山圍四面纔容寺月到中宵始滿林<pc n="lb"/>
+争學忘言住幽勝吾師遺集盡清吟<pc n="lb"/>
+峰前林下東西寺地角天涯来往僧泉月浄流閒世界<pc n="lb"/>
+杉松深鏁晝香燈争無大士重修社合有諸賢更服膺<pc n="lb"/>
+曽寄隣房掛瓶錫雨聞簷溜解春冰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人入蜀<pc n="lb"/>
+何必閒吟蜀道難知君心出嶮巇間尋常秋泛江陵去<pc n="lb"/>
+容易春浮錦水還兩面碧懸神女峽幾重青入丈人山<pc n="lb"/>
+文君酒市逢初雪滿貰新沽洗旅顔<pc n="lb"/>
+                    <pb n="8a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬廬山張處士<pc n="lb"/>
+髪枯身老任浮沈懶泥秋風更役吟新事向人堪結舌<pc n="lb"/>
+舊詩開卷但傷心苔床卧憶泉聲繞麻履行思樹影深<pc n="lb"/>
+終謝柴桑與彭澤醉逰<pc n="　"/>訪入東林<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄峴山道人<pc n="lb"/>
+鳳門高對鹿門青往歲經過恨未平辨鼎上人方話道<pc n="lb"/>
+卧龍丞相忽追兵爐峰已負重廽計華岳終懸未去情<pc n="lb"/>
+聞説東周天子聖㑹揺金錫却西行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送王處士逰蜀<pc n="lb"/>
+又掛寒帆向錦川木蘭舟裏過殘年自修姹姹爐中物<pc n="lb"/>
+擬作飄飄水上僊三峽浪喧明月夜萬州山到夕陽天<pc n="lb"/>
+                    <pb n="8b"/>
+来年的有荆南信廽札應緘十色箋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懷金陵李推官僧自牧<pc n="lb"/>
+秣陵長憶共吟逰儒釋風騷盡上流蓮幕少年輕謝眺<pc n="lb"/>
+雪山真子鄙湯休也應有作懷清苦莫謂無心過白頭<pc n="lb"/>
+欲附别来千萬意病身初起向殘秋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄尋萍公<pc n="lb"/>
+聞在湓城多寄住隨時談笑混塵埃孤峰忽憶便歸去<pc n="lb"/>
+浮世要看還下来萬頃野煙春雨㫁九條寒浪晚窗開<pc n="lb"/>
+虎溪橋上龍潭寺曽此相尋踏雪廽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>得李推官近寄懷<pc n="lb"/>
+荆門前嵗使乎囬求得星郎近制来連日借吟終不已<pc n="lb"/>
+                    <pb n="9a"/>
+一燈忘寢又重開秋風漫作牽情賦春草真爲入夢才<pc n="lb"/>
+堪笑陳宫諸狎客當時空有個追陪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>對菊<pc n="lb"/>
+蝶醉蜂狂半折時冷烟清露壓離披欲傾琥珀盃浮爾<pc n="lb"/>
+好把茱萸朶配伊孔雀毛衣應者是鳳凰金翠更無之<pc n="lb"/>
+何因栽向僧園裏門外重陽過不知<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>憶東林因送二生歸<pc n="lb"/>
+好向東林度此生半天山脚寺門平紅霞嶂底潺潺色<pc n="lb"/>
+清夜房前瑟瑟聲偶别十年成瞬息欲来千里阻刀兵<pc n="lb"/>
+可憐二子同歸去南國烟花路好行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>渚宫西城池上居<pc n="lb"/>
+                    <pb n="9b"/>
+城東移錫住城西綠繞春波引杖藜翡翠滿身衣有異<pc n="lb"/>
+鷺鷥通體格非低風揺柳眼開煙小暖逼蘭芽出土齊<pc n="lb"/>
+猶有幽深不相似剡溪乘棹入耶溪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>中秋夕愴懷寄荆幕孫郎中<pc n="lb"/>
+白蓮香散沼痕乾綠篠隂濃蘚地寒年老寄居思隐切<pc n="lb"/>
+夜涼留客話時難行僧盡去雲山逺賓雁同来澤國寛<pc n="lb"/>
+時謝孔璋操檄外每將空病問衰殘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬湘幕徐員外見寄<pc n="lb"/>
+東海儒宗事業全氷稜孤峭類神仙詩同李賀精通鬼<pc n="lb"/>
+文擬劉軻妙入禅珠履早曽從相府玳簪今又别賓筵<pc n="lb"/>
+篇章幾謝傳西椘空想雄風度十年<pc n="lb"/>
+                    <pb n="10a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄蜀國廣濟大師<pc n="lb"/>
+氷壓霜壇律格清三千傳授盡門生禅心静入空無跡<pc n="lb"/>
+詩句閒搜寂有聲滿國繁華徒自樂兩朝更變未曽驚<pc n="lb"/>
+終思相約岷峨去不得携笻一路行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>答獻上人卷<pc n="lb"/>
+衲衣禅客袖篇章江上相尋共感傷秦甸亂来栖白沒<pc n="lb"/>
+苎山空後皎然亡清留島月秋凝露苦寄巴猿夜呌霜<pc n="lb"/>
+珍重南宗好才子灰心冥目外無妨<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄武陵貫微上人二首<pc n="lb"/>
+知泛滄浪棹未還西峯房鏁夜潺潺春陪相府逰仙洞<pc n="lb"/>
+雪共賓寮對柱山詩裏幾添新菡萏衲痕應换舊斕斑<pc n="lb"/>
+                    <pb n="10b"/>
+莫忘一句曹溪妙堪塞孫孫騁度關<pc n="lb"/>
+吳頭東面椘西邊雲接蒼梧水浸天兩地别離身已老<pc n="lb"/>
+一言相合道休傳風騷妙欲凌春草蹤跡閒思繞岳蓮<pc n="lb"/>
+不是傲他名利世吾師本在雪山巔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懷體休上人<pc n="lb"/>
+仲宣樓上望重湖君到瀟湘得健無病遇何人分藥餌<pc n="lb"/>
+詩逢誰子論功夫杉蘿寺裏尋秋早橘柚洲邊度日晡<pc n="lb"/>
+許送自身歸華岳待来朝暮拂瓶盂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>招湖上兄弟<pc n="lb"/>
+去歲得君消息在兩憑人信過重湖忍貪風月當年少<pc n="lb"/>
+不寄音書慰老夫藥鼎近聞傳祕訣詩門曽説擁寒爐<pc n="lb"/>
+                    <pb n="11a"/>
+漢江江路西来便好傍扁舟訪我無<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>江居寄關中知己<pc n="lb"/>
+多病多慵漢水邊流年不覺已皤然舊栽花地添黄竹<pc n="lb"/>
+新<pc n="　"/>盆池换白蓮雪月未忘招逺客雲山終待去安禅<pc n="lb"/>
+八行書札君休問不似風騷寄一篇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>中秋十五夜寄人<pc n="lb"/>
+高河瑟瑟轉金盤噴露吹光逆凭欄四海魚龍精魄冷<pc n="lb"/>
+五山鸞鶴骨毛寒今宵盡向圓時望後夜誰當缺處看<pc n="lb"/>
+何事清光與蟾兔却教才子少留難<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人自鍾陵寄紙筆<pc n="lb"/>
+故人猶憶苦吟勞所惠何殊金錯刀霜雪翦裁新剡硾<pc n="lb"/>
+                    <pb n="11b"/>
+鋒鋩管束本宣毫知君倒篋情何厚借我臨池價斗高<pc n="lb"/>
+詞客分張看欲盡不堪来處隔秋濤<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>移居西湖作二首<pc n="lb"/>
+火雲陽熖欲燒空小檻幽窗想舊峰白汗此時流枕簟<pc n="lb"/>
+清風何處動杉松殘更正好眠涼月逺寺俄聞報曉鐘<pc n="lb"/>
+只待秋聲滌心地衲衣新洗健形容<pc n="lb"/>
+官園樹影晝隂隂咫尺清涼莫浣心桃李别教人主掌<pc n="lb"/>
+烟花不稱我<pc n="　"/>尋蜩螗晚噪風枝稳翡翠閒眠宿處深<pc n="lb"/>
+争似出塵地行止東林苔徑入西林<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>看金陵圖<pc n="lb"/>
+六朝圖畫戦争多最是陳宫計數訛若愛蒼生似歌舞<pc n="lb"/>
+                    <pb n="12a"/>
+隋皇自合恥干戈<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄南嶽岳泰禅師<pc n="lb"/>
+江頭黙想坐禅峰白石山前萬丈空山下獵人應不到<pc n="lb"/>
+雪深花鹿在菴中<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>片雲<pc n="lb"/>
+水底分明天上雲可憐形影似我身何妨舒作從龍勢<pc n="lb"/>
+一雨吹消萬里塵<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄清溪道者<pc n="lb"/>
+萬重千叠紅霞嶂夜燭朝香白石龕常寄溪窗凭危檻<pc n="lb"/>
+看經影落古龍潭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>病中勉送小師往清涼山禮大聖<pc n="lb"/>
+                    <pb n="12b"/>
+豐衣足食處莫住聖迹靈踪好遍尋忽遇文殊開慧眼<pc n="lb"/>
+他年應記老師心<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠拄杖<pc n="lb"/>
+何處雲根采得来黒龍狂欲作風雷知師念我形骸老<pc n="lb"/>
+教把經行拄綠苔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送楚雲上人往南岳刺血冩法華經<pc n="lb"/>
+剝皮刺血誠何苦欲冩靈山九㑹文十指<graphic n="KR0377" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0377.png" mimeType="image/png"/>乾終七軸<pc n="lb"/>
+後來求法更無君<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送胎髪筆寄仁公<pc n="lb"/>
+内惟胎髪外秋毫綠玉新裁管束牢老病手疼無那爾<pc n="lb"/>
+却資年少冩風騷<pc n="lb"/>
+                    <pb n="13a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝西川曇域大師玉筯篆書<pc n="lb"/>
+玉筯真文久不興李斯傳到李陽氷正愁千載無来者<pc n="lb"/>
+果見僧中有個僧<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>偶作寄王秘書<pc n="lb"/>
+七絲湘水秋深夜五字河橋日暮時借問秘書郎此意<pc n="lb"/>
+静弹高詠有誰知<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝人惠紙<pc n="lb"/>
+烘焙幾工成曉雪輕明百幅叠春氷何消才子題詩外<pc n="lb"/>
+分與能書貝葉僧<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>答文勝大師清桂書<pc n="lb"/>
+纔把文章干聖主便承恩澤换禅衣應嫌六祖傳空衲<pc n="lb"/>
+                    <pb n="13b"/>
+只向曹溪永息機<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄懷曾口寺文英大師<pc n="lb"/>
+著紫袈裟名已貴吟紅菡蓞價兼高秋風曽憶西逰䖏<pc n="lb"/>
+門對平湖滿白濤<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>懷道林寺道友<pc n="lb"/>
+四絶堂前萬木秋碧參差影壓江流閒思宋杜題詩板<pc n="lb"/>
+一月凭欄到夜休<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>放鶴放猿絶句四首上辭主人<pc n="lb"/>
+華亭来復去芝田丹頂霜毛性可憐縱與乘軒終悞主<pc n="lb"/>
+不如還放却遼天<pc n="lb"/>
+堪憶春雲十二峰野桃山杏摘香紅王孫可念愁金鏁<pc n="lb"/>
+                    <pb n="14a"/>
+縱放斷膓明月中<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>放鷺鷥<pc n="lb"/>
+白蘋紅蓼碧江涯日暖雙雙立睡時願揭金籠放歸去<pc n="lb"/>
+却隨沙鶴闘輕絲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>放鸚鵡<pc n="lb"/>
+隴西蒼巘結巢高本為無人識翠毛今日籠中强言語<pc n="lb"/>
+乞歸天外啄含桃<pc n="lb"/>
+白蓮集卷第九<pc n="lb"/>
+<pb n="14b"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+    <p>
+<pc n="lb"/>
+                    
+白蓮集卷第十<hi>雜歌行四十首七言绝句四十一首</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊<pc n="　"/>己<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>猛虎行<pc n="lb"/>
+磨爾牙錯爾爪狐莫威兔莫狡飢来吞噬取膓飽横行<pc n="lb"/>
+不怕日月星皇天產爾為生獰前村半夜聞吼聲何人<pc n="lb"/>
+按劍燈熒熒<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>西山叜<pc n="lb"/>
+西山中多狼虎去歲傷兒復傷婦官家不問孤老身還<pc n="lb"/>
+在前山山下住<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>君子行<pc n="lb"/>
+聖人不生麟龜何瑞梧桐不高鳳凰何止吾聞古之有<pc n="lb"/>
+                    <pb n="1a"/>
+君子行藏以時進退求己榮必為天下榮恥必為天下<pc n="lb"/>
+恥苟進不如此退不如此亦何必用虚偽之文章取榮<pc n="lb"/>
+名而自美<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>善哉行<pc n="lb"/>
+大鵬刷翮謝溟渤青雲萬層高突出下視秋濤空渺漲<pc n="lb"/>
+舊處魚龍皆細物人生在世何容易眼濁心昏信生死<pc n="lb"/>
+願除嗜慾待身輕携手同尋列仙事<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>日日曲<pc n="lb"/>
+日日日東上日日日西没任是神仙客也湏成朽骨浮<pc n="lb"/>
+雲滅復生芳草死還出不知千古萬古人葬向青山為<pc n="lb"/>
+底物<pc n="lb"/>
+                    <pb n="1b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>耕叟<pc n="lb"/>
+春風吹簑衣暮雨滴箬笠夫婦畊共勞兒孫飢對泣田<pc n="lb"/>
+園高且瘦賦税重復急官倉鼠雀群只待新租入<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>苦熱行<pc n="lb"/>
+離宫劃開赤帝怒喝起六龍奔日馭下土熬熬若煎煮<pc n="lb"/>
+蒼生煌煌無處避火雲峥嶸焚泬㵳東皋老農膓欲焦<pc n="lb"/>
+何當一雨蘇我苗為君擊壤歌帝堯<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>苦寒行<pc n="lb"/>
+氷峰撑空寒矗矗雲凝水凍埋海陸殺物之性傷人之<pc n="lb"/>
+慾既不能<pc n="　"/>蒺䔧荆棘之根株又不䏻展鳳凰麒麟之<pc n="lb"/>
+拳跼如此則何如為和煦為膏為雨自然天下之榮枯<pc n="lb"/>
+                    <pb n="2a"/>
+融融于萬户<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>春風曲<pc n="lb"/>
+春風有何情旦暮来林園不問桃李主吹落紅無言<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>城中懷山友<pc n="lb"/>
+春城来往桃李碧艷暖紅香斷消息吾徒自有山中隣<pc n="lb"/>
+白晝冥心坐嵐壁<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>讀李賀歌集<pc n="lb"/>
+赤水無精華荆山亦枯槁玄珠與虹玉燦燦李賀抱清<pc n="lb"/>
+晨醉起臨春臺吳綾蜀錦胸襟開狂多兩手掀蓬萊珊<pc n="lb"/>
+瑚掇盡空土堆<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>風琴引<pc n="lb"/>
+                    <pb n="2b"/>
+撥吳絲雕楚竹高託天風拂為曲一一宫商在素空鸞<pc n="lb"/>
+鳴鳯語翹梧桐夜深天碧松風多孤窗寒夢驚流波愁<pc n="lb"/>
+魂傍枕不肯去翻疑住處隣湘娥金風聲盡薰風發冷<pc n="lb"/>
+泛虚堂韻難歇常恐聽多耳漸煩清音不絶知音絶<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏雲曲<pc n="lb"/>
+紅嵯峨爍晚波乖龍慵卧旱鬼多爞爞萬<pc n="　"/>壓天塹颺<pc n="lb"/>
+雷電光空閃閃好雨不雨風不風徙倚穹蒼作岩險男<pc n="lb"/>
+巫女覡更走魂焚香祝天天不聞天若聞必䏻使爾為<pc n="lb"/>
+潤澤洗埃氛而又變之成五色捧日輪将以表唐堯虞<pc n="lb"/>
+舜之明君<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>讀李白集<pc n="lb"/>
+                    <pb n="3a"/>
+竭雲濤刳巨鰲搜掊造化空牢牢冥心入海海神怖驪<pc n="lb"/>
+龍不敢爲珠主人間物象不供取飽食逰神向玄圃鏘<pc n="lb"/>
+金鏗玉千餘篇膾吞炙嚼人口傳湏知一一丈夫氣不<pc n="lb"/>
+是綺羅男女言<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>祈貞壇<pc n="lb"/>
+玉甃瑶壇二三級學僊弟子參差入霓旌隊仗下不下<pc n="lb"/>
+松檜森森天露濕殿前寒氣束香雲朝祈暮禱玄元君<pc n="lb"/>
+茫茫俗骨醉更昏樓臺十二遥崑崙崑崙縱廣一萬二<pc n="lb"/>
+千里中有五色雲霞五色水何當㫁欲便飛去不要九<pc n="lb"/>
+轉神丹换精髓<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>黄雀行<pc n="lb"/>
+                    <pb n="3b"/>
+雙雙野田雀上下同飲啄暖去栖蓬蒿寒歸傍籬落殷<pc n="lb"/>
+勤避羅網乍可遇鵬鶚鵬鶚雖不仁分明在寥廓<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>石竹花<pc n="lb"/>
+石竹花開照庭石紅鮮自禀離宫色一枝兩枝初笑風<pc n="lb"/>
+猩猩血潑低低叢嘗嗟世眼無真鑒却被丹青苦相䧟<pc n="lb"/>
+誰為根尋造化功為君吐出平原膽白日當午方盛開<pc n="lb"/>
+彤霞灼灼臨池臺繁香濃艶如未已粉蝶逰蜂狂欲死<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄南岳白蓮道士<hi>䏻扵長嘯</hi>
+                    <pc n="lb"/>
+猿猱休啼月皎皎蟋蟀不吟山悄悄大耳仙人滿頷須<pc n="lb"/>
+醉倚長松一聲嘯<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>古劍歌<pc n="lb"/>
+                    <pb n="4a"/>
+古人手中鑄神物百煉百淬始提出今人不要强硎磨<pc n="lb"/>
+蓮鍔星文未曾沒一弹一撫聞錚錚老龍影奪秋燈明<pc n="lb"/>
+何時得遇英雄主用爾平治天下去<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>湘妃廟<pc n="lb"/>
+湘烟𪷟濛湘水急汀露凝紅裛蓮濕蒼梧雲疊九嶷深<pc n="lb"/>
+二女魂飛江上立相携泣鳳蓋龍<pc n="　"/>追不及廟荒松朽<pc n="lb"/>
+啼飛猩笋鞭迸出階基傾黄昏一㟁隂風起新月如眉<pc n="lb"/>
+生濶水<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>巫山高<pc n="lb"/>
+巫山高巫女妖雨為暮兮雲為朝椘王憔悴魂欲消秋<pc n="lb"/>
+猿嘷噑日将夕紅霞紫烟凝老壁千岩萬壑花皆坼但<pc n="lb"/>
+                    <pb n="4b"/>
+恐芳菲無正色不知今古行人行幾人經此無秋情雲<pc n="lb"/>
+深廟逺不可覔十二峰頭插天碧<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈持法華經僧<pc n="lb"/>
+衆人有口不說是即說非吾師有口何所爲蓮經七軸<pc n="lb"/>
+六萬九千字日日夜夜終復始乍吟乍諷何悠揚風篁<pc n="lb"/>
+古松含秋霜但恐天龍夜义乾闥衆㽬塞虚空耳皆聳<pc n="lb"/>
+我聞念經功德緣舌根可等金剛堅他時刼火洞燃後<pc n="lb"/>
+神光燦燦如紅蓮受持身心苟精潔尚䏻使煩惱大海<pc n="lb"/>
+水枯竭魔王輪幢自摧折何況更如理行如理說<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>刳膓龜<pc n="lb"/>
+爾既䏻于靈應久存其生爾既䏻于瑞胡得迷其死刳<pc n="lb"/>
+                    <pb n="5a"/>
+膓徒自屠曵尾復何累可憐濮水流一葉泛莊子<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈岩居僧<pc n="lb"/>
+石如麒麟岩作室秋壇漫壇浄于漆袈裟蓋頭心在無<pc n="lb"/>
+黄猿白猿啼日日<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>觀李璚處士畫海濤<pc n="lb"/>
+巨鰲轉側長鰌翻狂濤顛浪高漫漫李瓊奪得造化本<pc n="lb"/>
+都盧縮在秋毫端一揮一畫皆筋骨滉瀁崩騰大鯨<pc n="lb"/>
+瓦仙搓擺<pc n="　"/>欲沉下頭應是驪龍窟昔年曾夢涉蓬瀛<pc n="lb"/>
+唯聞撼動珊瑚聲今来正嘆陸沉久見君此畫思前程<pc n="lb"/>
+千尋萬派功難測海門山小濤頭白今人錯認錢塘城<pc n="lb"/>
+羅刹石底奔雷霆<pc n="lb"/>
+                    <pb n="5b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>昇天行<pc n="lb"/>
+身不沈骨不重驅青鸞駕白鳳幢蓋飄颻入冷空天風<pc n="lb"/>
+瑟瑟星河動瑶闕參差阿母家樓臺戲閉凝彤霞五三<pc n="lb"/>
+仙子乘龍車堂前碾爛蟠桃花囬首却顧蓬山頂一點<pc n="lb"/>
+濃嵐在深井<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>還人卷<pc n="lb"/>
+李白李賀遺機杼散在人間不知處聞君收在芙蓉江<pc n="lb"/>
+日鬪鮫人織秋浦金梭軋軋文離離吳娃越女羞上機<pc n="lb"/>
+鴛鴦浴烟鸞鳳飛澄江曉映餘霞輝仙人手持玉刀尺<pc n="lb"/>
+寸寸酬君珠與璧裁作霞裳何處披紫皇殿裏深難覔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>輕薄行<pc n="lb"/>
+                    <pb n="6a"/>
+玉鞭金蹬驊騮蹄横眉吐氣如虹霓五陵春暖芳草齊<pc n="lb"/>
+笙歌到處花成泥日沈月上且鬪雞醉来莫问天高低<pc n="lb"/>
+伯陽道德何唾咦仲尼禮樂徒卑栖<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>浮雲行<pc n="lb"/>
+大野有賢人大朝有聖君如何彼浮雲揜閉白日輪安<pc n="lb"/>
+得東南風吹散八表外使之天下人共見堯眉彩<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>煌煌京洛行<pc n="lb"/>
+聖君垂衣裳蕩蕩若朝旭大觀無遺物四夷来率服清<pc n="lb"/>
+晨廽北極紫氣蓋黄屋雙闕聳雙鰲九門如川凟梯山<pc n="lb"/>
+航海至晝夜車相續我恐紅塵深變為黄河曲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>弔汨羅<pc n="lb"/>
+                    <pb n="6b"/>
+落日倚闌干徘徊汨羅曲冤魂如可弔烟浪聲似哭我<pc n="lb"/>
+欲考鼋鼉之心烹魚龍之腹爾既啖大夫之血食大夫<pc n="lb"/>
+之肉千載之後猶斯暗伏将謂唐堯之尊還如荒悴之<pc n="lb"/>
+君更有逐臣于焉葬魂得以縱其噬恣其吞<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈念法華經僧<pc n="lb"/>
+念念念兮入惡易念念念兮入善難念經念佛䏻一般<pc n="lb"/>
+愛河竭處生波瀾言公少年真法器白晝不出夜不睡<pc n="lb"/>
+心心緣經口緣字一空寥寥燈照地沉檀卷軸寳函盛<pc n="lb"/>
+薝蔔香薰水精記空山木落古寺閒松枝鶴眠霜霰乾<pc n="lb"/>
+牙根舌根氷滴寒珊瑚搥打紅琅玕但恐蓮花七朶一<pc n="lb"/>
+時坼朶朶似君心地白又恐天風吹天花繽紛如雨飄<pc n="lb"/>
+                    <pb n="7a"/>
+袈裟況聞此經甚微妙百千諸佛真秘要靈山説後始<pc n="lb"/>
+傳来聞者雖多持者少更堪誦入陀羅尼唐音梵音相<pc n="lb"/>
+雜時舜絃和雅薰風吹文王武王絃更悲如此争不遣<pc n="lb"/>
+空碧中有龜来聽有鬼来聽亦使人間人聞者敬見者<pc n="lb"/>
+敬自然心虚空性清浄此經真體即毗盧雪嶺白牛君<pc n="lb"/>
+識無<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>短歌寄皷山長老<pc n="lb"/>
+雪峰雪峰髙且雄峩峩堆積青冥中六月赤日燒不鎔<pc n="lb"/>
+飛禽瞥過人難通嘗聞中有白象王五百象子皆威光<pc n="lb"/>
+行圍坐繞同一色森森影動㫋檀香于中一子最雄猛<pc n="lb"/>
+稱尊獨踞虎山頂百千眷屬隂影身照曜吞我景我聞<pc n="lb"/>
+                    <pb n="7b"/>
+岷國民皈依前王後王皆師資寕同梁武遇達摩過後<pc n="lb"/>
+弹指空傷悲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>漁父<pc n="lb"/>
+夜釣洞庭月朝醉巴陵寺却歸君山下魚龍窟邊睡生<pc n="lb"/>
+涯在何處白浪千萬里曾笑楚臣迷蒼黄汨羅水<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>采蓮曲<pc n="lb"/>
+越溪越女江蓮齊菡蓞雙婵娟嬉逰向何處采摘且同<pc n="lb"/>
+舡浩唱發容與清波生漪漣時蓬島嶼泊幾共鴛鴦眠<pc n="lb"/>
+襟袖既盈溢馨香亦相傳薄暮歸去来苎羅生碧煙<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>啄木<pc n="lb"/>
+啄木啄木鳴林響壑貪心既緣利觜斯鑿有朽百尺微<pc n="lb"/>
+                    <pb n="8a"/>
+虫斯宅以啄去害啄更彌劇層崖豫章聳幹蒼蒼毋縦<pc n="lb"/>
+爾啄殘我棟梁<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>靈松歌<pc n="lb"/>
+靈松靈松是何根株盤擗枝幹與群木殊世眼争知蒼<pc n="lb"/>
+翠容薜蘿遮躰深䑃朧先秋瑟瑟生谷風青隂倒卓寒<pc n="lb"/>
+潭中八月天威行肅煞萬木凋零向霜雪唯有此松髙<pc n="lb"/>
+下枝一枝枝在無摧折癡凍頑氷如鐵堅重重鏁到槎<pc n="lb"/>
+牙顛老鱗枯節相把捉踉蹡立在青崖前有時深洞興<pc n="lb"/>
+雷雹飛電繞身光閃爍乍似蒼龍驚起時攫霧穿雲欲<pc n="lb"/>
+騰躍夜深山月照高枝疎影細落莓苔磯千年朽枿罔<pc n="lb"/>
+兩出一株寒韻鏘琉璃安得良工妙圖䑾冩将偃蹇埋<pc n="lb"/>
+                    <pb n="8b"/>
+煙閣飛瀑聲中戦歲寒紅霞影裏擎蕭索<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蠧<pc n="lb"/>
+螙不自螙而蠧于木蠧極木心以豐爾腹偶或成之胡<pc n="lb"/>
+為朂人人而不貞由爾亂神螙兮螙兮可全其生無託<pc n="lb"/>
+爾形霜松雪檉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>行路難<pc n="lb"/>
+行路難君好看驚波不在黤黮間小人心裡藏崩湍七<pc n="lb"/>
+盤九折寒崷崪翻車倒蓋尤堪出未似是非唇舌危闇<pc n="lb"/>
+中潛毁平人骨君不見楚靈均千古沉冤湘水濱又不<pc n="lb"/>
+見李太白一朝却作江南客<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝徽上人見惠二龍障子以短歌酬之<pc n="lb"/>
+                    <pb n="9a"/>
+我見蘇州崑山金城中金城柱上有二龍老僧相傳道<pc n="lb"/>
+是僧繇手尋常入海共龍闘又聞蜀國玉局觀有孫逼<pc n="lb"/>
+跡盤屈身長八十尺逰人争看不敢近頭覬寒泉萬丈<pc n="lb"/>
+碧近有五羊徽上人閒工小筆得意新畫龍不誇頭角<pc n="lb"/>
+及鬚鱗只求筋骨與精神徽上人真萟者惠我雙龍不<pc n="lb"/>
+言價等閒不敢将懸掛恐似葉公好假龍及見真龍却<pc n="lb"/>
+驚怕<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>絶句四十二首<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人往長沙<pc n="lb"/>
+荆門歸路指湖南千里風颿興可諳好聽鷓鴣啼雨處<pc n="lb"/>
+木蘭舟晚泊春潭<pc n="lb"/>
+                    <pb n="9b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>偶題<pc n="lb"/>
+時事懶言多忌諱野吟無主苦縱横君看三百篇章首<pc n="lb"/>
+何處分明著姓名<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄山中叟<pc n="lb"/>
+清泉碧樹夏風涼紫蕨紅粳午爨香應笑晨持一盂苦<pc n="lb"/>
+腥膻市裏呌家常<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈琴客<pc n="lb"/>
+曽携五老峰前過幾向雙松石上弹此境此聲誰更愛<pc n="lb"/>
+掀天羯皷滿長安<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>勉吟僧<pc n="lb"/>
+千途萬轍亂真源白晝勞形夜斷魂忍著袈裟把名紙<pc n="lb"/>
+                    <pb n="10a"/>
+學他低折五侯門<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送人歸華下<pc n="lb"/>
+蓮華峰翠濕凝秋舊業園林在下頭好束詩書且歸去<pc n="lb"/>
+而今不愛事風流<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日城中作二首<pc n="lb"/>
+三面僧鄰一面廧更無風露可吹涼他年舍此歸何處<pc n="lb"/>
+青壁紅霞裹石房<pc n="lb"/>
+竹低莎淺雨濛濛小檻幽窗暑月中有境牽懷人不㑹<pc n="lb"/>
+東林門外翠横空<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>黙坐<pc n="lb"/>
+燈引飛蛾拂熖迷露淋栖鶴壓枝低冥心坐睡蒲團稳<pc n="lb"/>
+                    <pb n="10b"/>
+夢到天台過剡溪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>水邊行<pc n="lb"/>
+身著袈裟手杖藤水邊行止不妨僧禽棲日落猶孤立<pc n="lb"/>
+隔浪秋山千萬層<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄鄭谷郎中<pc n="lb"/>
+人間近遇風騷匠鳥外曾逢心印師除此二門無别妙<pc n="lb"/>
+水邊松下獨尋思<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>翡翠<pc n="lb"/>
+水邊飛去青難辨竹裏歸来色一般磨吻鷹鸇莫相害<pc n="lb"/>
+白鷗鴻鶴滿沙灘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>與節供奉大德逰京口寺留題<pc n="lb"/>
+                    <pb n="11a"/>
+栁㟁晴緣十里来水邊精舍絶塵埃煑茶嘗橘興何極<pc n="lb"/>
+直到殘陽未欲囬<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝荆幕孫郎中見示樂府歌集二十八字<pc n="lb"/>
+長吉才狂太白顛二公文陣勢横前誰言後代無高手<pc n="lb"/>
+奪得秦王鞭鬼鞭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝隂符經勉送藏休上人二首<pc n="lb"/>
+事遂鼎湖遺劍履時来渭水擲魚竿欲知賢聖存亡道<pc n="lb"/>
+自向心機反覆看<pc n="lb"/>
+一林霜雪未霑頭争遣藏休肯便休學盡世間難學事<pc n="lb"/>
+始堪隨處任虚舟<pc n="lb"/>
+                    <pb n="11b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>幽齋偶作<pc n="lb"/>
+幽院纔容箇小庭疎篁低短不堪情春来猶頼隣僧樹<pc n="lb"/>
+時引流鶯送好聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>贈念法華經僧<pc n="lb"/>
+萬境心隨一念平紅芙蓉折愛河清持經功力䏻如是<pc n="lb"/>
+任駕白牛安稳行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>對菊<pc n="lb"/>
+無艷無妖别有香栽多不為待重陽莫嫌醒眼相看過<pc n="lb"/>
+却是真心愛澹黄<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>閉門<pc n="lb"/>
+正是閉時争合閉大家開處不須開還防朗月清風夜<pc n="lb"/>
+                    <pb n="12a"/>
+有箇詩人相訪来<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>勉送吳國三五新戒歸<pc n="lb"/>
+法王遺制付仁王難得難持刼數長努力只湏堅守䕶<pc n="lb"/>
+三千八萬是垣墻<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夏日寄清溪道者<pc n="lb"/>
+老病不能求藥餌朝昏祗是但焚燒不知誰為收灰骨<pc n="lb"/>
+壘石栽松傍寺橋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送惠空北逰<pc n="lb"/>
+君向峴山逰聖境我將何以記多才丁寕墮淚碑前過<pc n="lb"/>
+冩取斯文寄我來<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寄懷歸州馬判官<pc n="lb"/>
+                    <pb n="12b"/>
+三年為倅興何長歸计應多事少忙又見秋風霜裛樹<pc n="lb"/>
+滿山椒熟水雲香<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>觀荷葉露珠<pc n="lb"/>
+霏微曉露成珠顆宛轉田田未有風任器方圓性終在<pc n="lb"/>
+不妨翻覆落池中<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>苦熱懷玉泉寺寄仁上人<pc n="lb"/>
+火雲如燒接蒼梧原野烟連大澤枯謾費葛衫葵扇力<pc n="lb"/>
+争禁泉石潤肌膚<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>觀盆池白蓮<pc n="lb"/>
+素蕚金英歕露開倚風凝立獨徘徊應思㶑灧秋池底<pc n="lb"/>
+更有歸天伴侣来<pc n="lb"/>
+                    <pb n="13a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>折楊柳詞四首<pc n="lb"/>
+鳳樓高映綠隂隂凝重多含雨露深莫謂一枝柔軟力<pc n="lb"/>
+幾層牽破别離心<pc n="lb"/>
+館娃宫畔响廊前依託吳王養翠烟劍去國亡臺殿毁<pc n="lb"/>
+却隨紅樹噪秋蝉<pc n="lb"/>
+穠低似中陶潛酒軟極如傷宗玉風多謝将軍遶營種<pc n="lb"/>
+翠中閑草戦旗紅<pc n="lb"/>
+高僧愛惜遮江寺逰子傷殘露野橋争似著行垂上苑<pc n="lb"/>
+碧桃紅杏對摇摇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>答長沙丁秀才<pc n="lb"/>
+月月便車奔帝闕年年貢士過荆臺如何三度槐花落<pc n="lb"/>
+                    <pb n="13b"/>
+未見故人携卷来<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>戒小師<pc n="lb"/>
+不肯吟詩不聽經禅宗異岳懶逰行他年白首當人問<pc n="lb"/>
+<pc n="　"/>底言譚對後生<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>題舊拄杖<pc n="lb"/>
+親采匡廬瀑布西層崕懸壁更安梯携行三十年吟伴<pc n="lb"/>
+未有詩人<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬歐陽秀才卷<pc n="lb"/>
+三十篇多十九章<pc n="　"/>聲風力撼疎篁不堪更有精搜處<pc n="lb"/>
+誰見瀟瀟雨夜堂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>聞雁<pc n="lb"/>
+                    <pb n="14a"/>
+瀟湘浦㬉全迷鶴還<pc n="　"/>川寒祗有鵰誰向孤舟憶兄弟<pc n="lb"/>
+坐看蓮影度河橋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送高麗二僧南逰<pc n="lb"/>
+日邊鄉井别年深中國靈踪欲遍尋何處名山逢長老<pc n="lb"/>
+分明認取祖師心<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謝猿皮<pc n="lb"/>
+貴向獵師家買得携来乞與坐禅床不知摘月秋潭畔<pc n="lb"/>
+曽對何人啼斷膓<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酬光上人<pc n="lb"/>
+禅言難後到詩言坐石心同立月魂應記前秋㑹唫處<pc n="lb"/>
+五更猶在老松根<pc n="lb"/>
+                    <pb n="14b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>送僧歸日本<pc n="lb"/>
+日東來向日西逰一鉢閒尋徧九州却憶雞林本師寺<pc n="lb"/>
+欲歸還待海風秋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>庚午歲十五夜對月<pc n="lb"/>
+海澄空碧正團團吟想玄宗此夜寒玉兔有情應記得<pc n="lb"/>
+西邊不見舊長安<pc n="lb"/>
+白蓮集卷第十<pc n="lb"/>
+                    <pb n="15a"/>
+<pb n="15b"/>
+                </p>
+<p>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>陳氏直齋書解云唐僧齊己白蓮集十卷風<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>騷旨格一卷今兼得之為合璧矣元書北宋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>刻傳世久湮滅首卷數字尚俟善本補完與<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>皎然貫休三集並傳嘉靖八年歲己丑金閶<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>後學栁僉志<pc n="lb"/>
+</p>
+<p>
+</p>
+  </div>
+<div>
+    <p>
+<pc n="lb"/>
+                    
+<pc n="　"/>風騷㫖格<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>六詩<pc n="　"/>廬<pc n="　"/>岳<pc n="　"/>僧<pc n="　"/>齊<pc n="　"/>己<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詩有六義<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詩有十體<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詩有十勢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詩有二十式<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詩有四十門<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詩有六斷<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詩有三格<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>風騷㫖格<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>六詩<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>一<pc n="　"/>曰大雅<pc n="　"/>二曰小雅<pc n="　"/>三曰正風<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>四曰變風<pc n="　"/>五曰變大雅<pc n="　"/>六曰變小雅<pc n="lb"/>
+<pc n="　"/>大雅<pc n="　"/>一<pc n="　"/>氣不言含有象萬靈何處謝無私<pc n="lb"/>
+<pc n="　"/>小雅<pc n="　"/>天流皓月色池散芰荷香<pc n="lb"/>
+<pc n="　"/>正風<pc n="　"/>都來消帝力全不用兵防<pc n="lb"/>
+<pc n="　"/>變風<pc n="　"/>當道冷雲和不得滿郊芳草即成空<pc n="lb"/>
+<pc n="　"/>變大雅<pc n="　"/>蝉離椘樹鳴猶少葉到嵩山落更多<pc n="lb"/>
+<pc n="　"/>變小雅<pc n="　"/>寒禽沾古樹積雪占蒼苔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詩有六義<pc n="lb"/>
+                    <pb n="1b"/>
+一曰風<pc n="　"/>高齊日月方為道動合乾坤始是心<pc n="lb"/>
+二曰賦<pc n="　"/>風和日暖方開眼雨潤煙濃不舉頭<pc n="lb"/>
+三曰比<pc n="　"/>丹頂西施頰霜毛四皓鬚<pc n="lb"/>
+四曰興<pc n="　"/>水諳彭澤濶山憶武陵深<pc n="lb"/>
+五曰雅<pc n="　"/>卷簾當白晝移榻對青山<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逺道擎空鉢深山踏落花<pc n="lb"/>
+六曰頌<pc n="　"/>君恩到銅柱蠻歀入交州<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>詩有十體<pc n="lb"/>
+一曰高古<pc n="　"/>千般貴在無過達一片心閒不柰何<pc n="lb"/>
+二曰清奇<pc n="　"/>未曾將一字容易謁諸侯<pc n="lb"/>
+三曰逺近<pc n="　"/>已知前古事更結後人看<pc n="lb"/>
+                    <pb n="2a"/>
+<pc n="　"/>四曰雙分<pc n="　"/>舡中江上景晚泊早行時<pc n="lb"/>
+<pc n="　"/>五曰背非<pc n="　"/>山河終決勝椘漢且横行<pc n="lb"/>
+<pc n="　"/>六曰無虚<pc n="　"/>山寺鐘樓月江城皷角風<pc n="lb"/>
+<pc n="　"/>七曰是非<pc n="　"/>湏知項籍劔不及魯陽戈<pc n="lb"/>
+<pc n="　"/>八曰清潔<pc n="　"/>大雪路亦宿深山水也齊<pc n="lb"/>
+<pc n="　"/>九曰覆粧<pc n="　"/>叠巘供秋望無雲到夕陽<pc n="lb"/>
+<pc n="　"/>十曰闔門<pc n="　"/>卷簾黄葉落鏁印子規啼<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詩有十勢<pc n="lb"/>
+<pc n="　"/>獅子返擲勢<pc n="　"/>離情遍芳草無處不萋萋<pc n="lb"/>
+<pc n="　"/>猛虎踞林勢<pc n="　"/>窗前間詠鴛鴦句壁上時觀獬豸圖<pc n="lb"/>
+<pc n="　"/>丹鳳銜珠勢<pc n="　"/>正思浮世事又到古城邊<pc n="lb"/>
+                    <pb n="2b"/>
+毒龍顧尾勢<pc n="　"/>可能有事闗心後得似無人識面時<pc n="lb"/>
+孤鴈失羣勢<pc n="　"/>詩闕<pc n="lb"/>
+洪河側掌勢<pc n="　"/>游人微動水高㟁更生風<pc n="lb"/>
+龍鳳交吟勢<pc n="　"/>崑玉已成廊廟器澗松猶是薜蘿身<pc n="lb"/>
+猛虎投澗勢<pc n="　"/>仙掌月明孤影過長門燈暗數聲來<pc n="lb"/>
+龜潛巨浸勢<pc n="　"/>養猿寒嶂疊擎鶴宻林疎<pc n="lb"/>
+鯨吞巨海勢<pc n="　"/>袖中藏日月掌上握乾坤<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>詩有二十式<pc n="lb"/>
+一曰出入<pc n="　"/>雨漲花争出雲空月半生<pc n="lb"/>
+二曰高逸<pc n="　"/>夜過秋竹寺醉打老僧門<pc n="lb"/>
+三曰出塵<pc n="　"/>逍遥非俗趣楊柳謾春風<pc n="lb"/>
+                    <pb n="3a"/>
+四曰廽避<pc n="　"/>鳥正啼隋柳人湏出椘山<pc n="lb"/>
+五曰並行<pc n="　"/>終夜冥心坐諸峯呌月猿<pc n="lb"/>
+六曰艱難<pc n="　"/>覔句如探虎逢知似得仙<pc n="lb"/>
+七曰逹時<pc n="　"/>高風飄雨雪一室掩香燈<pc n="lb"/>
+八曰度量<pc n="　"/>還有冥心者閑尋此境來<pc n="lb"/>
+九曰失時<pc n="　"/>高秋初雨後夜半亂山中<pc n="lb"/>
+十曰静興<pc n="　"/>古屋無人到殘陽滿地時<pc n="lb"/>
+十一曰知時<pc n="　"/>前村深雪裏昨夜一枝開<pc n="lb"/>
+十二曰暗㑹<pc n="　"/>重城不鎖夢每夜自歸山<pc n="lb"/>
+十三曰直擬<pc n="　"/>禹力不到處河聲流向西<pc n="lb"/>
+十四曰返本<pc n="　"/>又因風雨夜重到古松門<pc n="lb"/>
+                    <pb n="3b"/>
+十五曰功勲<pc n="　"/>馬曾金鏃中身有寳刀痕<pc n="lb"/>
+十六曰抛擲<pc n="　"/>琴書流二國風雨出秦闗<pc n="lb"/>
+十七曰背非<pc n="　"/>山河終決勝椘漢且横行<pc n="lb"/>
+十八曰進退<pc n="　"/>日午游都市天寒住華山<pc n="lb"/>
+十九曰禮義<pc n="　"/>送我杯中酒與君身上衣<pc n="lb"/>
+二十曰兀坐<pc n="　"/>自從青草出便不下堦行<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>詩有四十門<pc n="lb"/>
+一曰皇道<pc n="　"/>明堂坐天子月朔朝諸侯<pc n="lb"/>
+二曰始終<pc n="　"/>養雛成大鶴種子作高松<pc n="lb"/>
+三曰悲喜<pc n="　"/>兩行燈下淚一𥿄嶺南書<pc n="lb"/>
+四曰隱顯<pc n="　"/>道晦金雞伏時來木馬鳴<pc n="lb"/>
+                    <pb n="4a"/>
+五曰惆悵<pc n="　"/>此别又千里少年能幾時<pc n="lb"/>
+六曰道情<pc n="　"/>誰來看山寺自是掃松門<pc n="lb"/>
+七曰得意<pc n="　"/>此生還自喜餘事不相侵<pc n="lb"/>
+八曰背時<pc n="　"/>白髪無心鑷青山得意多<pc n="lb"/>
+九曰正風<pc n="　"/>一春能幾日無雨亦多風<pc n="lb"/>
+十曰返顧<pc n="　"/>逺憶諸峰頂曾栖此性靈<pc n="lb"/>
+十一曰亂道<pc n="　"/>苦雨漲秋濤狂風翻野燒<pc n="lb"/>
+十二曰抱直<pc n="　"/>湏知三尺劍只爲不平人<pc n="lb"/>
+十三曰世情<pc n="　"/>要路争先進閒門避處多<pc n="lb"/>
+十四曰康救<pc n="　"/>傍人皆黙語當路好提防<pc n="lb"/>
+十五曰貞孝<pc n="　"/>無家空托夢主祭不從人<pc n="lb"/>
+                    <pb n="4b"/>
+十六曰薄情<pc n="　"/>君恩秋後薄日夕向人疎<pc n="lb"/>
+十七曰忠正<pc n="　"/>敢將心為主豈愳語從人<pc n="lb"/>
+十八曰相成<pc n="　"/>怪得登科晚湏逢聖主知<pc n="lb"/>
+十九曰嗟歎<pc n="　"/>淚流襟上血髪白鏡中絲<pc n="lb"/>
+二十曰俟時<pc n="　"/>明主未廵狩白頭猶釣魚<pc n="lb"/>
+二十一曰清苦<pc n="　"/>在處人投卷移居雨著衣<pc n="lb"/>
+二十二曰騷愁<pc n="　"/>巳難消永夜況復聽秋霖<pc n="lb"/>
+二十三曰睠戀<pc n="　"/>欲起游方興重来繞塔行<pc n="lb"/>
+二十四曰想像<pc n="　"/>溪霞流火色松日照爐光<pc n="lb"/>
+二十五曰志氣<pc n="　"/>未抛无逺路難作便歸人<pc n="lb"/>
+二十六曰雙擬<pc n="　"/>冥目冥心坐花開花落時<pc n="lb"/>
+                    <pb n="5a"/>
+二十七曰向時<pc n="　"/>黒壤生紅木黄猿領白兒<pc n="lb"/>
+二十八曰傷心<pc n="　"/>六國空流血孤祠掩落花<pc n="lb"/>
+二十九曰鑒戒<pc n="　"/>因思後庭曲懶上景陽樓<pc n="lb"/>
+三十曰神僊<pc n="　"/>一為嵩嶽客幾䘮雒陽人<pc n="lb"/>
+三十一曰破除<pc n="　"/>大都時到此不是世無情<pc n="lb"/>
+三十二曰蹇塞<pc n="　"/>氣蒸垂柳重寒勒牡丹遲<pc n="lb"/>
+三十三曰鬼怪<pc n="　"/>山魅隔窗舞鵩鳥入簾飛<pc n="lb"/>
+三十四曰亂道<pc n="　"/>日落月未上鳥栖人獨行<pc n="lb"/>
+三十五曰世情<pc n="　"/>如何人少重都為帶寒開<pc n="lb"/>
+三十六曰雅風<pc n="　"/>日落無行客天寒有去鴻<pc n="lb"/>
+三十七曰嗟歎<pc n="　"/>拭淚沾襟血梳頭滿面絲<pc n="lb"/>
+                    <pb n="5b"/>
+三十八曰是非<pc n="　"/>湏知項籍劍不及魯陽戈<pc n="lb"/>
+三十九曰理義<pc n="　"/>送我杯中酒典君身上衣<pc n="lb"/>
+四十曰清潔<pc n="　"/>大雪路亦宿深山水也齊<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>詩有六斷<pc n="lb"/>
+一曰合題<pc n="　"/>可憐半夜婵娟月正對五侯殘酒卮<pc n="lb"/>
+二曰背題<pc n="　"/>尋常風雨夜應有鬼神看<pc n="lb"/>
+三曰即事<pc n="　"/>翻嫌易水上細碎動離魂<pc n="lb"/>
+四曰因起<pc n="　"/>閒尋古廊畫記得列仙名<pc n="lb"/>
+五曰不盡意<pc n="　"/>此心只待相逢說時復登樓看逺山<pc n="lb"/>
+六曰取時<pc n="　"/>西風起過鴈一一向瀟湘<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>詩有三格<pc n="lb"/>
+                    <pb n="6a"/>
+上格用意<pc n="　"/>那堪懷逺道猶自上高樓<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>九江有浪舡難濟三峽無猿客自愁<pc n="lb"/>
+中格用氣<pc n="　"/>直饒人買去還向柳邊栽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>四海魚龍精魄冷三山鸞鳳骨毛寒<pc n="lb"/>
+下格用事<pc n="　"/>片石猶臨水無人把釣竿<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>一輪湘渚月萬古獨醒人<hi>貫休晚泊湘江</hi>
+                    <pc n="lb"/>
+風騷㫖格<pc n="lb"/>
+                    <pb n="6b"/>
+<pb n="7a"/>
+                </p>
+<p>
+</p>
+  </div>
+        </body>
+</text>
+</TEI>

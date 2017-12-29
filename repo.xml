@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Kanripo Data in XML</description>
+    <author/>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>kanripo-data</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions user="admin" group="dba" mode="rw-rw-r--"/>
+<deployed>2017-12-28T21:58:41.955+08:00</deployed>
+</meta>

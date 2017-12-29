@@ -1,0 +1,3443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">   <teiHeader>      <fileDesc>          <titleStmt> <title>Title</title> </titleStmt> <publicationStmt>             <p>Publication Information</p> </publicationStmt> <sourceDesc>             <p>Kanripo</p>          </sourceDesc>       </fileDesc>   </teiHeader>
+ <text>
+<body>
+<div>
+                <head>中原音韻</head>
+    <p>
+<pc n="lb"/>
+                    
+欽定四庫全書<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>集部十<pc n="lb"/>
+<pc n="　"/>中原音韻<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詞曲類五<hi>南北曲之屬</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>提要<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <hi>臣</hi>等謹案中原音韻二巻元周德清撰德清<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>字挺齋髙安人是書成於泰定甲子原不分<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>巻帙考其中原音韻起例以下即列諸部字<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>數正語作詞起例以下即列作詞諸法盖前<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>為韻書後為附論畛域顯然今據此釐為二<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>巻以便省覽其音韻之例以平聲分為隂陽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>以入聲配𨽻三聲分為十九部一曰東鐘二<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曰江陽三曰支思四曰齊㣲五曰魚模六曰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>皆來七曰真文八曰寒山九曰桓歡十曰先<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>天十一曰蕭豪十二曰歌戈十三曰家麻十<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>四曰車遮十五曰庚青十六曰尤侯十七曰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>侵尋十八曰鹽咸十九曰亷纎盖全為北曲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>而作考齊梁以前平上去無别至唐時如元<pc n="lb"/>
+                    <pb n="1b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>稹諸人作長律尚有遺風惟入聲則各自為<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>部不叶三聲然如檀弓稱君辱與彌牟之弟<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逰注謂文子名目緩讀之則為彌牟又古樂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>府江南曲以魚戲蓮葉北韻魚戲蓮葉西注<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>亦稱北讀為悲是以入叶平已蒙於古又春<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>秋盟於蔑榖梁作盟於昧春秋定姒卒公羊<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>作定弋卒是亦方言相近故上去入可以轉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>通也北音舒長遲重不能作收藏短促之聲<pc n="lb"/>
+                    <pb n="2a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>凡入聲皆讀入三聲自其風氣使然樂府既<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>為北調自應歌以北音德清此譜盖亦因其<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>自然之節所以作北曲者沿用至今言各有<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>當此之謂也至於因而掊擊古音則拘於一<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>偏主持太過夫語言各有方域時代遞有變<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>遷文章亦各有體裁三百篇中東陽不叶而<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>孔子象傳以中韻當老子道經以聾韻盲此<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>叅用方音者也楚騷之音異於風雅漢魏之<pc n="lb"/>
+                    <pb n="2b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>音異於屈宋此隨時變轉者也左思作三都<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>賦純用古體則純用古音及其作白髪賦與<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詠史招隱諸詩純用晉代之體則亦純用晉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>代之音沈約詩賦皆用四聲至於冠子祝文<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>則化字乃作平讀又文章用韻各因體裁之<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>明鏡也詞曲本里巷之樂不可律以正聲其<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>體創於唐然無詞韻凡詞韻與詩皆同唐初<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>回波諸篇唐末花間一集可復按也其法宻<pc n="lb"/>
+                    <pb n="3a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>於宋漸有以入代平以上代平諸例而三百<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>年作者如雲亦無詞韻間或叅以方音但取<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歌者順吻聽者悦耳而已矣一則去古未逺<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>方音猶與韻合故無所出入一則去古漸逺<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>知其不合古音而又諸方各隨其口語不可<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>定以一格故均無書也至元而中原一綂北<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>曲盛行既已别立専門自宜各為一譜此亦<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>理勢之自然德清乃以後來變例據一時以<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>排千古其傎殊甚觀其瑟注音史塞註音死<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>今日四海之内寧有此音不又將執此以排<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>德清哉然德清輕詆古書所見雖謬而所定<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>之譜則至今為北曲之準繩或以變亂古法<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>詆之是又不知樂府之韻本於韻外别行矣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>故今録存其書以備一代之學而併論其源<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>流得失如右乾隆四十六年九月恭校上<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>總纂官<hi>臣</hi>紀昀<hi>臣/</hi>陸錫熊<hi>臣</hi>孫士毅<pc n="lb"/>
+                    <pb n="4a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>總<pc n="　"/>校<pc n="　"/>官<pc n="　"/>
+                    <hi>臣</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>陸<pc n="　"/>費<pc n="　"/>墀<pc n="lb"/>
+                    <pb n="4b"/>
+中原音韻原序<pc n="lb"/>
+樂府作而聲律盛自漢以来然矣魏晉隋唐體製不一<pc n="lb"/>
+音調亦異往往於文雖上於律則弊宋代作者如蘇子<pc n="lb"/>
+瞻變化不測之才猶不免製詞如詩之誚若周邦彦姜<pc n="lb"/>
+堯章軰自製譜曲稍稱通律而詞氣又不無卑弱之憾<pc n="lb"/>
+辛㓜安自北而南元裕之在金末國初雖詞多慷慨而<pc n="lb"/>
+音節則為中州之正學者取之我朝混一以来朔南暨<pc n="lb"/>
+聲教士大夫歌詠必求正聲凡所製作皆足以鳴國家<pc n="lb"/>
+                    <pb n="5a"/>
+氣化之盛自是北樂府出一洗東南習俗之陋大抵雅<pc n="lb"/>
+樂之不作聲音之學不傳也乆矣五方言語又復不類<pc n="lb"/>
+吴楚傷於輕浮燕冀失於重濁秦隴去聲為入梁益平<pc n="lb"/>
+聲似去河北河東取韻尤逺吴人呼饒為堯讀武為姥<pc n="lb"/>
+說如近魚切珍為丁心之類正音豈不誤哉髙安周徳<pc n="lb"/>
+清工樂府善音律自製中原音韻一帙分若干部以為<pc n="lb"/>
+正語之本變雅之端其法以聲之清濁定字為隂陽如<pc n="lb"/>
+髙聲從陽低聲從隂使用字者隨聲髙下措字為詞各<pc n="lb"/>
+                    <pb n="5b"/>
+有攸當則清濁得宜而無凌犯之患矣以聲之上下分<pc n="lb"/>
+韻為平仄如入聲直促難諧音調成韻之入聲悉𣲖三<pc n="lb"/>
+聲誌以黒白使用韻者隨字隂陽置韻成文各有所協<pc n="lb"/>
+則上下中律而無拘拗之病矣是書既行於樂府之士<pc n="lb"/>
+豈無補哉又自製樂府若干調隨時體製不失法度屬<pc n="lb"/>
+律必嚴比事必切審律必當擇字必精是以和於工商<pc n="lb"/>
+合於節奏而無宿昔聲律之弊矣余昔在朝以文字為<pc n="lb"/>
+軄樂律之事毎與聞之嘗恨世之儒者薄其事而不究<pc n="lb"/>
+                    <pb n="6a"/>
+心俗工執其藝而不知理由是文律二者不能兼美毎<pc n="lb"/>
+朝㑹大合樂樂署必以其譜来翰苑請樂章唯吴興趙<pc n="lb"/>
+公承㫖時以屬官所撰不協自撰以進并言其故為延<pc n="lb"/>
+祐天子嘉賞焉及余偹員亦稍為櫽括終為樂工所哂<pc n="lb"/>
+不能如吴興時也當是時茍得徳清之為人引之禁林<pc n="lb"/>
+相與討論斯事豈無一日起予之助乎惜哉余還山中<pc n="lb"/>
+眊且廢矣徳清留滯江南又無有賞其音者方今天下<pc n="lb"/>
+治平朝廷將必有大製作興樂府以協律如漢武宣之<pc n="lb"/>
+                    <pb n="6b"/>
+世然則頌清廟歌郊祀攄和平正大之音以揄揚今日<pc n="lb"/>
+之盛者其不在於諸君子乎徳清勉之前奎章閣侍書<pc n="lb"/>
+學士虞集書<pc n="lb"/>
+                    <pb n="7a"/>
+中原音韻起例<pc n="lb"/>
+青原蕭存存博學工於文詞毎病今之樂府有遵音調<pc n="lb"/>
+作者有增襯字作者有陽春白雪集徳勝令花影壓重<pc n="lb"/>
+簷沉烟裊繡簾人去青鸞杳春嬌酒病懨眉尖常鎻傷<pc n="lb"/>
+春怨忺忺忺的来不待忺綉唱為羞與怨字同押者有<pc n="lb"/>
+同集殿前歡白雪窩二叚俱八句白字不能歌者有板<pc n="lb"/>
+行逢雙不對襯字尤多文律俱謬而指時賢作者有韻<pc n="lb"/>
+脚用平上去不一一云也唱得者有句中用入聲不能<pc n="lb"/>
+                    <pb n="8a"/>
+歌者有歌其字音非其字者令人無所守泰定甲子存<pc n="lb"/>
+存托其友張漢英以其說問作詞之法於予予曰言語<pc n="lb"/>
+一科欲作樂府必正言語必宗中原之音樂府之盛之<pc n="lb"/>
+府之盛之偹之難莫如今時其盛則自搢紳及閭閻歌<pc n="lb"/>
+咏者衆其偹則自關鄭白馬一新製作韻共守自然之<pc n="lb"/>
+音字能通天下之語字暢語俊韻促音調觀其所述曰<pc n="lb"/>
+忠曰孝有補於世其難則有六字三韻忽聼一聲猛驚<pc n="lb"/>
+是也諸公已矣後學莫及何也葢其不悟聲分平仄字别<pc n="lb"/>
+                    <pb n="8b"/>
+隂陽夫聲分平仄者謂無入聲以入聲𣲖入平上去三<pc n="lb"/>
+聲也作平者最為𦂳切施之句中不可不謹𣲖入三聲<pc n="lb"/>
+者廣其韻耳有才者本韻自足矣字别隂陽者隂陽字<pc n="lb"/>
+平聲有之上去俱無上去各止一聲平上去有三聲有<pc n="lb"/>
+上平聲有下平聲上平聲非指一東至二十八山而言<pc n="lb"/>
+下平聲非指一先至二十七咸而言前輩為廣韻平聲<pc n="lb"/>
+多分為上下巻非分其音也殊不知平聲字字俱有上<pc n="lb"/>
+平下平之分但有有音無字之别非一東至山皆上平<pc n="lb"/>
+                    <pb n="9a"/>
+一先至咸皆下平聲也如東紅二字之類東字下平聲<pc n="lb"/>
+屬隂紅字上平聲屬陽隂者即下平聲陽者即上平聲<pc n="lb"/>
+試以東字調平仄又以紅字調平仄便可知平聲隂陽<pc n="lb"/>
+字音又可知上去二聲各止一聲俱無隂陽之别矣且<pc n="lb"/>
+上去二聲施於句中施於韻脚無用隂陽惟慢詞中僅<pc n="lb"/>
+可曳其聲爾此自然之理也妙處在此初學者何由知<pc n="lb"/>
+之乃作詞之膏肓用字之骨髓皆不傳之妙獨予知之<pc n="lb"/>
+嘗屢揣其聲病於桃花扇影而得之也吁考其詞音者<pc n="lb"/>
+                    <pb n="9b"/>
+人人能之究其詞之平仄隂陽者則無有也彼之能遵<pc n="lb"/>
+音調而有協音俊語可與前軰頡頏所謂成文章曰樂<pc n="lb"/>
+府也不遵而增襯字名樂府者自名之也徳勝令綉字<pc n="lb"/>
+怨字殿前歡八句白字者若以綉字是珠字誤看則烟<pc n="lb"/>
+字唱作去聲為沉宴裊珠簾皆非也呵呵忺忺者何等<pc n="lb"/>
+語句未聞有如此平仄如此開合韻脚徳勝令亦未聞<pc n="lb"/>
+有八句殿前歡此自已字之開合平仄句之對偶短長<pc n="lb"/>
+俱不知而又妄編他人之語奚足以知其妍媸歟嗚呼<pc n="lb"/>
+                    <pb n="10a"/>
+言語可不究乎以板行謬語而指時賢作者皆自為之<pc n="lb"/>
+詞將正其已之是影其已之非務取媚於市井之徒不<pc n="lb"/>
+求知於髙明之士能不受其惑者幾人哉使真時賢所<pc n="lb"/>
+作亦不足為法取之者之罪非公噐也韻脚用三聲何<pc n="lb"/>
+者為是不思前軰某字某韻必用某聲却云也唱得乃<pc n="lb"/>
+文過之詞非作者之言也平而仄仄而平上去而去上<pc n="lb"/>
+去上而上去者諺云鈕折嗓子是也其如歌姬之喉咽<pc n="lb"/>
+何入聲於句中不能歌者不知入聲作平聲也歌其字<pc n="lb"/>
+                    <pb n="10b"/>
+音非其字者合用隂而陽陽而隂也此皆用盡自已心<pc n="lb"/>
+徒快一時意不能久傳深可哂哉深可憐哉惜無有以<pc n="lb"/>
+訓之者予甚欲為訂砭之文以正其語便其作而使成<pc n="lb"/>
+樂府恐起争端矧為人之學乎因重張之請遂分平聲<pc n="lb"/>
+隂陽及撮其三聲同音兼以入聲𣲖入三聲如碑字次<pc n="lb"/>
+本聲後葺成一帙分為十九名之曰中原音韻并起例<pc n="lb"/>
+以遺之可與識者道秋九日髙安挺齋周徳清書<pc n="lb"/>
+<pb n="11a"/>
+                </p>
+  </div>
+  <div>
+<head>中原音韻巻上</head>
+    <p>
+<pc n="lb"/>
+                    
+欽定四庫全書<pc n="lb"/>
+<pc n="　"/>中原音韻巻上<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>元<pc n="　"/>周徳清<pc n="　"/>撰<pc n="lb"/>
+東鐘<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+東冬<pc n="　"/>鍾鐘中忠𠂻終<pc n="　"/>通蓪<pc n="　"/>松嵩<pc n="　"/>冲充衝舂忡<pc n="lb"/>
+摏艟䂌翀种<pc n="　"/>邕嗈雍<pc n="　"/>空悾<pc n="　"/>宗椶騣<pc n="　"/>風楓豐封<pc n="lb"/>
+                    <pb n="1a"/>
+葑峯鋒烽丰蜂<pc n="　"/>鬆愡<pc n="　"/>匆葱聰驄囱<hi>烟突</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>蹤縱樅<pc n="lb"/>
+穹芎傾<pc n="　"/>工功攻公蚣弓躬恭宮龔供肱觥<pc n="　"/>烘叿<hi>人聲</hi>
+                    <pc n="lb"/>
+轟薨<pc n="　"/>凶兇胷洶兄<pc n="　"/>翁<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>癰廱<hi>碎</hi>壅泓<pc n="　"/>崩繃<pc n="　"/>烹<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+同筒銅桐峒童僮橦瞳曈潼鼕<pc n="　"/>戎茙駥絨㲨茸<pc n="　"/>龍<pc n="lb"/>
+隆癃窿<pc n="　"/>窮藭蛩卭笻<pc n="　"/>籠曨朧櫳瓏豅礱聾嚨<pc n="　"/>膿<pc n="lb"/>
+農儂<pc n="　"/>濃穠醲<pc n="　"/>重蟲慵<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>崇<pc n="　"/>馮逢縫<pc n="　"/>叢䕺琮<pc n="lb"/>
+熊雄<pc n="　"/>容溶蓉瑢鎔庸傭鄘鏞墉融榮<pc n="　"/>蒙濛朦矇甍<pc n="lb"/>
+                    <pb n="1b"/>
+盲瞢萌<pc n="　"/>紅谼虹哄鴻宏綋横嶸𢎞<pc n="　"/>蓬篷芃髼彭棚<pc n="lb"/>
+鵬<pc n="　"/>從<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+董懂<pc n="　"/>腫踵種冢<pc n="　"/>孔恐<pc n="　"/>桶統<pc n="　"/>汞嗊<pc n="　"/>隴壠<pc n="　"/>篢<pc n="lb"/>
+攏<pc n="　"/>洶詾<pc n="　"/>聳竦<pc n="　"/>拱鞏珙<pc n="　"/>勇擁涌踊悀永俑<pc n="　"/>蠓<pc n="lb"/>
+懵猛艋蜢<pc n="　"/>總<pc n="　"/>捧<pc n="　"/>寵<pc n="　"/>冗<pc n="　"/>噥<pc n="　"/>唪<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+洞動棟凍蝀<pc n="　"/>鳳奉諷縫<pc n="　"/>貢共供<pc n="　"/>宋送<pc n="　"/>弄哢礱<pc n="lb"/>
+                    <pb n="2a"/>
+<pc n="　"/>控空鞚<pc n="　"/>誦訟頌<pc n="　"/>甕<graphic n="KR1604" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1604.png" mimeType="image/png"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <pc n="　"/>痛慟<pc n="　"/>衆中仲重種<pc n="lb"/>
+<pc n="　"/>縱從粽<pc n="　"/>夢孟<pc n="　"/>用詠瑩<pc n="　"/>哄閧横<pc n="　"/>綜<pc n="　"/>迸<pc n="　"/>銃<pc n="lb"/>
+江陽<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+姜江杠釭薑疆韁䗵僵<pc n="　"/>邦挷幫<pc n="　"/>桑喪<pc n="　"/>雙艭霜孀<pc n="lb"/>
+鸘驦<pc n="　"/>章漳獐樟璋彰麞張<pc n="　"/>商傷殤觴湯<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <pc n="　"/>漿螿<pc n="lb"/>
+將<pc n="　"/>莊粧裝樁<pc n="　"/>岡剛鋼綱缸扛玒亢<pc n="　"/>康糠<pc n="　"/>光胱<pc n="lb"/>
+                    <pb n="2b"/>
+<pc n="　"/>當璫簹襠鐺<pc n="　"/>荒<graphic n="KR3444" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3444.png" mimeType="image/png"/>肓<pc n="　"/>香鄉<pc n="　"/>鎊滂䨦<pc n="　"/>腔谾蜣<pc n="lb"/>
+羌<pc n="　"/>鴦央殃秧泱<pc n="　"/>方芳枋妨坊肪<pc n="　"/>昌猖娼菖閶<pc n="lb"/>
+湯鏜<pc n="　"/>湘廂相箱襄瓖<pc n="　"/>槍鏘蹡<pc n="　"/>匡筐眶<pc n="　"/>汪尫<pc n="lb"/>
+倉蒼<pc n="　"/>牎瘡<pc n="　"/>贜臧<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+陽揚楊暘昜颺羊徉洋佯<pc n="　"/>忙茫邙芒鋩杗狵厖<pc n="　"/>粮<pc n="lb"/>
+良綡涼輬梁粱量<pc n="　"/>穰欀瀼瓤<pc n="　"/>忘亡<pc n="　"/>郎榔廊螂稂<pc n="lb"/>
+浪琅狼<pc n="　"/>杭行頏航<pc n="　"/>昻卭<pc n="　"/>床幢撞淙<pc n="　"/>傍旁房龐<pc n="lb"/>
+                    <pb n="3a"/>
+逄<pc n="　"/>房防<pc n="　"/>長萇膓塲常裳嘗償<pc n="　"/>唐榶塘糖堂棠<pc n="lb"/>
+祥詳翔<pc n="　"/>牆檣嬙戕<pc n="　"/>黄璜簧艎蝗皇篁凰惶遑隍<pc n="lb"/>
+藏<pc n="　"/>强<pc n="　"/>娘<pc n="　"/>降<pc n="　"/>王<pc n="　"/>狂<pc n="　"/>囊<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+講港鏹<pc n="　"/>養痒鞅<pc n="　"/>蔣奬槳<pc n="　"/>兩魎<pc n="　"/>想鮝<pc n="　"/>蟒莽漭<pc n="lb"/>
+<pc n="　"/>爽漺<pc n="　"/>響蠁享饗夯<pc n="　"/>敞氅昶<pc n="　"/>壤穰<pc n="　"/>舫倣放訪<pc n="lb"/>
+昉<pc n="　"/>罔網輞<pc n="　"/>枉往<pc n="　"/>顙磉嗓<pc n="　"/>榜挷<pc n="　"/>倘帑<pc n="　"/>黨讜<pc n="lb"/>
+<pc n="　"/>掌長<pc n="　"/>朗<pc n="　"/>謊恍<pc n="　"/>仰<pc n="　"/>廣<pc n="　"/>沆<hi>沆瀣</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>髒<pc n="　"/>强<pc n="　"/>搶<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>賞晌<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+絳降洚虹糨強<pc n="　"/>象像相<pc n="　"/>亮諒量緉輛<pc n="　"/>瀁羕煬養<pc n="lb"/>
+様怏䬬漾恙<pc n="　"/>狀壯撞<pc n="　"/>上尚餉<pc n="　"/>讓懹饟<pc n="　"/>帳脹漲<pc n="lb"/>
+丈仗杖障瘴嶂<pc n="　"/>巷向項<pc n="　"/>匠將醬<pc n="　"/>唱倡暢悵鬯<pc n="lb"/>
+創剏<pc n="　"/>望忘妄<pc n="　"/>旺王<pc n="　"/>放訪<pc n="　"/>蕩宕碭當擋<pc n="　"/>浪閬<pc n="lb"/>
+<pc n="　"/>葬藏戅<pc n="　"/>謗傍蚌棒<pc n="　"/>炕亢抗<pc n="　"/>曠壙纊<pc n="　"/>晃<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+况貺<pc n="　"/>釀<pc n="　"/>仰<pc n="　"/>喪<pc n="　"/>胖<pc n="　"/>行<pc n="　"/>愴<pc n="　"/>誑<pc n="　"/>盎<pc n="　"/>戧<pc n="lb"/>
+                    <pb n="4a"/>
+鋼<pc n="　"/>盪湯<pc n="lb"/>
+支思<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+支枝肢巵氏梔榰之芝脂胝<pc n="　"/>髭貲觜兹孳孜滋資咨<pc n="lb"/>
+淄諮姿耔<pc n="　"/>眵<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>差<pc n="　"/>施詩師獅螄尸屍鳲蓍<pc n="　"/>斯<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+厮澌鷥颸思司私絲偲罳<pc n="　"/>雌<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+                    <pb n="4b"/>
+兒而洏<pc n="　"/>慈鶿磁兹餈茨疵玼茈<pc n="　"/>時<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>鰣匙<pc n="　"/>詞祠<pc n="lb"/>
+辭辤<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+紙砥厎㫖指止沚芷趾祉阯址徴咫<pc n="　"/>爾邇耳餌珥駬<pc n="lb"/>
+<pc n="　"/>此玼跐泚<pc n="　"/>史駛使弛豕矢始屎<graphic n="KR2522" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2522.png" mimeType="image/png"/>
+                    <pc n="　"/>子紫姊梓<pc n="lb"/>
+死<pc n="　"/>齒仔<pc n="lb"/>
+<pc n="　"/>入聲作上聲<pc n="lb"/>
+澁瑟<hi>音史</hi>塞<hi>音死</hi>
+                    <pc n="lb"/>
+                    <pb n="5a"/>
+<pc n="　"/>去聲<pc n="lb"/>
+是氏市柿侍士仕使示諡蒔恃事施嗜豉試弑筮視噬<pc n="lb"/>
+<pc n="　"/>似兕賜姒已汜祀嗣飼笥耜涘俟寺食思四肆泗駟<pc n="lb"/>
+<pc n="　"/>次刺剚<pc n="　"/>字漬牸自恣骴胔<pc n="　"/>志誌至<pc n="　"/>二貳餌<pc n="lb"/>
+翅<pc n="　"/>厠<pc n="lb"/>
+齊微<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+                    <pb n="5b"/>
+機㡬磯璣譏肌飢笄朞箕基雞稽饑姬竒羈羇<pc n="　"/>歸圭<pc n="lb"/>
+邽龜閨規<pc n="　"/>虀齊擠躋<pc n="　"/>雖荽綏睢尿<pc n="　"/>邸觝殫弤氐<pc n="lb"/>
+底<pc n="　"/>妻凄萋悽棲<pc n="　"/>西犀嘶<pc n="　"/>灰揮暉輝翬麾徽虺<pc n="lb"/>
+杯悲卑碑陂<pc n="　"/>追騅錐<pc n="　"/>威偎隈煨<pc n="　"/>非扉俳霏騑誹<pc n="lb"/>
+菲妃飛<pc n="　"/>溪欺欹<pc n="　"/>希稀晞羲犧曦醯熹嘻僖熈<pc n="　"/>衣<pc n="lb"/>
+依伊醫鷖漪猗臆<pc n="　"/>吹炊推<pc n="　"/>醅披邳丕呸胚䋔<pc n="　"/>魁<pc n="lb"/>
+盔虧窺瑰奎<pc n="　"/>笞癡郗蚩媸螭鴟絺<pc n="　"/>崔催衰榱<pc n="　"/>紕<pc n="lb"/>
+批鈚<pc n="　"/>堆䭔<pc n="　"/>箆鎞<pc n="　"/>知蜘<pc n="　"/>梯<pc n="lb"/>
+                    <pb n="6a"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+㣲薇維惟<pc n="　"/>黎黧犂棃藜瓈離璃籬醨䍦离鸝驪麗狸<pc n="lb"/>
+蜊釐<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>漓<pc n="　"/>泥尼臡<pc n="　"/>梅莓枚媒煤眉湄楣嵋麋縻醿<pc n="lb"/>
+塺<pc n="　"/>雷檑纍罍羸<pc n="　"/>隋隨<pc n="　"/>齊臍<pc n="　"/>回徊迴<pc n="　"/>圍闈韋<pc n="lb"/>
+幃違嵬巍危桅為<pc n="　"/>肥淝<pc n="　"/>竒騎琦祺萁期旗旂棊祈<pc n="lb"/>
+祁其畿祇耆鬐茋岐麒琪蘄<pc n="　"/>奚兮畦携蹊<pc n="　"/>移扅兒<pc n="lb"/>
+鯢霓倪猊輗姨夷荑疑嶷鷖沂宜儀䴊彛貽怡𣅿飴圮<pc n="lb"/>
+頤遺蛇<pc n="　"/>啼蹄提題醍綈稊<pc n="　"/>鎚垂陲<pc n="　"/>裴陪培皮<pc n="lb"/>
+                    <pb n="6b"/>
+葵馗䕫逵<pc n="　"/>池馳遲墀篪持<pc n="　"/>頽魋<pc n="　"/>脾疲比毗羆<pc n="lb"/>
+迷䌤彌<pc n="　"/>誰<pc n="　"/>摧<pc n="　"/>蕤<pc n="lb"/>
+<pc n="　"/>入聲作平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<hi>後同</hi>
+                    <pc n="lb"/>
+實十什石射食蝕拾<pc n="　"/>直值姪秩擲<pc n="　"/>疾嫉葺集寂<pc n="lb"/>
+夕昔席襲<pc n="　"/>荻狄敵逖笛糴<pc n="　"/>及極<pc n="　"/>惑<pc n="　"/>逼<pc n="　"/>劾<pc n="lb"/>
+賊<pc n="lb"/>
+<pc n="　"/>去聲作平聲<pc n="lb"/>
+                    <pb n="7a"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+鼻<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+迤婍<pc n="　"/>尾亹<pc n="　"/>倚椅錡扆偯蟻矣已以苡顗擬艤<pc n="　"/>凂美<pc n="lb"/>
+<pc n="　"/>蟣幾已几麂紀<pc n="　"/>耻侈<pc n="　"/>捶箠<pc n="　"/>痞否嚭圯秕<pc n="　"/>鬼<pc n="lb"/>
+簋癸軌詭晷宄<pc n="　"/>悔賄毁卉譭燬虺<pc n="　"/>妣比匕<pc n="　"/>禮醴<pc n="lb"/>
+里裏理鯉娌李蠡履<pc n="　"/>濟擠<pc n="　"/>底邸詆柢胝<pc n="　"/>洗壐枲<pc n="lb"/>
+徙屣<pc n="　"/>起棨啟綮綺杞豈<pc n="　"/>米弭眯<pc n="　"/>伱旎襧<pc n="　"/>彼鄙<pc n="lb"/>
+                    <pb n="7b"/>
+<pc n="　"/>喜蟢<pc n="　"/>委猥唯隗葦偉<pc n="　"/>壘磊儡蕾<pc n="　"/>體<pc n="　"/>腿<pc n="　"/>蕋<pc n="lb"/>
+<pc n="　"/>觜<pc n="　"/>髓<pc n="　"/>水<pc n="　"/>餒<pc n="lb"/>
+<pc n="　"/>入聲作上聲<pc n="lb"/>
+質隻炙織隲汁只<pc n="　"/>七戚漆刺<pc n="　"/>匹闢僻<pc n="　"/>吉擊激極<pc n="lb"/>
+棘㦸急汲給<pc n="　"/>筆北<pc n="　"/>失室<pc n="　"/>適拭軾飾釋濕奭<pc n="　"/>唧<pc n="lb"/>
+積稷績跡脊鯽<pc n="　"/>鞞畢蹕蓽碧壁璧甓<pc n="　"/>昔惜息錫淅<pc n="lb"/>
+<pc n="　"/>尺赤勅喫叱鶒<pc n="　"/>的靮嫡滴<pc n="　"/>徳得<pc n="　"/>滌剔踢<pc n="　"/>吸<pc n="lb"/>
+隙翕檄覡<pc n="　"/>乞泣訖<pc n="　"/>國<pc n="　"/>黒<pc n="　"/>一<pc n="lb"/>
+                    <pb n="8a"/>
+<pc n="　"/>去聲<pc n="lb"/>
+未味<pc n="　"/>胃蝟渭謂<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>尉慰緯穢衛魏畏餧位飫<pc n="　"/>貴櫃<pc n="lb"/>
+餽愧悸桂檜膾鱠跪獪繪<pc n="　"/>吠沸費肺廢芾<pc n="　"/>㑹悔誨<pc n="lb"/>
+諱惠蕙慧潰闠<pc n="　"/>翠脆顇倅萃粹淬悴<pc n="　"/>異裔義議誼<pc n="lb"/>
+毅藝易翳瘞勩枻曵翳詣饐刈乂意劓懿<pc n="　"/>氣噐棄憇<pc n="lb"/>
+契褉<pc n="　"/>霽濟祭際劑<pc n="　"/>替剃涕嚏<pc n="　"/>帝諦締弟娣第睇<pc n="lb"/>
+地逓蔕棣<pc n="　"/>背貝狽焙倍婢備避軰被臂幣譬髲詖帔<pc n="lb"/>
+<pc n="　"/>利痢莉俐例唳戾洌離𨽻癘莅荔詈劙麗<pc n="　"/>砌妻<pc n="lb"/>
+                    <pb n="8b"/>
+細壻<pc n="　"/>罪醉最<pc n="　"/>對隊碓兌<pc n="　"/>計記寄繫繼妓忮技髻<pc n="lb"/>
+偈忌季縊騎既驥兾薊鱖<pc n="　"/>閉蔽畀笓斃嬖庇比秘陛<pc n="lb"/>
+賁<pc n="　"/>謎汆<pc n="　"/>睡稅說瑞<pc n="　"/>退蛻<pc n="　"/>嵗碎粹祟䆳繸穗燧<pc n="lb"/>
+隧遂彗<pc n="　"/>墜贅綴縋懟<pc n="　"/>製制置滯雉稚致彘治智幟熾<pc n="lb"/>
+質<pc n="　"/>世勢逝誓<pc n="　"/>淚累酹擂類纇誄耒磑<pc n="　"/>配佩珮<pc n="lb"/>
+霈沛悖誖<pc n="　"/>妹昧媚魅袂瑁寐<pc n="　"/>戲系係<pc n="　"/>簣蕢揆<pc n="lb"/>
+殢膩泥<pc n="　"/>蚋芮銳蜹<pc n="　"/>吠喙<pc n="　"/>内<pc n="lb"/>
+<pc n="　"/>入聲作去聲<pc n="lb"/>
+                    <pb n="9a"/>
+日入<pc n="　"/>覔蜜<pc n="　"/>墨宻<pc n="　"/>立粒笠厯歴櫪瀝<graphic n="KR0659" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0659.png" mimeType="image/png"/>靂皪力栗<pc n="lb"/>
+<pc n="　"/>逸易場譯驛益溢鎰鷁液腋掖疼役一佾泆逆乙邑<pc n="lb"/>
+憶揖射翊翼<pc n="　"/>勒肋<pc n="　"/>劇<pc n="　"/>匿<pc n="lb"/>
+魚模<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+居裾琚鶋車駒拘俱<pc n="　"/>諸猪豬朱姝株蛛誅珠邾侏<pc n="lb"/>
+蘇酥㢝甦<pc n="　"/>逋餔晡<pc n="　"/>樞樗攄<pc n="　"/>粗芻<pc n="　"/>梳蔬䟽踈<pc n="lb"/>
+                    <pb n="9b"/>
+虚墟噓㠊歔吁<pc n="　"/>蛆趍<pc n="　"/>疽沮趄苴蛆睢<pc n="　"/>孤姑辜鴣酤<pc n="lb"/>
+沽蛄菰䱄<pc n="　"/>枯刳<pc n="　"/>迂紆扵<pc n="　"/>嗚汚烏<pc n="　"/>書舒輸紓<pc n="lb"/>
+區軀驅嶇貙<pc n="　"/>須嬃鬚胥醑需繻<pc n="　"/>膚夫鈇玞趺敷麩<pc n="lb"/>
+孚鄜莩枹桴郛<pc n="　"/>呼<pc n="　"/>初<pc n="　"/>都<pc n="　"/>租<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+廬閭驢臚簍<pc n="　"/>如茹鴽儒薷襦孺嚅濡<pc n="　"/>無蕪巫誣<pc n="lb"/>
+模謨摸謀<pc n="　"/>徒圗菟屠荼途瘏駼塗<pc n="　"/>奴孥砮駑盧<pc n="lb"/>
+蘆顱鱸轤爐櫨瀘纑艫<pc n="　"/>魚漁虞余餘竽予畬雩與輿<pc n="lb"/>
+                    <pb n="10a"/>
+歈璵舁妤歟譽愚孟隅禺㬰榆愉俞覦毹瑜窬逾渝閾<pc n="lb"/>
+於諛萸<pc n="　"/>吾浯鋙蜈㻍吴梧娱鼯<pc n="　"/>雛鋤<pc n="　"/>殊茱銖洙<pc n="lb"/>
+<pc n="　"/>渠蕖磲籧劬瞿衢臞<pc n="　"/>除蜍滁躇厨㡡蹰儲<pc n="　"/>扶夫<pc n="lb"/>
+蚨符芙鳬浮<pc n="　"/>蒲脯酺蒱<pc n="　"/>胡糊湖醐瑚鶘壺狐弧乎<pc n="lb"/>
+<pc n="　"/>殂徂<pc n="　"/>徐<pc n="lb"/>
+<pc n="　"/>入聲作平聲<pc n="lb"/>
+獨讀牘瀆犢毒突纛<pc n="　"/>復佛伏鵩<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>服<pc n="　"/>鵠鶻斛槲<pc n="lb"/>
+贖屬述秫術术<pc n="　"/>俗續<pc n="　"/>逐軸<pc n="　"/>族鏃<pc n="　"/>僕<pc n="　"/>局<pc n="　"/>淑<pc n="lb"/>
+                    <pb n="10b"/>
+蜀孰熟塾<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+語雨與圄圉齬敔禦愈羽宇禹庾<pc n="　"/>呂侶旅膂縷僂<pc n="lb"/>
+主煮拄渚麈墅翥<pc n="　"/>汝乳<pc n="　"/>鼠黍暑<pc n="　"/>阻爼<pc n="　"/>杵楮緒<pc n="lb"/>
+處杼<pc n="　"/>數所<pc n="　"/>祖組<pc n="　"/>武舞鵡侮廡<pc n="　"/>土吐<pc n="　"/>魯櫓虜<pc n="lb"/>
+鹵滷<pc n="　"/>覩堵賭<pc n="　"/>古罟詁沽牯蠱估盬鼔瞽股羖賈<pc n="lb"/>
+五午仵忤塢鄔<pc n="　"/>虎滸<pc n="　"/>補浦圃鵏<pc n="　"/>普溥譜<pc n="　"/>甫斧<pc n="lb"/>
+撫黼脯府俯腑父否<pc n="　"/>母某牡姥畝<pc n="　"/>楚礎憷<pc n="　"/>舉莒<pc n="lb"/>
+                    <pb n="11a"/>
+矩櫸<pc n="　"/>弩努<pc n="　"/>許詡<pc n="　"/>取<pc n="　"/>苦<pc n="　"/>咀<pc n="　"/>女<pc n="　"/>嶼<pc n="　"/>傴去<pc n="lb"/>
+<pc n="　"/>入聲作上聲<pc n="lb"/>
+谷榖轂骨<pc n="　"/>蔌縮謖速<pc n="　"/>復福幅蝠腹覆拂<pc n="　"/>卜不<pc n="lb"/>
+菊踘局<hi>廷</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>笏忽<pc n="　"/>築燭粥竹<pc n="　"/>粟宿<pc n="　"/>曲麯屈<hi>仲</hi>
+                    <pc n="lb"/>
+哭窟酷<pc n="　"/>出黜畜<pc n="　"/>叔菽<pc n="　"/>督篤<pc n="　"/>暴撲<pc n="　"/>觸束<pc n="　"/>簇<pc n="lb"/>
+<pc n="　"/>足<pc n="　"/>促<pc n="　"/>秃<pc n="　"/>卒<pc n="　"/>蹙<pc n="　"/>屋沃兀<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+御馭遇嫗裕諭芋譽預豫<pc n="　"/>慮濾屢<pc n="　"/>鋸懼句據詎巨<pc n="lb"/>
+                    <pb n="11b"/>
+拒秬距炬苣踞屨絇具<pc n="　"/>恕庶樹戍豎署曙<pc n="　"/>覷趣娶<pc n="lb"/>
+<pc n="　"/>注㴻住著柱註鑄馵炷駐紵苧貯竚<pc n="　"/>數䟽<pc n="　"/>絮序<pc n="lb"/>
+叙緒<pc n="　"/>孺茹<pc n="　"/>杜妬肚渡鍍斁度蠧赴父釜輔付賦傅<pc n="lb"/>
+富仆鮒賻訃拊婦附阜負<pc n="　"/>户扈䕶瓠互戽頀岵怙<pc n="lb"/>
+務霧鶩戊<pc n="　"/>素訴塑遡泝嗉<pc n="　"/>暮慕墓募<pc n="　"/>路潞鷺輅<pc n="lb"/>
+露賂<pc n="　"/>故錮固顧雇<pc n="　"/>誤悞悟寤惡汙<pc n="　"/>布怖佈部簿<pc n="lb"/>
+哺捕步<pc n="　"/>醋措錯<pc n="　"/>做祚胙詛<pc n="　"/>兎吐<pc n="　"/>怒<pc n="　"/>鋪<pc n="　"/>處<pc n="lb"/>
+<pc n="　"/>去<pc n="　"/>聚<pc n="　"/>助<pc n="lb"/>
+                    <pb n="12a"/>
+<pc n="　"/>入聲作去聲<pc n="lb"/>
+禄鹿漉麓<pc n="　"/>木沐穆睦沒牧目鶩<pc n="　"/>録籙緑醁陸戮律<pc n="lb"/>
+<pc n="　"/>物勿<pc n="　"/>辱褥入<pc n="　"/>玉獄欲浴郁育鵒<pc n="　"/>訥<pc n="lb"/>
+皆來<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+皆堦階喈街偕稭楷<pc n="　"/>該垓荄陔<pc n="　"/>哉栽災<pc n="　"/>釵差<pc n="lb"/>
+台胎駘咍邰<pc n="　"/>哀挨唉<pc n="　"/>猜<pc n="　"/>挨<pc n="　"/>衰<pc n="　"/>腮<pc n="　"/>歪<pc n="　"/>開<pc n="lb"/>
+                    <pb n="12b"/>
+揩<pc n="　"/>齋<pc n="　"/>乖<pc n="　"/>篩<pc n="　"/>揣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+来莱騋<pc n="　"/>鞋諧骸<pc n="　"/>排牌<graphic n="KR1097" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1097.png" mimeType="image/png"/>俾<pc n="　"/>懐淮槐<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>瀤<pc n="　"/>埋霾<pc n="lb"/>
+<pc n="　"/>騃皚<pc n="　"/>孩頦<pc n="　"/>祡柴豺儕<pc n="　"/>崖厓捱<pc n="　"/>才材財裁纔<pc n="lb"/>
+<pc n="　"/>臺薹擡儓苔炱籉<pc n="　"/>能<pc n="lb"/>
+<pc n="　"/>入聲作平聲<pc n="lb"/>
+白帛舶<pc n="　"/>宅<graphic n="KR3090" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3090.png" mimeType="image/png"/>澤擇<pc n="　"/>畫劃<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+                    <pb n="13a"/>
+海醢靆詒紿<pc n="　"/>駭蟹<pc n="　"/>宰載<pc n="　"/>采彩採寀綵<pc n="　"/>靄藹乃<pc n="lb"/>
+毒<pc n="　"/>奶乃<pc n="　"/>蒯拐夬<pc n="　"/>凱鎧塏<pc n="　"/>揣<pc n="　"/>擺<pc n="　"/>矮<pc n="　"/>解<pc n="lb"/>
+楷<pc n="　"/>買<pc n="　"/>改<pc n="lb"/>
+<pc n="　"/>入聲作上聲<pc n="lb"/>
+拍珀魄<pc n="　"/>策册栅測跚<pc n="　"/>伯百栢廹擘檗<pc n="　"/>骼革隔格<pc n="lb"/>
+<pc n="　"/>客刻<pc n="　"/>責幘摘謫側窄仄昃簀迮<pc n="　"/>色穡索<pc n="　"/>摑<pc n="lb"/>
+摔<pc n="　"/>嚇<pc n="　"/>則<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+                    <pb n="13b"/>
+懈械薤觧獬<pc n="　"/>寨豸瘵債蠆眦<pc n="　"/>態泰太汰<pc n="　"/>葢丐<pc n="lb"/>
+艾愛噫餲<pc n="　"/>捱隘阨搤<pc n="　"/>柰奈耐鼐<pc n="　"/>害亥妎<pc n="　"/>帶戴<pc n="lb"/>
+怠迨待代袋大黛岱<pc n="　"/>戒誡廨觧界介芥疥届玠犗恝<pc n="lb"/>
+<pc n="　"/>外瞶<pc n="　"/>快噲塊<pc n="　"/>在再載<pc n="　"/>賣邁<pc n="　"/>賴籟瀨賚癩<pc n="lb"/>
+拜湃敗<graphic n="KR0629" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0629.png" mimeType="image/png"/>稗<pc n="　"/>菜蔡<pc n="　"/>曬灑煞鎩<pc n="　"/>賽塞<pc n="　"/>怪<pc n="　"/>壊<pc n="lb"/>
+慨<pc n="　"/>𣲖<pc n="　"/>帥率<pc n="　"/>瀣<pc n="lb"/>
+<pc n="　"/>入聲作去聲<pc n="lb"/>
+麥貊陌驀脉<pc n="　"/>額厄峉䩹<pc n="　"/>搦<pc n="lb"/>
+                    <pb n="14a"/>
+真文<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+分紛芬氛汾<pc n="　"/>昏惛婚葷閽<pc n="　"/>因姻茵湮殷闉<pc n="　"/>申紳<pc n="lb"/>
+伸身<pc n="　"/>嗔瞋<pc n="　"/>春椿<pc n="　"/>詢荀<pc n="　"/>吞<pc n="　"/>暾<pc n="　"/>諄迍<pc n="　"/>逡皴<pc n="lb"/>
+<pc n="　"/>根跟<pc n="　"/>欣忻昕<pc n="　"/>氲煴<pc n="　"/>真珍振甄<pc n="　"/>新薪辛<pc n="　"/>賓<pc n="lb"/>
+濵鑌彬<pc n="　"/>坤髠<pc n="　"/>君麏軍皸均鈞<pc n="　"/>榛臻<pc n="　"/>莘詵<pc n="　"/>薰<pc n="lb"/>
+醺勲曛燻<pc n="　"/>鯤鵾裩昆<pc n="　"/>温瘟<pc n="　"/>孫飡蓀猻<pc n="　"/>尊樽<pc n="lb"/>
+                    <pb n="14b"/>
+敦墩燉<pc n="　"/>奔賁犇<pc n="　"/>巾斤筋<pc n="　"/>村<pc n="　"/>親<pc n="　"/>遵<pc n="　"/>恩<pc n="　"/>噴<pc n="lb"/>
+<pc n="　"/>哏<pc n="　"/>津<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+隣燐鱗磷麟粼轔<pc n="　"/>貧瀕頻蘋顰嚬<pc n="　"/>民珉緡旻<pc n="　"/>人<pc n="lb"/>
+仁<pc n="　"/>倫綸掄輪淪<pc n="　"/>裙羣<pc n="　"/>勤懃芹<pc n="　"/>門捫<pc n="　"/>論崙<pc n="lb"/>
+文紋聞蚊<pc n="　"/>銀誾齦垠寅夤嚚鄞<pc n="　"/>盆湓<pc n="　"/>陳臣麈娠<pc n="lb"/>
+辰晨宸<pc n="　"/>秦<graphic n="KR0793" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0793.png" mimeType="image/png"/>
+                    <pc n="　"/>唇蓴淳純醇錞鶉<pc n="　"/>廵旬馴循<pc n="　"/>雲<pc n="lb"/>
+芸云紜耘勻員<hi>伍員人名</hi>筠<pc n="　"/>墳焚棼<pc n="　"/>魂渾<pc n="　"/>豚屯飩臀<pc n="lb"/>
+                    <pb n="15a"/>
+<pc n="　"/>神<pc n="　"/>存蹲<pc n="　"/>痕<pc n="　"/>紉<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+軫疹診稹<pc n="　"/>肯懇墾齦<pc n="　"/>𦂳謹槿巹瑾<pc n="　"/>隐引蚓尹<pc n="lb"/>
+閔憫泯愍敏<pc n="　"/>准凖<pc n="　"/>刎吻<pc n="　"/>筍隼<pc n="　"/>允殞隕狁<pc n="　"/>本<pc n="lb"/>
+畚<pc n="　"/>閫壼<graphic n="KR3501" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3501.png" mimeType="image/png"/>悃<pc n="　"/>窘囷<pc n="　"/>哂蜃<pc n="　"/>牝品<pc n="　"/>狠<pc n="　"/>不<pc n="　"/>忍<pc n="lb"/>
+<pc n="　"/>盾<pc n="　"/>樽<pc n="　"/>損<pc n="　"/>蠢<pc n="　"/>忖<pc n="　"/>粉<pc n="　"/>穏<pc n="　"/>衮<pc n="　"/>瞬<pc n="　"/>儘<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+震陣振賑鎮<pc n="　"/>信訊迅贐燼<pc n="　"/>刃訒仞認<pc n="　"/>吝悋藺磷<pc n="lb"/>
+                    <pb n="15b"/>
+<pc n="　"/>鬢殯臏<pc n="　"/>腎慎<pc n="　"/>醖愠運藴惲暈韻<pc n="　"/>盡晉進璡<pc n="lb"/>
+忿分糞奮<pc n="　"/>近覲<pc n="　"/>襯齔<pc n="　"/>印孕<pc n="　"/>峻浚殉噀<pc n="　"/>遜巽<pc n="lb"/>
+<pc n="　"/>俊駿<pc n="　"/>舜順<pc n="　"/>閏潤<pc n="　"/>問紊<pc n="　"/>頓囤鈍遁盾沌<pc n="　"/>悶<pc n="lb"/>
+懣<pc n="　"/>逩倴<pc n="　"/>訓<pc n="　"/>郡<pc n="　"/>困<pc n="　"/>噴<pc n="　"/>釁<pc n="　"/>論<pc n="　"/>混<pc n="　"/>寸<pc n="lb"/>
+恨<pc n="　"/>嫩<pc n="　"/>褪<pc n="　"/>揾諢<pc n="　"/>趂疢<pc n="lb"/>
+寒山<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+                    <pb n="16a"/>
+山删潸<pc n="　"/>丹單殫鄲簞<pc n="　"/>干竿肝玕乾<pc n="　"/>安鞍<pc n="　"/>姦奸<pc n="lb"/>
+間艱菅<pc n="　"/>刋看<pc n="　"/>関綸鰥擐<pc n="　"/>擐拴<pc n="　"/>斑班般扳頒<pc n="lb"/>
+彎灣<pc n="　"/>灘㰙<pc n="　"/>畨蕃翻轓旙藩反<pc n="　"/>珊跚<pc n="　"/>攀<pc n="　"/>慳<pc n="lb"/>
+赸<pc n="　"/>餐<pc n="　"/>跧<pc n="　"/>殷<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+寒邯韓汗翰<pc n="　"/>闌蘭欄斕襕攔<pc n="　"/>還環鬟寰闤圜鐶<pc n="lb"/>
+殘戔<pc n="　"/>閑鷴<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <pc n="　"/>壇檀彈<pc n="　"/>煩繁膰礬蠜帆樊凡<pc n="　"/>難<pc n="lb"/>
+<pc n="　"/>蠻<pc n="　"/>顔<pc n="　"/>潺<pc n="　"/>頑<pc n="lb"/>
+                    <pb n="16b"/>
+<pc n="　"/>上聲<pc n="lb"/>
+反返坂<pc n="　"/>散傘糤<pc n="　"/>晩挽<pc n="　"/>板鈑<pc n="　"/>簡揀<pc n="　"/>産鏟剗<pc n="lb"/>
+癉亶<pc n="　"/>赶稈簳<pc n="　"/>坦袒<pc n="　"/>罕<pc n="　"/>侃<pc n="　"/>懶<pc n="　"/>䟎<pc n="　"/>綰<pc n="　"/>赧<pc n="lb"/>
+<pc n="　"/>盞琖<pc n="　"/>眼<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+旱悍銲漢翰瀚汗鼾骭<pc n="　"/>旦誕嘽彈憚但<pc n="　"/>萬蔓曼<pc n="lb"/>
+嘆炭<pc n="　"/>案按岸犴旰閈喭<pc n="　"/>幹榦<pc n="　"/>粲燦璨<pc n="　"/>棧綻䋎<pc n="lb"/>
+盼襻<pc n="　"/>譔饌<pc n="　"/>渲彇<pc n="　"/>慢謾嫚<pc n="　"/>慣丱摜<pc n="　"/>贊讚灒瓚酇<pc n="lb"/>
+                    <pb n="17a"/>
+<pc n="　"/>患幻宦擐豢<pc n="　"/>間澗諫覸<pc n="　"/>訕疝汕<pc n="　"/>辦瓣扮絆<pc n="lb"/>
+飯販畈範泛范犯<pc n="　"/>限䦘莧<pc n="　"/>雁贋晏鷃<pc n="　"/>看<pc n="　"/>爛<pc n="lb"/>
+簒<pc n="　"/>散<pc n="　"/>難<pc n="　"/>腕<pc n="lb"/>
+桓歡<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+官冠棺觀<pc n="　"/>搬般<pc n="　"/>懽讙驩貛獾<pc n="　"/>潘拚<pc n="　"/>端耑<pc n="　"/>剜<pc n="lb"/>
+豌蜿<pc n="　"/>酸狻<pc n="　"/>寛<pc n="　"/>鑚<pc n="　"/>湍<pc n="　"/>攛<pc n="lb"/>
+                    <pb n="17b"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+鸞鑾巒欒灤圞<pc n="　"/>瞞謾縵漫鞔饅<graphic n="KR1998" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1998.png" mimeType="image/png"/>鏝<pc n="　"/>桓綄<pc n="　"/>丸刓<pc n="lb"/>
+蚖綄紈完瓛岏<pc n="　"/>圑搏溥愽<pc n="　"/>盤槃瘢磐䰉般鞶媻磻<pc n="lb"/>
+蟠胖弁幋<pc n="　"/>攅<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+<pc n="　"/>上聲<pc n="lb"/>
+館管痯琯脘<pc n="　"/>纂纉<graphic n="KR1483" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1483.png" mimeType="image/png"/>鄼<pc n="　"/>欵<pc n="　"/>盥澣<pc n="　"/>滿懣<pc n="　"/>暖餪<pc n="lb"/>
+<pc n="　"/>椀<pc n="　"/>疃<pc n="　"/>卵<pc n="　"/>短<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+                    <pb n="18a"/>
+喚換煥渙緩逭奐<pc n="　"/>翫玩腕惋<pc n="　"/>鏝幔漫墁<pc n="　"/>竄㸑攛<pc n="lb"/>
+躥<pc n="　"/>斷鍛段<pc n="　"/>筭蒜<pc n="　"/>判拚<pc n="　"/>貫冠觀灌祼瓘鸛<pc n="　"/>半<pc n="lb"/>
+伴泮沜畔絆<pc n="　"/>鑚<pc n="　"/>亂<pc n="　"/>彖<pc n="　"/>愞<pc n="lb"/>
+先天<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+先仙蹮鮮<pc n="　"/>煎湔箋韉濺籛<pc n="　"/>堅肩甄<pc n="　"/>顛瘨巔<pc n="　"/>䳌<pc n="lb"/>
+涓娟蠲<pc n="　"/>邉籩編鞭鯿<pc n="　"/>喧暄萱塤諠<pc n="　"/>氈鸇鱣饘邅<pc n="lb"/>
+                    <pb n="18b"/>
+旃栴<pc n="　"/>羶扇煽<pc n="　"/>專磚<pc n="　"/>千阡芊遷韆<pc n="　"/>軒掀袄<pc n="　"/>烟<pc n="lb"/>
+燕胭咽嫣<pc n="　"/>牽愆褰騫<pc n="　"/>篇扁蹁偏翩<pc n="　"/>淵寃宛鵷鴛<pc n="lb"/>
+蜿<pc n="　"/>痊詮筌銓悛朘荃<pc n="　"/>宣揎瑄<pc n="　"/>川穿<pc n="　"/>圏<pc n="　"/>天<pc n="lb"/>
+鐫<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+連蓮憐<pc n="　"/>眠綿<pc n="　"/>然燃<pc n="　"/>廛躔纒禪蟬<pc n="　"/>前錢<pc n="　"/>田畋<pc n="lb"/>
+闐填鈿<pc n="　"/>賢絃弦舷懸<pc n="　"/>𤣥<pc n="　"/>延筵鋋埏蜒縁妍言研<pc n="lb"/>
+焉沿<pc n="　"/>乾䖍<pc n="　"/>元黿圓員捐園圜袁猿轅原嫄源垣鉛<pc n="lb"/>
+                    <pb n="19a"/>
+鳶湲援<pc n="　"/>全泉<pc n="　"/>旋還璇<pc n="　"/>船傳椽<pc n="　"/>拳顴權鬈<pc n="　"/>胼<pc n="lb"/>
+駢軿便<pc n="　"/>聯攣<pc n="　"/>年<pc n="　"/>涎<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+逺阮苑畹<pc n="　"/>兖偃演堰衍鼴<pc n="　"/>巻捲<pc n="　"/>鮮跣洗銑毨筅<pc n="lb"/>
+獮蘚癬<pc n="　"/>腆殄沴<pc n="　"/>䮿蹇繭筧挸<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <pc n="　"/>剪翦<pc n="　"/>撚輾碾<pc n="lb"/>
+讞<pc n="　"/>輦璉<pc n="　"/>臠孌<pc n="　"/>囀轉<pc n="　"/>貶扁匾艑緶<pc n="　"/>沔湎黽免<pc n="lb"/>
+冕勉俛眄<pc n="　"/>喘舛<pc n="　"/>闡蕆<pc n="　"/>典<pc n="　"/>顯<pc n="　"/>犬<pc n="　"/>淺<pc n="　"/>展<pc n="lb"/>
+遣<pc n="　"/>吮<pc n="　"/>軟<pc n="　"/>選<pc n="　"/>諞<pc n="lb"/>
+                    <pb n="19b"/>
+<pc n="　"/>去聲<pc n="lb"/>
+院願愿怨逺援<pc n="　"/>勸劵<pc n="　"/>見建健絹件<pc n="　"/>獻現憲縣<pc n="lb"/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>眩絢<pc n="　"/>電殿甸佃鈿填闐靛奠<pc n="　"/>硯燕嚥讌諺堰縁<pc n="lb"/>
+掾宴彦喭嬿<pc n="　"/>眷倦圏綣絹狷罥<pc n="　"/>面麫<pc n="　"/>片騙<pc n="　"/>變<pc n="lb"/>
+便遍徧辨辮卞汴弁<pc n="　"/>線羨霰<pc n="　"/>釧穿串<pc n="　"/>扇善煽鱔<pc n="lb"/>
+禪饍擅墠單<pc n="　"/>箭薦煎賤濺餞踐牮<pc n="　"/>鏇選旋漩<pc n="　"/>傳<pc n="lb"/>
+囀轉篆<pc n="　"/>戰顫纒<pc n="　"/>譴牽<pc n="　"/>練煉楝<pc n="　"/>戀<pc n="lb"/>
+蕭豪<pc n="lb"/>
+                    <pb n="20a"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+蕭簫瀟彇<graphic n="KR2976" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2976.png" mimeType="image/png"/>綃消銷宵霄硝蛸痟魈翛<pc n="　"/>刁貂琱彫鵰<pc n="lb"/>
+凋<pc n="　"/>梟鴞囂枵驍歊<pc n="　"/>梢捎弰筲旓髾鞘颵<pc n="　"/>嬌驕<pc n="lb"/>
+蕉焦椒燋憔<pc n="　"/>標幖臕鏕杓飇<pc n="　"/>交蛟咬郊茭鮫膠教<pc n="lb"/>
+<pc n="　"/>包胞苞<pc n="　"/>嘲㧓啁<pc n="　"/>髙篙膏羔糕橰臯櫜鼛<pc n="　"/>刀叨<pc n="lb"/>
+舠魛<pc n="　"/>騷搔艘臊繅颾<pc n="　"/>遭糟<pc n="　"/>鏖䥝爊<pc n="　"/>昭招朝<pc n="lb"/>
+邀夭訞么喓腰<graphic n="KR4439" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4439.png" mimeType="image/png"/>要葽<pc n="　"/>飄漂<pc n="　"/>抛胞脬<pc n="　"/>絛掏饕叨<pc n="lb"/>
+                    <pb n="20b"/>
+滔韜慆<pc n="　"/>趫橇<pc n="　"/>哮虓烋嗃詨<pc n="　"/>敲磽<pc n="　"/>抄䜈<pc n="　"/>㘭凹<pc n="lb"/>
+蒿薅<pc n="　"/>澆<pc n="　"/>褒<pc n="　"/>挑<pc n="　"/>超<pc n="　"/>鍬<pc n="　"/>操<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+豪毫號濠<graphic n="KR1485" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1485.png" mimeType="image/png"/>
+                    <pc n="　"/>寮遼僚鷯憀聊<pc n="　"/>饒橈蕘<pc n="　"/>苗描緢<pc n="lb"/>
+毛芼旄茅蝥猫髦<pc n="　"/>猱㺜鐃呶怓撓譊<pc n="　"/>牢勞轑澇醪<pc n="lb"/>
+撈<pc n="　"/>迢髫蜩調條佻跳<pc n="　"/>潮朝韶鼂<pc n="　"/>遥揺謡瑶颻窑<pc n="lb"/>
+堯陶姚嶢<pc n="　"/>樵瞧譙<pc n="　"/>鼇<graphic n="KR1722" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1722.png" mimeType="image/png"/>嗷厫敖璈聱獒驁嚻遨<graphic n="KR1582" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1582.png" mimeType="image/png"/>
+謷<pc n="　"/>喬蕎橋僑翹<pc n="　"/>爻肴淆殽<pc n="　"/>袍炮跑鞄匏咆庖<pc n="lb"/>
+                    <pb n="21a"/>
+桃逃咷鼗陶萄綯醄淘濤檮<pc n="　"/>曹漕槽嘈螬<pc n="　"/>瓢薸<pc n="lb"/>
+巢漅<pc n="lb"/>
+<pc n="　"/>入聲作平聲<pc n="lb"/>
+濁濯鐲擢<pc n="　"/>鐸度踱<pc n="　"/>薄箔泊博<pc n="　"/>學鷽<pc n="　"/>縳<pc n="　"/>鶴涸<pc n="lb"/>
+<pc n="　"/>鑿<pc n="　"/>鑊<pc n="　"/>著<pc n="　"/>芍杓<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+小篠謏<pc n="　"/>皎繳矯橋<pc n="　"/>裊鳥嫋褭<pc n="　"/>了瞭燎蓼<pc n="　"/>杳夭<pc n="lb"/>
+殀舀<pc n="　"/>遶繞嬈擾<pc n="　"/>眇渺杪藐淼<pc n="　"/>悄愀<pc n="　"/>寳保堡褓<pc n="lb"/>
+                    <pb n="21b"/>
+葆<pc n="　"/>夘昴<pc n="　"/>狡攪鉸姣茭絞<pc n="　"/>老姥獠潦<graphic n="KR2176" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2176.png" mimeType="image/png"/>橑<pc n="　"/>腦惱<pc n="lb"/>
+碯㛴<pc n="　"/>掃嫂<pc n="　"/>殍漂僄剽勡<pc n="　"/>早棗澡藻蚤璪<pc n="　"/>倒島<pc n="lb"/>
+搗禱<pc n="　"/>杲藁縞鎬鄗槁<pc n="　"/>襖懊媪<pc n="　"/>考栲<pc n="　"/>挑窕<pc n="　"/>沼<pc n="lb"/>
+<pc n="　"/>少<pc n="　"/>表<pc n="　"/>巧<pc n="　"/>曉<pc n="　"/>飽<pc n="　"/>爪<pc n="　"/>炒<pc n="　"/>討<pc n="　"/>草<pc n="　"/>好<pc n="lb"/>
+撓<pc n="　"/>齩<pc n="　"/>稍<pc n="　"/>剖<pc n="　"/>缶<pc n="lb"/>
+<pc n="　"/>入聲作上聲<pc n="lb"/>
+角覺脚桷<pc n="　"/>捉卓琢<pc n="　"/>斫酌繳灼<pc n="　"/>爍鑠㜰<pc n="　"/>鵲雀趞<pc n="lb"/>
+<pc n="　"/>託拓槖魄飥柝<pc n="　"/>䌇索<graphic n="KR2021" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2021.png" mimeType="image/png"/>
+                    <pc n="　"/>郭廓<pc n="　"/>朔矟<pc n="　"/>剥駁<pc n="lb"/>
+                    <pb n="22a"/>
+爵<pc n="　"/>削<pc n="　"/>柞作糳<pc n="　"/>錯<pc n="　"/>逪<pc n="　"/>閣各<pc n="　"/>壑熇<pc n="　"/>綽婥<pc n="lb"/>
+謔<pc n="　"/>戳㮶<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+笑嘯肖鞘<pc n="　"/>糶眺跳<pc n="　"/>釣吊窵調掉<pc n="　"/>豹爆瀑<pc n="　"/>抱報<pc n="lb"/>
+暴鮑鞄䛌<pc n="　"/>竈皂造漕懆躁<pc n="　"/>料鐐廖<graphic n="KR3348" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3348.png" mimeType="image/png"/>療<pc n="　"/>傲奡鏊<pc n="lb"/>
+<pc n="　"/>趙兆照旐詔召肇<pc n="　"/>少紹邵燒<pc n="　"/>號皓好昊皥耗浩<pc n="lb"/>
+顥灝<pc n="　"/>道翿纛燾盜導悼蹈稻到倒<pc n="　"/>曜耀<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>要鷂<pc n="lb"/>
+呌轎嶠<pc n="　"/>醮噍<pc n="　"/>糙操造懆<pc n="　"/>俏峭誚<pc n="　"/>俵鰾醥<pc n="　"/>孝<pc n="lb"/>
+                    <pb n="22b"/>
+効俲校<pc n="　"/>窖校教覺珓鉸較酵徼<pc n="　"/>罩笊棹<pc n="　"/>拗靿樂<pc n="lb"/>
+凹<pc n="　"/>貌冒帽耄眊茂<pc n="　"/>砲泡<pc n="　"/>告誥郜<pc n="　"/>澇勞嫪<pc n="　"/>噪<pc n="lb"/>
+燥譟掃<pc n="　"/>妙廟<pc n="　"/>閙淖<pc n="　"/>奥懊澳<pc n="　"/>鈔<pc n="　"/>竅<pc n="　"/>溺<pc n="　"/>哨<pc n="lb"/>
+覆<pc n="lb"/>
+<pc n="　"/>入聲作去聲<pc n="lb"/>
+岳樂藥約躍鑰瀹<pc n="　"/>掿諾<pc n="　"/>未幕漠寞莫沫<pc n="　"/>落絡烙<pc n="lb"/>
+洛酪樂珞<pc n="　"/>蕚鶚鰐惡愕<pc n="　"/>弱蒻箬<pc n="　"/>略掠<pc n="　"/>虐瘧<pc n="lb"/>
+歌戈<pc n="lb"/>
+                    <pb n="23a"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+歌哥柯牁<pc n="　"/>科蝌窠<pc n="　"/>軻珂<pc n="　"/>戈過鍋<pc n="　"/>莎簑唆睃梭<pc n="lb"/>
+娑挲<pc n="　"/>磋瑳蹉瘥鹺搓<pc n="　"/>他拖佗詑<pc n="　"/>阿疴<pc n="　"/>窩渦倭<pc n="lb"/>
+踒<pc n="　"/>坡頗<pc n="　"/>波玻嶓番<pc n="　"/>呵訶<pc n="　"/>多<pc n="　"/>麽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+羅蘿籮儸囉鑼螺騾[泳-永+羅]欏蠡<graphic n="KR1995" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1995.png" mimeType="image/png"/>
+                    <pc n="　"/>摩磨魔劘<graphic n="KR2168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2168.png" mimeType="image/png"/>
+                    <pc n="　"/>梛那<pc n="lb"/>
+挼儺<pc n="　"/>禾和<pc n="　"/>何河荷苛渮<pc n="　"/>駝紽迱陀跎<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>酡沱鼉<pc n="lb"/>
+                    <pb n="23b"/>
+䭾<pc n="　"/>矬<graphic n="KR1237" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1237.png" mimeType="image/png"/>
+                    <pc n="　"/>哦蛾娥峨峩鵝俄<pc n="　"/>婆皤鄱膰<pc n="　"/>訛鈋<pc n="lb"/>
+<pc n="　"/>入聲作平聲<pc n="lb"/>
+合盒鶴盍<pc n="　"/>䟦魃<pc n="　"/>縳佛<pc n="　"/>活鑊<pc n="　"/>薄箔勃泊渤<pc n="　"/>鐸<pc n="lb"/>
+度<pc n="　"/>濁濯鐲<pc n="　"/>學<pc n="　"/>鑿<pc n="　"/>奪<pc n="　"/>著<pc n="　"/>杓<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+鎖瑣䵀<pc n="　"/>果裹蜾<pc n="　"/>裸蠃攞夥㦬<pc n="　"/>舸哿<pc n="　"/>朶<graphic n="KR1876" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1876.png" mimeType="image/png"/>軃跢<pc n="lb"/>
+鬌<pc n="　"/>娜那<pc n="　"/>荷㰤<pc n="　"/>可坷軻<pc n="　"/>頗叵<pc n="　"/>妸<pc n="　"/>跛簸<pc n="　"/>我<pc n="lb"/>
+<pc n="　"/>左<pc n="　"/>妥<pc n="　"/>火<pc n="　"/>顆<pc n="　"/>嬷<pc n="　"/>脞<pc n="lb"/>
+                    <pb n="24a"/>
+<pc n="　"/>入聲作上聲<pc n="lb"/>
+葛割鴿閣蛤<pc n="　"/>鉢撥䟦<pc n="　"/>潑粕鏺<pc n="　"/>聒括<pc n="　"/>渴<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <pc n="　"/>闊<pc n="lb"/>
+<pc n="　"/>撮<pc n="　"/>掇<pc n="　"/>脫<pc n="　"/>抹<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+賀荷<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <pc n="　"/>佐左坐座<pc n="　"/>舵墮<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>惰刴垜大䭾癉<pc n="　"/>銼挫<pc n="lb"/>
+剉莝磋<pc n="　"/>禍貨和<pc n="　"/>邏囉摞<pc n="　"/>簸播譒<pc n="　"/>磨麽<pc n="　"/>卧涴<pc n="lb"/>
+<pc n="　"/>糯懦那柰<pc n="　"/>箇个<pc n="　"/>餓<pc n="　"/>些<pc n="　"/>過<pc n="　"/>課<pc n="　"/>唾<pc n="　"/>破<pc n="lb"/>
+嗑<pc n="lb"/>
+                    <pb n="24b"/>
+<pc n="　"/>入聲作去聲<pc n="lb"/>
+岳樂藥約躍鑰<pc n="　"/>幕末沫莫寞<pc n="　"/>諾掿<pc n="　"/>若弱蒻<pc n="　"/>落<pc n="lb"/>
+洛絡酪樂烙<pc n="　"/>蕚鶚鰐堊惡鄂<pc n="　"/>略掠<pc n="　"/>虐瘧<pc n="lb"/>
+家麻<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+家加跏珈笳枷袈迦痂葭豭麚佳嘉<pc n="　"/>巴疤笆豝芭<pc n="lb"/>
+蛙洼窪哇媧蝸<pc n="　"/>沙砂紗鯊裟<pc n="　"/>查楂蹅吒<pc n="　"/>撾抓髽<pc n="lb"/>
+                    <pb n="25a"/>
+<pc n="　"/>鴉了呀<pc n="　"/>义杈靫差艖鎈<pc n="　"/>誇夸<pc n="　"/>蝦<pc n="　"/>葩<pc n="　"/>花<pc n="lb"/>
+𤓰<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+麻蟆痳犘<pc n="　"/>譁划華驊<pc n="　"/>牙芽谺涯衙㝞<pc n="　"/>霞遐瑕<pc n="lb"/>
+琶杷爬<pc n="　"/>茶槎搽<pc n="　"/>拏<pc n="　"/>咱<pc n="lb"/>
+<pc n="　"/>入聲作平聲<pc n="lb"/>
+達撻踏㳫<pc n="　"/>滑猾<pc n="　"/>狎轄鎋俠峽洽匣袷<pc n="　"/>乏伐筏罰<pc n="lb"/>
+<pc n="　"/>㧞<pc n="　"/>雜<pc n="　"/>閘<pc n="lb"/>
+                    <pb n="25b"/>
+<pc n="　"/>上聲<pc n="lb"/>
+馬媽<pc n="　"/>雅瘂<pc n="　"/>洒傻<hi>傻俏不仁</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>賈假斚<pc n="　"/>寡咼剛<pc n="　"/>奼詫<pc n="lb"/>
+<pc n="　"/>把<pc n="　"/>瓦<pc n="　"/>鮓<pc n="　"/>打<pc n="　"/>耍<pc n="lb"/>
+<pc n="　"/>入聲作上聲<pc n="lb"/>
+塔獺榻塌<pc n="　"/>殺霎<pc n="　"/>劄扎<pc n="　"/>咂匝<pc n="　"/>察挿鍤<pc n="　"/>法發髪<pc n="lb"/>
+<pc n="　"/>甲胛夾<pc n="　"/>荅搭嗒<graphic n="KR2604" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2604.png" mimeType="image/png"/>
+                    <pc n="　"/>颯撒薩靸<pc n="　"/>笈<pc n="　"/>刮<pc n="　"/>瞎<pc n="lb"/>
+八<pc n="　"/>恰掐<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+                    <pb n="26a"/>
+駕嫁稼價架假<pc n="　"/>凹<graphic n="KR2648" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2648.png" mimeType="image/png"/>
+                    <pc n="　"/>跨胯髁<pc n="　"/>亞迓訝砑婭<pc n="　"/>㲼<pc n="lb"/>
+咤姹詫䰩<hi>釋醜</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>帕怕<pc n="　"/>詐乍榨棤<pc n="　"/>下芐夏嚇罅暇厦<pc n="lb"/>
+化畫華鱯樺話<pc n="　"/>那<pc n="　"/>罷霸<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>靶壩鈀弝<pc n="　"/>卦掛<pc n="　"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+<hi>傍屋</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>大<pc n="　"/>罵<pc n="lb"/>
+<pc n="　"/>入聲作去聲<pc n="lb"/>
+臘蠟鑞拉糲辣<pc n="　"/>納衲<pc n="　"/>壓押鴨<pc n="　"/>抹<pc n="　"/>襪<pc n="　"/>刷<pc n="lb"/>
+車遮<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+                    <pb n="26b"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+嗟罝<pc n="　"/>奢賒<pc n="　"/>車<pc n="　"/>遮<pc n="　"/>爹<pc n="　"/>靴<pc n="　"/>些<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+爺耶琊鎁呆<pc n="　"/>斜邪<pc n="　"/>蛇佘<pc n="　"/>倈<pc n="　"/>瘸<pc n="lb"/>
+<pc n="　"/>入聲作平聲<pc n="lb"/>
+協穴俠挾纈<pc n="　"/>傑竭碣<pc n="　"/>疊迭牒揲喋諜垤絰凸蝶跌<pc n="lb"/>
+<pc n="　"/>鐝撅<pc n="　"/>折舌渉<pc n="　"/>㨗截睫<pc n="　"/>别<pc n="　"/>絶<pc n="　"/>㿱<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+                    <pb n="27a"/>
+野也冶<pc n="　"/>者赭<pc n="　"/>寫瀉<pc n="　"/>捨舎<pc n="　"/>惹若喏<pc n="　"/>撦哆<pc n="　"/>姐<pc n="lb"/>
+<pc n="　"/>且<pc n="lb"/>
+<pc n="　"/>入聲作上聲<pc n="lb"/>
+屑薛紲泄媟䙝爕屧疶<pc n="　"/>切竊妾沏<pc n="　"/>結潔刼頰鋏莢<pc n="lb"/>
+<pc n="　"/>怯挈篋客<pc n="　"/>節接楫癤<pc n="　"/>血歇嚇蝎<pc n="　"/>闕缺闋<pc n="　"/>玦<pc n="lb"/>
+决訣譎蕨鴂<pc n="　"/>鐡餮帖貼<pc n="　"/>瞥撇<pc n="　"/>鼈别鱉<pc n="　"/>拙輟<pc n="lb"/>
+轍撤澈掣<pc n="　"/>哲褶摺折浙<pc n="　"/>設攝灄<pc n="　"/>啜<pc n="　"/>雪<pc n="　"/>說<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+                    <pb n="27b"/>
+舍社射麝貰赦<pc n="　"/>謝缷榭瀉<pc n="　"/>夜射<pc n="　"/>柘鷓炙<pc n="　"/>蔗借<pc n="lb"/>
+藉<pc n="　"/>趄<pc n="　"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+<pc n="　"/>入聲作去聲<pc n="lb"/>
+捏聶躡鑷囓臬蘖<pc n="　"/>㓕蔑蔑<pc n="　"/>拽噎謁葉燁<pc n="　"/>業鄴額<pc n="lb"/>
+<pc n="　"/>裂冽獵鬛列<pc n="　"/>月恱說閱軏越鉞樾刖<pc n="　"/>熱<pc n="　"/>䙝<pc n="lb"/>
+劣<pc n="lb"/>
+庚青<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+                    <pb n="28a"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+京麖庚鶊賡更粳羮畊驚荆經兢矜涇<pc n="　"/>精睛晶旌鶄<pc n="lb"/>
+菁<pc n="　"/>生甥笙牲猩<pc n="　"/>筝争<pc n="　"/>丁釘玎仃<pc n="　"/>扄坰<pc n="　"/>征正<pc n="lb"/>
+貞禎徴蒸烝<pc n="　"/>氷兵并<pc n="　"/>登簦㲪㽅燈<pc n="　"/>轟薨<pc n="　"/>憎曽<pc n="lb"/>
+矰罾増<pc n="　"/>鐺錚棦浄撑瞠<pc n="　"/>稱秤頳檉蟶<pc n="　"/>英瑛鷹應<pc n="lb"/>
+譍櫻嬰嚶膺鸚纓瓔縈<pc n="　"/>輕坑卿誙硜<graphic n="KR1698" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1698.png" mimeType="image/png"/>傾鏗<pc n="　"/>馨興<pc n="lb"/>
+<pc n="　"/>青清鯖<pc n="　"/>聲升勝昇陞<pc n="　"/>汀㕔聽鞓䩠<pc n="　"/>星醒惺鯹<pc n="lb"/>
+腥騂<pc n="　"/>崩繃<pc n="　"/>觥肱<pc n="　"/>甖<pc n="　"/>僧<pc n="　"/>亨<pc n="　"/>兄<pc n="　"/>泓<pc n="　"/>烹<pc n="lb"/>
+                    <pb n="28b"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+平評萍枰慿馮凭屏瓶俜娉<pc n="　"/>明盟鳿名銘鳴𡨕溟暝<pc n="lb"/>
+螟蓂<pc n="　"/>靈櫺醽<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>令零苓伶聆鈴齡蛉泠瓴翎鴒陵淩<pc n="lb"/>
+菱綾凌<pc n="　"/>鵬朋棚<pc n="　"/>楞稜<pc n="　"/>層曽<pc n="　"/>能獰<pc n="　"/>藤滕騰縢<pc n="lb"/>
+謄疼<pc n="　"/>莖恒<pc n="　"/>盈嬴贏攍瀛塋螢營迎蠅凝<pc n="　"/>擎檠鯨<pc n="lb"/>
+黥勍<pc n="　"/>行刑形邢桁衡鉶珩硎<pc n="　"/>情睛晴繒<pc n="　"/>亭停婷<pc n="lb"/>
+廷庭蜓霆<pc n="　"/>瓊㷀惸<pc n="　"/>澄呈程酲成城宬誠盛承丞懲<pc n="lb"/>
+乗塍<pc n="　"/>熒䁝<pc n="　"/>盲氓甍萌<pc n="　"/>横宏紘閎嶸鈜𢎞泓橙棖<pc n="lb"/>
+                    <pb n="29a"/>
+䟫<pc n="　"/>榮<pc n="　"/>寧<pc n="　"/>仍<pc n="　"/>繩<pc n="　"/>餳<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+景儆璟擏骾鯁綆梗警境頸耿哽<pc n="　"/>頃檾<pc n="　"/>丙炳邴秉餅<pc n="lb"/>
+屏<pc n="　"/>惺醒省㾪<pc n="　"/>影郢頴癭<pc n="　"/>省𤯝<pc n="　"/>礦鑛懭<pc n="　"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>冋<pc n="lb"/>
+<pc n="　"/>艋蜢<pc n="　"/>整拯<pc n="　"/>茗皿酩<pc n="　"/>騁逞<pc n="　"/>領嶺<pc n="　"/>鼎酊頂<pc n="lb"/>
+艇挺誔町奵<pc n="　"/>冷<pc n="　"/>井<pc n="　"/>請<pc n="　"/>等<pc n="　"/>永<pc n="　"/>涬<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+敬徑俓經鏡獍竟競勁更<pc n="　"/>暎應譍凝硬<pc n="　"/>慶<graphic n="KR1698" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1698.png" mimeType="image/png"/>磬謦<pc n="lb"/>
+                    <pb n="29b"/>
+罄<pc n="　"/>命暝<pc n="　"/>鄧凳嶝隥鐙磴<pc n="　"/>迥詗夐<pc n="　"/>倩請<pc n="　"/>諍挣<pc n="lb"/>
+<pc n="　"/>正政鄭證<pc n="　"/>詠瑩<pc n="　"/>病並柄凭<pc n="　"/>令凌<pc n="　"/>聖賸勝乗<pc n="lb"/>
+剰盛<pc n="　"/>性姓<pc n="　"/>娉聘<pc n="　"/>佞濘甯<pc n="　"/>净静穽甑靖凊圊<pc n="lb"/>
+杏幸倖脛興行<pc n="　"/>稱秤<pc n="　"/>定錠矴釘訂飣<pc n="　"/>贈<pc n="　"/>聽<pc n="lb"/>
+迸<pc n="　"/>孟<pc n="　"/>横<pc n="　"/>撐<pc n="　"/>亘<pc n="lb"/>
+尤侯<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+                    <pb n="30a"/>
+啾揫湫<pc n="　"/>鳩<graphic n="KR0848" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0848.png" mimeType="image/png"/>
+                    <pc n="　"/>搜颼<pc n="　"/>鄒諏鯫陬騶緅<pc n="　"/>休咻貅庥<pc n="lb"/>
+<pc n="　"/>謳鷗漚甌歐區<pc n="　"/>鈎勾篝溝韝緱<pc n="　"/>兠<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <pc n="　"/>秋鰍鞧<pc n="lb"/>
+楸鞦鶖<pc n="　"/>憂幽優耰麀<pc n="　"/>脩修羞饈<pc n="　"/>抽瘳<pc n="　"/>周賙啁<pc n="lb"/>
+週洲州舟輈<pc n="　"/>丘坵<pc n="　"/>偷媮鍮<pc n="　"/>篘搊<pc n="　"/>溲餿餿<pc n="　"/>彪<pc n="lb"/>
+<pc n="　"/>收<pc n="　"/>齁<pc n="　"/>摳<pc n="lb"/>
+<pc n="　"/>陽<pc n="lb"/>
+尤蚰疣訧逰㳺蝣由油郵牛庮猷蘨輶猶繇蕕楢悠攸<pc n="lb"/>
+<pc n="　"/>侯猴喉餱篌<pc n="　"/>劉留遛瘤榴鶹騮流旒<pc n="　"/>柔揉鍒蹂<pc n="lb"/>
+                    <pb n="30b"/>
+鞣<pc n="　"/>抔裒<pc n="　"/>繆矛眸鍪蟊牟麰侔<pc n="　"/>樓摟婁艛髏慺<pc n="lb"/>
+囚泅<pc n="　"/>紬稠綢犫讎酬籌儔躊疇惆<pc n="　"/>求賕銶毬逑球<pc n="lb"/>
+俅仇樛裘虬<pc n="　"/>酋遒<pc n="　"/>頭投骰<pc n="　"/>愁<pc n="lb"/>
+<pc n="　"/>入聲作平聲<pc n="lb"/>
+軸逐<pc n="　"/>熟<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+有酉牖羑友誘莠黝<pc n="　"/>桞罶<graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <pc n="　"/>杻狃紐鈕忸<pc n="　"/>丑醜<pc n="lb"/>
+<pc n="　"/>九韭乆玖糾灸疚<pc n="　"/>首手守<pc n="　"/>叟䏂藪<pc n="　"/>斗枓蚪陡<pc n="lb"/>
+                    <pb n="31a"/>
+抖<pc n="　"/>狗垢茍耇枸<pc n="　"/>藕耦偶嘔毆<pc n="　"/>摟塿簍<pc n="　"/>肘箒酎<pc n="lb"/>
+<pc n="　"/>朽<pc n="　"/>酒<pc n="　"/>拞<pc n="　"/>剖<pc n="　"/>吼<pc n="　"/>走<pc n="　"/>否<pc n="　"/>揉<pc n="　"/>口<pc n="　"/>
+                    <graphic n="KR3082" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3082.png" mimeType="image/png"/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+<pc n="　"/>入聲作上聲<pc n="lb"/>
+竹燭粥<pc n="　"/>宿<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+又右佑祐狖宥袖㓜囿侑<pc n="　"/>晝呪胄紂宙籀咮<pc n="　"/>臼舅<pc n="lb"/>
+舊咎救柩廐究<pc n="　"/>受授綬夀獸首售狩<pc n="　"/>秀岫袖綉琇<pc n="lb"/>
+                    <pb n="31b"/>
+宿<pc n="　"/>𠻳潄<pc n="　"/>皺驟<pc n="　"/>溜霤留餾鎦瘤瀏窌<pc n="　"/>扣冦蔻<pc n="lb"/>
+后逅候堠後厚<pc n="　"/>就鷲<pc n="　"/>豆脰竇鬭逗<pc n="　"/>搆遘媾購姤<pc n="lb"/>
+彀詬勾<pc n="　"/>湊轃甃<pc n="　"/>漏陋鏤瘻<pc n="　"/>謬繆<pc n="　"/>臭<pc n="　"/>嗅<pc n="　"/>瘦<pc n="lb"/>
+僽<pc n="　"/>耨<pc n="　"/>奏<pc n="　"/>透<pc n="　"/>貿<pc n="　"/>懋茂<pc n="　"/>復<pc n="lb"/>
+<pc n="　"/>入聲作去聲<pc n="lb"/>
+肉褥<pc n="　"/>六<pc n="lb"/>
+侵尋<hi>閉口韻</hi>
+                    <pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+                    <pb n="32a"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+針斟箴砧椹鱵瑊<pc n="　"/>金今衿襟禁<pc n="　"/>駸綅浸祲<pc n="　"/>深<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+<pc n="　"/>簮<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <pc n="　"/>森槮參<pc n="　"/>琛賝郴<pc n="　"/>音瘖隂喑<pc n="　"/>心杺<pc n="　"/>欽<pc n="lb"/>
+衾嶔<pc n="　"/>侵<pc n="　"/>歆<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+林淋琳痳霖臨綝箖<pc n="　"/>壬任紝鵀<pc n="　"/>尋潯鱘鐔燖覃<pc n="lb"/>
+吟淫崟婬霪蟫<pc n="　"/>琴芩禽檎擒噙<pc n="　"/>岑䳥鍖涔<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <pc n="　"/>沉<pc n="lb"/>
+霃鈂湛<pc n="　"/>忱煁<pc n="lb"/>
+                    <pb n="32b"/>
+<pc n="　"/>上聲<pc n="lb"/>
+廪懔凛<pc n="　"/>稔䭃淰衽荏<pc n="　"/>審嬸沈瞫<pc n="　"/>錦噤<pc n="　"/>磣墋瘮<pc n="lb"/>
+<pc n="　"/>枕<pc n="　"/>飲<pc n="　"/>您<pc n="　"/>怎<pc n="　"/>寢<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+朕沈鴆枕<pc n="　"/>甚<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <pc n="　"/>任衽絍姙<pc n="　"/>禁噤澿<graphic n="KR2313" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2313.png" mimeType="image/png"/>
+                    <pc n="　"/>䕃廕窨<pc n="lb"/>
+飲恁<pc n="　"/>沁伈<pc n="　"/>浸䘲<pc n="　"/>臨淋<pc n="　"/>滲罧<pc n="　"/>䜟<pc n="　"/>譛<pc n="　"/>賃<pc n="lb"/>
+啉<pc n="　"/>㖔<pc n="lb"/>
+監咸<pc n="lb"/>
+                    <pb n="33a"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+菴庵鵪馣唵諳<pc n="　"/>擔聃儋耽湛酖躭<pc n="　"/>監緘椷<pc n="　"/>堪龕<pc n="lb"/>
+戡弇<pc n="　"/>三鬖毶<pc n="　"/>甘柑疳泔<pc n="　"/>杉衫<pc n="　"/>貪探<pc n="　"/>參驂<pc n="lb"/>
+憨酣<pc n="　"/>簮篸<graphic n="KR2512" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2512.png" mimeType="image/png"/>鐟<pc n="　"/>嵌<pc n="　"/>
+                    <graphic n="KR2154" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2154.png" mimeType="image/png"/>
+                    <pc n="　"/>詀<graphic n="KR3499" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3499.png" mimeType="image/png"/>
+                    <pc n="　"/>渰<pc n="　"/>攙<pc n="　"/>杉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+南諵喃楠男<pc n="　"/>咸鹹諴函銜㘅<pc n="　"/>婪爁燷藍籃嵐<pc n="　"/>覃<pc n="lb"/>
+潭談餤譚燂藫曇痰<pc n="　"/>蠶慚<pc n="　"/>含涵邯<pc n="　"/>讒毚饞鑱劖<pc n="lb"/>
+                    <pb n="33b"/>
+巉<pc n="　"/>巖岩<pc n="　"/>喒<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+感鱤<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>敢<pc n="　"/>覽攬欖爦<pc n="　"/>膽䃫紞<pc n="　"/>慘黲<pc n="　"/>揞晻馣<pc n="lb"/>
+喊㺌<pc n="　"/>毯<graphic n="KR0941" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0941.png" mimeType="image/png"/>倓萏窞<pc n="　"/>减鹻<pc n="　"/>坎<pc n="　"/>砍<pc n="　"/>昝<graphic n="KR2228" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2228.png" mimeType="image/png"/>
+                    <pc n="　"/>俺<pc n="lb"/>
+糝<pc n="　"/>黯<pc n="　"/>斬<pc n="　"/>腩<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+勘磡<pc n="　"/>贑淦紺<pc n="　"/>憾撼頷琀莟唅<pc n="　"/>淡啖惔擔<pc n="　"/>轞檻<pc n="lb"/>
+艦餡陷<pc n="　"/>濫<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>䌫<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <pc n="　"/>瞰嵌闞<pc n="　"/>蘸站賺湛<pc n="　"/>鑑監<pc n="lb"/>
+                    <pb n="34a"/>
+暫鏨蔘揝<pc n="　"/>暗闇<pc n="　"/>三<pc n="　"/>探<pc n="　"/>渰<pc n="　"/>慘<pc n="　"/>懴<pc n="　"/>訕<pc n="lb"/>
+廉纎<pc n="lb"/>
+<pc n="　"/>平聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>隂<pc n="lb"/>
+瞻詹占粘沾霑<pc n="　"/>兼縑鶼鰜<pc n="　"/>淹腌醃䅧閹猒懨<pc n="　"/>纎<pc n="lb"/>
+銛憸暹<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <pc n="　"/>僉槧籖<pc n="　"/>襜䪜覘<pc n="　"/>杴忺<pc n="　"/>尖漸殱<pc n="　"/>掂<pc n="lb"/>
+<pc n="　"/>苫<pc n="　"/>謙<pc n="　"/>添<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>陽<pc n="lb"/>
+                    <pb n="34b"/>
+廉簾臁奩帘<pc n="　"/>鮎黏拈<pc n="　"/>撏燖<pc n="　"/>鈐鉗黔<pc n="　"/>蟾憺<pc n="　"/>䀋<pc n="lb"/>
+炎閻簷嚴<pc n="　"/>甜恬<pc n="　"/>髯<pc n="　"/>濳<pc n="　"/>嫌<pc n="lb"/>
+<pc n="　"/>上聲<pc n="lb"/>
+掩魘靨淹奄晻崦琰剡<pc n="　"/>撿䭑<pc n="　"/>瞼斂臉<pc n="　"/>染苒冉<pc n="lb"/>
+閃陜<pc n="　"/>忝舔<pc n="　"/>險譣<pc n="　"/>颭<pc n="　"/>㸃<pc n="　"/>諂<pc n="lb"/>
+<pc n="　"/>去聲<pc n="lb"/>
+艷焰厭饜驗灧釅<graphic n="KR2350" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2350.png" mimeType="image/png"/>
+                    <pc n="　"/>贍苫<pc n="　"/>欠芡歉<pc n="　"/>玷店㼭墊<pc n="lb"/>
+瀲斂殮<pc n="　"/>念艌<pc n="　"/>劔儉<pc n="　"/>僣漸<pc n="　"/>塹茜㜞<pc n="　"/>染<pc n="　"/>占<pc n="lb"/>
+                    <pb n="35a"/>
+韂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>中原音韻巻上<pc n="lb"/>
+<pb n="35b"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+<head>中原音韻巻下</head>
+    <p>
+<pc n="lb"/>
+                    
+欽定四庫全書<pc n="lb"/>
+<pc n="　"/>中原音韻巻下<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>元<pc n="　"/>周徳清<pc n="　"/>撰<pc n="lb"/>
+中原音韻正語作詞起例<pc n="lb"/>
+<pc n="　"/>一音韻不能盡收廣韻如崆峒之崆覂駕之覂倥偬<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>之倥鵓鴿之鵓字之類皆不可施於詞之韻脚毋譏<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>其不偹<pc n="lb"/>
+<pc n="　"/>一龐涓呼為龐堅泉堅堅而始流可乎陶淵明呼為<pc n="lb"/>
+                    <pb n="1a"/>
+<pc n="　"/>
+                    <pc n="　"/>陶烟明魚躍於烟可乎一堆兒為一醉<hi>平聲</hi>兒捲起<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>千醉<hi>平聲</hi>雪可乎羊尾子為羊椅子吴頭楚椅可乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>来也未為来也異辰已午異可乎此類未能從命<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>以待士夫之辨<pc n="lb"/>
+<pc n="　"/>一余與清原曽𤣥隐言世之有呼屈原之屈為屈伸<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>之屈字同音非也因注其韻𤣥隐曰嘗聞前軰有<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>一對句可正之投水屈原終是屈殺人曽子又何<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>曽明矣<pc n="lb"/>
+                    <pb n="1b"/>
+<pc n="　"/>一平上去入四聲音韻無入聲𣲖入平上去三聲前<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>輩佳作中間偹載明白但未有以集之者今撮其<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>同聲或有未當於我同志改而正諸<pc n="lb"/>
+<pc n="　"/>一入聲𣲖入平上去三聲者以廣其押韻為作詞而<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>設耳然呼吸言語之間還有入聲之别<pc n="lb"/>
+<pc n="　"/>一入聲𣲖入平上去三聲如碑字次本韻後使黒白<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>分明以别本聲外来庶使學者有才者本韻自足<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>矣<pc n="lb"/>
+                    <pb n="2a"/>
+<pc n="　"/>一平聲如尤侯韻浮字否字阜字等類亦如鞞字收<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>入各韻平上去字下以别本聲外来更不别立名<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>頭<pc n="lb"/>
+<pc n="　"/>一中原音韻的本内平聲隂如此字陽如此字蕭存<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>存欲鋟梓以啟後學值其早逝泰定甲子以後嘗<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>寫數十本散之江湖其韻内平聲隂如此字陽如<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>此字隂陽如此字夫一字不屬隂則屬陽不屬陽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>則屬隂豈有一字而屬隂又屬陽也哉此葢傳冩<pc n="lb"/>
+                    <pb n="2b"/>
+<pc n="　"/>
+                    <pc n="　"/>之謬今既的本刋行或有得余墨本者幸毋譏其前<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>後不一<pc n="lb"/>
+<pc n="　"/>一分别隂陽二義熟看諸序<pc n="lb"/>
+<pc n="　"/>一東鐘韻三聲内轟字許與庚青韻出入通押<pc n="lb"/>
+<pc n="　"/>一音韻内毎空是一音以易識字為頭止依頭一字<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>呼吸更不别立切脚<pc n="lb"/>
+<pc n="　"/>一漢書東方朔滑稽滑字讀為骨金日磾日字讀為<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宻諸韻皆不載亦不敢擅收况不可押於韻脚姑<pc n="lb"/>
+                    <pb n="3a"/>
+<pc n="　"/>
+                    <pc n="　"/>録以辨字音耳<pc n="lb"/>
+<pc n="　"/>一漢書曹大家之家字讀為姑可押然諸韻不載亦<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>不敢擅收附此以偹採取<pc n="lb"/>
+<pc n="　"/>一廣韻入聲緝至乏中原音韻無合口𣲖入三聲亦<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>然切不可開口同押陽春白雪集水仙子夀陽宮<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>額得魁名南浦西湖分外清横斜踈影窻間印惹<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>詩人說到今萬花中先綻瓊英自古詩人愛騎驢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>踏雪尋凍在前村開合同押用了三韻大可笑焉<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>
+                    <pc n="　"/>詞之法度全不知妄亂編集板行其不耻者如是<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>作者𦂳戒<pc n="lb"/>
+<pc n="　"/>一逐一字解註中原音韻見行刋雕<pc n="lb"/>
+<pc n="　"/>一齊㣲韻璽字前軰剮王莽傳竒與支思韻通押<pc n="lb"/>
+<pc n="　"/>一有客謂世有稱往為網桂為寄美為選到為豆叢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>為從此乃與陶淵明之淵字為烟字之所同也<pc n="lb"/>
+<pc n="　"/>一亳州友人孫徳卿長扵隐語謂中原音韻三聲乃<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>四海所同者不獨正語作詞夫曹娥義社天下一<pc n="lb"/>
+                    <pb n="4a"/>
+<pc n="　"/>
+                    <pc n="　"/>家雖有謎韻學者反被其誤半是南方之音不能<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>施於四方非一家之義今之所編四海同音何所<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>往而不可也詩禪得之字字皆可為法余曰嘗有<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>此恨竊謂言語既正謎字亦正矣從葺音韻以来<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>毎與同志包猜用此為則平上去本聲則可但入<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>聲作三聲如平聲伏與扶上聲拂與斧去聲屋與<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>誤字之類俱同聲則不可何也入聲作三聲者廣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>其押韻為作詞而設耳毋以此為比當以呼吸言<pc n="lb"/>
+                    <pb n="4b"/>
+<pc n="　"/>
+                    <pc n="　"/>語還有入聲之别而辨之可也徳卿曰然<pc n="lb"/>
+<pc n="　"/>一歡娱之娱<hi>廣韻音愚</hi>四海之人皆讀為吴提撕之撕<hi>廣韻</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <hi>音西</hi>四海之人皆讀為斯有誚之者謂讀别字依其<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>邉傍字音也犂牛之子騂且角之騂字<hi>廣韻息營切音星</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>而讀為辛却依其邉傍字音誚之者而不誚之葢<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>知其彼之誤而不知此之謬前軰編字有云日月<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>象形江河諧聲止戈為武如此取義娱撕二字依<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>傍有吴斯讀之又何害於義理豈不長於傍是辛<pc n="lb"/>
+                    <pb n="5a"/>
+<pc n="　"/>
+                    <pc n="　"/>而讀為星字之音乎<pc n="lb"/>
+<pc n="　"/>一余嘗於天下都㑹之所聞人間通濟之言世之泥<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>古非今不達時變者衆呼吸之間動引廣韻為證<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>寧甘受鴂舌之誚而不悔亦不思混一日乆四海<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>同音上自縉紳講論治道及國語翻譯國學教授<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>言語下至訟庭理民莫非中原之音不爾止依廣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>韻呼吸上去入聲姑置未暇殫述略舉平聲如靴<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <hi>許戈切</hi>在戈韻車邪遮嗟却在麻韻靴不恊車車却<pc n="lb"/>
+                    <pb n="5b"/>
+<pc n="　"/>
+                    <pc n="　"/>恊麻元暄鴛言褰焉俱不恊先却與魂㾗同押煩<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>翻不恊寒山亦與魂痕同押靴與戈車與麻元與<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>煩煩與魂其音何以相著佳街同音與皆同押不<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>恊咍咍却與灰同押灰不恊揮杯不恊碑梅不恊<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>麋雷不恊羸必呼梅為埋雷為来方與咍恊如此<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>呼吸非鴂舌而何不獨中原盡使天下之人俱為<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>閩海之音可乎切聞大學中庸乃禮記中語程子<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>取為二經定其闕疑如在親民之親字當作新字<pc n="lb"/>
+                    <pb n="6a"/>
+<pc n="　"/>
+                    <pc n="　"/>之類是也聖經尚然况於韻乎合於四海同音分<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>豁而歸併之與堅守廣韻方語之徒轉其喉舌換<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>其齒牙使執而不變迂闊庸腐之儒皆為通儒道<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>聴塗說輕浮市㕓之子悉為才子矣余曰若非諸<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>賢公論如此區區獨力何以争之<pc n="lb"/>
+<pc n="　"/>一依後項呼吸之法庻無之知不辨王楊不分及諸<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>方語之病矣<pc n="lb"/>
+                    <pb n="6b"/>
+<pc n="　"/>
+                    <pc n="　"/>東鍾<pc n="lb"/>
+宗有蹤<pc n="　"/>松有鬆<pc n="　"/>龍有籠<pc n="　"/>濃有膿<pc n="　"/>隴有櫳<pc n="　"/>送<pc n="lb"/>
+有訟<pc n="　"/>從有綜<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>江陽<pc n="lb"/>
+缸有釭<pc n="　"/>桑有雙<pc n="　"/>倉有窗<pc n="　"/>糠有腔<pc n="　"/>贓有粧<pc n="　"/>楊<pc n="lb"/>
+有王<pc n="　"/>杭有降<pc n="　"/>強有狂<pc n="　"/>藏有床<pc n="　"/>磉有爽<pc n="　"/>網有<pc n="lb"/>
+往<pc n="　"/>讓有釀<pc n="　"/>葬有狀<pc n="　"/>唱有丈<pc n="　"/>胖有傍<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>支思<pc n="lb"/>
+                    <pb n="7a"/>
+絲有師<pc n="　"/>死有史<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>齊微<pc n="lb"/>
+知有之<pc n="　"/>癡有眵<pc n="　"/>恥有齒<pc n="　"/>世有市<pc n="　"/>智有志<hi>以上三聲</hi>
+                    <pc n="lb"/>
+<hi>係與支思分别</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>箆有杯<pc n="　"/>紕有䋔<pc n="　"/>迷有梅<pc n="　"/>脾有裴<pc n="　"/>米<pc n="lb"/>
+有美<pc n="　"/>妣有彼<pc n="　"/>謎有媚<pc n="　"/>閉有避<hi>以上三聲本聲自相分别</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>魚模<pc n="lb"/>
+蘇有疎<pc n="　"/>粗有初<pc n="　"/>吳有胡<pc n="　"/>殂有雛<pc n="　"/>祖有阻<pc n="　"/>櫓<pc n="lb"/>
+有弩<pc n="　"/>素有數<pc n="　"/>措有助<pc n="lb"/>
+                    <pb n="7b"/>
+<pc n="　"/>
+                    <pc n="　"/>皆來<pc n="lb"/>
+猜有差<pc n="　"/>災有齋<pc n="　"/>才有柴<pc n="　"/>孩有鞋<pc n="　"/>海有駭<pc n="　"/>採<pc n="lb"/>
+有揣<pc n="　"/>凱有楷<pc n="　"/>太有大<pc n="　"/>捱有艾<pc n="　"/>賽有曬<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>真文<hi>與庚青分别</hi>
+                    <pc n="lb"/>
+真有貞<pc n="　"/>因有英<pc n="　"/>申有升<pc n="　"/>嗔有稱<pc n="　"/>欣有興<pc n="　"/>新<pc n="lb"/>
+有星<pc n="　"/>賓有冰<pc n="　"/>君有扃<pc n="　"/>榛有箏<pc n="　"/>莘有生<pc n="　"/>薰有<pc n="lb"/>
+兄<pc n="　"/>鯤有觥<pc n="　"/>温有泓<pc n="　"/>奔有崩<pc n="　"/>巾有驚<pc n="　"/>親有青<pc n="lb"/>
+<pc n="　"/>恩有甖<pc n="　"/>噴有烹<pc n="　"/>哏有亨<pc n="　"/>津有精<pc n="　"/>昏有轟<pc n="lb"/>
+                    <pb n="8a"/>
+隣有靈<pc n="　"/>貧有平<pc n="　"/>民有明<pc n="　"/>仁有仍<pc n="　"/>裙有瓊<pc n="　"/>勤<pc n="lb"/>
+有擎<pc n="　"/>門有萌<pc n="　"/>銀有嬴<pc n="　"/>盆有棚<pc n="　"/>塵有成<pc n="　"/>秦有<pc n="lb"/>
+情<pc n="　"/>雲有榮<pc n="　"/>神有繩<pc n="　"/>痕有莖<pc n="　"/>紉有寧<pc n="　"/>魂有横<pc n="lb"/>
+<pc n="　"/>緊有景<pc n="　"/>引有影<pc n="　"/>衮有礦<pc n="　"/>窘有炯<pc n="　"/>軫有整<pc n="lb"/>
+閔有茗<pc n="　"/>儘有井<pc n="　"/>允有永<pc n="　"/>敬有近<pc n="　"/>印有暎<pc n="　"/>訓<pc n="lb"/>
+有迥<pc n="　"/>鎮有正<pc n="　"/>運有詠<pc n="　"/>鬢有病<pc n="　"/>吝有另<pc n="　"/>慎有<pc n="lb"/>
+聖<pc n="　"/>信有性<pc n="　"/>盡有浄<pc n="　"/>釁有興<pc n="　"/>趂有稱<pc n="　"/>逩有迸<pc n="lb"/>
+<pc n="　"/>悶有孟<pc n="　"/>混有横<pc n="　"/>襯有撐<pc n="lb"/>
+                    <pb n="8b"/>
+<pc n="　"/>
+                    <pc n="　"/>寒山<pc n="lb"/>
+珊有山<pc n="　"/>殘有潺<pc n="　"/>䟎有盞<pc n="　"/>散有疝<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>桓歡<pc n="lb"/>
+完有岏<pc n="　"/>官有關<pc n="　"/>慢有幔<pc n="　"/>患有緩<pc n="　"/>慣有貫<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>先天<pc n="lb"/>
+年有妍<pc n="　"/>碾有輦<pc n="　"/>羨有旋<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>蕭豪<pc n="lb"/>
+包有褒<pc n="　"/>飽有保<pc n="　"/>爆有抱<pc n="　"/>造有造<hi>上音皂下音操</hi>
+                    <pc n="lb"/>
+                    <pb n="9a"/>
+<pc n="　"/>
+                    <pc n="　"/>歌戈<pc n="lb"/>
+鵞有訛<pc n="　"/>和有何<pc n="　"/>過有箇<pc n="　"/>薄有箔<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>家麻<pc n="lb"/>
+查有咱<pc n="　"/>馬有麽<pc n="　"/>罷有怕<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>車遮<pc n="lb"/>
+爺有衙<pc n="　"/>也有雅<pc n="　"/>夜有亞<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>庚青<hi>與真文分别</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>尤侯<pc n="lb"/>
+                    <pb n="9b"/>
+溲有搜<pc n="　"/>走有<graphic n="KR3576" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3576.png" mimeType="image/png"/>
+                    <pc n="　"/>叟有搜<pc n="　"/>嗽有瘦<pc n="　"/>奏有皺<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>侵尋<pc n="lb"/>
+針有真<pc n="　"/>金有斤<pc n="　"/>侵有親<pc n="　"/>深有申<pc n="　"/>森有莘<pc n="　"/>琛<pc n="lb"/>
+有嗔<pc n="　"/>音有因<pc n="　"/>心有辛<pc n="　"/>歆有欣<pc n="　"/>林有隣<pc n="　"/>壬有<pc n="lb"/>
+人<pc n="　"/>尋有信<pc n="　"/>吟有寅<pc n="　"/>琴有勤<pc n="　"/>沈有陳<pc n="　"/>忱有神<pc n="lb"/>
+<pc n="　"/>稔有忍<pc n="　"/>審有哂<pc n="　"/>錦有緊<pc n="　"/>枕有瑱<pc n="　"/>飲有引<pc n="lb"/>
+朕有鎮<pc n="　"/>甚有腎<pc n="　"/>任有認<pc n="　"/>禁有近<pc n="　"/>蔭有印<pc n="　"/>沁<pc n="lb"/>
+有信<pc n="　"/>浸有進<pc n="lb"/>
+                    <pb n="10a"/>
+<pc n="　"/>
+                    <pc n="　"/>監咸<pc n="lb"/>
+菴有安<pc n="　"/>擔有單<pc n="　"/>監有間<pc n="　"/>三有珊<pc n="　"/>貪有灘<pc n="　"/>酣<pc n="lb"/>
+有邯<pc n="　"/>南有難<pc n="　"/>咸有閑<pc n="　"/>藍有闌<pc n="　"/>談有壇<pc n="　"/>岩有<pc n="lb"/>
+顏<pc n="　"/>感有捍<pc n="　"/>覽有懶<pc n="　"/>膽有癉<pc n="　"/>毯有坦<pc n="　"/>減有簡<pc n="lb"/>
+<pc n="　"/>坎有侃<pc n="　"/>斬有盞<pc n="　"/>勘有看<pc n="　"/>淦有幹<pc n="　"/>憾有漢<pc n="lb"/>
+淡有旦<pc n="　"/>陷有限<pc n="　"/>濫有爛<pc n="　"/>賺有綻<pc n="　"/>鑑有間<pc n="　"/>暗<pc n="lb"/>
+有按<pc n="　"/>探有炭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>廉纖<pc n="lb"/>
+                    <pb n="10b"/>
+詹有氊<pc n="　"/>兼有堅<pc n="　"/>淹有烟<pc n="　"/>纖有先<pc n="　"/>僉有千<pc n="　"/>忺<pc n="lb"/>
+有掀<pc n="　"/>尖有煎<pc n="　"/>掂有顛<pc n="　"/>謙有牽<pc n="　"/>添有天<pc n="　"/>樳有<pc n="lb"/>
+涎<pc n="　"/>鉗有䖍<pc n="　"/>簾有連<pc n="　"/>粘有年<pc n="　"/>甜有田<pc n="　"/>髯有然<pc n="lb"/>
+<pc n="　"/>蟾有纒<pc n="　"/>鹽有延<pc n="　"/>潛有前<pc n="　"/>嫌有賢<pc n="　"/>臉有輦<pc n="lb"/>
+染有㒄<pc n="　"/>掩有偃<pc n="　"/>檢有蹇<pc n="　"/>險有顯<pc n="　"/>颭有展<pc n="　"/>閃<pc n="lb"/>
+有僐<pc n="　"/>忝有腆<pc n="　"/>㸃有典<pc n="　"/>諂有闡<pc n="　"/>艷有硯<pc n="　"/>欠有<pc n="lb"/>
+撁<pc n="　"/>店有鈿<pc n="　"/>念有年<hi>去聲</hi>劍有見<pc n="　"/>僭有箭<pc n="　"/>塹有倩<pc n="lb"/>
+<pc n="　"/>占有戰<pc n="lb"/>
+                    <pb n="11a"/>
+<pc n="　"/>
+                    <pc n="　"/>看岳王傳<pc n="lb"/>
+披文握武建中興廟宇載青史圗書功臣却被權臣妬<pc n="lb"/>
+正落奸謀閃殺人望旌節中原士夫誤殺人棄丘陵南<pc n="lb"/>
+渡鑾輿錢塘路愁風怨雨長是洒西湖<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>韓世忠<pc n="lb"/>
+安危屬君立勤王志節比翊漢功勲臨機料敵存威信<pc n="lb"/>
+際㑹風雲似恁地盡忠勇匡君報本也消得坐都堂秉<pc n="lb"/>
+笏垂紳閒評論中興宰臣萬古揖清芬<pc n="lb"/>
+                    <pb n="11b"/>
+<pc n="　"/>
+                    <pc n="　"/>誤國賊秦檜<pc n="lb"/>
+官居極品欺天誤主賊土輕民把一塲和議為公論妬<pc n="lb"/>
+害功臣通敵國懐奸誑君那些兒立朝堂仗義依仁英<pc n="lb"/>
+雄恨使飛雲幸存那裏有南北二朝分<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>張浚<pc n="lb"/>
+謀淵畧廣論兵用武立國安邦佐中興一代賢明將怎<pc n="lb"/>
+生来險幸如狼蓄禍心奸私放黨附權臣構陷忠良朝<pc n="lb"/>
+堂上把一箇精忠岳王屈死𦵏錢塘<pc n="lb"/>
+                    <pb n="12a"/>
+<pc n="　"/>一泰定甲子秋復聞前章餘論四海之人皆稱父<hi>去聲</hi>
+                    <pc n="lb"/>
+<pc n="　"/>毋<hi>為姥音</hi>廣韻父<hi>扶雨切/上聲</hi>母<hi>在有/韻</hi>婦<hi>亦在/有韻</hi>卦<hi>古賣切</hi>與怪<pc n="lb"/>
+<pc n="　"/>通副富<hi>敷救切在有韻</hi>道士呼為討死之類猶平聲之所論<pc n="lb"/>
+<pc n="　"/>也入聲以平聲次第調之互有可調之音且以開口<pc n="lb"/>
+<pc n="　"/>陌以唐内盲至徳以登五韻閉口緝以侵至乏以凡九<pc n="lb"/>
+<pc n="　"/>韻逐一字調平上去入必須極力念之悉如今之搬<pc n="lb"/>
+<pc n="　"/>演南宋戲文唱念聲腔考自漢魏無製韻者按南北<pc n="lb"/>
+<pc n="　"/>朝史南朝吴晉宋齊梁陳建都金陵齊史沈約字休<pc n="lb"/>
+                    <pb n="12b"/>
+<pc n="　"/>文吴興人將平上去入製韻仕齊為太子中令梁武<pc n="lb"/>
+<pc n="　"/>時為尚書僕射詳約製韻之意寧忍弱其本朝而以<pc n="lb"/>
+<pc n="　"/>敵國中原之音為正耶不取所都之内通言却以所<pc n="lb"/>
+<pc n="　"/>生吴興之音葢其地隣東南海角閩浙之音無疑故<pc n="lb"/>
+<pc n="　"/>有前病且六朝所都江淮之間緝至乏俱無閉口獨<pc n="lb"/>
+<pc n="　"/>浙有也以此論之止可施於約之鄉里矣又以史言<pc n="lb"/>
+<pc n="　"/>之約才如此齊為史職梁為大臣孰不行其聲韻也<pc n="lb"/>
+<pc n="　"/>歴陳陳亡流入中原自隋至宋國有中原才爵如約<pc n="lb"/>
+                    <pb n="13a"/>
+<pc n="　"/>者何限惜無有以辨約之韻乃閩浙之音而製<pc n="lb"/>
+<pc n="　"/>中原之韻者嗚呼年年依樣畫葫蘆耳南宋都<pc n="lb"/>
+<pc n="　"/>杭吳興與切隣故其戲文如樂昌分鏡等類唱<pc n="lb"/>
+<pc n="　"/>念呼吸皆如約韻昔陳之後庭花曲未必無此<pc n="lb"/>
+<pc n="　"/>聲也總亡國之音奚足為盛世法惟我聖朝興<pc n="lb"/>
+<pc n="　"/>興自北方五十餘年言語之間必以中原之音<pc n="lb"/>
+<pc n="　"/>為正鼓舞歌頌治世之音始自太保劉公牧菴姚公<pc n="lb"/>
+<pc n="　"/>踈齋盧公軰自成一家今之所編得非其意乎彼之<pc n="lb"/>
+                    <pb n="13b"/>
+<pc n="　"/>沈約不忍弱者私意也且一方之語雖渠之南朝亦<pc n="lb"/>
+<pc n="　"/>不可行况四海乎子生當混一之盛時耻為亡國搬<pc n="lb"/>
+<pc n="　"/>戲之呼吸以中原為則而又取四海同音而編之實<pc n="lb"/>
+<pc n="　"/>天下之公論也余曰晦菴有云世無魯連子千載徒<pc n="lb"/>
+<pc n="　"/>悲傷信矣<pc n="lb"/>
+一辨明古字畧<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>東鍾<pc n="lb"/>
+菄<hi>東</hi>□<hi>冬/</hi>营<hi>芎/</hi>仝<hi>同/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR1967" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1967.png" mimeType="image/png"/>
+                    <hi>戎/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0977" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0977.png" mimeType="image/png"/>
+                    <hi>螽/</hi>崈<hi>崇/</hi>崧<hi>嵩/</hi>𩮰<hi>騣/</hi>㮤<hi>松</hi>
+                    <pc n="lb"/>
+                    <pb n="14a"/>
+䢉辳□<hi>並農</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>庸/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>封/</hi>㷭<hi>烽/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>丰/</hi>飌<hi>風/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR1223" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1223.png" mimeType="image/png"/>
+                    <hi>凶/</hi>揔<hi>總/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>擁</hi>
+                    <pc n="lb"/>
+囟<hi>兄</hi>恿<hi>勇/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>恐/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0978" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0978.png" mimeType="image/png"/>
+                    <hi>動/</hi>□<hi>鳳/</hi>㝱<hi>夢</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>江陽<pc n="lb"/>
+光<hi>光</hi>匨<hi>臧/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>邦/</hi>缻<hi>缸/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>腔/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR2145" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2145.png" mimeType="image/png"/>
+                    <hi>塲/</hi>□<hi>羗/</hi>䕬<hi>薑/</hi>畕<hi>疆/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>瀼</hi>
+                    <pc n="lb"/>
+創<hi>瘡</hi>□<hi>喪/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>剛/</hi>䄃<hi>殃/</hi>啺<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>並唐/</hi>□<hi>兩/</hi>亯<hi>享/</hi>鷩<hi>氅/</hi>网<hi>網</hi>
+                    <pc n="lb"/>
+<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>誷</hi>朖誏<hi>並朗/</hi>痮<hi>脹/</hi>㢓<hi>障/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>□<hi>並醬/</hi>爌<hi>曠</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>支思<pc n="lb"/>
+㞢<hi>之</hi>峕<hi>時/</hi>恖<hi>思/</hi>眎眂<hi>並視/</hi>敊<hi>䜴/</hi>秲<hi>蒔/</hi>竢<hi>俟/</hi>孠<hi>嗣</hi>□亖<pc n="lb"/>
+                    <pb n="14b"/>
+<hi>並四</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR2180" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2180.png" mimeType="image/png"/>
+                    <hi>翅</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>齊㣲<pc n="lb"/>
+䄬<hi>移</hi>摩<hi>麾/</hi>□<hi>垂/</hi>闚<hi>窺/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>羆/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>㝖<hi>並宜/</hi>荾䒘<hi>並荽/</hi>□<hi>龜</hi>
+                    <pc n="lb"/>
+<graphic n="KR1330" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1330.png" mimeType="image/png"/>
+                    <hi>儀</hi>□<hi>䕫/</hi>睂<hi>眉/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>湄/</hi>㔻<hi>丕/</hi>㩺<hi>紕/</hi>稘<hi>期/</hi>嗁<hi>啼/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>
+                    <hi>西/</hi>雷<hi>雷</hi>
+                    <pc n="lb"/>
+穨<hi>頽</hi>㠯<hi>以/</hi>䭬<hi>稽/</hi>磥<hi>磊/</hi>骽<hi>腿/</hi>辠<hi>罪/</hi>竩<hi>誼/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>智/</hi>鬽<hi>魅/</hi>籥<hi>吹</hi>
+                    <pc n="lb"/>
+<graphic n="KR2292" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2292.png" mimeType="image/png"/>
+                    <hi>穗</hi>嘳<hi>喟/</hi>□埊<hi>並地/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR1710" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1710.png" mimeType="image/png"/>
+                    <hi>驥/</hi>閇<hi>閑/</hi>炁<hi>氣/</hi>暜<hi>替/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>羿/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>世</hi>
+                    <pc n="lb"/>
+□退<hi>並退</hi>袠<hi>帙/</hi>弋<hi>一/</hi>□㮚<hi>並栗/</hi>䉕<hi>音/</hi>烾<hi>赤/</hi>㡿<hi>斥/</hi>㭊<hi>折</hi>
+                    <pc n="lb"/>
+篴<hi>笛</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR1821" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1821.png" mimeType="image/png"/>
+                    <hi>寂/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>剔/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <graphic n="KR1786" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1786.png" mimeType="image/png"/>
+                    <hi>並翼/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>閾/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0767" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0767.png" mimeType="image/png"/>□<hi>並則/</hi>□<hi>及/</hi>逷<hi>逖</hi>
+                    <pc n="lb"/>
+                    <pb n="15a"/>
+□<hi>埴</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>漁模<pc n="lb"/>
+伃<hi>妤</hi>鼄<hi>蛛/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>扶/</hi>㚢<hi>奴/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>乎/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>徒/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>與/</hi>鬻<hi>煑/</hi>畮<hi>畝/</hi>鬴<hi>釡</hi>
+                    <pc n="lb"/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>覷</hi>庽<hi>寓/</hi>豎<hi>竪/</hi>妒<hi>妬/</hi>䘱<hi>裕/</hi>遡<hi>泝/</hi>悑<hi>怖/</hi>屋<hi>屋/</hi>秃<hi>秃/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR4000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4000.png" mimeType="image/png"/>
+                    <hi>豚</hi>
+                    <pc n="lb"/>
+遬<graphic n="KR2684" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2684.png" mimeType="image/png"/>
+                    <hi>並速</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>服/</hi>□<hi>築/</hi>□□<hi>並夙/</hi>瞨<hi>僕/</hi>㮚<hi>粟</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>皆来<pc n="lb"/>
+薶<hi>埋</hi>□<hi>乖/</hi>菭<hi>苔/</hi>烖<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>並灾/</hi>孡<hi>胎/</hi>捭<hi>擺/</hi>匃<hi>丐/</hi>□<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>並拜</hi>
+                    <pc n="lb"/>
+□<hi>憊</hi>黱<hi>黛/</hi>瑇<hi>玳/</hi>帒<hi>袋/</hi>敀<hi>廹/</hi>㡯<hi>宅/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>脉/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>冊/</hi>戹<hi>厄</hi>
+                    <pc n="lb"/>
+                    <pb n="15b"/>
+<pc n="　"/>
+                    <pc n="　"/>真文<pc n="lb"/>
+鞇<hi>茵</hi>□<hi>親/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>呻/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>賓/</hi>㷠<hi>憐/</hi>麐<hi>麟/</hi>□<hi>陳/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>津/</hi>薲<hi>蘋/</hi>麇<hi>麏</hi>
+                    <pc n="lb"/>
+<graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>貧</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>竣/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>旬/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>榛/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>聞/</hi>蟁<hi>蚊/</hi>矤<hi>矧/</hi>筍<hi>笋/</hi>□<hi>蠢/</hi>眘<hi>慎</hi>
+                    <pc n="lb"/>
+□<hi>燼</hi>䑞<hi>舜</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>寒山<pc n="lb"/>
+□<hi>看</hi>□<hi>韓/</hi>鶾<hi>翰/</hi>□<hi>難/</hi>囏<hi>艱/</hi>笴<hi>簳/</hi>繖<hi>傘/</hi>䋎<hi>綻/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>散</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>桓歡<pc n="lb"/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>
+                        <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>/</hi>槃柈<hi>並盤</hi>园<hi>刓/</hi>䝜<hi>狻/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR2058" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2058.png" mimeType="image/png"/>
+                    <hi>短/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>疃/</hi>㬉<hi>煖/</hi>毌<hi>貫/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>逭</hi>
+                    <pc n="lb"/>
+                    <pb n="16a"/>
+牉<hi>判</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>先天<pc n="lb"/>
+<graphic n="KR1337" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1337.png" mimeType="image/png"/>䒶<hi>並天</hi>□<hi>前/</hi>㮍<hi>箋/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>烟/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0908" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0908.png" mimeType="image/png"/>
+                    <hi>畎/</hi>□<hi>展/</hi>硏<hi>硯/</hi>綫<hi>線/</hi>□<hi>箭</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>蕭豪<pc n="lb"/>
+<graphic n="KR1007" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1007.png" mimeType="image/png"/>
+                    <hi>晁</hi>□<hi>朝/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>焦/</hi>袌<hi>袍/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR1311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1311.png" mimeType="image/png"/>
+                    <hi>曹/</hi>□<hi>擾/</hi>□<hi>表/</hi>鬻<hi>炒/</hi>衟<hi>道/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR1127" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1127.png" mimeType="image/png"/>
+                    <hi>呌</hi>
+                    <pc n="lb"/>
+□<hi>爵</hi>腳<hi>脚</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>歌戈<pc n="lb"/>
+<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>梭</hi>譌<hi>誤/</hi>驘<hi>騾/</hi>龢<hi>和/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>播/</hi>䃺<hi>磨/</hi>堊<hi>坐/</hi>盇<hi>鉢/</hi>敓<hi>奪/</hi>㵣<hi>渴</hi>
+                    <pc n="lb"/>
+                    <pb n="16b"/>
+<pc n="　"/>
+                    <pc n="　"/>家麻<pc n="lb"/>
+誇<hi>譁</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR1431" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1431.png" mimeType="image/png"/>
+                    <hi>茶/</hi>簻<graphic n="KR2426" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2426.png" mimeType="image/png"/>
+                    <hi>並撾/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>瘂/</hi>冎<hi>剮/</hi>搚<hi>拉/</hi>灋<hi>法/</hi>疀<hi>鍤</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>車遮<pc n="lb"/>
+哀<hi>斜</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>嗟/</hi>壄<hi>野/</hi>銕<hi>鐵/</hi>飻<hi>餮/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0844" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0844.png" mimeType="image/png"/>
+                    <hi>列/</hi>悊喆嚞<hi>並/哲</hi>雪<hi>雪/</hi>氒<hi>厥</hi>
+                    <pc n="lb"/>
+叶<hi>恊</hi>蜨<hi>蝶</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>庚青<pc n="lb"/>
+鬻<hi>羹</hi>稉<hi>粳/</hi>硎阬<hi>並坑/</hi>觵<hi>觥/</hi>□<hi>盟/</hi>鎗<hi>鐺/</hi>麠<hi>麖/</hi>狌<hi>猩/</hi>䵞<hi>黥</hi>
+                    <pc n="lb"/>
+剠<hi>黥</hi>銵<hi>鏗/</hi>甿<hi>氓/</hi>嵤<hi>嶸/</hi>輷<hi>轟/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR1648" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1648.png" mimeType="image/png"/>
+                    <hi>鯖/</hi>璚<hi>瓊/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>征/</hi>曐<hi>星/</hi>鮏<hi>鯹</hi>
+                    <pc n="lb"/>
+                    <pb n="17a"/>
+霛□<hi>並靈</hi>䓑<hi>萍/</hi>冋<hi>坰/</hi>澂<hi>澄/</hi>腃<hi>凌/</hi>悔<hi>恒/</hi>䔖<hi>菱/</hi>椉□<hi>並乗</hi>
+                    <pc n="lb"/>
+儆<hi>警</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR1133" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1133.png" mimeType="image/png"/>
+                    <hi>鑛/</hi>頔<hi>頃/</hi>頂<hi>頂/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>幸/</hi>鞕<hi>硬/</hi>㵾<hi>浄/</hi>殸<hi>磬/</hi>䰝鬻<hi>並甑</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>尢侯<pc n="lb"/>
+㳅<hi>流</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>逰/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>抽/</hi>丠<hi>丘/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>求/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0146" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0146.png" mimeType="image/png"/>
+                    <hi>侯/</hi>鋀<hi>鍮/</hi>杽<hi>杻/</hi>首<hi>首/</hi>丣<hi>夘</hi>
+                    <pc n="lb"/>
+羙<hi>誘</hi>蕅<hi>藕/</hi>叜<hi>叟/</hi>呴吽<hi>並吼/</hi>垕<hi>厚/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>胄/</hi>匶<hi>柩/</hi>鬬<hi>闘</hi>槈鎒<pc n="lb"/>
+<hi>並耨</hi>□<hi>復/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0034" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0034.png" mimeType="image/png"/>
+                    <hi>岫/</hi>逡<hi>後</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>侵尋<pc n="lb"/>
+沈<hi>沉</hi>㩒捦<hi>並擒/</hi>䪩<hi>吟/</hi>䘳<hi>襟/</hi>曑<hi>參/</hi>薓<hi>人/參</hi>㱃<hi>飲/</hi>㐭<hi>廩/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>朕</hi>
+                    <pc n="lb"/>
+                    <pb n="17b"/>
+䅧<hi>䕃</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>監咸<pc n="lb"/>
+枏<hi>楠</hi>諵<hi>喃/</hi>弎<hi>三/</hi>
+                    <pc n="lb"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <hi>鵮/</hi>□□<hi>並敢/</hi>擥<hi>㰖/</hi>蹔<hi>暫</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>廉纎<pc n="lb"/>
+黏<hi>粘</hi>箝<hi>鉗/</hi>猒<hi>饜/</hi>讇<hi>諂/</hi>豔<hi>艷/</hi>爓<hi>焰</hi>
+                    <pc n="lb"/>
+一畧舉釋疑字様<pc n="lb"/>
+閼氏<hi>音烟支</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>可汗<hi>音克/寒</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>冐頓<hi>音墨特</hi>
+                    <pc n="lb"/>
+魯般<hi>下音班</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>樊於期<hi>於音/烏</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>嫪毐<hi>音澇靄</hi>
+                    <pc n="lb"/>
+                    <pb n="18a"/>
+角里先生<hi>角音鹿</hi>酈食其<hi>音異/飢</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>寧馨兒<hi>寧去聲</hi>
+                    <pc n="lb"/>
+万俟卨<hi>音木竒屑</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>僕射<hi>下音/夜</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>姑射<hi>下音益</hi>
+                    <pc n="lb"/>
+無射<hi>下音益</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>龜兹<hi>音丘慈/國名</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>番愚<hi>音潘愚縣名</hi>
+                    <pc n="lb"/>
+牂牁<hi>音臧歌郡名</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>滹沱<hi>音烏䭾/河名</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>疆埸<hi>下音益</hi>
+                    <pc n="lb"/>
+盟津<hi>上音孟</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>國土<hi>下音/度</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>陶甄<hi>音堅又音真</hi>
+                    <pc n="lb"/>
+矰繳<hi>下音勺</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>枹鼔<hi>上音/敷</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>琅邪<hi>下音耶郡名</hi>
+                    <pc n="lb"/>
+邪谷<hi>上音耶</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>綸巾<hi>綸關二/音皆可</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>犧樽<hi>上音梭</hi>
+                    <pc n="lb"/>
+率更<hi>上音律</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>盤飱<hi>下音孫/熟食也</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>矛盾<hi>食蠢切</hi>
+                    <pc n="lb"/>
+                    <pb n="18b"/>
+黄能<hi>奴来切三足鼈</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>委蛇<hi>音威/移</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>彳亍<hi>音躑躅小歩也</hi>
+                    <pc n="lb"/>
+朝請<hi>去聲漢官名春曰朝秋曰請</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>於戲<hi>音嗚呼嘆辭</hi>
+                    <pc n="lb"/>
+尸解<hi>下音斚</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>欸乃<hi>音襖靄/漁歌</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>宿留<hi>音秀溜</hi>
+                    <pc n="lb"/>
+般若<hi>音鉢惹釋經</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>衆生<hi>上音中/釋經</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>句讀<hi>下音豆</hi>
+                    <pc n="lb"/>
+落魄<hi>下音託</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>隠几<hi>隠去/聲</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>野燒<hi>燒去聲</hi>
+                    <pc n="lb"/>
+閤閣<hi>上音割黄閤東閤之類下音各天祿石渠諸閣之類</hi>雨水氷<hi>雨去聲</hi>
+                    <pc n="lb"/>
+俊<hi>與雋通</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逺<hi>去聲逺害全/身逺市朝</hi>涯<hi>音牙詞押音移崖詩押</hi>
+                    <pc n="lb"/>
+些<hi>息个切楚辭</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>祅<hi>音軒/湖神</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>造<hi>二音造作之造造次之造</hi>
+                    <pc n="lb"/>
+                    <pb n="19a"/>
+扁<hi>音貶牌額也</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>殷<hi>鳥關切/赤黒色</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>溺<hi>奴料切尿也沛公溺儒冠</hi>
+                    <pc n="lb"/>
+聞<hi>去聲聞於天</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>臨<hi>去聲/哭也</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蠡<hi>單于傳有谷蠡音离又音螺瓠瓢也</hi>
+                    <pc n="lb"/>
+臉<hi>桃腮杏臉則呼為撿若呼為美撿兒當呼為斂字音</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>大<hi>大都大路不可同語</hi>
+                    <pc n="lb"/>
+                    <pb n="19b"/>
+樂府共三百三十五章<hi>自軒轅制律一十七宫調今之所傳者一十有二</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>黄鍾二十四章<pc n="lb"/>
+醉花隂<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喜遷鶯<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>出隊子<pc n="lb"/>
+刮地風<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>四門子<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>水仙子<pc n="lb"/>
+寨兒令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>神仗兒<hi>亦作煞</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>節節髙<pc n="lb"/>
+者剌古<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>願成雙<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>賀聖朝<pc n="lb"/>
+紅錦袍<hi>即紅衲袄</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>晝夜樂<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>人月圓<pc n="lb"/>
+綵樓春<hi>即抛毬樂</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>侍香金童<pc n="　"/>
+                    <pc n="　"/>降黄龍衮<pc n="lb"/>
+                    <pb n="20a"/>
+雙鳳翹<hi>即女冠子</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>傾盃序<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>文如錦<pc n="lb"/>
+九條龍<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>興隆引<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>尾聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>正宫二十五章<pc n="lb"/>
+端正好<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>衮繡毬<hi>亦作子母調</hi>倘秀才<hi>亦作子母調</hi>
+                    <pc n="lb"/>
+靈夀杖<hi>即呆骨朶</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>叨叨令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>塞鴻秋<pc n="lb"/>
+脫布衫<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>小梁州<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>醉太平<pc n="lb"/>
+伴讀書<hi>即村裏秀才</hi>笑和尚<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>白鶴子<pc n="lb"/>
+雙鴛鴦<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>貨郎兒<hi>入南宮轉調</hi>蠻姑兒<pc n="lb"/>
+                    <pb n="20b"/>
+窮河西<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>芙蓉花<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>菩薩蠻<pc n="lb"/>
+黒漆弩<hi>即學士吟鸚鵡曲</hi>月照庭<pc n="　"/>
+                    <pc n="　"/>六么遍<hi>即栁梢青</hi>
+                    <pc n="lb"/>
+甘草子<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>三煞<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>啄木兒煞<hi>亦入中吕</hi>
+                    <pc n="lb"/>
+煞尾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>大石調二十一章<pc n="lb"/>
+六國朝<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歸塞北<hi>即望江南</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>卜金錢<hi>即初問卜</hi>
+                    <pc n="lb"/>
+怨别離<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>雁過南樓<pc n="　"/>
+                    <pc n="　"/>催花樂<hi>即擂鼔體</hi>
+                    <pc n="lb"/>
+凈瓶兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>念奴嬌<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喜秋風<pc n="lb"/>
+                    <pb n="21a"/>
+好觀音<hi>亦作煞</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>青杏子<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蒙童兒<hi>即憨郭郎</hi>
+                    <pc n="lb"/>
+還京樂<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>荼䕷香<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>催拍子<pc n="lb"/>
+陽闗三疊<pc n="　"/>
+                    <pc n="　"/>驀山溪<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>初生月兒<pc n="lb"/>
+百字令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>玉翼蟬煞<pc n="　"/>
+                    <pc n="　"/>隨煞<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>小石調五章<pc n="lb"/>
+青杏兒<hi>即青杏子亦入大石調</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>天上謡<pc n="lb"/>
+惱煞人<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>伊州遍<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>尾聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>仙吕四十二章<pc n="lb"/>
+                    <pb n="21b"/>
+端正好<hi>楔兒</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>賞花時<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>八聲甘州<pc n="lb"/>
+㸃絳唇<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>混江龍<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>油葫蘆<pc n="lb"/>
+天下樂<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>那吒令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鵲踏枝<pc n="lb"/>
+寄生草<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>六么序<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>醉中天<pc n="lb"/>
+金盞兒<hi>即醉金錢</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>醉扶歸<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>憶王孫<pc n="lb"/>
+一半兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>瑞鶴仙<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>憶帝京<pc n="lb"/>
+村裏迓古<pc n="　"/>
+                    <pc n="　"/>元和令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>上馬嬌<pc n="lb"/>
+遊四門<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>勝葫蘆<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>後庭花<hi>亦作煞</hi>
+                    <pc n="lb"/>
+                    <pb n="22a"/>
+栁葉兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>青哥兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>翠裙腰<pc n="lb"/>
+六么令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>上京馬<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>袄神急<pc n="lb"/>
+大安樂<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>緑窓愁<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>穿窓月<pc n="lb"/>
+四季花<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>雁兒落<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>玉花秋<pc n="lb"/>
+三畨玉樓人<hi>亦入越調</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>錦橙梅<pc n="lb"/>
+雙雁子<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>太常引<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>栁外樓<pc n="lb"/>
+賺煞尾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>中吕三十二章<pc n="lb"/>
+                    <pb n="22b"/>
+粉蝶兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>呌聲<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>醉春風<pc n="lb"/>
+迎仙客<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>紅繡鞋<hi>即朱履曲</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>普天樂<pc n="lb"/>
+醉髙歌<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喜春来<hi>即陽春曲</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>石榴花<pc n="lb"/>
+鬬鵪鶉<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>上小樓<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>滿庭芳<pc n="lb"/>
+十二月<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>堯民歌<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>快活三<pc n="lb"/>
+鮑老兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>古鮑老<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>紅芍藥<pc n="lb"/>
+剔銀燈<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蔓菁菜<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>栁青娘<pc n="lb"/>
+道和<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>朝天子<hi>即謁金門</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>四邊静<pc n="lb"/>
+                    <pb n="23a"/>
+齊天樂<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>紅衫兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蘇武持節<hi>即山坡羊</hi>
+                    <pc n="lb"/>
+賣花聲<hi>即昇平樂亦作煞</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>四換頭<pc n="lb"/>
+攤破喜春来<pc n="　"/>喬捉蛇<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>煞尾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>南吕二十一章<pc n="lb"/>
+一枝花<hi>即占春魁</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>梁州第七<pc n="　"/>
+                    <pc n="　"/>隔尾<pc n="lb"/>
+牧羊關<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>菩薩梁州<pc n="　"/>
+                    <pc n="　"/>𤣥鶴鳴<hi>即哭皇天</hi>
+                    <pc n="lb"/>
+烏夜啼<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>罵玉郎<pc n="　"/>
+                    <pc n="　"/>感皇恩<pc n="lb"/>
+採茶歌<hi>即楚江秋</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>賀新郎<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>梧桐樹<pc n="lb"/>
+                    <pb n="23b"/>
+紅芍藥<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>四塊玉<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>草池春<hi>即鬬蝦䗫</hi>
+                    <pc n="lb"/>
+鵪鶉兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>閱金經<hi>即金字經</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>翠盤秋<hi>亦入中吕即乾荷葉</hi>
+                    <pc n="lb"/>
+玉交枝<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>煞<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>黄鍾尾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>雙調一百章<pc n="lb"/>
+新水令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>駐馬聴<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喬牌兒<pc n="lb"/>
+沉醉東風<pc n="　"/>
+                    <pc n="　"/>步步嬌<hi>即潘妃曲</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>夜行船<pc n="lb"/>
+銀漢浮槎<hi>即喬木查</hi>慶宣和<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>五供養<pc n="lb"/>
+月上海棠<pc n="　"/>
+                    <pc n="　"/>慶東原<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>撥不斷<hi>即續斷絃</hi>
+                    <pc n="lb"/>
+                    <pb n="24a"/>
+攪筝琶<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>落梅風<hi>即夀陽曲</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>風入松<pc n="lb"/>
+萬花方三臺<pc n="　"/>雁兒落<hi>即平沙落雁</hi>徳勝令<hi>即陣陣贏凱歌回</hi>
+                    <pc n="lb"/>
+水仙子<hi>即凌波仙湘妃怨馮夷曲</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>大徳歌<pc n="lb"/>
+鎮江回<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>殿前歡<hi>即小婦孩兒鳳將雛</hi>
+                    <pc n="lb"/>
+滴滴金<hi>即甜水令</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>折桂令<hi>即秋風第一枝天香引蟾宫曲步蟾宫</hi>
+                    <pc n="lb"/>
+清江引<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>春閨怨<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>牡丹春<pc n="lb"/>
+漢江秋<hi>即荆襄怨</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>小將軍<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>慶豐年<pc n="lb"/>
+太清歌<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>小陽關<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>搗練子<hi>即胡搗練</hi>
+                    <pc n="lb"/>
+                    <pb n="24b"/>
+秋蓮曲<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>掛玉鈎序<pc n="　"/>
+                    <pc n="　"/>荆山玉<hi>即側磚兒</hi>
+                    <pc n="lb"/>
+竹枝歌<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>沽美酒<hi>即瓊林宴</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>太平令<pc n="lb"/>
+快活年<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>亂栁葉<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>豆葉黄<pc n="lb"/>
+川撥棹<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>七弟兄<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>梅花酒<pc n="lb"/>
+收江南<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>掛玉鈎<hi>即掛搭活</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>早鄉詞<pc n="lb"/>
+石竹子<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>山石榴<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>醉娘子<hi>即醉也摩挲</hi>
+                    <pc n="lb"/>
+駙馬還朝<hi>即相公愛</hi>胡十八<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>一錠銀<pc n="lb"/>
+阿納忽<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>小拜門<hi>即不拜門</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>慢金盞<hi>即金盞兒</hi>
+                    <pc n="lb"/>
+                    <pb n="25a"/>
+大拜門<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>也不羅<hi>即野落索</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>小喜人心<pc n="lb"/>
+風流體<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>古都白<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>唐元夕<pc n="lb"/>
+河西水仙子<pc n="　"/>華嚴讃<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>行香子<pc n="lb"/>
+錦上花<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>碧玉簫<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>祅神急<pc n="lb"/>
+驟雨打新荷<pc n="　"/>駐馬聴<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>金娥神曲<pc n="lb"/>
+神曲纒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>徳勝樂<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>大徳樂<pc n="lb"/>
+楚天遥<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>天仙令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>新時令<pc n="lb"/>
+阿忽令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>山丹花<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>十棒鼓<pc n="lb"/>
+                    <pb n="25b"/>
+殿前喜<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>播海令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>大喜人心<pc n="lb"/>
+醉春風<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>間金四塊玉<pc n="　"/>减字木蘭兒<pc n="lb"/>
+髙過金盞兒<pc n="　"/>對玉環<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>青玉案<pc n="lb"/>
+魚遊春水<pc n="　"/>
+                    <pc n="　"/>秋江送<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>枳郎兒<pc n="lb"/>
+河西六娘子<pc n="　"/>皂旗兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>本調煞<pc n="lb"/>
+鴛鴦煞<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>離亭宴帶歇指煞<pc n="lb"/>
+收尾<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>離亭宴煞<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>越調三十五章<pc n="lb"/>
+                    <pb n="26a"/>
+鬬鵪鶉<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>紫花兒序<pc n="　"/>
+                    <pc n="　"/>金蕉葉<pc n="lb"/>
+小桃紅<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>踏陣馬<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>天净紗<pc n="lb"/>
+調笑令<hi>即含笑花</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>秃厮兒<hi>即小沙門</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>聖藥王<pc n="lb"/>
+麻郎兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>東原樂<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>絡絲娘<pc n="lb"/>
+送逺行<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>棉褡絮<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>拙魯速<pc n="lb"/>
+雪裏梅<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>古竹馬<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鄆州春<pc n="lb"/>
+眉兒彎<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>酒旗兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>青山口<pc n="lb"/>
+塞兒令<hi>即栁營曲</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>黄薔薇<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>慶元貞<pc n="lb"/>
+                    <pb n="26b"/>
+三臺印<hi>即鬼三台</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>凭欄人<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>耍三台<pc n="lb"/>
+梅花引<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>看花回<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南鄉子<pc n="lb"/>
+糖多令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>雪中梅<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>小絡絲娘<pc n="lb"/>
+煞<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>尾聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>商調十六章<pc n="lb"/>
+集賢賔<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>逍遥樂<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>上京馬<pc n="lb"/>
+梧葉兒<hi>即知秋令</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>金菊香<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>醋葫蘆<pc n="lb"/>
+掛金索<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>浪来裏<hi>亦作煞</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>雙雁兒<pc n="lb"/>
+                    <pb n="27a"/>
+望逺行<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鳳鸞吟<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>玉抱肚<hi>亦入雙調</hi>
+                    <pc n="lb"/>
+秦樓月<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>桃花浪<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>髙平煞<pc n="lb"/>
+尾聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>商角調六章<pc n="lb"/>
+黄鶯兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>踏莎行<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>葢天旗<pc n="lb"/>
+垂絲釣<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>應天長<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>尾聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>般渉調八章<pc n="lb"/>
+咱遍<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>臉兒紅<hi>即麻婆子</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>墻頭花<pc n="lb"/>
+                    <pb n="27b"/>
+瑶臺月<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>急曲子<hi>即促拍令</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>耍孩兒<hi>即魔合羅</hi>
+                    <pc n="lb"/>
+煞<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>尾聲<hi>與中吕煞尾同</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>名同音律不同者一十六章<pc n="lb"/>
+黄鍾<hi>水仙子</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>雙調<hi>水仙子/</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>黄鍾<hi>塞兒令</hi>
+                    <pc n="lb"/>
+越調<hi>塞兒令</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>仙吕<hi>端正好/</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>正宫<hi>端正好</hi>
+                    <pc n="lb"/>
+仙吕<hi>祅神急</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>雙調<hi>祅神急/</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>仙吕<hi>上京馬</hi>
+                    <pc n="lb"/>
+商調<hi>上京馬</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>中吕<hi>鬬鵪鶉/</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>越調<hi>鬬鵪鶉</hi>
+                    <pc n="lb"/>
+中吕<hi>紅芍藥</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>南吕<hi>紅芍藥/</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>中吕<hi>醉春風</hi>
+                    <pc n="lb"/>
+                    <pb n="28a"/>
+雙調<hi>醉春風</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>句字不拘可以増損者一十四章<pc n="lb"/>
+<pc n="　"/>正宫<pc n="lb"/>
+端正好<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>貨郎兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>煞尾<pc n="lb"/>
+<pc n="　"/>仙吕<pc n="lb"/>
+混江龍<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>後庭花<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>青哥兒<pc n="lb"/>
+<pc n="　"/>南吕<pc n="lb"/>
+草池春<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鵪鶉兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>黄鍾尾<pc n="lb"/>
+                    <pb n="28b"/>
+<pc n="　"/>中吕<pc n="lb"/>
+道和<pc n="lb"/>
+<pc n="　"/>雙調<pc n="lb"/>
+新水令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>折桂令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>梅花酒<pc n="lb"/>
+尾聲<pc n="lb"/>
+<pc n="　"/>大凡聲音各應扵律吕分於六宫十一調共計十七<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>宫調<pc n="lb"/>
+仙吕調清新綿邈<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>南吕宫感嘆悲傷<pc n="lb"/>
+                    <pb n="29a"/>
+中吕宫髙下閃賺<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>黄鍾宫富貴纒綿<pc n="lb"/>
+正宫惆悵雄壯<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>道宫飄逸清幽<pc n="lb"/>
+大石風流醖藉<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>小石旖旎嫵媚<pc n="lb"/>
+髙平條拘滉漾<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>般涉拾掇坑塹<pc n="lb"/>
+歇指急併虚歇<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>商角悲傷宛轉<pc n="lb"/>
+雙調健捷激裊<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>商調悽愴怨慕<pc n="lb"/>
+角調嗚咽悠揚<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>宫調典雅沉重<pc n="lb"/>
+越調陶寫冷笑<pc n="lb"/>
+                    <pb n="29b"/>
+<pc n="　"/>有子母調有字多聲少有聲多字少所謂一串驪珠<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>也<pc n="lb"/>
+<pc n="　"/>凡作樂府古人云有文章者謂之樂府如無文飾者<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>謂之俚歌不可與樂府共論也又云作樂府切忌<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>有傷於音律且如女真風流體等樂章皆以女真<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>人音聲歌之雖字有舛訛不傷於音律者不為害<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>也大抵先要明腔後要識譜審其音而作之庶無<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>劣調之失而知韻造語用事用字之法名人詞調<pc n="lb"/>
+                    <pb n="30a"/>
+<pc n="　"/>
+                    <pc n="　"/>可為式者并列於後<pc n="lb"/>
+一作詞十法<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>知韻<hi>無入聲止有平上去三聲</hi>
+                    <pc n="lb"/>
+平聲<hi>有隂有陽入聲作平聲俱属陽</hi>
+                    <pc n="lb"/>
+上聲<hi>無陽無隂入聲作上聲亦然</hi>
+                    <pc n="lb"/>
+去聲<hi>無陽無隂入聲作去聲亦然</hi>
+                    <pc n="lb"/>
+<pc n="　"/>造語<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>可作<pc n="lb"/>
+                    <pb n="30b"/>
+樂府語<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>經史語<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>天下通語<pc n="lb"/>
+<pc n="　"/>未造其語先立其意語意俱高為上短章辭既簡意<pc n="lb"/>
+<pc n="　"/>欲盡長篇要腰腹飽滿首尾相救造語必俊用字必<pc n="lb"/>
+<pc n="　"/>熟太文則迂不文則俗文而不文俗而不俗要聳觀<pc n="lb"/>
+<pc n="　"/>又聳聴格調髙音律好襯字無平仄穏<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>不可作<pc n="lb"/>
+俗語<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>蠻語<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>謔語<pc n="lb"/>
+嗑語<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>市語<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>方語<hi>各鄉談也</hi>
+                    <pc n="lb"/>
+                    <pb n="31a"/>
+書生語<hi>書之紙上詳解方曉歌則莫知所云</hi>
+                    <pc n="lb"/>
+譏諷語<hi>諷刺古有之不可直述或託一景託一物可也</hi>全句語<pc n="lb"/>
+<pc n="　"/>短章樂府務頭上不可多用全句還是自立一家言<pc n="lb"/>
+<pc n="　"/>語為上全句語者惟傳竒中務頭上用此法耳<pc n="lb"/>
+抅肆語<pc n="lb"/>
+<pc n="　"/>不必要上紙但只要好聴俗語謔語市語皆可前軰<pc n="lb"/>
+<pc n="　"/>云街市小令唱出新茜意成文章曰樂府是也樂府<pc n="lb"/>
+<pc n="　"/>小令兩途樂府語可入小令小令語不可入樂府<pc n="lb"/>
+                    <pb n="31b"/>
+張打油語<pc n="lb"/>
+<pc n="　"/>吉安龍泉縣水渰米倉有于志能號無心者欲縣官<pc n="lb"/>
+<pc n="　"/>利塞其口作水仙子示人自謂得意末句云早難道<pc n="lb"/>
+<pc n="　"/>水米無交觀其全集自名之曰樂府悉皆類此士大<pc n="lb"/>
+<pc n="　"/>夫評之曰此乃張打油乞化出門語也敢曰樂府作<pc n="lb"/>
+<pc n="　"/>者當以為戒<pc n="lb"/>
+雙聲疊韻語<pc n="lb"/>
+<pc n="　"/>如故國觀光君未歸是也夫樂府貴在音律瀏亮何<pc n="lb"/>
+                    <pb n="32a"/>
+<pc n="　"/>乃反入艱難之鄉此體不可無亦不可專意作而歌<pc n="lb"/>
+<pc n="　"/>之但可抅肆中白念耳<pc n="lb"/>
+六字三韻語<pc n="lb"/>
+<pc n="　"/>前軰周公攝政傳竒太平令云口来豁開兩腮西廂<pc n="lb"/>
+<pc n="　"/>記麻郎么云忽聴一聲猛驚本宫始終不同韻脚俱<pc n="lb"/>
+<pc n="　"/>用平聲若雜一上聲便屬第二著皆於務頭上使近<pc n="lb"/>
+<pc n="　"/>有折桂令皆二字一韻不分務頭亦不能喝采全淳<pc n="lb"/>
+<pc n="　"/>則已若不淳則句句急口令矣所謂畵虎不成反類<pc n="lb"/>
+                    <pb n="32b"/>
+<pc n="　"/>犬也殊不知前軰止於全篇中務頭上使以别精粗<pc n="lb"/>
+<pc n="　"/>如衆星中顯一月之孤明也可與識者道<pc n="lb"/>
+語病<pc n="lb"/>
+<pc n="　"/>如達不著主母機有荅之曰燒公鴨亦可似此之類<pc n="lb"/>
+<pc n="　"/>切忌<pc n="lb"/>
+語澁<pc n="lb"/>
+<pc n="　"/>句生硬而平仄不好<pc n="lb"/>
+語粗<pc n="lb"/>
+                    <pb n="33a"/>
+<pc n="　"/>無細膩俊美之言<pc n="lb"/>
+語嫩<pc n="lb"/>
+<pc n="　"/>謂其言太弱既庸且腐又不切當鄙猥小家而無大<pc n="lb"/>
+<pc n="　"/>氣象也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>用事<pc n="lb"/>
+明事隠使隠事明使<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>用字<pc n="lb"/>
+<pc n="　"/>切不可用<pc n="lb"/>
+                    <pb n="33b"/>
+生硬字<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>太文字<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>太俗字<pc n="lb"/>
+<pc n="　"/>襯㼭字套數中可摘為樂府者能幾毎調多則無十<pc n="lb"/>
+<pc n="　"/>二三句毎句七字而止却用襯字加倍則刺眼矣倘<pc n="lb"/>
+<pc n="　"/>有人作出恊音俊語無此等病我不及矣緊戒勿言<pc n="lb"/>
+<pc n="　"/>妄亂板行塞鴻秋末句本七字有云今日箇病懨懨<pc n="lb"/>
+<pc n="　"/>剛寫下兩箇相思字却十四字矣此何等句法而又<pc n="lb"/>
+<pc n="　"/>託名於時賢沒興遭此誚謗無為雪寃者已辨於序<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>入聲作平聲<hi>施於句中不可不謹皆不能正其音</hi>
+                    <pc n="lb"/>
+                    <pb n="34a"/>
+澤國江山入戰圖<hi>第一澤字無害</hi>
+                    <pc n="lb"/>
+紅白花開煙雨中第白<hi>二字</hi>
+                    <pc n="lb"/>
+瘦馬獨行真可哀<hi>第三獨字若施于仄仄平平仄仄平平之句則可施於他調皆不可</hi>
+                    <pc n="lb"/>
+人生七十古来稀<hi>第四十字</hi>
+                    <pc n="lb"/>
+㸃溪荷葉叠青錢<hi>第五叠字</hi>
+                    <pc n="lb"/>
+劉項原来不讀書<hi>第六讀字</hi>
+                    <pc n="lb"/>
+鳳凰不共雞争食<hi>第七食字</hi>
+                    <pc n="lb"/>
+<pc n="　"/>隂陽<pc n="lb"/>
+                    <pb n="34b"/>
+<pc n="　"/>
+                    <pc n="　"/>用隂字法<pc n="lb"/>
+㸃絳唇首句韻脚必用隂字試以天地𤣥黄為句歌之<pc n="lb"/>
+則歌黄字為荒字非也若以宇宙洪荒為句恊矣葢荒<pc n="lb"/>
+字屬隂黄字屬陽也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>用陽字法<pc n="lb"/>
+寄生草末句七字内第五字必用陽字以歸来飽飯黄<pc n="lb"/>
+昏後為句歌之恊矣若以昏黄後歌之則歌昏字為渾<pc n="lb"/>
+字非也葢黄字屬陽昏字屬隂也<pc n="lb"/>
+                    <pb n="35a"/>
+<pc n="　"/>
+                    <pc n="　"/>務頭<pc n="lb"/>
+要知某調某句某字是務頭可施俊語於其上後註扵<pc n="lb"/>
+定格各調内<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>對耦<pc n="lb"/>
+逢雙必對自然之理人皆知之<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>扇面對<pc n="lb"/>
+調笑令<hi>第四句對第六句第五句對第七句</hi>
+                    <pc n="lb"/>
+駐馬聽<hi>起四句是也</hi>
+                    <pc n="lb"/>
+                    <pb n="35b"/>
+<pc n="　"/>
+                    <pc n="　"/>重叠對<pc n="lb"/>
+鬼三臺<hi>第一句對第二句第四句對第五句第一第二第三句却對第四第五第六句</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>救尾對<pc n="lb"/>
+紅繡鞋<hi>第四句第五句第六句為三對</hi>
+                    <pc n="lb"/>
+<pc n="　"/>二調若是末句稍弱即以此法救之<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>末句<pc n="lb"/>
+詩頭曲尾是也如得好句其句意盡可為末句前軰已<pc n="lb"/>
+有某調末句是平煞某調末句是上煞某調末句是去<pc n="lb"/>
+                    <pb n="36a"/>
+煞照依後項用之夫平仄者平者平聲仄者上去聲也<pc n="lb"/>
+後云上者必要上去者必要去上去者必要上去去上<pc n="lb"/>
+上者必要去上仄仄者上去去上皆可上上去去若得<pc n="lb"/>
+廻避尤妙若是造句且熟亦無害<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>去上<hi>去平屬第二著切不可上平</hi>
+                    <pc n="lb"/>
+慶宣和<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>仄平平<pc n="lb"/>
+雁兒落<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>漢東山<pc n="lb"/>
+                    <pb n="36b"/>
+<pc n="　"/>
+                    <pc n="　"/>平去平<hi>平去上屬第三著</hi>
+                    <pc n="lb"/>
+山坡羊<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>四塊玉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>仄仄平平<pc n="lb"/>
+折桂令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>水仙子<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>殿前歡<pc n="lb"/>
+喬木查<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>普天樂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>平平去上<pc n="lb"/>
+醉太平<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>仄仄仄平平<pc n="lb"/>
+                    <pb n="37a"/>
+金盞兒<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>賀新郎<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喜春来<pc n="lb"/>
+滿庭芳<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>小桃紅<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>寨兒令<pc n="lb"/>
+小梁州<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>賞花時<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>平平上去平<pc n="　"/>仄平平去平<hi>亦可</hi>
+                    <pc n="lb"/>
+呆古朶<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>牧羊關<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>徳勝令<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>仄平平去平<pc n="lb"/>
+喬牌兒<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>上平平去平<pc n="lb"/>
+                    <pb n="37b"/>
+凭欄人<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>仄平平去上<pc n="lb"/>
+紅繡鞋<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>黄鍾尾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>仄仄平平去<hi>上聲第二著</hi>
+                    <pc n="lb"/>
+醉扶歸<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>迎仙客<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>朝天子<pc n="lb"/>
+快活三<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>四換頭<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>慶東原<pc n="lb"/>
+笑和尚<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>白鶴子<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>堯民歌<pc n="lb"/>
+碧玉簫<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>端正好<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>歩歩嬌<pc n="lb"/>
+                    <pb n="38a"/>
+<pc n="　"/>
+                    <pc n="　"/>仄仄仄平平<pc n="lb"/>
+新水令<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>胡十八<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>平平去平上<pc n="lb"/>
+越調尾<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>離亭宴<hi>歇指鴛鴦煞</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>平平仄仄平平<pc n="lb"/>
+天淨沙<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>醉中天<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>調笑令<pc n="lb"/>
+風入松<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>祅神急<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>仄平平仄平平去<pc n="lb"/>
+                    <pb n="38b"/>
+落梅風<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>上小樓<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>夜行船<pc n="lb"/>
+撥不斷<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>賣花聲<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>平仄仄平平平去<pc n="lb"/>
+太平令<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>平仄仄平平去上<hi>去平屬第二著</hi>
+                    <pc n="lb"/>
+村裏迓歌<pc n="　"/>
+                    <pc n="　"/>醉髙歌<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>梧葉兒<pc n="lb"/>
+沉醉東風<pc n="　"/>
+                    <pc n="　"/>願成雙<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>金蕉葉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>平平仄仄仄平平<pc n="lb"/>
+                    <pb n="39a"/>
+賺煞尾聲<pc n="　"/>
+                    <pc n="　"/>採茶歌<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>平平仄平平去平<pc n="lb"/>
+攪筝琶<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>平去仄平平去上<pc n="lb"/>
+江兒水<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>平平仄仄平平去<hi>上聲屬第二著</hi>
+                    <pc n="lb"/>
+寄生草<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>塞秋鴻<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>駐馬聽<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>仄仄平平去平上<pc n="lb"/>
+                    <pb n="39b"/>
+正宮中呂雙調尾聲<pc n="lb"/>
+定格<pc n="lb"/>
+<pc n="　"/>仙呂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>寄生草<hi>飲</hi>
+                    <pc n="lb"/>
+長醉後方何礙不醉時有甚思糟醃兩箇功名字醅渰<pc n="lb"/>
+千古興亡事麯埋萬丈虹蜺志不達時皆笑屈原非但<pc n="lb"/>
+知音盡說陶潜是<pc n="lb"/>
+<pc n="　"/>評曰命意造語下字俱好最是陶字屬陽恊音若以<pc n="lb"/>
+                    <pb n="40a"/>
+<pc n="　"/>淵明字則淵字唱作元字葢淵字屬隂有甚二字上<pc n="lb"/>
+<pc n="　"/>去聲盡說二字去上聲更妙虹蜺志陶潜是務頭也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>醉中天<pc n="lb"/>
+疑是楊妃在怎脫馬嵬災曽與明皇捧硯来美臉風流<pc n="lb"/>
+殺叵耐揮毫李白覷著嬌態洒松烟㸃破桃腮<pc n="lb"/>
+<pc n="　"/>評曰體詠最難音律調暢捧硯㸃破俱是上去聲妙<pc n="lb"/>
+<pc n="　"/>第四句末句是務頭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>醉扶歸<hi>秃指甲</hi>
+                    <pc n="lb"/>
+                    <pb n="40b"/>
+十指如枯筍和袖捧金樽搊殺銀筝字不真揉癢天生<pc n="lb"/>
+鈍縱有相思淚痕索把拳頭揾<pc n="lb"/>
+<pc n="　"/>評曰筍字若得去聲字好字不二字去上聲便不及<pc n="lb"/>
+<pc n="　"/>前詞音律餘無玼第四句末句是務頭<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>雁兒<pc n="lb"/>
+你有出世超凡神仙分一抹絛九陽巾君做箇真人<pc n="lb"/>
+<pc n="　"/>評曰此調極罕伯牙琴也妙在君字屬隂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>一半兒<hi>春粧</hi>
+                    <pc n="lb"/>
+                    <pb n="41a"/>
+自將楊栁品題人笑撚花枝比較春輸與海棠三四分<pc n="lb"/>
+再偷勻一半兒胭脂一半兒粉<pc n="lb"/>
+<pc n="　"/>評曰一様八首臨川陳克明所作俊詞也此調作者<pc n="lb"/>
+<pc n="　"/>雖衆音律獨先<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>金盞兒<hi>岳陽樓</hi>
+                    <pc n="lb"/>
+據胡床對瀟湘黄鶴送酒仙人唱主人無量醉何妨若<pc n="lb"/>
+捲簾邀皓月勝開宴出紅粧但一樽留墨客是兩處夢<pc n="lb"/>
+黄粮<pc n="lb"/>
+                    <pb n="41b"/>
+<pc n="　"/>評曰此是岳陽樓頭摺中詞也妙在七字黄鶴送酒<pc n="lb"/>
+<pc n="　"/>仙人唱俊語也況酒字上聲以轉其音務頭在其上也<pc n="lb"/>
+<pc n="　"/>有不識文義以送為齎送之義言黄鶴豈能送酒乎<pc n="lb"/>
+<pc n="　"/>改為對舞殊不知黄鶴事仙人用榴皮畵鶴一隻以<pc n="lb"/>
+<pc n="　"/>報酒家客飲撫掌則所畵黄鶴舞以送酒初無雙鶴<pc n="lb"/>
+<pc n="　"/>豈能對舞且失飲酒之意送者如吳姬壓酒之謂甚<pc n="lb"/>
+<pc n="　"/>矣俗士不可醫也<pc n="lb"/>
+<pc n="　"/>中呂<pc n="lb"/>
+                    <pb n="42a"/>
+<pc n="　"/>
+                    <pc n="　"/>迎仙客<hi>登樓</hi>
+                    <pc n="lb"/>
+雕簷紅日低畵棟綵雲飛十二玉䦨天外倚望中原思<pc n="lb"/>
+故國感慨傷悲一片鄉心碎<pc n="lb"/>
+<pc n="　"/>評曰妙在倚字上聲起音一篇之中唱此一字况務<pc n="lb"/>
+<pc n="　"/>頭在其上原思字屬隂感慨上去尤妙迎仙客累百<pc n="lb"/>
+<pc n="　"/>無此調也美哉徳輝之才名不虛傳<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>朝天子<hi>廬山</hi>
+                    <pc n="lb"/>
+早霞晩霞粧㸃廬山畵仙翁何處鍊丹砂一縷白雲下<pc n="lb"/>
+                    <pb n="42b"/>
+客去齋餘人来茶罷嘆浮生指落花楚家漢家做了漁<pc n="lb"/>
+樵話<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>紅繡鞋<hi>隐士</hi>
+                    <pc n="lb"/>
+歎孔子嘗聞俎豆羨嚴陵不事王侯百尺雲帆洞庭秋<pc n="lb"/>
+醉呼元亮酒懶上仲宣樓功名不掛口<pc n="lb"/>
+<pc n="　"/>評曰二詞對偶音律語句平仄俱好前詞務頭在人<pc n="lb"/>
+<pc n="　"/>字後詞妙在口字上聲務頭在其上知音傑作也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>普天樂<hi>别友</hi>
+                    <pc n="lb"/>
+                    <pb n="43a"/>
+浙江秋吴山夜愁隨潮去恨與山叠鴻雁来芙蓉謝冷<pc n="lb"/>
+雨青燈讀書舎怕離别又早離别今宵醉也明朝去也<pc n="lb"/>
+留戀些些<pc n="lb"/>
+<pc n="　"/>評曰妙在芙字屬陽取務頭造語音律對偶平仄皆<pc n="lb"/>
+<pc n="　"/>好看用叠字與别字俱是入聲作平聲字下得妥貼<pc n="lb"/>
+<pc n="　"/>可敬冷雨二字去上為上平上上上上去次之去去<pc n="lb"/>
+<pc n="　"/>屬下著讀書舍方是别友也又第八句是務頭也字<pc n="lb"/>
+<pc n="　"/>上聲妙<pc n="lb"/>
+                    <pb n="43b"/>
+<pc n="　"/>
+                    <pc n="　"/>喜春来<hi>春思</hi>
+                    <pc n="lb"/>
+閒花醖釀蜂兒蜜細雨調和燕子泥緑窓蝶夢覺来遅<pc n="lb"/>
+誰喚起簾外曉鶯啼<pc n="lb"/>
+<pc n="　"/>評曰調字遲字俱屬陽妙蜜字去聲好切不可上聲<pc n="lb"/>
+<pc n="　"/>但要喚字去聲起字平上皆可<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>滿庭芳<hi>春晚</hi>
+                    <pc n="lb"/>
+知音到此舞雩㸃也修禊羲之海棠春已無多事雨洗<pc n="lb"/>
+胭脂誰感慨蘭亭古紙自沉吟桃扇新詞急管催銀字<pc n="lb"/>
+                    <pb n="44a"/>
+哀絃玉指忙過了賞花時<pc n="lb"/>
+<pc n="　"/>評曰此一詞但取其平仄庶幾若此字是平聲屬第二<pc n="lb"/>
+<pc n="　"/>著喜羲字屬隂妙可惜第四第五句上下失粘妙在<pc n="lb"/>
+<pc n="　"/>紙字上聲起音扇字去聲取務頭若是紙字平聲<pc n="lb"/>
+<pc n="　"/>屬第二著扇字上聲止可作折桂令中一對多了急<pc n="lb"/>
+<pc n="　"/>管二字不成調得一意結之方好吁今之樂府難而<pc n="lb"/>
+<pc n="　"/>又難為格之詞不多見也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>十二月堯民歌<hi>别情</hi>
+                    <pc n="lb"/>
+                    <pb n="44b"/>
+自别後遥山隐隐更那堪逺水粼粼見楊栁飛綿滚滚<pc n="lb"/>
+對桃花醉臉醺醺透内閣香風陣陣掩重門暮雨紛紛<pc n="lb"/>
+怕黄昏不覺又黄昏不銷魂怎地不銷魂新啼痕壓舊<pc n="lb"/>
+啼痕斷膓人憶斷膓人今春香肌瘦幾分縷帶寛三寸<pc n="lb"/>
+<pc n="　"/>評曰對偶音律平仄語句皆妙務頭在後詞起句<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>四邉净<hi>西廂</hi>
+                    <pc n="lb"/>
+今宵歡慶軟弱鶯鶯可曽慣經款款輕輕燈下交鴛頸<pc n="lb"/>
+端詳著可憎好殺無乾净<pc n="lb"/>
+                    <pb n="45a"/>
+<pc n="　"/>評曰務頭在第二句及尾可憎俊語也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>醉髙歌<hi>感懐</hi>
+                    <pc n="lb"/>
+十年燕市歌聲幾㸃吴霜髩影西風吹老鱸魚興晩節<pc n="lb"/>
+桑榆暮景<pc n="lb"/>
+<pc n="　"/>評曰妙在㸃節二字上聲起音務頭在第二句及尾<pc n="lb"/>
+<pc n="　"/>南呂<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>四瑰玉<pc n="lb"/>
+買笑金纒頭錦得遇知音可人心怕逢狂客天生沁紐<pc n="lb"/>
+                    <pb n="45b"/>
+死鶴劈碎琴不害磣<pc n="lb"/>
+<pc n="　"/>評曰纒字屬陽妙對偶音調俱好詞也可宗務頭在<pc n="lb"/>
+<pc n="　"/>第二句及尾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>罵玉郎<pc n="　"/>感皇恩<pc n="　"/>採茶歌<hi>得書</hi>
+                    <pc n="lb"/>
+長江有盡思無盡空目斷楚天雲人来得紙真實信親<pc n="lb"/>
+手開在意讀從頭認<pc n="lb"/>
+織錦回文帶草連真意誠實心想念話慇懃佳期未准<pc n="lb"/>
+愁黛長顰怨青春捱白晝怕黄昏<pc n="lb"/>
+                    <pb n="46a"/>
+叙寒温問縁因斷膓人憶斷膓人錦字香粘新淚粉彩<pc n="lb"/>
+箋紅漬舊啼痕<pc n="lb"/>
+<pc n="　"/>評曰音律對偶平仄俱好妙在長字屬陽紙字上聲<pc n="lb"/>
+<pc n="　"/>起音務頭在上及感皇恩起句至斷膓句上<pc n="lb"/>
+<pc n="　"/>正宮<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>醉太平<hi>感懐</hi>
+                    <pc n="lb"/>
+人皆嫌命窘誰不見錢親水晶丸入<graphic n="KR1287" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1287.png" mimeType="image/png"/>糊盆纔粘拈便<pc n="lb"/>
+衮文章糊了盛錢囤門庭改做迷魂陣清亷貶入睡餛<pc n="lb"/>
+                    <pb n="46b"/>
+飩葫蘆提倒稳<pc n="lb"/>
+<pc n="　"/>評曰窘字若平屬第二著平仄好務頭在三對末句<pc n="lb"/>
+<pc n="　"/>收之<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>塞鴻秋<hi>春怨</hi>
+                    <pc n="lb"/>
+腕氷消鬆却黄金釧粉脂殘淡了芙蓉面紫霜毫蘸濕<pc n="lb"/>
+端溪硯斷膓詞寫在桃花扇風輕栁絮天月冷梨花院<pc n="lb"/>
+恨鴛鴦不鎖黄金殿<pc n="lb"/>
+<pc n="　"/>評曰音律瀏亮貴在却濕二字上聲音從上轉取務<pc n="lb"/>
+                    <pb n="47a"/>
+<pc n="　"/>頭也韻脚若用上聲屬下著切不可以傳竒中全句<pc n="lb"/>
+<pc n="　"/>比之若得天字屬陽更妙在字上聲尤佳<pc n="lb"/>
+<pc n="　"/>商調<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>山坡羊<hi>春睡</hi>
+                    <pc n="lb"/>
+雲鬆螺髻香温鴛被掩春閨一覺傷春睡栁花飛小瓊<pc n="lb"/>
+姬一片聲雪下呈祥瑞把團圓夢兒生喚起誰不做美<pc n="lb"/>
+呸却是你<pc n="lb"/>
+<pc n="　"/>評曰意度平仄俱好止欠對耳務頭在第七句至尾<pc n="lb"/>
+                    <pb n="47b"/>
+<pc n="　"/>
+                    <pc n="　"/>梧葉兒<hi>别情</hi>
+                    <pc n="lb"/>
+别離易相見難何處鎖雕鞍春將去人未還這其間殃<pc n="lb"/>
+及殺愁眉淚眼<pc n="lb"/>
+<pc n="　"/>評曰如此方是樂府音如破竹語盡意盡冠絶諸詞<pc n="lb"/>
+<pc n="　"/>妙在這其間三字承上接下了無瑕玼殃及殺三字<pc n="lb"/>
+<pc n="　"/>俊哉語也有言六句俱對非調也殊不知第六句止<pc n="lb"/>
+<pc n="　"/>用三字歌至此音促急欲過聲以聽末句不可加也<pc n="lb"/>
+<pc n="　"/>兼三字是務頭字有顯對展才之調眼字上聲尤妙<pc n="lb"/>
+                    <pb n="48a"/>
+<pc n="　"/>平聲屬第二著<pc n="lb"/>
+<pc n="　"/>越調<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>天净沙<hi>秋思</hi>
+                    <pc n="lb"/>
+枯籐老樹昏鴉小橋流水人家古道西風瘦馬夕陽西<pc n="lb"/>
+下斷膓人在天涯<pc n="lb"/>
+<pc n="　"/>評曰前三對更瘦馬二字去上極妙秋思之祖也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>小桃紅<hi>情</hi>
+                    <pc n="lb"/>
+斷膓人寄斷膓詞詞寫心間事事到頭来不由自自尋<pc n="lb"/>
+                    <pb n="48b"/>
+思思量往日真誠志志誠是有有情誰似似俺那人兒<pc n="lb"/>
+<pc n="　"/>評曰頂真妙且音律諧和<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>凭䦨人<hi>章臺行</hi>
+                    <pc n="lb"/>
+花陣贏輪隨鏝生桃扇炎凉逐世情雙郎空藏瓶小卿<pc n="lb"/>
+一塊氷<pc n="lb"/>
+<pc n="　"/>評曰陣有贏輸扇有炎凉俊語也妙在小字上聲務<pc n="lb"/>
+<pc n="　"/>頭在上鏝世二字去聲皆妙<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>寨兒令<hi>漁夫</hi>
+                    <pc n="lb"/>
+                    <pb n="49a"/>
+烟艇閒雨簔乾漁翁醉醒江上還啼鳥闗闗流水潺潺<pc n="lb"/>
+樂似富春山數聲柔櫓江灣一鈎香餌波寒回頭觀兔<pc n="lb"/>
+魄失憶放魚竿看流下蓼花灘<pc n="lb"/>
+<pc n="　"/>評曰緊要在兔魄二字去上取音且看字屬隂妙還<pc n="lb"/>
+<pc n="　"/>字平聲好若上聲紐屬下下著<pc n="lb"/>
+<pc n="　"/>雙調<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>沉醉東風<hi>漁夫</hi>
+                    <pc n="lb"/>
+黄蘆岸白蘋渡口緑楊堤紅蓼灘頭雖無刎頸交却有<pc n="lb"/>
+                    <pb n="49b"/>
+忘機友㸃秋江白鷺沙鷗傲殺人間萬户侯不識字烟<pc n="lb"/>
+波釣叟<pc n="lb"/>
+<pc n="　"/>評曰妙在楊字屬陽以起其音取務頭殺字上聲以<pc n="lb"/>
+<pc n="　"/>轉其音至下户字去聲以承其音緊在此一句承上<pc n="lb"/>
+<pc n="　"/>接下末句收之刎頸二字若得上去聲尤妙萬字若<pc n="lb"/>
+<pc n="　"/>得上聲更好<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>落梅風<hi>切鱠</hi>
+                    <pc n="lb"/>
+金刀利錦鯉肥更那堪玉葱纎細若得醋来風韻美試<pc n="lb"/>
+                    <pb n="50a"/>
+嘗著這生滋味<pc n="lb"/>
+<pc n="　"/>評曰第三句承上二句第四句承上三句生末句緊<pc n="lb"/>
+<pc n="　"/>要美字上聲為妙以起其音切不可平聲錦鯉二字<pc n="lb"/>
+<pc n="　"/>若得上去聲尤妙<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>撥不斷<hi>隐居</hi>
+                    <pc n="lb"/>
+利名竭是非絶紅塵不向門前惹綠樹偏宜屋角遮青<pc n="lb"/>
+山正補墻頭缺竹籬茅舍<pc n="lb"/>
+<pc n="　"/>評曰務頭在三對急以尾收之<pc n="lb"/>
+                    <pb n="50b"/>
+<pc n="　"/>
+                    <pc n="　"/>水仙子<hi>夜雨</hi>
+                    <pc n="lb"/>
+一聲梧葉一聲秋一㸃芭蕉一㸃愁三更歸夢三更後<pc n="lb"/>
+落燈花棊未收嘆新豐逆旅淹留枕上十年事江南二<pc n="lb"/>
+老憂都在心頭<pc n="lb"/>
+<pc n="　"/>評曰賦者甚多但第二句第五字第六字及棊未二<pc n="lb"/>
+<pc n="　"/>字并二老二字但得上去為上平去次之平上下下<pc n="lb"/>
+<pc n="　"/>著惜哉此詞語好而平仄不稱也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>慶東原<hi>竒遇</hi>
+                    <pc n="lb"/>
+                    <pb n="51a"/>
+參旗動斗柄挪為多情攬下風流禍眉攢翠蛾裙拖絳<pc n="lb"/>
+羅襪冷凌波耽驚怕萬千般得受用些兒箇<pc n="lb"/>
+<pc n="　"/>評曰冷字上聲妙務頭在上轉急以對收斗柄二字<pc n="lb"/>
+<pc n="　"/>上去妙落梅風得此起二句平仄尤妙<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>雁兒落<pc n="　"/>徳勝令<hi>指甲摘</hi>
+                    <pc n="lb"/>
+宜將鬭草尋宜把花枝浸宜將綉線勻宜把金針絍<pc n="lb"/>
+宜操七絃琴宜結兩同心宜託腮邉玉宜圏鞋上金難<pc n="lb"/>
+禁得一掐通身沁知音治相思十箇針<pc n="lb"/>
+                    <pb n="51b"/>
+<pc n="　"/>評曰俊詞也平仄對偶音律皆妙務頭在徳勝令起<pc n="lb"/>
+<pc n="　"/>句頭字要屬陽及在中一對後必要扇面對方好<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>殿前歡<hi>醉歸来</hi>
+                    <pc n="lb"/>
+醉歸来入門下馬笑盈腮笙歌接至珠簾外夜宴重開<pc n="lb"/>
+十年前一秀才黄虀菜打熬做文章伯江湖氣慨風月<pc n="lb"/>
+情懐<pc n="lb"/>
+<pc n="　"/>評曰妙在馬字上聲笑字去聲一字上聲秀字去聲<pc n="lb"/>
+<pc n="　"/>歌至才字音促黄字急接且要陽字好氣慨二字若<pc n="lb"/>
+                    <pb n="52a"/>
+<pc n="　"/>得去上尤妙三對者非也自有三對之調伯字若得<pc n="lb"/>
+<pc n="　"/>去聲尤妙<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>慶宣和<hi>五栁庄</hi>
+                    <pc n="lb"/>
+五栁庄前陶令宅大似彭澤無限黄花有誰戴去来去<pc n="lb"/>
+来<pc n="lb"/>
+<pc n="　"/>評曰妙在彭字屬陽僅二十二字愈字少愈難作五<pc n="lb"/>
+<pc n="　"/>字絶句法也佳詞與雁兒同意<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>賣花聲<hi>香茶</hi>
+                    <pc n="lb"/>
+                    <pb n="52b"/>
+細研片腦梅花粉新剥珍珠豆蔻仁依方修合鳳團春<pc n="lb"/>
+醉魂清爽舌尖香嫩這孩兒那些風韻<pc n="lb"/>
+<pc n="　"/>評曰俊詞也務頭在對起及尾<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>清江引<hi>九日</hi>
+                    <pc n="lb"/>
+蕭蕭五株門外栁屈指重陽又霜清紫蠏肥露冷黄花<pc n="lb"/>
+瘦白衣不来琴當酒<pc n="lb"/>
+<pc n="　"/>評曰栁酒二字上聲極是切不可作平聲曽有人用<pc n="lb"/>
+<pc n="　"/>拍拍滿懐都是春語固俊矣然歌為都是蠢甚遭譏<pc n="lb"/>
+                    <pb n="53a"/>
+<pc n="　"/>誚若用之於攪筝琶以四字承之有何不可第三句<pc n="lb"/>
+<pc n="　"/>切不可作仄仄平平屬下著<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>折桂令<hi>金山寺</hi>
+                    <pc n="lb"/>
+長江浩浩西来水面雲山山上樓臺山水相連樓䑓上<pc n="lb"/>
+下天地安排詩句就雲山失色酒杯寛天地㤀懐醉眼<pc n="lb"/>
+睁開回首蓬萊一半雲遮一半烟埋<pc n="lb"/>
+<pc n="　"/>評曰此詞稱賞者衆妙在色字上聲以起其意平聲<pc n="lb"/>
+<pc n="　"/>便屬第二著平聲若是陽字僅可若是隂字愈無用<pc n="lb"/>
+                    <pb n="53b"/>
+<pc n="　"/>矣歌者毎歌天地安排為天巧安排失色字為用色<pc n="lb"/>
+<pc n="　"/>取其便於音而好唱也改此平仄極是然前引雲山<pc n="lb"/>
+<pc n="　"/>天地後說雲山失色天地忘懐若此則損其意失其<pc n="lb"/>
+<pc n="　"/>對矣安排上天地二字若得去上為上上去次之餘<pc n="lb"/>
+<pc n="　"/>無用矣葢務頭在上失色字若得去上為上餘者風<pc n="lb"/>
+<pc n="　"/>斯下矣若全句是平平上上歌者不能改矣嗚呼前<pc n="lb"/>
+<pc n="　"/>軰尚有此失後學可不究乎<pc n="lb"/>
+套數<pc n="lb"/>
+                    <pb n="54a"/>
+<pc n="　"/>雙調<hi>秋思</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>夜行船<pc n="lb"/>
+百嵗光隂如夢蝶重回首往事堪嗟昨日春来今朝花<pc n="lb"/>
+謝急罰盞夜䦨燈滅<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>喬木查<pc n="lb"/>
+秦宫漢闕都做了衰草牛羊野不恁漁樵無話說縱荒<pc n="lb"/>
+墳横斷碑不辨龍蛇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>慶宣和<pc n="lb"/>
+                    <pb n="54b"/>
+投至狐踪與兎穴多少豪傑鼎足三分半腰折魏耶晉<pc n="lb"/>
+耶<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>落梅風<pc n="lb"/>
+天教富莫太奢無多時好天良夜看錢奴硬將心似鐵<pc n="lb"/>
+空辜負錦堂風月<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>風入松<pc n="lb"/>
+眼前紅日又西斜疾似下坡車曉来清鏡添白雪上床<pc n="lb"/>
+和鞋履相别莫笑鳩巢計拙葫蘆提一恁粧呆<pc n="lb"/>
+                    <pb n="55a"/>
+<pc n="　"/>
+                    <pc n="　"/>撥不斷<pc n="lb"/>
+利名竭是非絶紅塵不向門前惹綠樹偏宜屋角遮青<pc n="lb"/>
+山正補墻頭缺竹籬茅舍<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>離亭宴歇<hi>指雙鴛鴦煞尾聲</hi>
+                    <pc n="lb"/>
+蛩吟一覺纔寧貼雞鳴萬事無休歇争名利何年是徹<pc n="lb"/>
+密匝匝蟻排兵亂紛紛蜂釀蜜閙穰穰蠅爭血裴公緑<pc n="lb"/>
+野堂陶令白蓮社愛秋来那些和露摘黄花帶霜烹紫<pc n="lb"/>
+蠏煮酒燒紅葉人生有限杯幾箇登髙節囑付俺頑童<pc n="lb"/>
+                    <pb n="55b"/>
+記者便北海探吾来道東籬醉了也<pc n="lb"/>
+<pc n="　"/>評曰此詞乃東籬馬致逺先生所作也此方是樂府<pc n="lb"/>
+<pc n="　"/>不重韻無襯字韻險語俊諺曰百中無一余曰萬中<pc n="lb"/>
+<pc n="　"/>無一看他用蝶穴傑别竭絶字是入聲作平聲闕說<pc n="lb"/>
+<pc n="　"/>鐵雪拙缺貼歇徹血節字是入聲作上聲㓕月葉是入<pc n="lb"/>
+<pc n="　"/>聲作去聲無一字不妥後軰學法<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+                    <pb n="56a"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>中原音韻巻下<pc n="lb"/>
+<pb n="56b"/>
+                </p>
+<p>
+</p>
+</div>
+            <div>
+  <p>
+    <pc n="lb"/>
+                    
+    中原音韻後序<pc n="lb"/>
+    泰定甲子秋予既作中原音韻并起例以遺青原蕭存<pc n="lb"/>
+    存未幾訪西域友人瑣非復初同志羅宗信見餉携東<pc n="lb"/>
+    山之妓開北海之樽於時英才若雲文筆如槊復初舉<pc n="lb"/>
+    觴命謳者歌樂府四塊玉至彩扇歌青樓飲宗信止其<pc n="lb"/>
+    音而謂予曰彩字對青字而歌青字為晴吾揣其音此<pc n="lb"/>
+    字合用平字聲必欲揚其音而青字乃抑之非也疇昔<pc n="lb"/>
+    嘗聞蕭存存言君所著中原音韻乃正語作詞之法以<pc n="lb"/>
+                    <pb n="1a"/>
+    别隂陽字義予因大笑越席捋其鬚而言曰信哉吉之<pc n="lb"/>
+    多士而君又士之俊者也嘗遊江海觀其稱豪傑者非<pc n="lb"/>
+    富即貴求能正其音之訛顧其曲之誤者鮮矣復初前<pc n="lb"/>
+    驅紅袖而自用調歌曰買笑金纒頭錦以證其非復初<pc n="lb"/>
+    知某則是矣乃復歎曰予作樂府三十年未有如今日<pc n="lb"/>
+    之遇宗信知某曲之非某曲之是也舉首四顧螺山之<pc n="lb"/>
+    色鷺渚之波為之改容遂捧巨觴於二公之前口占折<pc n="lb"/>
+    桂詞一闋煩皓齒歌以送之以報其能賞音也明當盡<pc n="lb"/>
+                    <pb n="1b"/>
+    攜音韵的本并諸起例以歸知音調曰宰金頭黒脚<pc n="lb"/>
+    天䳘客有鍾期座有韓娥吟既能吟聽還能聽歌也能<pc n="lb"/>
+    歌和白雪新来較可放行雲飛去如何醉覩銀河燦燦<pc n="lb"/>
+    蟾孤㸃㸃星多歌既畢客醉予亦大醉莫知所云挺齋<pc n="lb"/>
+    周徳清書<pc n="lb"/>
+  <pb n="2a"/>
+                </p>
+  <p>
+  </p>
+</div>  
+</body>
+</text>
+</TEI>

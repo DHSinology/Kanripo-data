@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+              <teiHeader>
+                  <fileDesc>
+                     <titleStmt>
+                        <title>Title</title>
+                     </titleStmt>
+                     <publicationStmt>
+                        <p>Information about publication or distribution</p>
+                     </publicationStmt>
+                     <sourceDesc>
+                        <p>Information about the source</p>
+                     </sourceDesc>
+                  </fileDesc>
+              </teiHeader>
+              <text>
+                  <body>
+            
+<div>
+<head>伸䝉子卷上</head>
+    <p>
+<pc n="lb"/>
+                    
+欽定四庫全書<pc n="lb"/>
+<pc n="　"/>伸䝉子卷上<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>唐<pc n="　"/>林慎思<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>槐里辨三篇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>上篇凡五章<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>彰變<hi>賞罰喻妖祥</hi>
+                    <pc n="lb"/>
+                    <pc n="　"/>
+                    <hi>興衰喻良暴</hi>
+                    <pc n="lb"/>
+干禄先生<hi>本作<graphic n="KR3765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3765.png" mimeType="image/png"/>
+                        <graphic n="KR3887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3887.png" mimeType="image/png"/>
+                    </hi>問王道興衰由天之厯數有諸伸䝉子<pc n="lb"/>
+曰非天也人也曰星有妖祥天所示也不使妖見唐虞<pc n="lb"/>
+                    <pb n="1a"/>
+祥呈幽厲豈非天職興衰不亂亦妖祥均耶曰里有良<pc n="lb"/>
+吏暴吏損益于民也不由牧政之心焉然則政之不亂<pc n="lb"/>
+也不使罰及忠信賞歸苛酷矣是賞罰均于政也而良<pc n="lb"/>
+暴豈由于政哉是興衰係乎君人猶良暴係乎里吏則<pc n="lb"/>
+天示妖祥頋非均于賞罰邪豈使妖見唐虞祥呈幽厲<pc n="lb"/>
+歟則知化妖祥者由乎天變興衰者由乎人故曰非天<pc n="lb"/>
+也人也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>辯治<hi>治大易治小難</hi>
+                    <pc n="lb"/>
+                    <pb n="1b"/>
+干禄先生曰治千乗之國與十室之邑孰難伸䝉子曰<pc n="lb"/>
+國易曰何以然哉曰治大以智治小以力智役衆人力<pc n="lb"/>
+窮一身然則勞衆孰與勞己之難乎夫工于材也有繩<pc n="lb"/>
+墨焉有斧斤焉繩墨以智也斧斤以力也布䋲墨豈不<pc n="lb"/>
+易于運斧斤之勞乎矧繩墨誤猶可移斤斧誤其可移<pc n="lb"/>
+哉治國施教令非布繩墨邪治邑承教令非運斤斧邪<pc n="lb"/>
+則治國孰與于治邑之勞乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喻民<hi>古今化民難易</hi>
+                    <pc n="lb"/>
+                    <pb n="2a"/>
+干禄先生曰古民難化于今民乎伸䝉子曰今人易化<pc n="lb"/>
+曰古民性朴今民性詐安得詐易于朴邪曰朴止也詐<pc n="lb"/>
+流也止猶土也流猶水也水可决使東西乎土可决使<pc n="lb"/>
+東西乎且嬰兒未有知也性無朴乎丱兒已有知也性<pc n="lb"/>
+無詐乎聖人養天下之民猶養兒也則古民嬰然未有<pc n="lb"/>
+知也今民丱然已有知也化已有知孰與化未有知之<pc n="lb"/>
+難乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>演喻<pc n="lb"/>
+                    <pb n="2b"/>
+干禄先生曰子謂今民易化何唐堯獨彰于古邪伸䝉<pc n="lb"/>
+子曰吾所謂古民難化性猶土也土不移移則墝埆生<pc n="lb"/>
+矣今民易化性猶水也水可導導則其源清矣是以古之<pc n="lb"/>
+民雖唐堯在上終不能化頑嚚使有知今之民有堯之<pc n="lb"/>
+化孰有頑嚚之難化乎故曰今民易化也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>較功<pc n="lb"/>
+干禄先生曰吾聞昔者嬴噬六國劉剪一項較其功孰<pc n="lb"/>
+難伸䝉子曰嬴難曰六國誤于儀秦之辨嬴因其敝而<pc n="lb"/>
+                    <pb n="3a"/>
+取之奚其難曰吾聞秦原有鹿獵師不能獲焉一旦猛<pc n="lb"/>
+虎殺而棄之然後獵師爭而取之矣且殺之者生鹿也<pc n="lb"/>
+争之者死鹿也嬴噬六國是虎殺生鹿劉剪一項是獵<pc n="lb"/>
+師争死鹿也與其得死鹿于劉孰若得生鹿于嬴之難<pc n="lb"/>
+乎然嬴不二世而劉四百年得生鹿之虎又孰如得死<pc n="lb"/>
+鹿之獵師乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>中篇凡四章<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>演聖<pc n="lb"/>
+                    <pb n="3b"/>
+知道先生<hi>本作<graphic n="KR4162" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4162.png" mimeType="image/png"/>
+                        <graphic n="KR4160" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4160.png" mimeType="image/png"/>
+                    </hi>問仲尼不得封楚不患無土乎伸䝉子<pc n="lb"/>
+曰仲尼得于楚不為有土失于楚不為無土何則鰌居<pc n="lb"/>
+之水鯤不可止也鸎巢之林鵬不可棲也故仲尼無土<pc n="lb"/>
+于一時有土于萬代也且生遇無道則天下猶小不容<pc n="lb"/>
+仲尼也矧一楚國何益乎苟生遇有道則陋巷非隘可<pc n="lb"/>
+封仲尼也雖百楚國何及乎所以仲尼之道髙大無窮<pc n="lb"/>
+焉亘萬代而乃容非一時之能容矣苟以一時封楚是<pc n="lb"/>
+鯤止鰌水鵬棲鸎林既莫能容也孰為有土乎所以亘<pc n="lb"/>
+                    <pb n="4a"/>
+萬代而乃容果遇有道而封也孰為無土乎故儒行曰<pc n="lb"/>
+儒有不祈土地立禮義以為土地則知仲尼不得封楚<pc n="lb"/>
+不患無土明矣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>喻時<pc n="lb"/>
+知道先生曰仲尼登泰山小天下其然乎伸䝉子曰然<pc n="lb"/>
+曰天覆無窮惡謂小邪曰以時觀之而小也夫越巨川<pc n="lb"/>
+遇昏暝之時望十里之岸如在數步之中是豈川之隘<pc n="lb"/>
+乎盖昏暝觀之而然也仲尼生于周末厯聘七十國莫<pc n="lb"/>
+                    <pb n="4b"/>
+能容者非天下昏暝乎天下昏暝觀之而小不亦宜哉<pc n="lb"/>
+若使仲尼生于陶唐之代則君如日也天下皆晝也天<pc n="lb"/>
+下惡得而小哉故曰以時觀之而小矣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>全明<pc n="lb"/>
+知道先生曰吾聞仲尼日月也伐木于宋削跡于衛有<pc n="lb"/>
+損于明乎伸䝉子曰何損哉夫盜者習于昏黒也見明<pc n="lb"/>
+則惡之盖不利其盜矣宋衛是習昏黒者也見仲尼則<pc n="lb"/>
+惡之盖不利宋衛之盜矣盜自盜也日月仲尼何損哉<pc n="lb"/>
+                    <pb n="5a"/>
+曰厯聘無用于天下有損于明乎曰何損哉夫人之寐<pc n="lb"/>
+也見明則避之所以不用日月也是時天下諸侯皆寐<pc n="lb"/>
+見仲尼則避之所以不用仲尼矣寐自寐也日月仲尼<pc n="lb"/>
+何損之有<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>遷善<pc n="lb"/>
+知道先生曰吾聞伊尹放太甲于桐宫有諸伸䝉子曰<pc n="lb"/>
+于書有之曰臣放君忠乎曰太甲始立不肖伊尹放之<pc n="lb"/>
+可也曰桀紂不肖龍逢比干惡不放歟曰桀紂大不肖<pc n="lb"/>
+                    <pb n="5b"/>
+也安能放哉曰吾聞狸能捕鼠不能捕狗則伊尹其捕<pc n="lb"/>
+鼠邪伸䝉子莞爾而笑曰先生聞良馬有害人者乎良<pc n="lb"/>
+御必能維縶以馴伏其性也聞猛虎有噉人者乎武士<pc n="lb"/>
+安能囚拘以馴伏其性邪太甲不肖猶良馬也伊尹則<pc n="lb"/>
+可維縶以遷于善也桀紂不肖猶猛虎也龍逢比干豈<pc n="lb"/>
+可囚拘以遷于善乎知道先生釋然曰誠哉吾子可謂<pc n="lb"/>
+知言矣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>下篇凡五章<pc n="lb"/>
+                    <pb n="6a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>明化<hi>隨其才性而化</hi>
+                    <pc n="lb"/>
+求已先生<hi>本作<graphic n="KR3879" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3879.png" mimeType="image/png"/>
+                        <graphic n="KR3175" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3175.png" mimeType="image/png"/>
+                    </hi>問人之善惡能化而遷乎伸䝉子曰遷<pc n="lb"/>
+矣曰性有剛柔天然也猶火可遷于水邪曰善不在柔<pc n="lb"/>
+惡不在剛也火能炮燔亦能為災水能潤澤亦能為沴<pc n="lb"/>
+及其遷也化灾為炮燔化沴為潤澤豈在化火為水乎<pc n="lb"/>
+人之善惡隨化而遷也必能反善為惡反惡為善矣孟<pc n="lb"/>
+母正己以化于孟軻及其遷也非反惡為善邪齊桓大<pc n="lb"/>
+功而化于竪刁及其遷也非反善為惡邪所謂人之善<pc n="lb"/>
+                    <pb n="6b"/>
+惡隨化而遷不亦明乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>廣賢<pc n="lb"/>
+求已先生曰周公吐哺以急賢然未聞賢肖周公何為<pc n="lb"/>
+急邪伸䝉子曰周公以急賢之心要四方之心不在肖<pc n="lb"/>
+周公而急之也若必肖周公而方急之則無賢可急何<pc n="lb"/>
+以要四方之心乎夫賈者積金市物聞鬻者之聲則必<pc n="lb"/>
+躍然而近之雖物不合賈者亦償金而取焉所以不阻<pc n="lb"/>
+四方之物也不阻四方之物則四方之心嚮焉周公設<pc n="lb"/>
+                    <pb n="7a"/>
+禮以待士聞有士之名則必欣然而迎之雖士不及周<pc n="lb"/>
+公亦下禮而接焉所以不阻四方之士也不阻四方之<pc n="lb"/>
+士則四方之心歸焉則知急賢之心要四方之心也豈<pc n="lb"/>
+有肖周公而後急之邪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>較仁<pc n="lb"/>
+求已先生曰善治天下與善治國者其語大則曰堯仁<pc n="lb"/>
+如天周徳至矣然稽其勤治之心昌及于勛邪伸䝉子<pc n="lb"/>
+曰論其位則勛崇較其仁則昌至先生囅然曰昌民得<pc n="lb"/>
+                    <pb n="7b"/>
+及勛民之樂邪曰勛民雖樂不及昌民喜也曰噫昌之<pc n="lb"/>
+時辛方縱毒天下之民皆罹其苦遇昌徳化猶酷父之<pc n="lb"/>
+子其伯叔私撫焉當是時幸其偷生亦憂且懼矣寧謂<pc n="lb"/>
+喜邪勛之時水不為沴天下之民皆忘其咨又遇勛仁<pc n="lb"/>
+化猶沃壤之苗而甘澤復加焉當是時生意滋茂泰且<pc n="lb"/>
+樂矣寜無喜邪曰先生聞齊相養士三千乎聞晉臣飯<pc n="lb"/>
+桑下餓人乎餓困而得食與食厭而得魚孰急乎五帝<pc n="lb"/>
+之民以時治為常遇勛之仁豈非食厭而得魚歟商末<pc n="lb"/>
+                    <pb n="8a"/>
+之民以時亂為常遇昌之徳豈非餓困而得食歟故謂<pc n="lb"/>
+勛民雖樂不及昌民喜也亦明矣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>持危<pc n="lb"/>
+求已先生曰四皓遁跡避時名髙後代酌其傲君而䖏<pc n="lb"/>
+私賂而出非罪人邪伸䝉子曰正天下也何罪之有曰<pc n="lb"/>
+徇吕氏以矯髙祖是躡邪徑而背直道何反謂正哉曰<pc n="lb"/>
+用邪扶正也且大厦之欹也必欹其木以扶之然後正<pc n="lb"/>
+矣方髙祖欲廢嫡立庶太子勢搖羣臣心動是時天下<pc n="lb"/>
+                    <pb n="8b"/>
+政柄将失所持四皓心是危急可以正之惡能忍其危<pc n="lb"/>
+哉所以徇吕后謀從孝恵出是謂用邪扶正不甚至歟<pc n="lb"/>
+苟為不然則從其廢嫡立庶戚氏得以惑亂一人侮蔑<pc n="lb"/>
+萬樞欲漢室不危難矣又安得傳其後嗣哉則知四皓<pc n="lb"/>
+始而䖏者非傲君也辭天爵也終而出者非私賄也正<pc n="lb"/>
+天下也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>利用<pc n="lb"/>
+求已先生曰治民之用恩刑恩刑之利孰最伸䝉子曰<pc n="lb"/>
+                    <pb n="9a"/>
+刑最曰刑施而民怨其利邪恩施而民悦其不利邪曰<pc n="lb"/>
+恩施于民民既民矣刑施于民民不民矣且民既民恩<pc n="lb"/>
+不加民自化也民不民刑不加民誰禦哉譬處家而治<pc n="lb"/>
+羣下焉下之良者雖恩賞不至且未失于良矣下之惡<pc n="lb"/>
+者苟刑責不及孰可制其惡哉是知治民用刑為最<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <graphic n="KR3765" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3765.png" mimeType="image/png"/>
+                    <graphic n="KR3887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3887.png" mimeType="image/png"/>
+                    <hi>本注槐里有干禄先生始隠髙山獨懐古節不徇時態嘗語人曰吾逢有道則出無</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <hi>道則隠今遇昭代吾不能違遂出以干禄為字然而棲遲法度進退容儀未嘗忘山</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <hi>故字從山</hi>
+                    <pc n="lb"/>
+                    <pb n="9b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <graphic n="KR4162" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4162.png" mimeType="image/png"/>
+                    <graphic n="KR4160" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4160.png" mimeType="image/png"/>
+                    <hi>本注槐里有知道先生自謂進退有時吾不妄動是以自謂知道盖有樂水之癖凡</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <hi>居處視聽以泉源池沼為樂故字從水表徳也</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <graphic n="KR3879" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3879.png" mimeType="image/png"/>
+                    <graphic n="KR3175" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3175.png" mimeType="image/png"/>
+                    <hi>本注槐里有求已先生陋巷固窮學道無倦嘗曰莫邪器成不磨礪其刃安能剸犀</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <hi>截鐡君子晦迹不磨礪其道安能顯揚故號求已先生字從石</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+                    <pb n="10a"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>伸䝉子巻上<pc n="lb"/>
+<pb n="10b"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+<head>伸䝉子卷中</head>
+    <p>
+<pc n="lb"/>
+                    
+欽定四庫全書<pc n="lb"/>
+<pc n="　"/>伸䝉子卷中<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>唐<pc n="　"/>林慎思<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>澤國紀三篇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>上篇凡五章<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>辯刑<pc n="lb"/>
+𢎞文先生<hi>本作<graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                        <graphic n="KR4165" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4165.png" mimeType="image/png"/>
+                    </hi>曰有道之君刑孰峻于無道之君乎伸<pc n="lb"/>
+䝉子曰有道之君刑峻曰何不聞堯舜暴虐桀紂寛仁<pc n="lb"/>
+                    <pb n="1a"/>
+乎曰水火不暴于虎狼也然水火之為峻也必能滔湧<pc n="lb"/>
+天地焚燎山川而人不蹈也狼虎之為峻也止于呀風<pc n="lb"/>
+吼霧噬獸啗人矣豈及水火之大歟所以水火仁于人<pc n="lb"/>
+而人頼之不見其峻也狼虎害于人而人畏之故見其<pc n="lb"/>
+峻也有道之君猶水火然無道之君猶狼虎然狼虎不<pc n="lb"/>
+及水火之大豈不明乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>合天<pc n="lb"/>
+𢎞文先生曰秦人焚書坑儒以愚黔首意其帝萬世矣<pc n="lb"/>
+                    <pb n="1b"/>
+而亡不旋踵何邪伸䝉子曰天亡之也吾聞順天者存<pc n="lb"/>
+逆天者亡天生羲農黄帝堯舜為道之宗又生禹湯文<pc n="lb"/>
+武周公孔子為道之主其言式萬代其政訓百王譬日<pc n="lb"/>
+月不可揜山川不可遷也秦人姍笑先王絶棄禮法悉<pc n="lb"/>
+舉而燔之使天下之人横目蚩蚩無知識無防節是日<pc n="lb"/>
+月晦蝕山川崩裂天怒人怨有㓕亡之形而人不知也<pc n="lb"/>
+一夫呼七廟堕秦焚書是自焚矣秦坑儒是自坑矣世<pc n="lb"/>
+未有合天而亡逆天而存者也故曰秦之亡天也<pc n="lb"/>
+                    <pb n="2a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>去亂<pc n="lb"/>
+𢎞文先生曰秦并仁義鞭笞天下為後代所醜何其烈<pc n="lb"/>
+歟伸䝉子曰天俾秦然所以甚其罪而去天下之亂也<pc n="lb"/>
+當六國相強二周皆弱此時已亡仁義唯尚戰争故天<pc n="lb"/>
+下大亂不一其主也天俾秦并而一之又不能守故天<pc n="lb"/>
+下復一于漢所以去天下之亂也曰秦曷不尚仁義以<pc n="lb"/>
+守之歟曰仁義者秦人之所諱也秦以山西之習起而<pc n="lb"/>
+馳驅中原惟知干戈弓矢之為利也惡識仁義哉天厭<pc n="lb"/>
+                    <pb n="2b"/>
+六國之亂而使秦并之天又厭秦之亂而漢得之南方<pc n="lb"/>
+有蚖縱毒于路而里人惟養鴆以吞之秦之亡六國是<pc n="lb"/>
+鴆之吞蚖也北方有虎食人與獸武士設檻以殺之秦<pc n="lb"/>
+之自亡是虎之投檻也安有亂而不亡乎故曰天之俾<pc n="lb"/>
+秦然所以甚其罪而去天下之亂也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鏡㫖<pc n="lb"/>
+𢎞文先生曰秦有寳鏡照人肝膽能使左右前後蓄不<pc n="lb"/>
+㢘不忠之心者於是鏡皆有不隠若使後代帝王有是<pc n="lb"/>
+                    <pb n="3a"/>
+鏡也則不廉不忠之人得肆于前後左右邪伸䝉子曰<pc n="lb"/>
+不然是鏡凶鏡也于秦為不忠甚矣斯由之父子髙樂<pc n="lb"/>
+之翁壻裒凶鞠頑懐諼飾詐朝夕出入于宫庭之内其<pc n="lb"/>
+為不廉不忠孰甚焉而是鏡曽不能照其奸偽之一毫<pc n="lb"/>
+則是凶鏡也又何以取于後代乎秦尚法律焚詩書肆<pc n="lb"/>
+虐于人上危亡之不暇矣况乎賊盜阻山義兵四起天<pc n="lb"/>
+下族謀以亡秦而是鏡且不能照之其為不忠莫甚焉<pc n="lb"/>
+秦負鏡哉鏡負秦哉<pc n="lb"/>
+                    <pb n="3b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>鑒㫖<pc n="lb"/>
+𢎞文先生曰三代衰亡垂鑒千古何後代有踵其亡哉<pc n="lb"/>
+伸䝉子曰三代之季鑒于有道不鑒于無道也且居起<pc n="lb"/>
+欲奢鑒之而反儉威刑于暴鑒之而反仁畋逰欲縱鑒<pc n="lb"/>
+之而反禮聲色欲荒鑒之而反徳是猶鑒治國之政而<pc n="lb"/>
+成有道之基矣反是猶盜賊之類晝觀刑戮于市暮行<pc n="lb"/>
+誅刼于衢豈刑戮能使之鑒邪盖盜賊之心不可移也<pc n="lb"/>
+雖知夕必禍身而朝且殺人矣是謂三代之季鑒于有<pc n="lb"/>
+                    <pb n="4a"/>
+道不鑒于無道也<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>中篇凡三章<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>演忠<pc n="lb"/>
+如愚子曰<hi>本作<graphic n="KR4149" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4149.png" mimeType="image/png"/>
+                        <graphic n="KR4148" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4148.png" mimeType="image/png"/>
+                    </hi>比干何如臣乎伸䝉子曰忠也曰比干<pc n="lb"/>
+諫不止致辛有否賢之罪名落千古而為後代之所醜<pc n="lb"/>
+斯實陷君于不義惡為忠乎曰辛為君塗炭生民是時<pc n="lb"/>
+天下之心皆欲亡商興周盖商之朝猶有賢人賢人存<pc n="lb"/>
+則商不亡商未亡為天下僇是以比干知存無益故力<pc n="lb"/>
+                    <pb n="4b"/>
+諫以就死惡不為忠乎曰知存無益胡不逃去逃去則<pc n="lb"/>
+商無賢人無賢人則辛自亡矣惡有剖賢人之罪為千<pc n="lb"/>
+古醜歟曰苟使逃去則無忠臣死諫之名垂于後代也<pc n="lb"/>
+且比干非不知辛禍胎已長勢不可止盖不忍不止則<pc n="lb"/>
+竭忠諫之諫之不聽亦欲垂明鏡于後代則辛有剖賢<pc n="lb"/>
+人之罪得無鑒戒于後代邪是以比干之忠不獨忠于<pc n="lb"/>
+一時而亦忠于後代矣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>明諫<pc n="lb"/>
+                    <pb n="5a"/>
+如愚子曰夷齊諫周武欲存商紂其為義乎伸䝉子曰<pc n="lb"/>
+然曰商紂肆湯火之威下民罹煎熬之痛周武不忍而<pc n="lb"/>
+伐之是時天下咸欲速兵救世何夷齊獨諫周武之伐<pc n="lb"/>
+存商紂之暴而為義乎曰夷齊之諫不獨吐一時之忠<pc n="lb"/>
+抑垂千古之戒也且人皆曰紂可伐也獨夷齊不以為<pc n="lb"/>
+然者其意不亦深乎故諫不貴納于一時之周武而貴<pc n="lb"/>
+納于後代之諸侯不貴存于一時之商紂而貴存于後<pc n="lb"/>
+代之王室知後代王室必有肖商紂之暴後代諸侯必<pc n="lb"/>
+                    <pb n="5b"/>
+有習周武之志故損身諷諫用譏後代伐君者恐中損<pc n="lb"/>
+身之譏無生易國之志此非夷齊之意深乎若謂止周<pc n="lb"/>
+武縱商紂為心是不能立昭代之謀救下民之難而遁<pc n="lb"/>
+跡餓死真曰愚矣後聖曷稱為賢哉盖立謀救難不乏<pc n="lb"/>
+其臣所以去之将持終身之仁用全諷諫之道故有知<pc n="lb"/>
+者謂之仁義不其然乎迨後幽厲有商紂之暴不為諸<pc n="lb"/>
+侯易其國是恐中損身之譏也故得周室不翅于卜數<pc n="lb"/>
+非由夷齊忠諫所致哉如愚子釋然曰夷齊之意深矣<pc n="lb"/>
+                    <pb n="6a"/>
+有傚夷齊者惟知慕夷齊去周之名豈知懐夷齊全周<pc n="lb"/>
+之義乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>辯惑<pc n="lb"/>
+如愚子曰吾聞君子不惑小人多惑有諸伸䝉子曰人<pc n="lb"/>
+無不惑盖君子知其所惑而不惑矣小人不知其所惑<pc n="lb"/>
+而惑矣曰吾聞古之帝王蓄貨財淫酒色未有不亡國<pc n="lb"/>
+喪身矣所以桀紂幽厲皆由是也矧臣民士庶由是而<pc n="lb"/>
+亡家喪身多矣得不為惑歟曰是不知其所惑矣而惑<pc n="lb"/>
+                    <pb n="6b"/>
+遂至喪亡焉設使君如堯舜臣如夷齊士如顔閔前設<pc n="lb"/>
+糟邱酒池之樂後陳鹿臺銅山之貨左右列妲己褒姒<pc n="lb"/>
+之容安能亂堯舜之徳汚夷齊之風染顔閔之行而至<pc n="lb"/>
+喪亡乎如愚子崛然寤曰誠哉人無不惑在知與不知<pc n="lb"/>
+耳<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>下篇凡二章<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>分賢<pc n="lb"/>
+盧乳子曰<hi>本作<graphic n="KR2760" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2760.png" mimeType="image/png"/>
+                        <graphic n="KR4166" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4166.png" mimeType="image/png"/>
+                    </hi>陶朱公何如父乎伸䝉子曰賢也曰中<pc n="lb"/>
+                    <pb n="7a"/>
+男殺人不命長男持金如楚誠知其無用之矣然而長<pc n="lb"/>
+男竟將以行曽無教訓之言迨及其反則笑曰吾必知<pc n="lb"/>
+殺其弟矣是事往後言惡得賢邪曰人性勇怯非教導<pc n="lb"/>
+能移也且雷霆倐閃聲騰百里則勇者神不搖怯者眼<pc n="lb"/>
+先慓當是時也人非神之不欲搖如其怯何陶朱公知<pc n="lb"/>
+長男恡棄財之性不可移也所以不命其行及其行也<pc n="lb"/>
+豈可敎導以移其恡哉曰然則安得不奪其行邪曰苟<pc n="lb"/>
+奪其行則先見自殺其子也先自殺其子之名則不見<pc n="lb"/>
+                    <pb n="7b"/>
+棄財之性又安能明陶朱公不命其子之心乎所以陶<pc n="lb"/>
+朱公之賢由是而分矣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>彰明<pc n="lb"/>
+盧乳子曰吾聞子夏哭子喪明有諸伸䝉子曰喪明而<pc n="lb"/>
+明益彰矣曰喪而益彰何如曰子夏之道全于四科垂<pc n="lb"/>
+于千古而哭其子喪其明書于禮曰吾過矣則千古之<pc n="lb"/>
+人共見之孰不以子夏哭子喪明而鑒哉能正天下之<pc n="lb"/>
+為人父者乎所以喪明明于古人非明益彰邪<pc n="lb"/>
+                    <pb n="8a"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <graphic n="KR0008" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0008.png" mimeType="image/png"/>
+                    <graphic n="KR4165" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4165.png" mimeType="image/png"/>
+                    <hi>本注澤國有𢎞文先生當時兵冦入皆負戈甲獨子嗜文或曰方事甲戈安用𢎞文</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <hi>對曰吾以𢎞文為甲戈故字從戈甲</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <graphic n="KR4149" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4149.png" mimeType="image/png"/>
+                    <graphic n="KR4148" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4148.png" mimeType="image/png"/>
+                    <hi>本注澤國有如愚子生于田家家本農業獨子捨農而務學慕顔淵徳行遂名如愚</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <hi>親族譏其忘本乃曰吾張耒耜于教學有無可待矣故名字從耒文也</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <graphic n="KR2760" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2760.png" mimeType="image/png"/>
+                    <graphic n="KR4166" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4166.png" mimeType="image/png"/>
+                    <hi>本注澤國有盧乳子家居山中慕黄老方外之術鍊形息氣恬淡無為師仙人盧乳</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <hi>脩真之法而又自隠于陶故字皆從瓦</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>伸䝉子卷中<pc n="lb"/>
+<pb n="8b"/>
+                </p>
+<p>
+</p>
+  </div>
+<div>
+<head>伸䝉子卷下</head>
+    <p>
+<pc n="lb"/>
+                    
+欽定四庫全書<pc n="lb"/>
+<pc n="　"/>伸䝉子卷下<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>唐<pc n="　"/>林慎思<pc n="　"/>撰<pc n="lb"/>
+<pc n="　"/>時喻二篇<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>上篇凡八章<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>明性<pc n="lb"/>
+韶夏之聲人非不知可敬而不能嗜也鄭衛之聲人非<pc n="lb"/>
+不知可去而不能捨也何哉可敬者禮節也禮則難行<pc n="lb"/>
+                    <pb n="1a"/>
+故人不能嗜矣可去者非禮也非禮易惑故人不能捨<pc n="lb"/>
+矣是以演先王之教不得人之樂者教難行也吐倡優<pc n="lb"/>
+之辭皆得人之喜者辭易惑也惡有聖徒能乗其心者<pc n="lb"/>
+後易惑而難行哉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>刺奢<pc n="lb"/>
+一樹之花人爭盼焉一株之棘人争忌焉且人皆愛花<pc n="lb"/>
+之鮮妍不知鮮妍能誘人為驕奢之患矣人皆忌棘之<pc n="lb"/>
+傷害不知傷害能誡人行正直之路矣嗚呼驕奢事極<pc n="lb"/>
+                    <pb n="1b"/>
+則花為禍人之根者也正直路存則棘為利人之本者<pc n="lb"/>
+也而人不知忌于花而忌于棘噫其惑人也久矣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>顯防<pc n="lb"/>
+居暗室而望明庭者雖隔簾幙而妍醜亦辨矣居明庭<pc n="lb"/>
+而視暗室者雖去簾幙而美惡不分矣故君子居其顯<pc n="lb"/>
+進退不違規矩也脱有一失則庸昧者皆見而譟矣小<pc n="lb"/>
+人處其昧動作皆為非僻也曽無一是雖尊顯者誰見<pc n="lb"/>
+而誅是以古之聖賢立道光顯為後代所瞻矚使無一<pc n="lb"/>
+                    <pb n="2a"/>
+失者得不由防其譟之邪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>伺難<pc n="lb"/>
+舟行防覆溺之患伺無風波則越重溟如池沼矣車行<pc n="lb"/>
+防鹵掠之患伺無冦盜則踰脩嶺如康荘矣君子行其<pc n="lb"/>
+道則先防惡人伺其善則交之豈知有行善而蓄惡者<pc n="lb"/>
+難伺甚于風波冦盜乎及中路罹其謗譖則何啻于舟<pc n="lb"/>
+車之遇溺掠邪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>治難<pc n="lb"/>
+                    <pb n="2b"/>
+習幻惑之徒蓄其異術每一呼吸皆能變寒為暑變正<pc n="lb"/>
+為非矣習焚鍊之徒蓄其神方每一施用皆能變石為<pc n="lb"/>
+金變土為銀矣然外物榮枯貴賤猶能變之而已身榮<pc n="lb"/>
+枯貴賤不能變之何邪信知治外物之易而治己身之<pc n="lb"/>
+難也今有人行文行忠信之道能言于人而不能行于<pc n="lb"/>
+己與夫習幻惑焚鍊之徒何如是知巧婦之手不能飾<pc n="lb"/>
+醜為容壯夫之力不能拔賤為貴<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>審類<pc n="lb"/>
+                    <pb n="3a"/>
+負樵蘓者日跨崇巔不吿吾勞矣乗麒驥者一渉脩途<pc n="lb"/>
+則吾倦矣非負樵者不勞而不告吿之無聽于人焉乗<pc n="lb"/>
+馬者一倦而吁則吁有聞于人焉是以處上位者不見<pc n="lb"/>
+下民之艱一有不快其心者則吁聞于天下矣噫豈知<pc n="lb"/>
+下民終日勞心而無吿于上乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>遠化<pc n="lb"/>
+日月之照孰曰偏邪而瞽者不被日月矣雷霆之震孰<pc n="lb"/>
+曰隐邪而聵者不戴雷霆矣聖人以恩信臨人豈得昧<pc n="lb"/>
+                    <pb n="3b"/>
+于天下乎盖習叛者瞽于恩信也刑法示人豈得黙于<pc n="lb"/>
+天下乎盖習盜者聵于刑法也嗚呼恩信非不博刑法<pc n="lb"/>
+非不大而叛民盜吏瞽聵于下豈恩信刑法能化乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>譏惑<pc n="lb"/>
+絲蟲常絲也絆人之身孰曰喜邪梟鳥常舌也鳴人之<pc n="lb"/>
+面孰曰怪邪以其為喜未聞歸福于亂以其為怪未聞<pc n="lb"/>
+降禍于徳是豈蟲鳥之動有徴邪盖為小人觀聽不能<pc n="lb"/>
+無惑耳則知妖容露于人人皆愛也豈知絆人之心為<pc n="lb"/>
+                    <pb n="4a"/>
+疾乎嗔語示于人人皆惡也豈知鳴人之過為誡乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>下篇凡八章<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>由天<pc n="lb"/>
+趙女有巧飾容者越女見之謂傾國之態難移矣豈知<pc n="lb"/>
+習之而反自勝邪郢人有善調歌者巴人聞之謂貫珠<pc n="lb"/>
+之音可奪矣豈知習之而反不及邪且顔容喉舌天然<pc n="lb"/>
+也妍醜清濁豈有同乎盖以齊莊運動不得無師矣仲<pc n="lb"/>
+尼昔師于老氏也後設其教則大于老氏焉是師其齊<pc n="lb"/>
+                    <pb n="4b"/>
+莊也妍醜豈由于老氏乎韓非李斯昔師于荀卿也後<pc n="lb"/>
+行其道則反於荀卿焉是師其運動也清濁豈由於荀<pc n="lb"/>
+卿乎若使人有能否可褒責其師也則妍醜清濁亦可<pc n="lb"/>
+移于人不由天矣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>警惑<pc n="lb"/>
+投數爭輸贏一有勝之者則呵而怒矣卜聲伺凶吉一<pc n="lb"/>
+有不善者則慄而懼矣投之卜之皆我為也而數與聲<pc n="lb"/>
+豈有情于我乎夫區區于名利之途者朝出暮入投一<pc n="lb"/>
+                    <pb n="5a"/>
+章卜一句宜為人所知矣及其不知也則或憤或戚焉<pc n="lb"/>
+噫殊不知自為之也豈知知道之人而無憤無戚邪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>辨功<pc n="lb"/>
+傭治粟者雖役力求精曾不得其嘗焉傭治膳者雖不<pc n="lb"/>
+勞力自精亦先得其嘗焉矧治粟功至僅免于誅也治<pc n="lb"/>
+膳功至又加其賞焉何則治粟猶四方外臣也治膳猶<pc n="lb"/>
+左右内臣也外不及内而然也噫使眀目達聰鑒難易<pc n="lb"/>
+于内外而賞罰豈有謬加者乎<pc n="lb"/>
+                    <pb n="5b"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>慎名<pc n="lb"/>
+終身為善而善未必聞卒有一惡歸之則為善之名敗<pc n="lb"/>
+矣終身為惡而惡不可揜卒有一善歸之則為惡之名<pc n="lb"/>
+弭矣鯀之職非不專也一旦功不至反戾其職矣管仲<pc n="lb"/>
+之謀非不僭也一旦功既霸反髙其謀也嗚呼服玩之<pc n="lb"/>
+器重于千金也忽壊則棄糞壤焉稗草之叢蔓于茸蘭<pc n="lb"/>
+也忽食則同糓粟焉<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>指常<pc n="lb"/>
+                    <pb n="6a"/>
+啗官之膳以膳為常雖疊嵗飯之而心無荷焉啗人之<pc n="lb"/>
+饌以饌為異雖一旦飯之而心長感焉人在治代則以<pc n="lb"/>
+聚樂為常也疊嵗受唐虞之化孰有荷乎人在亂代則<pc n="lb"/>
+以聚樂為異也一旦被湯武之徳孰無感乎嗟夫徒知<pc n="lb"/>
+感異恩於一旦豈知荷常徳于疊歲邪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>指公<pc n="lb"/>
+郡起虎狼之暴雖隔他郡聞之亦咸有懼心也地産珠<pc n="lb"/>
+玉之珍雖隔異地聞之亦咸有嗜心也一有能殺狼虎<pc n="lb"/>
+                    <pb n="6b"/>
+者衆聞之莫不喜一有能得珠玉者衆聞之莫不嫉盖<pc n="lb"/>
+殺者去衆害公其利也得者奪衆好私其利也且人心<pc n="lb"/>
+皆知喜公而嫉私也使能得是公去是私而與衆人喜<pc n="lb"/>
+而不嫉者㡬人乎<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>諷失<pc n="lb"/>
+設穽于路用去害焉害未及去而人過之反為害矣稅<pc n="lb"/>
+金于市用化利焉利未及化而人叛之反失利矣且養<pc n="lb"/>
+其卒非捕民之冦盜邪冦盜未必由卒捕也而先盡民<pc n="lb"/>
+                    <pb n="7a"/>
+之父子焉條其吏非勸民之農桑邪農桑未必由吏勸<pc n="lb"/>
+也而先奪民之粟帛焉斯不亦用去害而為害化利而<pc n="lb"/>
+失利歟嗚呼韓非説難嵇康養生亦㡬于是矣<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>書誤<pc n="lb"/>
+鑿井於路傍用濟路人之渇一有堕之者則罪鑿井焉<pc n="lb"/>
+立署于河側用𣙜商賈之利一有危之者則反徳立署<pc n="lb"/>
+焉然鑿井至仁而反不仁立署至不仁而反仁邪所反<pc n="lb"/>
+者皆誤而然也是以力仁之人苟防其誤則不得其仁<pc n="lb"/>
+                    <pb n="7b"/>
+矣力不仁之人不防其誤則不全其不仁矣嗚呼吾見<pc n="lb"/>
+今為不仁但多防誤者矣孰見今為仁有不防誤者邪<pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+                    <pb n="8a"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="lb"/>
+<pc n="　"/>伸䝉子卷下<pc n="lb"/>
+<pb n="8b"/>
+                </p>
+<p>
+</p>
+  </div>
+        </body>
+</text>
+</TEI>

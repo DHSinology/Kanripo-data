@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Information about publication or distribution</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+    <p>
+
+                    <hi>雨也从水蒙別作霥非
+                        <graphic n="KR3013" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3013.png" mimeType="image/png"/>生衣也从酉冡別作䴿非悤多遽悤悤也从心囱別作忩非倉紅切㚇斂足也从夊兇別作/非祖紅切文四稯布之八十縷也从禾㚇別作緵非堫種也从土㚇別作䎫非</hi>
+                    <pc n="lb"/>
+                    <pb n="1a"/>
+                    <pb n="1b"/>
+                    <pb n="1b"/>
+                    <hi>沖涌揺也从水中別作冲种竝非直弓切腫血也从血䢉省或作膿別作癑非奴冬切衝通道也从行童別作衝非昌容切襛衣厚皃从衣䢉別作穠非尼容切龍鱗蟲之長从肉飛之形童省別作龍竝非力鍾切<pc n="lb"/>
+                        <pb n="1b"/>鏠兵耑也从金逢別作鋒非敷容切文四㷭燧候表也从火逢別作烽非蠭飛蟲螫人者从䖵逢別作蜂非使也从彳/夆別作非雝雝<graphic n="KR3893" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3893.png" mimeType="image/png"/>也从隹邕別作雍噰嗈竝非於容切文三邕四方有水自邕城池者从川邑別作壅非癰腫<pc n="lb"/>
+                        <pb n="2a"/>也从疒雝別作臃非㼸器也从瓦容別作非餘封切文三墉城垣也从土庸別作䧡非猛獸也从豸庸別作㺎非邛地名也从邑工別作笻非渠容切逢遇也从辵峯省別作逄非符容切又歩江切<pc n="lb"/>
+                        <pb n="2b"/>鏦矛也从金從或作䤸別作非七恭切又楚江切杠石橋也从木工別作矼非古雙切腔肉空也从肉空别作羫非苦江切雙隹二枚也从雔又持之作雙竝非所江切邦國也从邑丰別作邦非博江切<pc n="lb"/>
+                        <pb n="3a"/>囱在屋曰囱或作窗䆫别作牎非楚江切橦帳極也从木童別作幢俗宅江切胑體四胑也从肉只或作肢別作竝非章移切䙾司人也从見它別作竝非式支切文四軙也从攴也別作<graphic n="KR4256" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4256.png" mimeType="image/png"/>㪉竝非䌳粗緒也从糸璽別作絁<pc n="lb"/>
+                        <pb n="3b"/>非鉈短矛也从金它別作/鍦竝非又食遮切籭竹器也从竹麗別作篩非所宜切斯析也从斤其別作廝㒋竝非息移切
+                        <graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>不相值也从左<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>別作差从匕非又楚宐切文二
+                        <graphic n="KR1686" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1686.png" mimeType="image/png"/>齒參<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>也从/齒<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>別作非</hi>
+                    <pc n="lb"/>
+                    <pb n="4a"/>
+                    <pb n="4b"/>
+                    <hi>周行也从网米或作同武移切別作穼音深竈突也文二镾久長也从長爾別作彌非鬻鍵也从䰜米武悲切今別作粥音之六切以鬻音余六切訓賣也別以麋爲䭈麋字譌麋鹿屬也糜糝也从米麻別作<graphic n="KR2730" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2730.png" mimeType="image/png"/>/竝非靡為切文二
+                        <graphic n="KR1265" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1265.png" mimeType="image/png"/>穄<pc n="lb"/>
+                        <pb n="4b"/>也从黍麻別作麇非跂足多指也从足支別作歧非巨移切隓敗城<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>
+                        或/作<graphic n="KR2330" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2330.png" mimeType="image/png"/>別作墮非許規切規有法度也从夫見別作䂓槼竝非均窺切文二巂周燕也从隹<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>㕯別作雉鳺竝非又户圭切<pc n="lb"/>
+                        <pb n="5a"/>窺小視也从穴規別作竝非去隓切踦一足也从<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>竒又旅寓也別作羇非去竒切齍黍稷在器以祀者从皿齊別作璾非即夷切旌旗指也从手靡別作麾非許爲切虧气損也从亏雐或作虧別作虧非去為切<pc n="lb"/>
+                        <pb n="5b"/>葰䕬屬从艸俊別作荽荾竝非息遺切墀涂地也从土犀別作非直尼切尼從後近之从尸匕別作非女夷切
+                        <graphic n="KR3393" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3393.png" mimeType="image/png"/>
+                        也从隹氐別/作非處脂切胝腄也从肉氐別作疷䟡竝非張尼切<pc n="lb"/>
+                        <pb n="6a"/>鬌髮隋也从髟隋省別作非直追切纍綴得理也一曰大索从糸畾別作縲非力追切文二欙山行所乗者从木纍別作樏非夔神魖如龍一足从夊象形别作非渠追切文二戣周禮侍臣執戣从戈癸別作鍨非</hi>
+                    <pc n="lb"/>
+                    <pb n="6b"/>
+                    <pb n="7a"/>
+                    <hi>欹持去也从支奇別作欹非去奇切齝吐而噍也从齒台別作非丑之切枱耒耑也从木台別作/非盈之切文三飴米煎也別作䬮<graphic n="KR0961" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0961.png" mimeType="image/png"/>竝非詒相欺詒一曰遺也別作貽俗醫治病工也殹惡姿也一曰病聲从酉酒所以治病也別作毉从巫</hi>
+                    <pc n="lb"/>
+                    <pb n="8a"/>
+                    <pb n="8b"/>
+                    <hi>束也从<graphic n="KR3182" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3182.png" mimeType="image/png"/>韋俗作从束非于非切
+                        <graphic n="KR2304" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2304.png" mimeType="image/png"/>以血有所刉祭也別作禨非渠稀切虚大丘也从丘虍別作墟非丘如切又朽居切岨石山戴土也从山且別作砠非七余切文二䏣蠅乳肉中也从肉且別作蛆非<pc n="lb"/>
+                        <pb n="8b"/>鴡王鴡也从鳥且別作睢非鉏立薅所用也从金且別作鋤非七魚切豬豕也从豕者又水所停者別作猪瀦竝非陟魚切䟽通也从㐬別作踈非所菹切摴舒也又摴蒲戲也从手雩別作攄非丑居切文二<pc n="lb"/>
+                        <pb n="9a"/>㯉木也一曰惡木也从木虖今作㯉乎化切與檴同以其皮裹松脂者専布也从寸甫別作旉非芳無切文二左扶風縣也从邑麃作鄜非余語之舒也从八舍省以諸成遮二切別作予非文二輿車也从車舁别作轝非<pc n="lb"/>
+                        <pb n="9b"/>鳬舒鳧鶩也从鳥几俗作鳬从几非房無切臞少肉也俗肉瞿俗作癯非其居切文七鴝鵒也从鳥句別作鸜非躍行皃从足瞿別作忂非跔夭寒足跔从<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>句別作跼非鑺㦸屬也从金瞿別作瞿非斪斫也从斤/句別作非<pc n="lb"/>
+                        <pb n="10a"/>走顧皃从走瞿別作䞤非柎䦨足也从木付別作跗趺竝非甫無切吁驚也从口于又冕也殷曰吁別作/<graphic n="KR1168" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1168.png" mimeType="image/png"/>竝非况于切須面毛也从頁彡借爲所須字別作/鬚非相俞切又作須荒内切與沬同芻刈艸也象包束艸之形別作蒭並非䆫俞切</hi>
+                    <pc n="lb"/>
+                    <pb n="10b"/>
+                    <pb n="11a"/>
+                    <hi>爲茗此即今之茶字鑪方鑪也从金盧別作爐非洛乎切也从黍古或作䊀別作糊竝非户吳切烏考鳥也象形別作嗚非哀都切麤行超逺也从三鹿此非精粗字別作麄非倉胡切文三<pc n="lb"/>
+                        <pb n="12a"/>粗䟽也从米且別作麆觕竝非又徂古切穌把取禾器也从禾魚一曰/死而更生別作甦非素孤切利也从金別/作非徂奚切氐至也从氏下一一地也一曰下也都兮切又丁禮切/別作低非古文二隄塘也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>是俗用堤非堤音丁禮切滯也</hi>
+                    <pc n="lb"/>
+                    <pb n="12b"/>
+                    <pb n="13a"/>
+                    <hi>谿山瀆無所通者从谷奚別作溪非苦兮切麑狻麑也从鹿兒別作猊非五雞切
+                        <graphic n="KR1290" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1290.png" mimeType="image/png"/>反手擊也从手別作批非匹齊切
+                        <graphic n="KR2666" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2666.png" mimeType="image/png"/>牢也所以拘非也从非陛/省別作狴竝非邉兮切非聲也从言斯省別作嘶非先稽切</hi>
+                    <pc n="lb"/>
+                    <pb n="14a"/>
+                    <pb n="14b"/>
+                    <hi>咼口戾不正也从口冎別作喎竝非苦媧切柴小木𣪚材从木此師行野次豎木爲區落名曰柴蘺後人語譌轉入去聲別作寨者非士皆切階陛也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>皆別作堦非古諧切椑籍也从木卑別作牌非部皆切/又歩迷切圜榼也歩<graphic n="KR2026" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2026.png" mimeType="image/png"/>切親身棺也<pc n="lb"/>
+                        <pb n="14b"/>賔弥𥘉柹也薶瘞也从艸貍別作埋非莫皆切回轉也从口中象回轉之形別作徊廻竝非户恢切文二蛕腹中長蟲也从虫有別作蛔非灰死火餘也从火又別作灰从厂非呼恢切</hi>
+                    <pc n="lb"/>
+                    <pb n="15a"/>
+                    <pb n="15b"/>
+                    <hi>肧婦孕一月也从肉不別作胚非朘赤子隂也从肉夋或从血別作非子回切曲頥也从頁不別作䯱䪹䫊竝非蒲枚切臺觀四方而髙者从至从之从高省別作䑓非徒哀切文二菭水衣也从艸治別作苔非<pc n="lb"/>
+                        <pb n="15b"/>思容也又頷也从囟从心別作腮顋䰄竝非穌来切又息玆切眞僊人變形而登天也从匕从目从<graphic n="KR2122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2122.png" mimeType="image/png"/>八所乗載也別作真非側鄰切謓恚也从言眞昌意切別作嗔非嗔他年切水渡也从水<graphic n="KR2638" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2638.png" mimeType="image/png"/>別/作津俗將鄰切文二璉石之似玉者从玉進別作瑨非<pc n="lb"/>
+                        <pb n="16a"/>瀕水厓人所賔附頻戚不前而止从頁渉别作濵非符眞切文三薲大萍也从艸賓別作蘋非玭珠也从玉比或作別作非份文質倫也从人分古文作彬別作斌以文配武過爲啚淺又作贇音頵亦於義無取悲申切</hi>
+                    <pc n="lb"/>
+                    <pb n="16b"/>
+                    <pb n="17a"/>
+                    <pb n="18a"/>
+                    <hi>筋肉之力也从力从肉从竹別作䈥非居銀切㹞犬吠聲从犬斤別作狺非語巾切麇麞也从鹿囷省籀文不省別作麏非居筠切文錯畫也象交文別作紋非無分切文二低目視也又郷名从<graphic n="KR2138" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2138.png" mimeType="image/png"/>門/別作閿竝非<pc n="lb"/>
+                        <pb n="19a"/>                        <graphic n="KR1846" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1846.png" mimeType="image/png"/>除田間薉也从耒員或/作別作耘俗羽文切䋣馬尾飾也从糸每別作繁俗附袁切文二燓燒田也从火棥別作焚非又符分切壎樂器也以土爲之六孔从土熏別作塤非況袁切文三煖温也从火爰別作暄非吅驚呼也</hi>
+                    <pc n="lb"/>
+                    <pb n="19b"/>
+                    <pb n="20a"/>
+                    <hi>㡓也从巾軍或作褌/別作裩非古渾切文二䖵蟲之總名从二虫別作蜫非炮肉也以微火温肉从火衣作煾非烏痕切奔走也从夭賁省別作犇非博昆切豚小豕也从彖省象形从又持肉或作豚同別作㹠非徒魂切文二<pc n="lb"/>
+                        <pb n="21a"/>髀也从尸下丌几或作脽竝同別作臋非奠酒器也从酉廾以奉之或从寸俗爲尊卑之尊別作罇撙竝非祖昆切邨地名也从邑屯別作村非此尊切怒也詆也大也勉也又一成爲敦立江東呼地高堆爲別作墪<pc n="lb"/>
+                        <pb n="21b"/>非都昆切虋赤苗嘉榖也从艸釁别作<graphic n="KR1666" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1666.png" mimeType="image/png"/>非莫奔切豻胡地野犬名从豸干或作犴別作貋犴竝非河干切乾出上也从乙从倝別作乹漧竝非古寒渠焉二切單大也从吅卑吅聲卑闕都寒切又上演切別作非<pc n="lb"/>
+                        <pb n="22a"/>闌門遮也从門柬別作欄攔竝非洛干切寛屋大也从宀莧別作寛竝非苦官切冠絭也弁冕之緫名从冖从元从寸別作冠非古丸切攢積竹杖也从木贊別/作攅从手非才官切文二菆麻烝也一曰蓐也从艸取案周禮爲塗菆字別用攅非又側鳩切<pc n="lb"/>
+                        <pb n="22b"/>彎持弓關矢也从弓<graphic n="KR1163" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1163.png" mimeType="image/png"/>別作灣非烏關切鍰鋝也从金爰虞書曰罸百鍰別作鐶非胡關切文二環璧也玉好若一謂之環別作鐶非辬駁文也从文辡今用班从與刀分瑞玉也別作斑非逋還切髮皃从髟臱別作鬘非莫班切又莫賢切<pc n="lb"/>
+                        <pb n="23a"/>掔固也从手臤別作慳非苦閖切文二
+                        <graphic n="KR3454" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3454.png" mimeType="image/png"/>狠視也从二見肩別作覸非</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>下平聲<pc n="lb"/>
+<hi>箋表識書也从竹戔別作牋非則前切歬不行而進謂之歬从止在舟上隷作前昨先切</hi>
+                    <pc n="lb"/>
+                    <pb n="23b"/>
+                    <pb n="24a"/>
+                    <hi>賢多才也从貝臤別作贒非胡田切文二弓弦也从弓从<graphic n="KR0975" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0975.png" mimeType="image/png"/>象形別作絃非豜三歲豕肩相及者从豕开別作<graphic n="KR2210" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2210.png" mimeType="image/png"/>非古賢切䅌麥莖也从禾䏍別作非古玄切縣繫也从系持<graphic n="KR3649" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3649.png" mimeType="image/png"/>借爲州縣之縣別作懸加心非胡㳙切<pc n="lb"/>
+                        <pb n="25a"/>長生去从人別作仙非相然切遷登也从辵別作/迁竝非七然切㳄慕欲口液口从水欠別作涎非叙連切然燒也从火肰別作燃非如延切廛一畆半一家之居从厂从里从八从土別作鄽壥竝非直延切<pc n="lb"/>
+                        <pb n="25b"/>攐摳衣也从手褰別作攓非去䖍切文三愆過也从心衍或作㥶諐別作愆非褰絝也从衣/寒省別作非緜聯微也从系帛別作綿非武延切仝完也从入工或作玉純玉曰仝道書以仝爲同字疾縁切銓衡也从金全別作硂拴竝非此縁切</hi>
+                    <pc n="lb"/>
+                    <pb n="26a"/>
+                    <pb n="26b"/>
+                    <hi>圜天體也从囗睘王權切俗用圓非圓王問切鷙鳥也从鳥屰別作鳶鶚竝非與專切又五各切捲气勢也从手卷國語曰有捲勇一曰收也巨貟切今俗作居轉切以爲舒捲之捲文三曲角也从角/别作非䟒行䟒逯也一曰行曲脊皃从走雚別作非<pc n="lb"/>
+                        <pb n="26b"/>貂鼠屬大而黄黒出胡丁零國从豸召別作鼦非都僚切
+                        <graphic n="KR3277" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3277.png" mimeType="image/png"/>斛旁有<graphic n="KR3277" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3277.png" mimeType="image/png"/>从斗一曰突也一/曰利也爾雅曰<graphic n="KR3277" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3277.png" mimeType="image/png"/>謂之疀古田器也別作<graphic n="KR3277" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3277.png" mimeType="image/png"/>鍫竝/非土雕切文二佻愉也从人从兆別作恌非
+                        <graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>艸木實垂<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>
+                        <graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>然象形徒遼切別作卣非又由酉二音<pc n="lb"/>
+                        <pb n="27a"/>鼂匽鼂也从黽从旦或作从別作晁非直遥切竂穿也从穴尞別作寮非洛簫切猋犬走皃从三犬爾雅貝居陸曰猋在水曰蜬別作贆非甫遥切摇動也从手䍃別作颻非余招切文四繇隨從也从系从䍃別作繇繇竝非䍃徒歌也从/言别作謠</hi>
+                    <pc n="lb"/>
+                    <pb n="27b"/>
+                    <pb n="28a"/>
+                    <hi>茮莍也从艸尗別作椒非子寮切从水朝省隷作潮俗直遥切肴啖也从肉爻別作餚非胡茅切茅菅也从艸矛別作茆非莫交切文二貓狸屬从豸苗別作猫非<pc n="lb"/>
+                        <pb n="29a"/>巢鳥在木上曰巢在穴曰窠从木从巛从<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>象形別作非鉏交切䈰飯器也从竹捎別作筲非所交切豕鬛如筆管者从从高籀文作豪又九江郡古鍾離國隋改作州別作濠毫竝非乎刀切鈔又取也从金少別作抄非楚交切又楚教切</hi>
+                    <pc n="lb"/>
+                    <pb n="29b"/>
+                    <pb n="30a"/>
+                    <hi>夒貪獸也一曰母猴从人从頁已止夊象形別作猱非奴刀切
+                        <graphic n="KR1311" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1311.png" mimeType="image/png"/>獄之兩曹也从日从㯥隷作曹俗作曺非昨牢切丁反丂也丂气欲舒出上礙於一也反丂气己舒也別作呵非虎何切詑欺也从言它別作訑竝非徒何切文三它虫也象形或作佗負何也別作他从人也非蛇本與它<pc n="lb"/>
+                        <pb n="31a"/>同或从虫它俗作食遮切別作虵非衰艸雨衣也从衣象形別作蓑非穌和切䣜沛國縣也从邑虘昨何切今以鄼爲䣜陽恐非鄼音作管切聚也百家爲鄼文三鹹也从鹵差省/隷作別作醝非目小也从目堊元首叢叢猶細碎也作脞非</hi>
+                    <pc n="lb"/>
+                    <pb n="31b"/>
+                    <pb n="32a"/>
+                    <hi>媻奢也从女般別作婆非薄波切捼手相摩也从手委別作挼撋竝非奴禾切又儒垂切驘驢父馬母从馬<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>或作別作騾非洛戈切文三也从金䇔別作鏍非蠃蜾屬也蜾蠃也一曰蚌屬从虫<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>別作螺非<pc n="lb"/>
+                        <pb n="33a"/>鞮屬从革<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>別/作靴非許切沙水𣪚石也从水从少別作砂紗竝非所加切
+                        <graphic n="KR4385" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4385.png" mimeType="image/png"/>箠也从竹朵別作撾檛竝非陟瓜切瑕小赤玉也从玉叚一曰赤雲气後人俗別作霞乎加切文三徦至也从彳叚一曰逺也後人別作遐又古雅切<pc n="lb"/>
+                        <pb n="33b"/>䪗履也从韋叚別作非邪琅邪郡从邑牙別作琊耶竝非以遮切文二釾鏌釾也从金牙別作鋣非麚牡鹿也从鹿叚夏至解角別作䴥非古牙切文三痂疥也从疒加別作/非
+                        <graphic n="KR3135" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3135.png" mimeType="image/png"/>互令不得行也从辵枷<pc n="lb"/>
+                        <pb n="34a"/>別作迦俗牙牡齒也象上下相錯之形一曰古者軍行有牙尊者所在後人因以所治爲牙今別用衙非五加切
+                        <graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>榮也从艸<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>別作花/非户瓜呼瓜二切文二㭉兩刅从木<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>象形或作釫別作鏵非<pc n="lb"/>
+                        <pb n="34b"/>雅楚鳥也从隹牙別作鵶鴉竝非烏加切又五下切窊汙衺下也从穴瓜烏瓜切又作窳以主切汙窬也別作溛非柤木閑也从木且別作查楂竝非側加切咨也从言<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>別/作非子邪切瑲玉聲也从王倉又管磬當用鳥獸牄牄當用牄別作鏘竝非七芉切<pc n="lb"/>
+                        <pb n="35a"/>漿酢漿也从水將省隷作漿即良切牆垣蔽也从嗇爿別作墻非才良切从外知内也从冏章省別作商非式陽切倡樂也从人昌別作娼非尺良切刅傷也从刅从一刀有兩利者或作創別作瘡非楚良切<pc n="lb"/>
+                        <pb n="35b"/>麞麋屬也从鹿章別作獐非諸良切鷞鷫鷞也从鳥爽別作鸘非所莊切莊从艸壯別作莊㽵竝非側羊切文二妝飾也从女牀省別作糚非牀安身之坐者从木爿爿則疒之省至於牆壯戕狀之屬竝當从牀</hi>
+                    <pc n="lb"/>
+                    <pb n="36a"/>
+                    <pb n="36b"/>
+                    <hi>䕬禦溼之菜也从艸彊别作薑非居良切文三畺界也从畺从三其界畫也或作彊別作壃非繮馬紲也从系畺別作韁非強蚚也从虫弘弘从厶厶與同別作强强从口竝非巨良切芳也从黍甘隷作杳俗許良切<pc n="lb"/>
+                        <pb n="36b"/>唐大言也从口庚一曰隄也別作塘俗徒郎切郎魯亭也从邑良一作東西序也後人俗別作廊魯當切鼞鼓聲也从鼓堂別作鞺竝非土郎切臧善也匿也从戕臣別作非又作藏俗則郎切又昨郎切芒艸耑也从艸亾又<graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>
+                        <graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>廣大皃/又蒼<graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>也別作茫忙竝非武方切<pc n="lb"/>
+                        <pb n="37a"/>山也从山网隷作岡別作崗罡非古郎切
+                        <graphic n="KR2246" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2246.png" mimeType="image/png"/>方舟也从方亢大夫方舟別作航非胡郎切大也从自王自始也始者/三大君也別作凰非胡光切庚位西方也庚承已象人齎又鳥名黃倉庚別作鶊非古行切文二秔稻屬也从禾亢或作稉別作粳非</hi>
+                    <pc n="lb"/>
+                    <pb n="37b"/>
+                    <pb n="38a"/>
+                    <hi>
+                        <graphic n="KR2358" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2358.png" mimeType="image/png"/>門内祭先祖所以徬徨从示彭或作祊別作閍非補盲切樘衺柱也从木堂別作撑非丑庚切莔貝母也从艸朙省別作非武庚切平語平舒也从亏从八八分也別作評非蒲兵切黥墨形在面也从黒京或作䵞別作剠非渠京切</hi>
+                    <pc n="lb"/>
+                    <pb n="39a"/>
+                    <pb n="39b"/>
+                    <pb n="39b"/>
+                    <hi>精擇也从米青又目童也別作睛非子盈切夝雨而夜除星見也从夕生別作晴非疾盈切觲用角低仰便也从羊牛角別作觪非息營切文三馬赤色也从馬觲省別作騂非㙚赤剛土也从土觲省別作垶非</hi>
+                    <pc n="lb"/>
+                    <pb n="39b"/>
+                    <pb n="40a"/>
+                    <hi>甹亟詞也俠也从丂由別作非普丁切聽聆也从耳㥁壬古者治官處謂之聽事後人別作㕔非他丁切文二綎糸綬也从系廷別作䩠鞓竝非亭民所安定从高从丁省俗作停特丁切靈巫以玉事神从王霝或作靈从巫後人作齡俗别作霊竝非郎<pc n="lb"/>
+                        <pb n="41a"/>丁切文三蛉蜻蛉也从虫令別作/蜓音徒典切蝘蜓也麢大羊細角从鹿霝別作羚非升十龠也从斗象形後人作昇俗別作陞非識蒸切稱銓也从禾爯別作秤非處陵切驚聲也从乃省从西一曰徃也如乗切別作廼音奴亥切非<pc n="lb"/>
+                        <pb n="41b"/>馮馬行疾从馬仌一曰依也別作憑非皮氷切又房戎切
+                        <graphic n="KR0697" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0697.png" mimeType="image/png"/>清也从水徴省別作澄非直陵切蔆芰也从艸淩或作同別作菱非力膺切競也从二兄丰一曰敬也隷作兢俗居陵切禮器也从廾持肉在豆土別作登㽅竝非都滕切文二<pc n="lb"/>
+                        <pb n="42a"/>鐙錠也从金登別作燈非棱柧棱也从夌木別作稜楞竝非魯登切古鳳字鳳飛羣鳥從以萬數故以爲朋黨字隷作朋歩朋切文二鵬亦古文鳳字隷作鵬字矰隿射矢也从矢曾別作非作滕切<pc n="lb"/>
+                        <pb n="42b"/>弘弓聲也从弓厶厶古文肱別作弘弘竝非胡肱切肬贅也从肉尤別作疣非羽求切休息止也从人依木或作庥別作茠烋竝非許尤切文二䰍黍也从黍髟別作髹非甹木生條也从丂由今俗作由非以周切文四<pc n="lb"/>
+                        <pb n="43a"/>攸行水也从攴从人水省別作攸从丨非修等字皆从攸氣行皃从乃省从<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>別作/从辵<graphic n="KR1214" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1214.png" mimeType="image/png"/>非猶玃屬也弋道若也別作猷非櫌摩田器从木憂別作耰非於求切文三憂和之行也从夊詩曰布/政憂憂別作/非嚘語未定<pc n="lb"/>
+                        <pb n="43b"/>皃从口憂一曰嚘氣逆也老子終日號而不嚘別作㱊嗄竝非
+                        <graphic n="KR4635" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4635.png" mimeType="image/png"/>耕治之田也从田象耕屈之/形或作<graphic n="KR3363" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3363.png" mimeType="image/png"/>隷作疇直由切文二禪帳也从巾<graphic n="KR3363" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3363.png" mimeType="image/png"/>俗作禂音都牢切𬒮也隷作幬別作非又重朱切脩脯也一曰長也从肉攸別作翛竝非思邀切又思留切</hi>
+                    <pc n="lb"/>
+                    <pb n="44a"/>
+                    <pb n="44b"/>
+                    <pb n="44b"/>
+                    <hi>盩引擊也从幸攴見血也扶風有盩厔縣俗作盩从執非張流切棄也从攴<graphic n="KR1319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1319.png" mimeType="image/png"/>周書以爲討詩/云無我兮別作魗非市流切兔罝也从网否隷作罘俗縛牟切餱乾食也从食矦別作非乎溝切䯽髮皃从髟咅作非歩矛切文二衣博/从衣<graphic n="KR3185" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3185.png" mimeType="image/png"/>
+                    <pc n="lb"/>
+                        <pb n="44b"/>省一曰聚也別作裒襃竝非又博毛也牟牛鳴也从牛象其聲气从口出隷作牟从厶非又目童子謂之牟別作眸非文二敄彊也北燕之外相勉努力謂之敄从攴矛作劺非又亾遇切兜鍪首鎧也从从皃/省別作非當侯切<pc n="lb"/>
+                        <pb n="45a"/>媮巧黠也从女俞通用愉別作偷非託矦切句曲也从口丩別作勾非古矦切又古候九遇二切㑴漸進也从人又持帚若埽之進又手也隷作侵七林切繹理也从工口又寸彡工口亂也寸分理之又度人兩臂爲八尺也別作尋非徐林切<pc n="lb"/>
+                        <pb n="45b"/>鍼所以縫也从金咸別作針非職深切曑商星也从晶㐱或作別作參非所今切文二薓人薓藥艸从艸<graphic n="KR1171" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1171.png" mimeType="image/png"/>別作非砧石柎也从石占別作枮碪椹竝非知林切㻠寳也从王湥省別作非丑林切</hi>
+                    <pc n="lb"/>
+                    <pb n="46a"/>
+                    <pb n="46b"/>
+                    <hi>䘳衽也从衣金別作襟非紟衣系也从系今古作䋮別作衿非珡禁也神農所作象形隷作琴俗巨今切文二捦急持衣䘳也从手金或作㩒同別作擒非[邱-丘+覃]國也从邑覃俗作譚非說文注義有譚長疑後人傳冩之誤徒含切</hi>
+                    <pc n="lb"/>
+                    <pb n="46b"/>
+                    <pb n="47a"/>
+                    <pb n="48a"/>
+                    <hi>燅於湯中爚肉也从炎熱省或作別作燖非徐鹽切
+                        <graphic n="KR1046" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1046.png" mimeType="image/png"/>頰須也从須別/作髯非汝鹽切文三梅也从木別/作楠非多語也从/言別作喃非籨鏡籨也从竹歛別作奩匳竝非力鹽切黏相箸也从黍占作粘非女廉切<pc n="lb"/>
+                        <pb n="49a"/>沾水名一曰益也从水占別作添非他廉切嗛口有所衘也从口兼別作<graphic n="KR0742" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0742.png" mimeType="image/png"/>非户監切玪石之次玉者从玉今別作瑊非古咸切麙山羊而大者細角从鹿咸別作羬非胡䜛切檆木也从木煔別作杉非所衘切文二旌旗之<pc n="lb"/>
+                        <pb n="49b"/>游也一曰衣也从糸別作衫後人所加凡最括也从二二偶也从<graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>
+                        <graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>古文及別作凢非浮咸切文二颿馬疾歩也从馬風別作帆竝非</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>上聲<pc n="lb"/>
+<hi>董艸名一曰蕅根一曰正也督也从艸童別作董非多動切</hi>
+                    <pc n="lb"/>
+                    <pb n="50a"/>
+                    <pb n="50b"/>
+                    <pb n="50b"/>
+                    <pb n="50b"/>
+                    <hi>直項皃从女同別作非他孔切懜不明也从心夢別作懵非武總切又武亘切總聚束也从糸悤別作捴揔惣竝非作孔切澒丹砂所化爲水銀从水項別作汞非呼孔切脛气足腫从疒童或作別作竝非豎勇切<pc n="lb"/>
+                        <pb n="50b"/>穴𣪚也从人在宀下別作冗非而勇切文二毛盛也从毛隼書曰鳥獸毛別作氄非
+                        <graphic n="KR0719" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0719.png" mimeType="image/png"/>懼也从心雙省別/作悚非息拱切文二生而聾曰从耳从從省隷作聳不省奉承也从手廾从別作捧俸竝非扶勇撫勇房用三切</hi>
+                    <pc n="lb"/>
+                    <pb n="51a"/>
+                    <pb n="51b"/>
+                    <hi>虫丰別作蜯非紙絮一苫也从糸氏別作帋非諸氏切弛弓解也从弓也或作同別作㢮非施氏切㢋廣也从广侈別作㢁扅並非尺氏切邇近也从辵爾別作迩非兒氏切<pc n="lb"/>
+                        <pb n="51b"/>躧舞履也从<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>麗或作同別作蹝非所綺切文三
+                        <graphic n="KR2572" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2572.png" mimeType="image/png"/>鞮屬从革/徙別作屣非纚冠織也从糸/麗別作縰非繠垂也一曰艸木<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>繠从惢糸別作蘂俗玉篇作甤同如壘切小兒从人囟別作佌非斯氏切
+                        <graphic n="KR4024" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4024.png" mimeType="image/png"/>骨中脂也从骨隓別作髓非息委切<pc n="lb"/>
+                        <pb n="52a"/>識也藏也玉篇云鳥喙也从此朿遵誄切別作觜音遵爲切鴟舊頭上觜角也一曰星名將支切迆衺行也从辵从也別作迤非移尔切䞨半歩也从走圭別作跬非丘弭切螘蚍蜉也从虫豈別作蟻非魚綺切文二檥幹也又<pc n="lb"/>
+                        <pb n="52b"/>泊舟也从木義別作艤非又魚羈切戺本古熙字俗音牀史切以爲階戺之地芉鳴也从羊象聲气與牟同意別作咩非緜婢切旨美也从甘匕古文作別作非職稚切
+                        <graphic n="KR2522" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2522.png" mimeType="image/png"/>糞也从艸省別作屎非式視切<pc n="lb"/>
+                        <pb n="53a"/>                        <graphic n="KR3369" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3369.png" mimeType="image/png"/>野牛而青象形古文/作兕別作非徐姊切絫增也从厽从糸絫十黍之重也別作累非力軌切讄禱也从言畾或作/同別作非唯諾也从口隹別作非以水切秕不成粟也从禾比別作粃非卑履切</hi>
+                    <pc n="lb"/>
+                    <pb n="53b"/>
+                    <pb n="54a"/>
+                    <pb n="55a"/>
+                    <hi>非虚里切又苦亥切㥋痛聲也从心依孝經曰哀不㥋別作偯非於豈切巨䂓巨也从工象手持之或作榘者其中正也別作矩非其吕切文四苣束葦焼也从艸巨別作炬非歫止也一曰搶也一曰超也从止巨別作拒非鐘鼓之<pc n="lb"/>
+                        <pb n="56a"/>柎也飾爲猛獸从虍異象其下足或作<graphic n="KR3461" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3461.png" mimeType="image/png"/>鐻同別作<graphic n="KR3461" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3461.png" mimeType="image/png"/>竝非野郊外也从里予古作壄別作墅非羊者切又承與切旅軍之五百人爲旅从㫃从从又禾自生也別作櫓梠竝非力舉切
+                        <graphic n="KR2197" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2197.png" mimeType="image/png"/>麋鹿羣口相聚皃从口虞別作麌非魚矩切傴僂也从人區俗別作非於武切<pc n="lb"/>
+                        <pb n="56b"/>欨吹也一曰笑意从欠句別作呴非火羽切又况于切府文書藏也从广付別作腑非方矩切文二頫低頭也从頁逃省又作俛同別作俯非䳇鸚能言鳥也从鳥母別作鵡非文甫切主鐙中火主也从象形形亦聲別作炷非之庾切<pc n="lb"/>
+                        <pb n="57a"/>豎立也从臤豆別作竪非臣庾切庾水槽倉也从广臾別作㢏非以主切文四斞量也从斗<graphic n="KR4092" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4092.png" mimeType="image/png"/>別/作斔匬竝非瘉病瘳也从疒俞別作愈非窳汚窬也从穴㼌別作窪非又窳渾邑名虜獲也从母从力虍俗作虜从男別作擄竝非郎古切文四<pc n="lb"/>
+                        <pb n="57b"/>鹵西方鹹地也从西省象鹽形別作滷瀂竝非櫓大盾也一曰所以進船也或作樐別作艣非鐪煎膠器从金虜別作鏀非汻水厓也从水午別作滸非呼古切鼓郭也春分之音从壴<graphic n="KR2093" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2093.png" mimeType="image/png"/>/別作皷竝非公户切<pc n="lb"/>
+                        <pb n="58a"/>芐地黄也从艸下別作芦非矦五切隖小障也一曰庳城从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>烏別作塢非安古切鮆飲而不食刀魚也从魚此別作鱭非徂禮切䋛繡文如聚細米也从糸米別作非莫礼切牴觸也从牛氐別作觝非都礼切<pc n="lb"/>
+                        <pb n="58b"/>體緫十二屬也从骨豊別作軆躰竝非土礼切欚江中大船名从木蠡別作<graphic n="KR4045" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4045.png" mimeType="image/png"/>非盧啓切髮皃从髟爾別作非奴礼切文四檷絡絲檷也从木爾別作鑈非禰親廟也从示爾别作祢非䦵智少力劣也从門爾別作<graphic n="KR4610" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4610.png" mimeType="image/png"/>非鬥音都豈切</hi>
+                    <pc n="lb"/>
+                    <pb n="59a"/>
+                    <pb n="59b"/>
+                    <pb n="59b"/>
+                    <pb n="59b"/>
+                    <hi>盡器中空也从皿㶳慈忍切又即忍切禮記曰虛坐盡前別作儘非祳社肉盛以蜃故謂之祳天子所以/親遺同姓从示辰別作脤非時忍切筍竹胎也从竹旬又筍虡所以縣鐘鼓也別作笋/箰竝非思允切準平也从水隼別作准非之允切
+                        <graphic n="KR2635" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2635.png" mimeType="image/png"/>厀耑也从骨賓/別作非毗忍切<pc n="lb"/>
+                        <pb n="59b"/>閔弟者在門也从門文別作憫非眉殞切文二愍痛也从心敃別作愍非紖牛系也从系引別作絼非直引切卺謹身有所承从巴丞別作竝非居隱切隱蔽也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>㥯又安也別用穩非於謹切又音烏本切<pc n="lb"/>
+                        <pb n="60a"/>薀積也从艸温別作藴非於殞切煗温也从火耎別作暖非乃管切䊎粉也又摶也从米卷别作竝非去阮切輓引之也从車免別作挽非武逺切文二㝃生子免身也从子免說文無免字疑此字/从省通用爲解免之免本音芳萬切<pc n="lb"/>
+                        <pb n="60b"/>宫中道也从象宫垣道上/之形別作非苦本切文二棞門橜也从木囷別作閫非鯀魚也从魚系又禹父名也別作<graphic n="KR1360" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1360.png" mimeType="image/png"/>非古本切繜衣狀如䄡䄖者从系尊楊倞注荀子云繜與撙同或作僔說文作墫从士俗作撙从手非祖本切<pc n="lb"/>
+                        <pb n="61a"/>䐣切孰肉内於血中和也从肉員別作<graphic n="KR0871" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0871.png" mimeType="image/png"/>非穌本切𥫱篅也判竹圜以盛穀也从竹从屯別作囤非徒損切侃剛直也从㐰㐰古文信字从川取其不舍晝夜也別作偘非空旱切皯面黑气也从皮干別作䵟竝非古旱切㼝小盂也从瓦夗或作盌同別作椀非烏管切</hi>
+                    <pc n="lb"/>
+                    <pb n="61b"/>
+                    <pb n="62a"/>
+                    <hi>面慙赤也从灻<graphic n="KR2891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2891.png" mimeType="image/png"/>二音人善切/俗作赧从<graphic n="KR2891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2891.png" mimeType="image/png"/>與<graphic n="KR2891" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2891.png" mimeType="image/png"/>少異㞋音服从卩又㞋从尸又別作𧹞非女版切版判也从片反別作板从木非布綰切阪坡也一曰澤障一曰山脅也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>反別作坂非部版切又府逺切限阻也一曰閾也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>/艮別作非下簡切<pc n="lb"/>
+                        <pb n="63a"/>柬分別簡之也从束八別作揀非古限切撚執也一曰操也从手然別作捵非乃殄切繭𧖟衣也从糸从虫別作蠒非古典切文二小束也从束幵別作非鞙大車縳軶靼也从革肙一曰佩玉皃別作㻆䩙竝非胡犬切<pc n="lb"/>
+                        <pb n="63b"/>                        <graphic n="KR4056" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4056.png" mimeType="image/png"/>秋田也从犬璽/別作獮非文二尟是少也从是少別作尠非俴淺也史記能薄而材俴从人从戔別作譾非慈衍切具食也从肉<graphic n="KR3415" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3415.png" mimeType="image/png"/>別/作饍非常衍切文二鱓魚名似虵者戰國䇿曰蠶似蜀鱓似虵从魚單別作鱔非<pc n="lb"/>
+                        <pb n="64a"/>媆好皃从女耎而沇切案切韻又奴困切別作軟嫰竝非僎具也从人巽或作譔同別作撰非士免切槤瑚槤也从木連別作璉非里典切緬微絲也从糸面別作<graphic n="KR1210" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1210.png" mimeType="image/png"/>非彌沇切文五勒靼也从革面別作/非愐勉也从心/面別作<graphic n="KR2300" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2300.png" mimeType="image/png"/>非<pc n="lb"/>
+                        <pb n="64b"/>黽鼃黽也从它象形一曰勉也別作僶勔竝非湎沈於酒也从水面別作䤄竝非辯治也从言在辡之間別作䛒非平免切轢也車所踐也从車㞋別作碾非尼展切沇水名从水允別作兖竝非以轉切<pc n="lb"/>
+                        <pb n="65a"/>蹇跛也从足寒省別作謇非九輦切文二㩃拔取也南楚語从手寒別作搴<graphic n="KR2081" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2081.png" mimeType="image/png"/>並非甗甑也从瓦鬳一曰山形似甑曰甗別作巘非魚蹇切卷厀曲也从卩居轉切別作捲爲舒捲之捲非棬音巨員切訓气勢也<pc n="lb"/>
+                        <pb n="65b"/>筱箭屬小竹也从竹攸別作篠非先杳切熬也从䰜芻別作炒竝非尺沼切擾煩也从手夒別作擾非而沼切文二繞纏也从糸堯別作遶非
+                        <graphic n="KR1528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1528.png" mimeType="image/png"/>物落上下相付也一曰餓死曰/<graphic n="KR1528" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1528.png" mimeType="image/png"/>从爪又別作殍<graphic n="KR2299" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2299.png" mimeType="image/png"/>莩竝非平小切<pc n="lb"/>
+                        <pb n="66a"/>上衣也从衣从毛古者衣裘以/毛爲一曰明也識也隷作表彼小切交灼木也从火教省别作非古巧切齩齧也从齒交別作咬非古巧切顥白皃从頁景別作皓非胡老切文二昦春天也从日夰別作昊非<pc n="lb"/>
+                        <pb n="66b"/>袌褱也从衣包薄保切別作抱非埽棄也从土帚別作掃非穌老切文二㛮兄妻也从女叜別作㛐非䢅也从曰在甲上隷作早子浩切文二棗从重朿別作从兩耒非<pc n="lb"/>
+                        <pb n="67a"/>手搥也从手<graphic n="KR1319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1319.png" mimeType="image/png"/>別作搗非都皓切斗櫟實也一曰象斗子从艸早自保切俗以爲艸木之艸別作皁字爲黑色之皁案櫟實可染帛爲黑色故通用爲草棧字俗書皁从白从十或从白从七皆無意義無以下筆匘頭也从匕匕相<graphic n="KR0901" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0901.png" mimeType="image/png"/>箸巛象髮囟象匘別作腦非奴皓切文二<pc n="lb"/>
+                        <pb n="67b"/>㛴有所恨也从女从匘省別作惱从心非
+                        <graphic n="KR1664" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1664.png" mimeType="image/png"/>手也象形臧可切別作左音則箇切奲冨奲奲皃从奢單別作嚲非丁可切果木實也从木象形在木上別作菓非古火切楇盛膏器从木从咼別作輠<graphic n="KR2824" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2824.png" mimeType="image/png"/>竝非户果切</hi>
+                    <pc n="lb"/>
+                    <pb n="68a"/>
+                    <pb n="68b"/>
+                    <hi>但也从衣<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>或作裸同別作躶非郎果切寫置物也从宀舄別作㵼非悉也切藏魚也从魚<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>省別作鮓非側下切市居也从亼从<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>象屋口象築也一曰釋也或作捨別作舎从吉非始野切</hi>
+                    <pc n="lb"/>
+                    <pb n="68b"/>
+                    <pb n="69a"/>
+                    <hi>角也象形別作丱音慣束髮皃義當用<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>
+                    樣栩實也从木羕別作橡様竝非徐兩切仿相似也从人方別作髣非甫兩切文二放效也逐也从攴方別作倣非衺曲也从木隷作枉俗迂徃切<pc n="lb"/>
+                        <pb n="70a"/>之也从彳音汪隷作徃俗羽兩切繦觕纇也从糸强別作鏹非居兩切㮄所以輔弓弩从木㫄𥙷盲切又北孟切進船也又北朗切木片也別作牓非忼慨也从心亢別作慷非苦浪切又苦朗切<pc n="lb"/>
+                        <pb n="70b"/>櫎所以几器也从木廣一曰帷屏風之屬別作幌非胡廣切磺銅鐵樸石从石黄古作卝作礦鑛非古猛切螷陛也脩爲螷圜爲<graphic n="KR1748" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1748.png" mimeType="image/png"/>从虫/庳別作<graphic n="KR2707" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2707.png" mimeType="image/png"/>蠯竝非蒲孟切景光也从曰京居影切案影者光景之類也合通用景非毛髮藻飾之事不當从彡文二竟疆也一曰樂曲盡爲竟後人<pc n="lb"/>
+                        <pb n="71a"/>別作境俗又居慶切吉而免凶也从屰从夭隷作幸別作倖竝非胡耿切抍上舉也从手升或作撜同別作拯非蒸上聲肎可也从肉省别作肯非苦等切
+                        <graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>大陸山無石者象形/別作阜非房九切文二負恃<pc n="lb"/>
+                        <pb n="71b"/>也从人守貝有所恃也別作負非帚糞也从又持巾埽冂内別作箒非支手切煣屈申木也从火柔別作揉非人九切粈雜飯也从米丑或作同別作糅<graphic n="KR4082" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4082.png" mimeType="image/png"/>竝非女九切韭菜名一穜而久者別作韮舉友切</hi>
+                    <pc n="lb"/>
+                    <pb n="72a"/>
+                    <pb n="72b"/>
+                    <hi>歐吐也从欠區別作嘔非蕅芙蕖根也从艸水禺別作藕非五厚切畮歩百也从田每或作畞同別作𤱔非莫厚切缶瓦器所以盛酒漿秦人鼓之以節歌別作缻非方九切叜老也从又从灾或作<graphic n="KR1566" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1566.png" mimeType="image/png"/>同別作叟非穌厚切</hi>
+                    <pc n="lb"/>
+                    <pb n="72b"/>
+                    <pb n="73a"/>
+                    <pb n="74a"/>
+                    <hi>紞冕冠塞耳也从糸冘別作髧非都感切血醢也从血䏙別作醓非他感切
+                        <graphic n="KR2303" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2303.png" mimeType="image/png"/>芙蓉<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>未發爲菡<graphic n="KR2303" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2303.png" mimeType="image/png"/>从艸閻作蓞非徒感切啖噍啖也从口炎別作噉非徒敢切又作啗音徒監切擥撮持也从手監別作攬非盧敢切</hi>
+                    <pc n="lb"/>
+                    <pb n="75a"/>
+                    <pb n="75b"/>
+                    <hi>糉蘆葉裹米也从米㚇別作粽非作弄切瓮罌也从瓦公別作甕非烏貢切蟲食物也从三虫別作蚛非直衆切又直弓切湩乳汁也从水重別作竝非多貢切里中道从<graphic n="KR2257" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2257.png" mimeType="image/png"/>从共皆在邑中所共也或作䢽同別作巷非胡絳切</hi>
+                    <pc n="lb"/>
+                    <pb n="75b"/>
+                    <pb n="76a"/>
+                    <hi>㩻疲極也从危支別作攰非又去其切㩻䧢也戲三軍之偏也从戈䖒別作戯非香義切質至也周書曰大命不質孟子曰出疆必載質从貝从斦或作<graphic n="KR2504" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2504.png" mimeType="image/png"/>同別作贄非脂利切又之日切以物相贅者也文二蓋杠絲也从革旨別作<graphic n="KR3502" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3502.png" mimeType="image/png"/>非<pc n="lb"/>
+                        <pb n="77a"/>諡行之迹也从言兮皿俗作謚非神至切別作謚音伊昔切又呼狄切
+                        <graphic n="KR2370" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2370.png" mimeType="image/png"/>塞上亭守㷭火者或作同別作燧非徐醉切抵也从車埶別作輊非陟利切穉㓜禾也从禾屖別作稚非直利切䇐臨也从立隶別作莅非力至切</hi>
+                    <pc n="lb"/>
+                    <pb n="77b"/>
+                    <pb n="78a"/>
+                    <hi>備慎也从人葡別作偹非平秘切文二滿也从疒別/作非蒔更別種也从艸時別作秲竝非時吏切司臣司事外者从反后又候望也後人作伺俗別作覗非又息兹切飤糧也从人食或作食同別作飼非祥吏切<pc n="lb"/>
+                        <pb n="79a"/>䠊跀也从<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>非別作/剕非扶味切文四隱也从厂非別作陫竝非臭蟲負蠜也从非蟲或作蜚別作竝非痱風病从疒非別/作非又蒲罪切气雲气象形或作氣饋客芻米也別作炁非去旣切妄怒也从殳又有決也別作毅非魚旣切文二<pc n="lb"/>
+                        <pb n="79b"/>煎茱茰也从艸別作藙非榖府也从肉象形隷作胃从田非云貴切文二虫似豪豬从省作蝟同隸作彚非从上案下也从<graphic n="KR0642" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0642.png" mimeType="image/png"/>又持火以申繒也別作熨非於胃切巍髙也从嵬委本㐄威切今人省山以爲魏國之魏虞貴切<pc n="lb"/>
+                        <pb n="80a"/>御使馬也从彳缷或作馭同別作从缶非牛據切燕食也从食芺別作飫非依據切據杖持也从手豦別作㨿非居遇切助也从力非慮別作勴非良倨切箸飯欹也一曰置也附也从竹者陟慮切又逹倨切又陟畧切又直<pc n="lb"/>
+                        <pb n="80b"/>畧切又陳如切別作筯着著躇竝非処止也得几而止从几夂或作處从虍別作䖏非昌據切又昌與切豫象之大者不害扵物从象予一曰安也先也後人別作預俗羊茹切文二
+                        <graphic n="KR2207" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2207.png" mimeType="image/png"/>鳥名卑居也从/鳥與別作非翥飛舉也从羽者別作䬡非章庶切<pc n="lb"/>
+                        <pb n="81a"/>䣱醉醟也从酉句別作酗非香遇切諭告也从言俞一曰曉也別作喻非羊戍切赴趨也从走仆省別作訃非芳遇切霚地气發天不應从雨俗作霧亾遇切
+                        <graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>人之足也在下从止口即玉切/又遵遇切一曰足恭便僻皃別作非<pc n="lb"/>
+                        <pb n="81b"/>注灌也一曰解也釋也从水主作註非之戍切裋豎使布長襦从衣豆別作非常句切孺乳子也一曰輸也从子需別作<g n="孑*_焉-正+?">]□</g>非而遇切莫日且冥也从日在茻中別作暮非莫故切布枲織也从巾父隷作布从<graphic n="KR1664" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1664.png" mimeType="image/png"/>非博故切<pc n="lb"/>
+                        <pb n="82a"/>歩行也从止相背音撻別作歩从少非薄故切白緻繒也从糸<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>一曰埏土象物也隷作素俗別作塑塐並非桑故切酢醶也从酉乍倉故切今作醋音在各切作起也从人乍別作做非宗祚切又則洛切胙祭福肉也从肉乍別作祚非昨誤切</hi>
+                    <pc n="lb"/>
+                    <pb n="82b"/>
+                    <pb n="83a"/>
+                    <hi>誤謬也从言呉別作悮非五故切文三啎逆也从午吾別作忤非遻遇也从辵遻別作迕俉並非又五各切相遇驚也紬微也从糸囟隷作細从田非思計切文二壻夫也从士胥或从女別作非<pc n="lb"/>
+                        <pb n="84a"/>閉闔門也从門才所以歫門也作閉非博計切蔕瓜當也从艸帶別作蒂非都計切暜廢一偏下也从竝白或从曰或作替同別作㬱非他計切文三鬀<graphic n="KR1678" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1678.png" mimeType="image/png"/>髮也从髟/弟別作剃非洟鼻液也从水夷今作涕从水弟他礼切泣也<pc n="lb"/>
+                        <pb n="84b"/>弟韋束之次弟也从古字之象作第非特計切沴水不利也从水㐱別作沵非郎計切薊芙也从艸魝別作葪非古詣切瘞幽埋也从土㾜別作非於計切之風亦古諸侯一曰射/師从幵別作羿非五計切<pc n="lb"/>
+                        <pb n="85a"/>祭祀也从示以手持肉別作祭祭竝非子例切歲木星也越曆二十八宿宣徧隂陽十二月一次从歩戌別作歳歲竝非相銳切脃小耎易斷也从肉絶省別作脆非此芮切埶盛力權也一曰種也从坴丮持而種之一曰技能也別作勢蓺藝<pc n="lb"/>
+                        <pb n="85b"/>竝非始制魚祭二切易卦用蓍也从竹古文巫字隷作筮時制切觢一角卬也从角契省別作掣非尺制切文二
+                        <graphic n="KR2740" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2740.png" mimeType="image/png"/>引縱曰<graphic n="KR2740" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2740.png" mimeType="image/png"/>从手瘛省別作痸非愒息也从心曷別作憇非去例切</hi>
+                    <pc n="lb"/>
+                    <pb n="86a"/>
+                    <pb n="86b"/>
+                    <hi>抴捈也从手世別作拽非
+                        <graphic n="KR1939" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1939.png" mimeType="image/png"/>石之似玉者別作玴非勩勞也从力貰別作/竝非
+                        <graphic n="KR1957" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1957.png" mimeType="image/png"/>習也从心曳別作怈非餟祭酹也从食叕別作醊非陟衛切叡深明也通也从<graphic n="KR3010" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3010.png" mimeType="image/png"/>从目从谷/省或作<graphic n="KR1078" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1078.png" mimeType="image/png"/>同別作非以芮切<pc n="lb"/>
+                        <pb n="86b"/>泰滑从廾从水大古文作夳同别作汰非他盖切文二大天大地大人亦大象形別作太非又徒蓋切賴贏也从貝剌別作賴頼竝非洛帶切文三癘惡疾从疒蠆省別作癩非䊪粟重一䄷爲十六斗大斗半舂爲米一斛曰䊪別作糲非<pc n="lb"/>
+                        <pb n="87a"/>柰果也从木示別作奈㮈竝非奴帶切䟺歩行獵跋也从<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>貝別作狽非博盖切兌說也从儿㕣別作兊从公非大外切繼旐之旗沛然而垂从㫃从汖別作斾从巾非蒲蓋切妎妒也从女介別作非胡盖切</hi>
+                    <pc n="lb"/>
+                    <pb n="87b"/>
+                    <pb n="88a"/>
+                    <hi>頭也从糸圭别作罣罫竝非畵界也象田四界聿所以畫之別作畫非胡卦切又胡麥切陋也从<graphic n="KR2342" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2342.png" mimeType="image/png"/>
+                        籀文嗌字或作隘同別作阸非烏懈切派別水也从水<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>別作沠非匹賣切怪異也从心圣別作恠非古壞切<pc n="lb"/>
+                        <pb n="89a"/>                        <graphic n="KR3628" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3628.png" mimeType="image/png"/>艸也姓也从艸㕟別作蒯非苦怪切介畫也从八从人俗別作个字書所無不知所从無以下筆明堂左右个者明堂旁室也當作介古拜切文二屆行不便也一曰極也从尸<graphic n="KR1176" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1176.png" mimeType="image/png"/>
+                        <graphic n="KR1176" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1176.png" mimeType="image/png"/>與塊同別作届从由非䪥菜也从韭㕢別作竝非胡戒切<pc n="lb"/>
+                        <pb n="89b"/>也从心葡或作同別作<graphic n="KR0629" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0629.png" mimeType="image/png"/>非蒲拜切殺戮也又疾也从殳杀別作閷煞竝非所介切䛡合㑹善言也从言<graphic n="KR2140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2140.png" mimeType="image/png"/>籀文从言㑹別作話从舌者非胡快切䃍陊也从石㒸徒對切又直類切後人俗作墜
+                        <graphic n="KR0863" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0863.png" mimeType="image/png"/>膺無方也从从口从寸漢文帝以爲責對而爲言多非誠對故<pc n="lb"/>
+                        <pb n="90a"/>去其口以从士也都隊切却也一曰行過也从彳从曰从夊或作納同隷作退俗他内切輩若軍發車百兩爲一輩从車从非別作軰非補妹切佩大帶佩也从人从凡从巾別作珮非補妹切沬洒面也从水未古作湏从水頁別作頮竝非荒内切文二<pc n="lb"/>
+                        <pb n="90b"/>詯膽气滿聲从言自別作非
+                        <graphic n="KR2202" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2202.png" mimeType="image/png"/>忽也从心介別作恝非呼介切瘥瘉也从疒<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>楚懈切又才他/切今以差爲非差不相值也黱畫眉也从黒朕別作黛非徒耐切文二毒瑁也一曰厚也从<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>从毐別作玳瑇竝非又徒沃切<pc n="lb"/>
+                        <pb n="91a"/>逮唐逮及也从辵从隶或作迨同別作逯音盧谷切㤅惠也从心旡古文作篆文作㤅从既省今作㤅从旡譌烏代切薉蕪也从艸歲別作穢非於廢切訒頓也一曰識也从言刃別作認非而振切瞚開闔目數揺也从目寅別作瞬非舒閏切<pc n="lb"/>
+                        <pb n="91b"/>㬜進也从日臸二至之日隂陽之進也隷作晋俗即刃切㶳火餘也从火聿別作燼非徐刃切文二賮會禮也从貝㶳別作贐非敶列也从攴陳通用陳字別作陣非直刃切俊材千人也从人夋別作儁非子竣切<pc n="lb"/>
+                        <pb n="92a"/>兵死及牛馬之血爲鬼火/也从炎別作燐非良刃切文二吝恨惜也从口文別作恡悋竝非齔毁齒也男八月生八歲而齔女七月生七歲而齔从齒七別作齓非初覲切疢熱病也从疒火俗作疹非別作疹籀文胗字音之忍切<pc n="lb"/>
+                        <pb n="92b"/>行示也从彳勻一曰求也順也歸也別作殉徇竝非詞閏切憖問也謹敬也从心从猌別作憗非魚覲切又五分切釁血祭也从爨省从酉酉所以祭也从分分布別作衅璺舋竝非虗振切又文運切玉器破也韻味也从音員裴光逺云古與均同別作韵非王問切</hi>
+                    <pc n="lb"/>
+                    <pb n="93a"/>
+                    <pb n="93b"/>
+                    <hi>潠含水噴也从水巽別作噀非穌囷切駻馬突也从馬旱別作馯非矦旰切文五豻胡地野狗也从豸干或作犴別作貋非也扞快也从手干別作捍非㪋止也从攴旱別作攼非釬臂鎧也从金干一曰固金藥別作銲非<pc n="lb"/>
+                        <pb n="93b"/>榦築牆耑木也从木倝別作幹非古案切濯衣垢也从水或作浣同別作澣非胡玩切掔手掔也从手臤別作腕椀竝非烏貫切判分也从刀半別作拌拚竝非普半切文二泮諸侯郷射之宮一曰氷釋也从水半別作泮从仌非</hi>
+                    <pc n="lb"/>
+                    <pb n="94a"/>
+                    <pb n="94b"/>
+                    <pb n="94b"/>
+                    <hi>袒衣縫解也从衣旦別作綻非丈莧切相詐惑也从反予<graphic n="KR0674" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0674.png" mimeType="image/png"/>作幻胡辦切荐薦也从艸存一曰再也別作洊非才甸切見視也从几从目別作現非古甸切又賢遍切燕玄鳥也象形一曰合語也合飲也別作鷰讌醼並非於甸切文二<pc n="lb"/>
+                        <pb n="94b"/>咽嗌也又吞也从口因別作嚥非又於前切
+                        <graphic n="KR3641" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3641.png" mimeType="image/png"/>行且賣也从行言或作衒別作䝮非黄絢切面顔前也从百象形別作靣非弥箭切文二麪麥末也从麥丏別作麵非淺不深也一曰水激也从水戔別作濺非子賤切又亡衍切</hi>
+                    <pc n="lb"/>
+                    <pb n="95a"/>
+                    <pb n="95b"/>
+                    <hi>徧帀也从彳扁別作遍非比見切劵勞也从力卷省俗作倦同別作惓非渠卷切弁冕也或作覍同別作卞非皮變切文四拚拊手也从手弁別作抃非昪喜樂皃从曰弁別作忭非汳水受陳留浚儀隂溝至蒙爲雝水東入于泗从水<pc n="lb"/>
+                        <pb n="95b"/>反別作汴非偃僵也一曰障水也从人匽別作堰非於扇切又於幰切問終也从人持弓別作吊非多嘯切莜艸田器也从艸條省別作蓧俗徒切人小便也从㞑从水或用溺同別作尿非奴切</hi>
+                    <pc n="lb"/>
+                    <pb n="96a"/>
+                    <pb n="96b"/>
+                    <pb n="96b"/>
+                    <pb n="96b"/>
+                    <hi>㬥晞也从日出卄米別作曝非薄報切冃小兒蠻夷頭衣也从冂从二別作㡌非莫報切文二年九十曰从老蒿省別作耄非喿羣鳥鳴也从品在木上別作噪非穌到切趮疾也从走喿別作躁非則到切<pc n="lb"/>
+                        <pb n="96b"/>盜私利物也从㳄皿別作盗从次非文三徒到切翳也所以舞也从羽从/別作翢翿纛竝非溥覆照也从火壽別作幬非幬正作禪帳也音直由重朱二切閙不靜也从从鬥別/作竝非奴敎切箇竹枚也从竹固别作个非古賀切<pc n="lb"/>
+                        <pb n="97a"/>馱負物也从馬大別作䭾非唐佐切䃺石磑也从石靡別作磨非摸卧切正也从土留省土所止也與留同意古人作坐同別作座㘴竝非徂臥切不均也从糸嬴別作纙非力臥切<pc n="lb"/>
+                        <pb n="97b"/>稬稻名也从禾耎別作糯非奴臥切笮迫也在瓦之下棼上一曰酒簏也別作醡榨竝非側駕側格二切蜡蠅䀠也从虫昔又索也合聚萬物索饗百神也別作䄍从示非鉏駕切文二慙語也从言/作別作非吒噴也叱怒也从口乇別作咤非陟駕切</hi>
+                    <pc n="lb"/>
+                    <pb n="98a"/>
+                    <pb n="98b"/>
+                    <hi>樗木也以其皮裹松脂从木雩或作檴別作樺乎化切文二山在弘農華隂从山<graphic n="KR0990" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0990.png" mimeType="image/png"/>省今俗用華盬也从肉从酉別作醬俗即亮切障隔也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>章別作嶂非之亮切刱造法刱業也从丼刅初亮切別作創音楚良切與刅同</hi>
+                    <pc n="lb"/>
+                    <pb n="98b"/>
+                    <pb n="99a"/>
+                    <hi>事有不善言也爾雅薄也別作亮非力讓切郷國離邑民所封郷也一曰對也从<graphic n="KR2257" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2257.png" mimeType="image/png"/>㫐別作向北出牖也俗作嚮非許亮切又許良切暀光美也从日徃別作旺非于放切況寒水也一曰矧也从水兄別作况非許訪切<pc n="lb"/>
+                        <pb n="100a"/>彊語也一曰逐也从誩二人隷作競渠慶切徑步道也从彳巠別作逕非居正切冥幽也从日从六冖日數十十六日而月始虧幽也別作暝非莫定切又莫經切甯所願也从用寍省別作寗非乃定切<pc n="lb"/>
+                        <pb n="100b"/>賸物相增加也从貝一曰送也副也別作剰非石證切又以證切文三送也从人/省別作媵非褢子也从子几几音市朱切別作孕从乃非掕止馬也从手夌別作/非里切隥仰也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>登別作嶝磴竝非都鄧切<pc n="lb"/>
+                        <pb n="101a"/>懜不明也从心萝別作懵非武亘切齅以鼻就臭从鼻从臭別作嗅非許救切㝌貧病也从宀久別作疚非居又切文二廏馬舍也从广㲃㲃亦音別作廐从既非舊<graphic n="KR3393" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3393.png" mimeType="image/png"/>舊舊留也从萑臼一曰故也/或作鵂同别作舊竝非巨救切<pc n="lb"/>
+                        <pb n="101b"/>貁䑕屬善旋从豸穴別作狖非余救切文三鼬如䑕赤黄而大食䑕者別作/非褎袂也从衣采一曰盛飾皃或作袖同別作褏非又似又切秃實也有實之象下垂从禾几別作秀从乃非息救切文二璓石之次玉者从玉莠作琇非<pc n="lb"/>
+                        <pb n="102a"/>祝祭主贊詞者一曰詛也从示从人从口一曰从兌省別作呪非之秀切又之六切
+                        <graphic n="KR0888" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0888.png" mimeType="image/png"/>臞也从疒叜別作瘦非所又切鷇鳥子生哺者从鳥㱿別作非口豆切鬥兩士相對兵杖在後象鬥之形或作鬬从鬥斲遇也別作鬪从㪷<pc n="lb"/>
+                        <pb n="102b"/>非都豆切槈媷田器也从木辱或从金別作耨非奴豆切敂擊也从攴句苦候切別作扣非扣音苦后切牽馬也濅水名从水一曰漬也別作浸非子鴆切蔭艸隂也从艸隂別作廕非於禁切<pc n="lb"/>
+                        <pb n="103a"/>闞望也一曰邑名一曰姓也从門敢古濫切又許濫切獸怒聲別作非暫不久也从日斬別作蹔非藏濫切豓好而長也从豐豐大也从盇作艶非以贍切塹阬也从土斬別作壍非七豓切</hi>
+                    <pc n="lb"/>
+                    <pb n="103b"/>
+                    <pb n="104a"/>
+                    <pb n="105a"/>
+                    <pb n="106a"/>
+                </p>
+
+  </div>
+            <div>
+    <p>
+復古編序<pc n="lb"/>
+君尊臣卑父坐子立此<pc n="lb"/>
+六經之大閑也大者之學<pc n="lb"/>
+此而已然堯舜稽古之道<pc n="lb"/>
+仲尼時雨之教随噐大小<pc n="lb"/>
+                    <pb n="1a"/>皆使有成則道之有藝<pc n="lb"/>
+之有書小學之所紀亦何<pc n="lb"/>
+可廢㢤然而經天緯地之<pc n="lb"/>
+文不在止戈之後閑邪窒<pc n="lb"/>
+欲之義不假皿蟲而知其<pc n="lb"/>
+                    <pb n="1b"/>覺也晚然後字書小學<pc n="lb"/>
+亦有可觀者焉觀矣而<pc n="lb"/>
+不可泥棄本根而尋枝<pc n="lb"/>
+葉認漚體而舎𬈑渤譬<pc n="lb"/>
+猶壓沙取油用力雖多<pc n="lb"/>
+                    <pb n="2a"/>而終無所淂其所成<graphic n="KR0556" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0556.png" mimeType="image/png"/>
+者可知也已呉興張謙中<pc n="lb"/>
+習蒃籀行茟圓勁淂<pc n="lb"/>
+李斯陽冰之法校正俗<pc n="lb"/>
+書与古字戾者采摭經<pc n="lb"/>
+                    <pb n="2b"/>傳日考月挍久而不觧元<pc n="lb"/>
+豊中予官方吳興見其<pc n="lb"/>
+用心之初今廿有九年然後<pc n="lb"/>
+成書凡集三千餘字名<pc n="lb"/>
+曰𣸪古編其说以谓專取<pc n="lb"/>
+                    <pb n="3a"/>㑹意者不可以了六書離<pc n="lb"/>
+析偏㫄不可以見全字求<pc n="lb"/>
+古人之心而覔糟粕固以<pc n="lb"/>
+永矣又取一全體鑿為多<pc n="lb"/>
+字情生之说可说可玩而<pc n="lb"/>
+                    <pb n="3b"/>不足以消人之意譬猶入<pc n="lb"/>
+海筭沙無有畔岸運<pc n="lb"/>
+籌役志迷不知改豈特<pc n="lb"/>
+逹如輪扁然後能笑其<pc n="lb"/>
+誤㦲徃揚子雲留意古<pc n="lb"/>
+                    <pb n="4a"/>道用之于玄或笑其自苦<pc n="lb"/>
+或譏其作經然子雲意<pc n="lb"/>
+在賛易非与易竸而劉<pc n="lb"/>
+歆之徒方计目前利害<pc n="lb"/>
+無意扵古覆醬瓿之语<pc n="lb"/>
+                    <pb n="4b"/>足以彂子雲之一笑而己<pc n="lb"/>
+今玄子雲又千有馀歲士<pc n="lb"/>
+守所學而不能忘𣸪古<pc n="lb"/>
+之志者可不谓之難淂也<pc n="lb"/>
+㦲谦中用心于内不務進<pc n="lb"/>
+                    <pb n="5a"/>取一裘一葛專趣内典<pc n="lb"/>
+予方杜门待盡亦讀法<pc n="lb"/>
+界之書嘗闻棗柏之言<pc n="lb"/>
+曰作器者先湏立様造<pc n="lb"/>
+車者當使合轍古無今<pc n="lb"/>
+                    <pb n="5b"/>有即是邪道不可學也<pc n="lb"/>
+予嘗三𣸪此语因思學道<pc n="lb"/>
+之要不以古聖為様轍者<pc n="lb"/>
+皆外逰尓尭舜禹皐陶<pc n="lb"/>
+之所谓稽古者豈特可以<pc n="lb"/>
+                    <pb n="6a"/>為方内之法㢤致逺恐泥<pc n="lb"/>
+尚不可以違轍様而况大學<pc n="lb"/>
+之道乎後之好古者觀俗<pc n="lb"/>
+尚論将有稽于此焉<pc n="lb"/>
+大觀四年十一月叙復寕<pc n="lb"/>
+                    <pb n="6b"/>德郎陳<graphic n="KR1493" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1493.png" mimeType="image/png"/>序<pc n="lb"/>
+                    <pb n="7a"/>
+                    <pb n="7b"/>
+                </p>
+
+  </div>
+            <div>
+    <p>
+復古編下<pc n="　"/>吳興張有<pc n="lb"/>
+<pc n="　"/>入聲<pc n="　"/>聯緜字<pc n="lb"/>
+<pc n="　"/>形聲相類<pc n="　"/>形相類<pc n="lb"/>
+<pc n="　"/>聲相類<pc n="　"/>筆迹小異<pc n="lb"/>
+<pc n="　"/>上正下譌<pc n="lb"/>
+                    <pb n="1a"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>入聲<pc n="lb"/>
+<hi>穀續也百榖之總从禾㱿別作糓非古禄切簏竹髙篋也从竹鹿或作箓同別作盝非盧谷切文二角獸角也象形漢四顥有角里先生又東方音也別作觮龣竝非又古岳切<pc n="lb"/>
+                        <pb n="1b"/>穆禾也从禾㣎俗書作/莫卜切文二坶周書武王與紂戰于坶野从土母別作㙁非早敬也从丮夕持事雖夕不休早敬者也別作夙非息逐切蹴躡也迫也从足就後人別作蹙七宿切塾門側堂也从土孰別作/非殊六切文三孰食<pc n="lb"/>
+                        <pb n="2a"/>飪也从丮<graphic n="KR1647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1647.png" mimeType="image/png"/>/別作熟非玉器也从/王<graphic n="KR1319" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1319.png" mimeType="image/png"/>隷作从夀俗肉胾肉也象形隷作肉俗別作宍非而六切文三恧慙也从心而別作忸/並非衄鼻出血也从血丑別作衂从刃非<pc n="lb"/>
+                        <pb n="2b"/>賣也从人余六切或作/同別作音武悲切䭈也文二昱明日也从日立別作翌非翌俗書翊字音與職切匊在手曰匊从勹米或作㩴同別作掬非居六切文二窮理罪人也从幸从人从言从竹或作同別作鞫非<pc n="lb"/>
+                        <pb n="3a"/>酒母也从米省或作鞠同別作麴非丘六切㰲吹气也从欠或別作㖪非於六切尗豆也象形別作菽非式竹切
+                        <graphic n="KR2769" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2769.png" mimeType="image/png"/>漑灌也从水芺別作沃非烏鵠切督察也一曰目痛从目叔別作非冬毒切<pc n="lb"/>
+                        <pb n="3b"/>屬連也从尾蜀一曰託辭也別作属囑並非之欲切蜀葵中蠶也从虫象形別作蠋非殊玉切蓐陳艸復生也从艸辱一曰蔟也別作/非而切
+                        <graphic n="KR3122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3122.png" mimeType="image/png"/>嘉穀實也从<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>从米籀/文作別作粟非相玉切欲貪也从欠谷別作慾非余蜀切<pc n="lb"/>
+                        <pb n="4a"/>局促从口在尺下復局之人無涯者唯口故口在尺下爲局別作跼並非渠録切王石之美者有五德象三王之連丨其貫也陽冰曰三畫正均如貫王也隷作玉加點俗魚欲切又欣救息逐相足三切別作玉並非确礊也从石角或作同別作確非胡角切</hi>
+                    <pc n="lb"/>
+                    <pb n="4b"/>
+                    <pb n="5a"/>
+                    <hi>促迫也从人足別作齪非七玉切溢器滿也一曰米二十四分廾之一也一曰二十四兩爲溢从水益別作鎰非弋質切率捕鳥畢也象絲罔上下其竿柄也別作卛繂並非所律切文三帥佩巾也从巾从<graphic n="KR0935" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0935.png" mimeType="image/png"/>/或作<graphic n="KR0868" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0868.png" mimeType="image/png"/>同別作非<pc n="lb"/>
+                        <pb n="6a"/>                        <graphic n="KR2186" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2186.png" mimeType="image/png"/>悉<graphic n="KR2186" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2186.png" mimeType="image/png"/>也从虫帥別作蟀非畢田罔也从<graphic n="KR3790" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3790.png" mimeType="image/png"/>象形別/作罼非卑吉切文七䟆止行也从走䟆別作蹕非㓖風寒也从仌畢別作䬛非韠韍也所以蔽前以韋/从韋畢別作鞸並非珌佩刀下飾天子以玉从玉必別作㻫非<pc n="lb"/>
+                        <pb n="6b"/>篳藩落也从竹畢春秋曰篳門圭竇別作篳非羌人所吹角屠以/驚馬从角別作觱非漆水名从水桼別作㭍柒竝非戚悉切厀脛頭卩也从卩桼別作膝非息七切匹四丈也从八匚別作疋非普吉切<pc n="lb"/>
+                        <pb n="7a"/>苾馨香也从草苾或作飶別作馝非毗必切
+                        <graphic n="KR3190" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3190.png" mimeType="image/png"/>輔也重也从弜㐁或作古作/㢸竝同隷作弼从百非房宻切挃穫禾也从手至別作秷非陟栗切姪兄弟之女也从女至別作妷非直質切㮚木也其實下垂故从<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>隷作栗俗一曰懼也別作慄非力質切<pc n="lb"/>
+                        <pb n="7b"/>卹憂也从血卩一曰鮮鮮少也別作䘏从邑非辛律切卒隷人給事者衣十爲卒臧没切或作死也子聿切又作踤蒼踤也蒼没切以卒字三音又別作卆並非市上古衣蔽前而巳象連之形或作韍同別作紱非分勿切文二紼亂系也从系弗別作綍非<pc n="lb"/>
+                        <pb n="8a"/>熚也从上古/悖字別作/非勿切鬱木叢生者从林鬱省別作欝非迂弗切戉斧也从戈从王伐切別作鉞音呼㑹切車鑾聲也伐擊也从人持戈又耒廣五寸爲伐一曰伐閲自序也別作垡墢閥並非房越切文三橃海中大船也从木發別作筏<pc n="lb"/>
+                        <pb n="8b"/>非瞂盾也从盾/犮別作<graphic n="KR1691" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1691.png" mimeType="image/png"/>非韤足衣也从韋蔑別作韈竝非望發切郣海地从邑孛一曰地之起曰郣別作渤非蒲没切公及士搢也籀文作象形佩/也古佩之後人加笏呼骨切㵣欲㱃也从欠渴今用渴非苦葛切文二渴盡也从<pc n="lb"/>
+                        <pb n="9a"/>水曷又渠列切今用竭非竭負舉也
+                        <graphic n="KR2305" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2305.png" mimeType="image/png"/>伐木餘也从木獻或作蘖古作不同別作枿非五葛切瀎拭滅皃一曰塗也从蔑水別作抹非莫逹切文二䬴馬食榖也从食末別作秣非水流聲从水<graphic n="KR2140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2140.png" mimeType="image/png"/>或作同隷作活非户括切<pc n="lb"/>
+                        <pb n="9b"/>䟽也从門隷作闊非苦括切貀獸無前足从豸出作豽非女滑切盋器盂屬从皿或作鉢/同別作非北末切文二鮁鱣鮪鮁鮁从魚犮別作鱍非手持隹失之也从又从奞別作奪並非徒活切<pc n="lb"/>
+                        <pb n="10a"/>稭禾稾去其皮祭天以爲席从禾皆別作䕸非古黠切蠽小蟬蜩也从䖵<graphic n="KR0914" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0914.png" mimeType="image/png"/>爾雅/蠽蜻蜻別作<graphic n="KR1578" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1578.png" mimeType="image/png"/>非子列切札牒也从木乚別作扎非別八切㞕動作切切也从尸䏌別作屑从肖非先結切文二僁聲也从人別作非<pc n="lb"/>
+                        <pb n="10b"/>竊盜自中出也从穴从米卨廿皆聲別作並非千結切鐵黑金也从金<graphic n="KR2582" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2582.png" mimeType="image/png"/>或作銕竝同別作䥫非他結切文二飻貪也从食殄省隷作餮不省敜塞也从攴念別作揑非乃結切又奴叶切絜麻一耑也从糸㓞一曰清也或作潔俗別作㓗非古㞕切<pc n="lb"/>
+                        <pb n="11a"/>器破也从缶<graphic n="KR1177" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1177.png" mimeType="image/png"/>省別作缺缺竝非傾雪切
+                        <graphic n="KR1177" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1177.png" mimeType="image/png"/>流行也从水叏別作/决从/非古穴切文四觼環之有舌者从角夐或作鐍別作觖非玉佩也从玉叏別作璚與瓊字同潏出也一曰水中坻人所/爲爲潏从水矞別作非焆焆煙皃从火肙別作非因恱切<pc n="lb"/>
+                        <pb n="11b"/>渫除去也从水枼別作泄洩竝非私列切泄音余制切水名也文四紲系也从糸世春秋傳曰臣負羈紲或作緤同別作絏非禼蟲也从<graphic n="KR1717" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1717.png" mimeType="image/png"/>象形古/作/同別作非薛艸也从艸辥別作薛非又桑葛切作亦非洌水清也从水列別作冽从仌非良辥切<pc n="lb"/>
+                        <pb n="12a"/>蠥衣服歌䚻草木之怪謂之䄏禽獸蟲蝗之怪謂之蠥从虫辥別作非魚列切文二
+                        <graphic n="KR2969" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2969.png" mimeType="image/png"/>議辠也从水獻別作讞非䨮凝雨說物者从雨彗隷作雪俗相絕切蕝朝㑹束茅表位曰蕝从艸絕作蕞非孑說切絕斷絲也从糸从刀从卩古作反㡭爲絶別作絶从色非情雪切</hi>
+                    <pc n="lb"/>
+                    <pb n="12b"/>
+                    <pb n="13a"/>
+                    <hi>舄䧿也象形或作䧿同別作鵲非七雀切禮器也象形中有鬯酒又持之也所以飮器象者取其鳴節節足足也隷作爵即略切勺挹取也象形之若切又市若切今俗以杓爲桮杓之杓非杓甫遥切斗柄也又都歷切射的也別作㢩非通用的字<pc n="lb"/>
+                        <pb n="14a"/>斫也从石箸別作櫡並非張略切玃母猴也从犬矍爾雅玃父善顧別作蠼非俱縳切屩履也从履省从喬別作鞽非居勺切殘也从虍虎足反爪人也隷作虐俗魚約切籆收絲者也从竹蒦或作同別作籰非王縛切</hi>
+                    <pc n="lb"/>
+                    <pb n="14b"/>
+                    <pb n="15a"/>
+                    <hi>愙敬也从心客別作恪非苦各切㖾譁訟从吅屰別作噩咢並非五各切文六遻相遇驚也从辵㖾別作㦍遌並非又五故切䣞江夏縣从邑㖾一曰華跗也別作萼非似蜥易長一丈水潛吞人即浮出日南从虫屰別作鱷非刀劍刃<pc n="lb"/>
+                        <pb n="16a"/>也从㖾別作鍔非
+                        <graphic n="KR2541" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2541.png" mimeType="image/png"/>鷙也从鳥屰又與專切別作鶚鳶並非彉弩滿也从弓黄別作彍擴並非苦郭切惡過也从心亞別作惡非烏各切醋客酌主人也从酉昔在各切俗作倉故切非文二<pc n="lb"/>
+                        <pb n="16b"/>鑿穿木也从金別作鑿非貈似狐善睡獸从豸舟下各切別作貉音莫白切豸種也椁葬有木椁也从木<graphic n="KR3385" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3385.png" mimeType="image/png"/>別作槨非古博切貉北方豸種从豸各別作貊从百非莫白切洦淺水也从水百別作泊从白非匹白切</hi>
+                    <pc n="lb"/>
+                    <pb n="17a"/>
+                    <pb n="17b"/>
+                    <hi>非乙虢切
+                        <graphic n="KR2526" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2526.png" mimeType="image/png"/>入家<graphic n="KR0679" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0679.png" mimeType="image/png"/>也从宀索所責切今用索音蘇各切艸有莖葉可作繩索也从<graphic n="KR1832" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1832.png" mimeType="image/png"/>糸郤邑名从邑谷別作㕁非綺㦸切文二粗葛也从糸夻別作[絺-巾+ㄙ]綌並非<pc n="lb"/>
+                        <pb n="17b"/>有枝兵也从戈倝別作㦸从卓非紀逆切劇尤甚也从刀豦別作劇非渠力切血理分衺行體者从<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>血後人/或从<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>肉作脈別作脉非莫獲切求也从貝朿一曰負也側革切又側賣切別作債非嘖大呼也从口責或从言別作頥从臣非士革切<pc n="lb"/>
+                        <pb n="18a"/>戹隘也从户乙於革切別作厄五果切阸㧖呝之類皆當从戹脊背吕也从肉別/作脊非資昔切文四
+                        <graphic n="KR2087" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2087.png" mimeType="image/png"/>魚名从魚脊別作鯽非鯽音昨則切與烏鰂字同膌痩也从肉脊別作瘠非蹐小歩也从足从脊別作蹐非㡿卻屋也从广屰別作厈非厈古文厂字也昌石切<pc n="lb"/>
+                        <pb n="18b"/>炙炮肉也从肉在火上之石切又之夜切別作非䄷稻百二十斤也从禾石今别用石碩並非常隻切擿搔也从手適一曰投也別作擲非直隻切亦人之臂亦也从大象兩亦之形或作掖臂下也別作腋非羊益切狊犬視皃俗別作闃靜靜也从門狊非古義當只用狊字古闃切又苦<pc n="lb"/>
+                        <pb n="19a"/>狊切釋解也从釆从睪一曰説也別作懌非賞職切又羊益切析破木也一曰折也从木斤別作㭊非先激切
+                        <graphic n="KR1254" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1254.png" mimeType="image/png"/>無人聲也从宀尗或作/同別作寂竝非前歷切覛衺視也一曰求也从<graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>見別作覔从不非莫狄切文二<pc n="lb"/>
+                        <pb n="19b"/>冖覆也从一下垂別作非旳明也从日勺別作的从白非都歷切文四芍从艸勺蓮其中也別作菂非又胡了切鳬茈也又時灼切藥名也又七略切陂名在宋適親也从辵啇別作嫡雖同音訓孎也又施隻切之也別作/从女非滴水注也从水<pc n="lb"/>
+                        <pb n="20a"/>啻別作从水適非歷過也从止厤一曰象也別作曆从日後人所加郎擊切鶃鳥也从鳥兒或作鷊同別作鷁艗非五歷切職記微也从耳戠別作軄非之弋切飾㕞也从巾人食別作餝拭竝非賞職切<pc n="lb"/>
+                        <pb n="20b"/>敗創也从虫人食別作蝕非乗力切日在西方時側也从日仄別作非阻力切敕誡也臿地曰敕恥力切世以勑爲敕字行之已久勑洛代切滿也从心一曰十萬也別作憶非於力切文二安也从人啻別作億从意非<pc n="lb"/>
+                        <pb n="21a"/>或邦也从口戈以守一一地也又作域同于逼切別作胡國切以爲疑或不定之意無復域音文三水流也从川或別作彧非羊裘之縫从黑或作緎非
+                        <graphic n="KR3800" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3800.png" mimeType="image/png"/>以火乾肉从火稫省/別作<graphic n="KR2042" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2042.png" mimeType="image/png"/>煏並非符逼切蟘蟲食苗葉者从虫貸別作非徒得切<pc n="lb"/>
+                        <pb n="21b"/>默犬暫逐人也一曰靜也別作嘿非莫北切文二索也从糸黒別作纆非敗也从戈則別作賊从戎非昨則切文二鰂烏鰂魚名从魚則或作鯽同別作鱡非充肩也象形又能勝此物謂之充別作剋非苦得切<pc n="lb"/>
+                        <pb n="22a"/>歰不滑也从四止或作濇同別作澁非色立切靸小兒履也从革及別作非穌合切畗滿也从高省象高厚之形又當也或作荅小尗也別作答畣並非德合切又伏堛二音蹋踐也从<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>[莫-大+羽]別作踏非徒合切<pc n="lb"/>
+                        <pb n="22b"/>納絲溼納納也从糸内一曰補也入也別作衲非奴荅切雜五彩相合从衣集別作雜非昨合切臘冬至後三戌也从肉巤別作蠟鑞非盧合切曄光也从日<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>隷作/曄俗域輒切文二
+                        <graphic n="KR1433" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1433.png" mimeType="image/png"/>盛也从火曄別作燁非<pc n="lb"/>
+                        <pb n="23a"/>极驢上負也从木及別作笈非極曄切腌漬肉也从肉奄別作醃非於葉切䀹目旁毛也从目夾別作睫非子葉切文二楫舟櫂也从木咠別作檝非臿舂去麥皮也从臼千所以臿之或作插剌也別作揷竝非楚洽<pc n="lb"/>
+                        <pb n="23b"/>切文二疀<graphic n="KR3277" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3277.png" mimeType="image/png"/>也古田器/也別作非輒車兩輢也从車耴別作輙从又非陟葉切獵放獵逐禽也从犬巤別作獦非良渉切銸鉆也从金耴別作鑷非尼輒切㬪揚雄説以爲古理官決罪三日得其宐乃行之从晶宐亡新以爲<pc n="lb"/>
+                        <pb n="24a"/>疉三日太盛改爲三田一曰厚也懷也別作非徒叶切文四蜨蛺蜨也从虫疌別作蝶非
+                        <graphic n="KR3396" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3396.png" mimeType="image/png"/>南楚謂/襌衣曰<graphic n="KR3396" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3396.png" mimeType="image/png"/>
+                    从衣葉別作褋非城上女垣也从/土葉別作堞非燮和也从炎从又省/別作爕非穌叶切文二屟履中薦也从尸枼別作屧靾<graphic n="KR2456" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2456.png" mimeType="image/png"/>屉竝非<pc n="lb"/>
+                        <pb n="24b"/>拹摺也从手劦一曰拉也別作搚非虚業切陜隘也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>夾別作狹峽竝非矦夾切士無巾有或作韐同別作/帢[巾*夾]㡊並非古洽切文二袷衣無絮也从衣合別作裌非柙檻也以藏虎兕从木甲一曰檢柙也今言文書押署是也別作押</hi>
+                    <pc n="lb"/>
+                    <pb n="25a"/>
+                    <pb n="25b"/>
+                    <hi>廫从广膠洛蕭切霩从雨郭苦郭切別作寥廓非壹从壷吉於悉切㚃从壷凶於云切吉凶在壷中不得渫也別作氤氲又作絪緼並非消搖猶翶翔也消从水肖相邀切搖从手䍃余招切別作逍遙字林所加</hi>
+                    <pc n="lb"/>
+                    <pb n="25b"/>
+                    <pb n="26a"/>
+                    <hi>
+                        <graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>沱失時也<graphic n="KR1044" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1044.png" mimeType="image/png"/>从<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>左七何切沱从水它徒何切別作蹉跎非箸猶豫也从心直由切箸从竹者陳如切別作躊非㩻䧢㩻从危支去其切䧢从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>區豈俱切作﨑嶇非<pc n="lb"/>
+                        <pb n="27a"/>帀周徧也从勹舟職流切帀从倒之子荅切別作週迊非峙䠧不前也峙从止从寺直离切䠧从足从屠直魚切別作踟蹰非闘連結相牽也从/鬥从賓省匹賓切从鬥<pc n="lb"/>
+                        <pb n="27b"/>从燹撫文切別作<graphic n="KR0813" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0813.png" mimeType="image/png"/>紛非坳垤地不平也坳从土幼於交切垤从土至徒結切別作凹凸非
+                        <graphic n="KR2419" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2419.png" mimeType="image/png"/>阢危也徐廵以爲凶也/賈侍中説<graphic n="KR2419" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2419.png" mimeType="image/png"/>法度也班固説不安也<graphic n="KR2419" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2419.png" mimeType="image/png"/>从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>从毁省五結切/阢从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>兀五忽切別作[危*臬]非<pc n="lb"/>
+                        <pb n="28a"/>怳忽狂之皃从心況省許徃切忽忘也从心勿呼骨切別作恍惚非阿那垂皃阿从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>可烏可切那从邑冉奴可切別作妸从女非蹢躅住足也蹢从足適省直隻切躅从足蜀直録切<pc n="lb"/>
+                        <pb n="28b"/>別作躑䠱非坎坷陷也坎从土欠苦感切坷从土可康我切別作轗軻非軻車屬玓瓅明珠也玓从王勺都歷切瓅从玉樂郎擊切別作的皪非</hi>
+                    <pc n="lb"/>
+                    <pb n="29a"/>
+                    <pb n="29b"/>
+                    <hi>琲瓃始華琲也从王非普乃切瓃从王靁省鲁回切別作蓓蕾非絓网也又綰也从网古眩切絓繭縡頭也从糸圭胡卦切別作罥非丁寧願詞也丁从入丨當經切寧从丂寍奴丁切別<pc n="lb"/>
+                        <pb n="29b"/>作叮寧非屯亶難行不進皃屯象艸初生屯然而難引株倫切亶从㐭旦張連切別作迍邅非讘吺多言也讘从言聶之渉切吺从口投省汝俱切又當矦切別作囁嚅非<pc n="lb"/>
+                        <pb n="30a"/>迹車迹也从車從省即容切迹歩處也从辵亦資昔切別作蹤跡非儋何即負何也儋从人詹都甘切何从人可胡我切別作擔荷非髫齔髫小兒垂髻也从髟召徒聊切齔毁齒也从齒</hi>
+                    <pc n="lb"/>
+                    <pb n="30b"/>
+                    <pb n="31a"/>
+                    <pb n="32a"/>
+                    <hi>非空从穴工苦紅切矦从人厂象布矢於其下乎溝切虙虧古帝號虙虎皃从虍必房六切虧氣損也从亏雐虚宐切別作伏犧非虧或用羲同昆侖山名昆从日比古渾切侖从亼冊力屯切別用崑崙非<pc n="lb"/>
+                        <pb n="33a"/>目宿艸名漢書罽賓國多目宿苑馬所嗜目眼也莫六切宿止也从宀息逐切別作苜蓿非族絫小腫病一曰痤也族从㫃矢昨木切絫从厽糸力軌切別作瘯非車渠尓雅大貝如車渠即魧屬也車尺遮切渠强魚</hi>
+                    <pc n="lb"/>
+                    <pb n="33b"/>
+                    <pb n="34a"/>
+                    <hi>苢艸名从艸啻於力切苢从艸㠯羊止切別作薏苡音意以非枇杷木也枇从木比房脂切杷从木巴蒲巴切一曰胡樂胡人馬上所鼓別作琵琶非虴蜢艸上蟲也一曰船名虴从虫乇陟格切蜢从虫<pc n="lb"/>
+                        <pb n="35a"/>孟莫杏切別作舴艋非詹諸鼀也其鳴詹諸詹从言八厃職廉切諸从言者章魚切別作蟾蜍非螌蝥毒蟲也螌从虫般布還切蝥从虫蝥莫交切別用班猫非<pc n="lb"/>
+                        <pb n="35b"/>即令雝<graphic n="KR1445" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1445.png" mimeType="image/png"/>也即从皀卩子席切令从亼卩力丁切別作鶺鴒非卑居楚鳥也一曰鸒秦曰雅卑从丆甲音匹居从尸古九魚切別作鵯鶋並非谿<graphic n="KR2051" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2051.png" mimeType="image/png"/>水鳥也谿从谷奚苦/兮切<graphic n="KR2051" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2051.png" mimeType="image/png"/>从鳥式恥力切別<pc n="lb"/>
+                        <pb n="36a"/>作非蛧山川之精物也淮南王說狀如三歲小兒赤黑色赤目長耳美髪蛧从虫网文两切从虫两良獎切別作䰣魉非夗蟺龍皃夗从夕卩於阮又於元㓛蟺从虫亶常演又以然切別作蜿蜒非<pc n="lb"/>
+                        <pb n="36b"/>解廌獸也似山牛一角古者決訟令觸不直象形解佳買切廌宅買切别作獬非橐佗案史記匃奴竒畜也槖从㯻省石他各切佗从人它徒何切今作駱駝非㞒鼇也一曰雌鼇壯大也从三大三目平祕切<pc n="lb"/>
+                        <pb n="37a"/>㞒从尸自虚器切又許介切臥息也別作贔屭非蘆菔似蕪菁實如小尗根似薺苨蘆从艸盧洛乎切菔从艸服蒲北切別作蘿蔔非本艸或作萊菔不能行爲人所引也从尣爪是都兮切从爪尣巂户圭切今俗用提攜二字<pc n="lb"/>
+                        <pb n="37b"/>加沙梵言加沙此言不正色加从力口古牙切沙从水少所加切葛洪字苑別作袈裟非</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>形聲相類<pc n="lb"/>
+<hi>竝職容切鍾从金重酒器鐘从金童樂也秋分之音竝工户切鼓从壴<graphic n="KR2093" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2093.png" mimeType="image/png"/>春分之音郭也萬物郭皮甲而</hi>
+                    <pc n="lb"/>
+                    <pb n="38a"/>
+                    <pb n="38b"/>
+                    <hi>朝君也望从亾朢省出亾于外望其還也竝治小切肇从戈㡽戟屬肇从攴肈省擊也竝之忍切<graphic n="KR3582" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3582.png" mimeType="image/png"/>从几彡新生羽而飛也㐱从人彡稠髮也與鬒同竝食鄰切晨从日辰或作曟房星爲民田時者䢅从<pc n="lb"/>
+                        <pb n="38b"/>辰臼早昧爽也竝户經切刑从刀幵勁也㓝从刀丼罰辠也易曰丼法也竝户經切郉从邑幵周公所封地从邑井鄭地竝奴丁切寧安也从宀心在皿上寧从丂寜願詞也<pc n="lb"/>
+                        <pb n="39a"/>竝先稽切屖从尸辛遟也犀从牛尾南徼外牛也竝息流切修从彡攸飾也脩从肉攸脯也竝於喬切<graphic n="KR3070" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3070.png" mimeType="image/png"/>从女芙巧也一曰女子笑皃䄏从示芺反物爲䄏竝紀庸切龏从龍慤也龔从共龍給也<pc n="lb"/>
+                        <pb n="39b"/>竝側詞切<graphic n="KR2323" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2323.png" mimeType="image/png"/>象缶形甾从巛田不耕田也或作菑同竝戸乖切褢从衣鬼袖也一曰藏也褱从衣眔俠也竝弋支切移从木多棠隶也移从禾多相倚移也竝巨良切彊从弓畺弓有力也強从虫弘蚚也竝烏代切㤅从心从旡惠也从夊㤅行皃<pc n="lb"/>
+                        <pb n="40a"/>竝於求切<graphic n="KR2147" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2147.png" mimeType="image/png"/>从心頁愁/也憂从攵<graphic n="KR2147" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2147.png" mimeType="image/png"/>和之行也竝直由切从口又/誰也/从白詞也竝似茲切辤从辛受不受也辭从辛<graphic n="KR1798" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1798.png" mimeType="image/png"/>訟也竝盧紅切櫳从木龍檻也㰍房室之䟽也竝徂紅切叢从丵取聚也䕺从艸叢艸䕺生皃</hi>
+                    <pc n="lb"/>
+                    <pb n="40b"/>
+                    <pb n="41a"/>
+                    <hi>竝麌俱切从心禺㥥懼也愚戅也竝古雙切杠从木工牀前横木也扛从手工横關對舉也竝無非切从人攴耑省/妙也微从彳隱行也竝諸盈切延从廴正行也征从彳正正行也或作延<pc n="lb"/>
+                        <pb n="42a"/>竝如鄰切人天地之性最貴者也象臂脛之形儿仁人也在人下故詰屈竝杜兮切从見昰顯也題从頁昰額也竝側加切柤从木且木閑也抯从手且挹也竝所交切梢从木肖木杪也捎从手肖捎也<pc n="lb"/>
+                        <pb n="42b"/>竝九魚切凥處也从尸得几而止居蹲也从尸古與踞同竝必郢切屛从尸幷庰从广幷蔽也音訓同竝呼鳥切曉从日从堯明也皢从白堯日之白也竝古亥切改从攴己更也从攴己㱾巳大剛卯以<pc n="lb"/>
+                        <pb n="43a"/>逐鬼魅也竝直吕切杼機之持緯者柔栩也竝从木予竝九輦切䞿从走蹇省蹇从<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>寒省跛也俗作謇非竝余隴切从走甬䘮/辟也踊从足甬跳也竝丑郢切从辵呈通也徎从彳从呈徑行也<pc n="lb"/>
+                        <pb n="43b"/>竝之隴切歱从止重跟也踵从足重追也一曰徃来皃竝當古切睹从目者與覩同暏從日者旦明也竝良獎切㒳再也兩从一㒳二十四銖也竝徂朗切从犬壯妄彊大也奘从大大音他逹切从壯駔大也<pc n="lb"/>
+                        <pb n="44a"/>竝居竦切竝从手共拱歛手也拲兩手同械也竝古雅切徦从彳叚至也假从人叚非真也竝其呂切秬或从禾黑黍也一稃二米以釀也柜从木巨木也竝求癸切揆从手癸葵也楑从木癸木也一曰度也<pc n="lb"/>
+                        <pb n="44b"/>竝盧瞰切濫从水監氾也一曰濡上及下也一曰清也㜮从女監過差也竝寔照切邵从卩召髙也邵从邑召晉邑竝魚怨切从頁顛頂也願从頁原大頭也竝子之切玆从二玄黑也兹从艸玆省艸木益多也</hi>
+                    <pc n="lb"/>
+                    <pb n="45a"/>
+                    <pb n="45b"/>
+                    <hi>人隹厂鴈鵝也从鳥雁省竝穌旰切㪔分離也从攴林林分㪔之意雜肉也从肉㪔竝他弔切䊮穀也从米翟糶出榖也从出䊮竝皮命切寎臥驚也从㝱省丙病疾加也从丙竝莫故切从心莫慔勉也習也<pc n="lb"/>
+                        <pb n="45b"/>竝烏諫切晏天清也从日安妟安也从女日竝薄報切曓从日出疾有所趣也㬥从日出米晞也竝胡頰切恊从劦心同心之和恊从劦十衆之同和十衆也<pc n="lb"/>
+                        <pb n="46a"/>竝苦化切从足荂踞也跨从足夸渡也竝蒲莧切辨判也从刀辡辦致力也从力辡竝苦浪切抗扞也从手亢或从木同杭俗作胡郎切竝丈莧切䋎補縫也从糸旦袒衣縫解也从衣旦竝博陌切佰相什佰也从人百伯長也从人白<pc n="lb"/>
+                        <pb n="46b"/>竝羊益切弈圍棊也从廾亦奕大也从大亦他逹切竝北角切駁馬角不純也从馬爻駮獸如馬食虎豹从馬交竝賞隻切釋从釆睪解也釋从米睪漬米也竝所劣切㕞拭也从又巾尸刷刮也从刀㕞省<pc n="lb"/>
+                        <pb n="47a"/>竝筠輒切曄从日<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>光也/从白<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>艸木白<graphic n="KR1191" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1191.png" mimeType="image/png"/>也竝穌叶切从又持炎辛大孰也燮和也从言又炎竝居月切厥發石也从厂欮瘚逆气也从疒屰欠並子葉切椄从木妾續木也接从手接交也竝古禄切榖从木㱿楮也穀从禾㱿續也百穀緫名<pc n="lb"/>
+                        <pb n="47b"/>竝式竹切从<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>/疾也/从犬走也竝盧荅切柆从木立折木也拉从手立摧也竝以灼切趯从走从翟踊也躍从<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>翟迅也竝私列切辥从辛辠也薜从艸艸也竝魚欠切醶从酉僉酢漿也鹼从鹵僉鹵也<pc n="lb"/>
+                        <pb n="48a"/>竝職深切箴从竹咸綴衣箴也葴从艸咸馬藍也竝陟教切从网隹覆鳥令不飛走也罩从网卓捕魚器也竝子力切稷从禾畟齋也五榖之長㮨从木畟細理木也<pc n="lb"/>
+                        <pb n="48b"/>竝良渉切㲱鬣同或从毛巤或从豕巤擸从手巤持也竝匹妙切勡从力票劫也剽从刀票砭剌也竝迂勿切芳艸也十葉/爲貫百貫築而煑之爲从<graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>冖缶鬯彡共飾也一曰/鬯百艸之華逺方人所貢芳艸合釀之以降神鬱今鬱林郡也鬱木叢生者从林省<pc n="lb"/>
+                        <pb n="49a"/>竝烏皎切从宀㫐户樞聲屋之東南隅也䆞从穴皀㝠也竝苦骨切从土兎/也堀从土省突也竝魯甘切籃大篝也从竹監藍染青艸也从艸監竝香依切晞乾也从日稀省睎望也从目稀省<pc n="lb"/>
+                        <pb n="49b"/>竝力鹽切簾堂簾也从竹廉薕蒹也从艸廉竝以灼切籥書僮竹笘也从竹<graphic n="KR1371" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1371.png" mimeType="image/png"/>蘥爵麥也从艸<graphic n="KR1371" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1371.png" mimeType="image/png"/>
+                    竝亡沼切杪木標末也从木少秒禾<graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>也从禾少竝胡官切萑鴟屬从隹<graphic n="KR3017" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3017.png" mimeType="image/png"/>/<graphic n="KR0841" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0841.png" mimeType="image/png"/>也从艸萑竝息移切澌水索也从水斯凘流仌也从仌斯</hi>
+                    <pc n="lb"/>
+                    <pb n="50a"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>形相類<pc n="lb"/>
+<hi>種从禾重直容切先種後孰穜从禾童之用切蓺也从<graphic n="KR1887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1887.png" mimeType="image/png"/>由以周切木生條也甹从由丂普丁切亟詞䚻从言肉徒歌也余招切从缶肉瓦器以周切扉从户非甫微切户扇也屝从尸非扶沸切履也<pc n="lb"/>
+                        <pb n="50b"/>佰从人百博陌切相什佰也古文夙字夾从大挾二人古狎切持也夾从大二入失冉切盜竊褱物也毛眉髮及獸毛也象形莫袍切手拳也象形書九切戻从户大徒蓋切輜車㫄推户也戾从犬出户下郎<pc n="lb"/>
+                        <pb n="51a"/>計切曲也
+                        <graphic n="KR1832" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1832.png" mimeType="image/png"/>普活切艸木盛<graphic n="KR1832" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1832.png" mimeType="image/png"/>
+                        <graphic n="KR1832" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1832.png" mimeType="image/png"/>然/象形八聲<graphic n="KR1832" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1832.png" mimeType="image/png"/>从屮八匹刃切分枲莖皮也戊中宫象相拘絞也莫候切戉从戈王伐切斧也䏌从肉八許訖切振䏌也肖从肉小私妙切骨肉相<pc n="lb"/>
+                        <pb n="51b"/>似也母莫后切牧也象褱子乳子形母武扶切止之也从女有奸之者㫐从口上烏皎切望逺合也皂象嘉穀在裹中形<graphic n="KR0901" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0901.png" mimeType="image/png"/>
+                    以扱之皮及切又音香<pc n="lb"/>
+                        <pb n="52a"/>从宀㫐烏皎切户樞聲也冟从冖皀施隻切飯剛柔不相著也暜从日竝滂古切日無色也暜从竝白他計切一偏下也宙从宀由直又切舟輿所覆極也籀文岫字<pc n="lb"/>
+                        <pb n="52b"/>从臼屰匹各切臿从臼千楚洽切舂去麥皮也舀从爫臼以沼切杼臼也或作㧒同臽从人在臼上户<graphic n="KR3081" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3081.png" mimeType="image/png"/>切小阱也晶从三日子盈切精光也皛从三白烏皎切顯也汨羅水名从水日莫狄切汩从水曰于筆切治水也<pc n="lb"/>
+                        <pb n="53a"/>褎从衣采似又切袂也或作袖褎从衣博毛切衣博裾
+                        <graphic n="KR3951" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3951.png" mimeType="image/png"/>足上象腓腸下从止所/菹切<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>人之<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>也在下从止口即玉切宷从宀釆式荏切悉也知宷諦也寀从宀采倉宰切<pc n="lb"/>
+                        <pb n="53b"/>同地爲宷居从尸古九魚切蹲也㕆从古厂矦古切美石也林从二
+                        <graphic n="KR1832" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1832.png" mimeType="image/png"/>匹卦切葩之緫名林从二木力㝷切野外也云古雲字王分切从倒子他骨切不順忽出也宭从宀君渠云切羣居也窘从穴君渠隕切迫也<pc n="lb"/>
+                        <pb n="54a"/>弓艸木之華未發象形乎感切卪瑞信也子結切夗从夕卩於阮切轉卧也肥从肉卩符非切多肉也覆也从网音烏感切罵也从网言力智切朿七賜切木<graphic n="KR0621" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0621.png" mimeType="image/png"/>也束書玉切轉也从木口刺从刀朿七賜切直傷也刺从刀束盧逹切戾也<pc n="lb"/>
+                        <pb n="54b"/>从攴朿楚革切擊馬也从攴束恥力切誡也今用勑栝从木舌他念切炊竈木也桰从木<graphic n="KR2140" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2140.png" mimeType="image/png"/>古活切櫽也號呼也从号虎乎刀切土鍪也从䖒号胡到切執从丮㚔之入切捕罪人/也/从手省居六切撮也</hi>
+                    <pc n="lb"/>
+                    <pb n="55a"/>
+                    <pb n="55b"/>
+                    <hi>医从匚矢於計切盛弓弩矢器<graphic n="KR1286" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1286.png" mimeType="image/png"/>古簠字二而至切地之數也二古上字肺从肉<graphic n="KR1832" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1832.png" mimeType="image/png"/>芳吠切金藏也/胏从肉阻史切食所遺也或作柿从木<graphic n="KR1832" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1832.png" mimeType="image/png"/>芳吠切削木札/樸也<graphic n="KR0964" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0964.png" mimeType="image/png"/>从木鉏里切赤<pc n="lb"/>
+                        <pb n="55b"/>實果也厎从厂氐職雉切礪石也砥同底从广氐都礼切山居也蚩从虫㞢赤之切蟲也蚩从虫<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>丑善切蟲曳行也殳从又几市朱切以杸殊人也从又在回下莫勃<pc n="lb"/>
+                        <pb n="56a"/>切入水有所取也古回字亘从二須縁切求亘也/从二舟古字古鄧切嵒从山品五咸切山巖喦从品相連多言也尼輒切圮从土己符鄙切毁也圯从土巳與之切橋也苗从艸田武鑣切艸生於田者笛从艸由徒歷他六<pc n="lb"/>
+                        <pb n="56b"/>二切蓨也芔从三屮許偉切艸之緫名也卉三十筓也穌沓切气象形去旣切雲气也于从反彳母玉切歩止也少从小丿書沼切不多也尐从小乀子結切少也公从八厶古紅切平分也㕣从儿口以轉切山間陷也<pc n="lb"/>
+                        <pb n="57a"/>叱从口七昌栗切訶也吒从口乇陟駕切噴也凵張口也象形口犯切厶去魚切飯器也以桺木爲之象形彳丑亦切小歩也象人脛三屬相連也廴从彳引之長行也余忍切<pc n="lb"/>
+                        <pb n="57b"/>延从㢟丿長行也以然切延从廴正諸盈切行也㢟从廴止丑連切安歩也<graphic n="KR4091" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4091.png" mimeType="image/png"/>从彳止斯氏切與徙也从干二二古上字去䖍切辠也/从一息鄰切秋時也又于救切手也象形父从义舉杖扶雨切矩也<pc n="lb"/>
+                        <pb n="58a"/>叉从又象手指相錯形初牙切叉从又象叉形側絞切手足甲也象器也大口切酒器也亞象人背局之形衣駕切醜也夘象開門之形莫飽切冐也丣古酉字象閉門之形<pc n="lb"/>
+                        <pb n="58b"/>从止屮又乂手也疾葉切疾也从止又入尼輒切機下足所履也乙於筆切甲乙字<graphic n="KR4236" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4236.png" mimeType="image/png"/>烏轄切玄鳥也从反丨<graphic n="KR3683" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3683.png" mimeType="image/png"/>月切鉤識也厶古肱字丿右戾也房宻切象左引之形<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>明也余制切象抴<pc n="lb"/>
+                        <pb n="59a"/>引形
+                        <graphic n="KR2122" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2122.png" mimeType="image/png"/>象隱蔽形於謹切匿也乀左戾也分勿切从反丿从反<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>弋支切義移/流水也<graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>古及字丨古本切上下通也<graphic n="KR1457" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1457.png" mimeType="image/png"/>姑泫切小流也乂从丿乀魚廢切芟也㐅古五字<pc n="lb"/>
+                        <pb n="59b"/>夨从大象形阻力切傾頭也夭从大象形於兆切屈也甶象形敷勿切鬼頭也田象四口阡陌之制待年切丰象形艸生散亂也古拜切从生上下逹艸盛也敷容切
+                        <graphic n="KR3386" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3386.png" mimeType="image/png"/>从兮丿象上越揚之形戶呉切平从丂八八分也<pc n="lb"/>
+                        <pb n="60a"/>符兵切語平舒也从力渠卷切勞也倦/同/从刀去願切契也肉胾肉象形如六切月魚厥切大隂之精象形㲋丑略切獸青色似兔而大頭似兔足似鹿兔湯故切象踞後其尾形頭似㲋<pc n="lb"/>
+                        <pb n="60b"/>巂周燕也从隹<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>㕯户圭切雋肥肉也从弓以射隹也徂流切袍从衣包薄褒切襺也袌从衣包薄保切褱也舠从舟刀五忽切船行不安也古服字箑从竹疌山洽切扇也或作䈉萐从艸疌七洽切萐<pc n="lb"/>
+                        <pb n="61a"/>蒲瑞艸也扇暑而涼从本卉呼骨切疾也奏則候切从本廾屮屮上進之義从水子禮切沇也/沛从水<graphic n="KR1832" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1832.png" mimeType="image/png"/>普盖切水名檢从木僉居奄切書也撿从手僉良冉切拱也</hi>
+                    <pc n="lb"/>
+                    <pb n="61b"/>
+                    <pb n="62a"/>
+                    <pb n="63a"/>
+                    <pb n="64a"/>
+                    <hi>捄从手求舉朱切盛土於梩中也毬从毛求巨鳩切鞠丸也氐从氏下箸一丁礼切至也木本从氏大於末居月切甘从口含一古三切美也下古丹字<pc n="lb"/>
+                        <pb n="65a"/>顫也从疒又于救切疛腹病也从疒肘省陟柳切
+                        <graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>象形工瓦切芉角也別作丱非卝古猛切古文磺从疒芉似陽切瘍也从芉爿則郎切牡芉也美从芉大無鄙切甘也羙从芉照省古牢切芉子也涕从水弟他礼切泣也洟从水夷他計切鼻液也</hi>
+                    <pc n="lb"/>
+                    <pb n="65b"/>
+                    <pb n="66a"/>
+                    <hi>米象形莫礼切禾實也采蒲莧切象獸爪分別也采从爫木倉宰切捋取也<graphic n="KR2292" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2292.png" mimeType="image/png"/>从爫禾徐醉切禾成秀从<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>之省以灼切岸上/見也屵从山<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>五葛切岸髙也去从大厶丘據切人相違也谷从口大象其理其虐切<pc n="lb"/>
+                        <pb n="67a"/>白从入合二旁陌切西方色也/疾二切與自字同从心刀魚旣切怒也忍从心刃而軫切能也陝从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>㚒失冉切弘農陜/也陜从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>夾矦夾切隘也俗作峽非猒从甘於鹽切飽也厭从厂猒於輒一淡二切笮也<pc n="lb"/>
+                        <pb n="67b"/>从衣㠭知扇切丹縠衣㞡从尸省知衍切轉也㘣从囗肙似沿切䂓也圓从囗員王問切圜全也弓以近窮逺象形居戎切下古及字百从一白博陌切十十也㐁从谷他念切舌皃旬从勹日詳遵切十日也䀏从目勻省黄絢切目揺<pc n="lb"/>
+                        <pb n="68a"/>菔从艸服蒲北切蘆菔也箙从竹服房六切弩矢箙也
+                        <graphic n="KR3656" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3656.png" mimeType="image/png"/>从丌甶必至切付與也/<graphic n="KR3656" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3656.png" mimeType="image/png"/>从廾甶渠旣切舉也目人眼象形莫六切下古良字困从囗木苦悶切故廬囷从囗禾去倫切廪之圜者拜博怪切揚雄說从兩手下拜居竦切揚雄說从兩手<pc n="lb"/>
+                        <pb n="68b"/>彔象形盧谷切下古魅字溼从水一土㬎省失入切幽溼也濕从水㬎他合切水名萑从艸隹職追切艸多皃萑从隹<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>胡官切鴟屬有毛角</hi>
+                    <pc n="lb"/>
+                    <pb n="69a"/>
+                    <pb n="69b"/>
+                    <hi>
+                        <graphic n="KR1834" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1834.png" mimeType="image/png"/>从冂一莫保切重覆也冃从冂二莫報切頭衣也厂山石之厓人可居象形呼旱切广因广以爲屋象形魚儉切从又持巾尼輒切手疌巧聿从一余律切所以書也</hi>
+                    <pc n="lb"/>
+                    <pb n="69b"/>
+                    <pb n="70a"/>
+                    <hi>冣从冂取才句切積也最从冃取祖外切犯而取也臭从犬自尺救切臊也狊从犬目古闃切犬視也糸象形莫狄切細絲五忽系从糸丿胡計切繫也
+                        <graphic n="KR2429" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2429.png" mimeType="image/png"/>从子爻古肴切放也孝从老省子呼教切善事父母者<pc n="lb"/>
+                        <pb n="71a"/>晳从白析先擊切人白色也晢从日折旨熱切昭哲明也媱从女䍃曲肩行皃余招切婬从女㸒私逸也餘箴切兀从一在人上五忽切髙而上平也尢从大象偏曲形烏光切㝿曲脛也<pc n="lb"/>
+                        <pb n="71b"/>豐从豆象豆之滿者也敷戎切豊从豆象形盧啓切行禮之器杗从木亾武方切棟也<graphic n="KR3282" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3282.png" mimeType="image/png"/>古文困字摩从手麻莫鄱切研也从手靡許爲切旌旗指癸象水从四方流入地中之形居誄切下古文共字<pc n="lb"/>
+                        <pb n="72a"/>从貝余六切衒也賣从出買莫邂切出貨物也商从㕯章省式陽切从内知外也啻从口帝施智切語時不啻也从重八兵列切分也兆古文治小切从心於力切滿也/意从心音於記<graphic n="KR0704" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0704.png" mimeType="image/png"/>志也<pc n="lb"/>
+                        <pb n="72b"/>                        <graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>是爲切艸木華葉<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>也/象形古懷切背呂也象形習从羽白似入切數飛也下古友字上古手字下古堯字墜从土隊直類切陊也下古地字槀从木高苦浩切枯也藳从禾髙古老切禾稈也<pc n="lb"/>
+                        <pb n="73a"/>諐諐上从言㑆胡禮切待也下籀文愆从言侃上古仁字下古夷字匚受物之器象形府良切匚从上有一覆之衺傒有所俠藏也胡禮切从乃西省如乗切驚聲或曰徃也/从乃<graphic n="KR1234" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1234.png" mimeType="image/png"/>气行<pc n="lb"/>
+                        <pb n="73b"/>皃以周切㬱从白兓七感切曾也㬱从曰兟他計切廢一偏下也从㞢土艸木妄生也户/光切/从省从土古封字籀文不省府容切瘍从疒昜與章切頭創也痬从疒易羊益切脉痬也<pc n="lb"/>
+                        <pb n="74a"/>晚莫也从日免無逺切睌大目視皃从目免武限切古文字下古文孟字務趣也从力敄亡遇切㡔从巾敄䰍布也莫卜切士事也數始於一終於十推十合一鉏礼切土地中物出形它魯切</hi>
+                    <pc n="lb"/>
+                    <pb n="74b"/>
+                    <pb n="75a"/>
+                    <pb n="76a"/>
+                    <hi>盻恨視也从目兮胡計切盼美目也从目分匹莧切萁豆莖也从艸其渠之切箕簸也从竹其居之切脽也示隹切从肉隹<graphic n="KR3557" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3557.png" mimeType="image/png"/>/髀也徒䰟切或从肉隼袓事也从衣且才與切袒衣縫解也从衣旦丈萈切䁂大目也从目臤矦簡切短深目也从目䀑烏括切<pc n="lb"/>
+                        <pb n="77a"/>䈰飯器也从竹捎所交切飯筥也从竹稍山樞切冕大夫以上冠也从冃免亾辨切冤屈也从免在冂下不得走於袁切筋肉之力也从力肉竹居銀切䇟筋之本也从筋夗省渠建切<pc n="lb"/>
+                        <pb n="77b"/>从<graphic n="KR1763" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1763.png" mimeType="image/png"/>異胥里切石利也廙从广異與職切行屋也㕡从谷溝也呼各切或/从土叡从目谷省以芮切深明也或从土䪗从韋叚乎加切履也䪗从韋段徒玩切履後帖也渜从水耎乃管切湯也濡从水需人朱切</hi>
+                    <pc n="lb"/>
+                    <pb n="78a"/>
+                    <pb n="78b"/>
+                    <hi>縱从系從緩也足用切緃从糸從省䋐也足容切亅鉤逆者謂之亅衢月切鉤識也从反亅居月切丂气欲舒出上礙於一也/苦浩切/虎何切反丂也禾木之曲頭止不能上也古兮切禾从木<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>省户戈切嘉榖也<pc n="lb"/>
+                        <pb n="78b"/>上髙也時掌切下底也胡雅切正从止一之盛切是也乏房法切反正以爲之止象艸木出有址故从止爲<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>諸市切从反止他逹切爪覆手曰爪象形側狡切丮也从反爪諸兩切亦<pc n="lb"/>
+                        <pb n="79a"/>丮也丮象手有所丮據也几劇切持也从反丮居玉切持也又象形手也于救切<graphic n="KR1664" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1664.png" mimeType="image/png"/>手也象形臧可切卩象相合之形子結切瑞信也卩也側候切<pc n="lb"/>
+                        <pb n="79b"/>印从爪卩於刃切執政所持信也按也从反印於棘切后象人之形繼體君也胡口切司从反后臣司事於外者息玆切欠象氣从人上出之形去劒切从反欠飮食氣屰<pc n="lb"/>
+                        <pb n="80a"/>不得息曰居未切永長也象形于憬切
+                        <graphic n="KR1000" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1000.png" mimeType="image/png"/>从反永水之衺流別也匹卦切首頭也象形書九切斷首倒縣古堯切之象艸過屮枝莖益大者所之一者地也止而切帀从反㞢而帀也子荅切</hi>
+                    <pc n="lb"/>
+                    <pb n="80b"/>
+                    <pb n="81a"/>
+                    <hi>胡辦切子象形古文作㜽即里切云不順忽出也从到子古文作㐬他骨切變也从到人呼跨切古文殄从反人天地之性最貴者也如鄰切<graphic n="KR0901" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0901.png" mimeType="image/png"/>相與比叙也从反人卑履切<pc n="lb"/>
+                        <pb n="82a"/>可肎也从口肯我切叵不可也从反可普火切古文王字古文玉字上王雨方切中畫近上王者則天之義中王魚欲切三畫正均如貫王也下壬如林切位北方也象人褢妊之形<pc n="lb"/>
+                        <pb n="82b"/>上艸倉老切百卉也从二屮中居竦切竦手也从又下<graphic n="KR2433" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2433.png" mimeType="image/png"/>暜班切引也从反上丈直兩切十尺也从又持十中<graphic n="KR2093" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2093.png" mimeType="image/png"/>
+                    土刀切滑也从又<graphic n="KR0708" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0708.png" mimeType="image/png"/>下支章移切从又持半竹上取七庾切捕也从又耳中而渉<pc n="lb"/>
+                        <pb n="83a"/>切使也从攴耴省下耴陟葉切耳垂也象形上胡耿切吉而免凶也从屰夭中㚔尼輒切所以驚人也从大<graphic n="KR2423" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2423.png" mimeType="image/png"/>下古南字上敷容切啎也/从夂中夆乎盖切相遮要害也从夊丰下夅下江切服也从㐄相承不敢並<pc n="lb"/>
+                        <pb n="83b"/>上即里切止也/从盛而一横止之中市分勿切韠也象形下市時止切从冂<graphic n="KR1525" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1525.png" mimeType="image/png"/>之省買賣所之上冖莫狄切覆也从一下垂也中冂古熒切林外也下几居履切踞几也象形上干古寒切犯也从到入从一中<pc n="lb"/>
+                        <pb n="84a"/>如審切㨖也从干入一下屰魚㦸切不順也从干下凵上久舉友切象人兩脛後有距也中夂陟侈切象人兩脛後有致之者下夊楚危切象人兩脛有所躧也上大徒蓋切象人形中大他逹切大也下六力竹切易之數从入八<pc n="lb"/>
+                        <pb n="84b"/>上臼居玉切义手也从瓜中臼其九切象形下古齒字上䑣丑林切又以中切船行也又祭名中彤徒冬切丹飾也从丹彡下古丹字上如延切从犬肉中䏙他感切肉<pc n="lb"/>
+                        <pb n="85a"/>汁滓也从肉冘下肬羽求切贅也从肉尤上段徒玩切推物也从殳耑省中叚古雅切借也下亦叚字譚長說叚如此上黕都感切滓垢也从黒冘中默莫北切从犬黒下古肬字<pc n="lb"/>
+                        <pb n="85b"/>上諡神至切行之迹也从言㿽中謚伊昔呼狄二切笑皃从言益下謐彌必切靜語从言从上芉朱切束縛/捽抴爲从中余制切也/从/丿下<graphic n="KR4092" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR4092.png" mimeType="image/png"/>古蕢字上耹巨今切國語回禄信於耹从耳<pc n="lb"/>
+                        <pb n="86a"/>今中聆郎丁切聽也从耳令下郎丁切瓮似缾从瓦令上滔土刀切水大皃从水舀中淊胡感切泥水淊淊也从水臽下涵胡男切水澤多也从水圅上鈹敷覊切大鍼也一曰劒如刀<graphic n="KR1019" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1019.png" mimeType="image/png"/>
+                    者从金皮中鍜乎加切錏鍜也从金叚下鍛丁貫切小冶也从金段<pc n="lb"/>
+                        <pb n="86b"/>上㣇芉至切修豪獸从彑下象毛足中彖通貫切豕走也从彑从豕省下彖式視切豕也从彑豕上户關切馬一歲也从馬一絆其足中之戍切从馬二絆其足下/<graphic n="KR0919" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0919.png" mimeType="image/png"/>陟立切从馬口其足絆馬也上从疾容切相聽也从二人中比毗<pc n="lb"/>
+                        <pb n="87a"/>至切宻也从反从下北博墨切也从二人相背上否方九切不也从口不中咅天口切相與語唾而不受也从亅否下㫘美畢切不見也从日否省上敲从攴髙横擿也口交切中毃从殳高擊頭也口卓切下歊从欠髙歊歊气出皃許嬌切<pc n="lb"/>
+                        <pb n="87b"/>上敺古文驅中毆烏后切从殳區捶擊物也下歐亦烏后切吐也从欠區上甾側詞切缶器也中息進切古囟字下凷从土一屈苦對切凷與塊同上岊陬隅高山之節从山卩子結切<pc n="lb"/>
+                        <pb n="88a"/>中屺山無艸木也从山已墟里切下/古文扈从山<graphic n="KR1887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1887.png" mimeType="image/png"/>
+                    上企舉踵也从人止去智切中仚人在山上呼堅切下匄氣也从亡人古代切</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>聲相類<pc n="lb"/>
+<hi>竝五換切玩弄也从王元或从貝翫習厭也从習元<pc n="lb"/>
+                        <pb n="88b"/>竝子浩切璪王飾如藻之文从王喿璅石之似玉者从王巢竝力求切瑬垂玉也冕飾从玉流石之有光璧也从玉丣竝五關切環璧也从王瞏鍰鋝也从金爰<pc n="lb"/>
+                        <pb n="89a"/>竝胡果切禍害也神不福也从示咼屰惡驚詞从㒫咼竝去旣切气雲气也象形氣饋客芻米也从米气竝徒活切手持隹失之/从奞又<graphic n="KR3360" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3360.png" mimeType="image/png"/>彊取也从攴兌竝側狡切㕚手足甲也从又象形爪丮也覆手曰爪<pc n="lb"/>
+                        <pb n="89b"/>象形竝諸兩切掌手中也从手尚丮持也从反爪象形竝普伯切霸月始生霸也从月䨣魄隂神也从鬼白竝康礼切启開也从户口啟教也从攴启竝疾正切淨又士耕切魯北城門池从水爭瀞無垢<pc n="lb"/>
+                        <pb n="90a"/>薉也从水靜竝徒紅切童奴也从䇂重省僮未冠也从人童竝他得切忒更也从心弋失常也从心代竝徒朗切蕩水名从水<graphic n="KR1733" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1733.png" mimeType="image/png"/>潒漾水動揺也从水象竝苦昆切無髮也从/頁困鬄髮也从髟儿<pc n="lb"/>
+                        <pb n="90b"/>竝康狠切齧也狠从豕艮齦从齒艮訓同竝郎豆切屚屋穿水下也从尸雨漏以銅受水刻節百刻从水屚竝烏紺切闇閉門也从門音暗日無光也从日音竝五漑切閡門外閉也从門亥礙止也从石疑</hi>
+                    <pc n="lb"/>
+                    <pb n="91a"/>
+                    <pb n="91b"/>
+                    <hi>竝觕臥切斬芻也从/艸剉折傷也从刀竝子小切勦勞也从力巢絕也从刀喿竝魚切屰不順也从干下凵屰之逆迎也从辵屰竝兵列切分也重八相倚別分解也又憑列切从冎刀<pc n="lb"/>
+                        <pb n="91b"/>竝徐醉切㒸从意也从八豕遂亡也从辵㒸竝七感切憯痛也从心朁毒也从心竝側鳩切鄒魯縣古邾國顓帝之後所封从邑芻郰魯下邑孔子之郷也从邑取竝愚袁切邍从辵备录闕髙平之野人所登原水泉</hi>
+                    <pc n="lb"/>
+                    <pb n="92a"/>
+                    <pb n="92b"/>
+                    <hi>竝慈衍切㣤迹也从彳戔踐履也从<graphic n="KR2022" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2022.png" mimeType="image/png"/>戔竝古雅切假非真也从人从叚叚借也竝古懷切戾也从<graphic n="KR1586" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1586.png" mimeType="image/png"/>兆背呂也象形竝徒弄切衕通街也从行同洞水疾流也从水同竝楚八切詧言微親詧也从言察省察覆也从宀祭<pc n="lb"/>
+                        <pb n="92b"/>竝昌眞切謓恚也从言眞瞋張目也从目眞竝職縁切叀从幺省屮小謹也專从寸叀六寸簿也竝山洽切翜捷也飛之疾也从羽夾翣棺羽飾也从羽妾竝昨千切<graphic n="KR0714" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0714.png" mimeType="image/png"/>賊也从歺戔禽獸所食餘也从歺肉<pc n="lb"/>
+                        <pb n="93a"/>竝力珍切麐牝麒也从鹿吝麟大牝鹿也从鹿粦竝穌困切顨易卦爲長女/爲風者从丌巽具也从丌竝許嬌切哮豕驚也从口孝虓師子鳴从虎九竝薄報切暴疾有所趣也/从日出卄本<graphic n="KR1373" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1373.png" mimeType="image/png"/>虐也急也从虎武<pc n="lb"/>
+                        <pb n="93b"/>竝式陽切行買也从貝商省商以外知内也从冏章省竝於今切<graphic n="KR1640" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1640.png" mimeType="image/png"/>雲覆日从雲今隂闇也水之南山之北也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>侌竝將鄰切气液也从/血<graphic n="KR2638" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2638.png" mimeType="image/png"/>/水渡也从水<graphic n="KR2638" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2638.png" mimeType="image/png"/>
+                    <pc n="lb"/>
+                        <pb n="94a"/>竝冬毒切䈞厚也从竹亯篤馬行頓也从竹馬竝於力切檍杶也从木意梓屬也从木竝側詵切果實小如栗从木辛榛木也从木秦竝於六切郁地名从邑有有文章也从有竝薄回切<graphic n="KR1548" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1548.png" mimeType="image/png"/>河東聞喜縣从邑非裵裵回寛衣皃从<pc n="lb"/>
+                        <pb n="94b"/>衣非竝語期切未定也从古文矢字疑惑也从子止矢竝矦閤切合合口也从口亼匌帀也从勹合竝親吉切桼木汁可䰍物象形漆水名从水桼<pc n="lb"/>
+                        <pb n="95a"/>竝治小切肁始開也从户聿擊也从攴肁竝他案切歎吟也从欠堇嘆吞歎也一曰大息也从口堇竝普䰟切歕吹气也从欠賁噴吒也鼓鼻也从口賁竝陟交切啁嘐也从口周嘲謔也通用啁字从口朝<pc n="lb"/>
+                        <pb n="95b"/>竝失廉切苫盖也从艸占䘮藉也从艸㑴竝郎段切亂治也从乚<graphic n="KR1798" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1798.png" mimeType="image/png"/>
+                        <graphic n="KR3355" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3355.png" mimeType="image/png"/>煩也从攴<graphic n="KR1798" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1798.png" mimeType="image/png"/>
+                    竝都昆切厚也从心<graphic n="KR1647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1647.png" mimeType="image/png"/>/怒也又詆也从攴<graphic n="KR1647" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1647.png" mimeType="image/png"/>
+                    竝奴代切能忍也从肉足似鹿耐罪不至也从而寸或作奈同</hi>
+                    <pc n="lb"/>
+                    <pb n="96a"/>
+                    <pb n="96b"/>
+                    <hi>竝穌對切<graphic n="KR3554" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3554.png" mimeType="image/png"/>破也从瓦卒碎磨也从石卒竝徒古切<graphic n="KR2681" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2681.png" mimeType="image/png"/>閉也从攴度杜甘棠也从木土竝杜囘切頽禿皃从禿貴/下隊也从<graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>貴竝古黠切刮也又畫堅/也从/叏戞/也从戈<graphic n="KR1315" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1315.png" mimeType="image/png"/>
+                    竝居許切<graphic n="KR1952" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1952.png" mimeType="image/png"/>飲牛筐也从竹豦筥䈰也从竹呂<pc n="lb"/>
+                        <pb n="96b"/>竝補各切簙局戲也从竹博博大通也从十<graphic n="KR0825" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0825.png" mimeType="image/png"/>
+                    竝先代切簺行棊相簺也从竹塞塞隔也从土竝奴歷切㲻没也从水人溺水名从水弱竝子礼切泲沇也从水濟水名从水齊竝章俱切朱赤心木松栢屬也从木一在其中絑純<pc n="lb"/>
+                        <pb n="97a"/>赤从糸朱竝去隓切闚閃也从門規窺小視从穴規竝力軌切垒絫墼也从土厽壘軍壁也从土畾竝兵切啚嗇也从口㐭鄙五酇爲鄙从邑啚竝多朗切攩朋群也从手黨黨不鮮也从黑尚<pc n="lb"/>
+                        <pb n="97b"/>竝莫卜切牧養牛人也从攴牛坶坶野也周書武王與紂戰于坶野从土母竝力軌切誄謚也从言耒讄禱也累功德以求福从言纍省或作竝側加切樝果似梨而酢从木虘柤木閑也从木且</hi>
+                    <pc n="lb"/>
+                    <pb n="98a"/>
+                    <pb n="98b"/>
+                    <hi>竝吉蚪切朻髙木也从木丩樛下句曰樛从木翏竝徒朗切放也从心象惕亦放也从心易又平也竝匹交切脬膀胱也从肉孚胞兒生裹也从肉包竝苦叶切㥦悏心也从心匧㤲思皃从心夾竝盧含切貪也訓同婪从女林惏从心林<pc n="lb"/>
+                        <pb n="98b"/>竝黄絢切眩目無常主也从目玄眴目揺也从目旬或作䀏同竝烏媧切䖯蠆从虫圭鼃蝦蟇也从黽圭俗作蛙非竝力卧切䇔痿也从立<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>/䌱不均也从糸䇔等字皆當从䇔乃得聲說文竝从羸恐譌</hi>
+                    <pc n="lb"/>
+                    <pb n="99a"/>
+                    <pb n="99b"/>
+                    <hi>竝五口切耦耒廣五寸爲伐二伐爲耦从耒禺偶桐人也从人禺竝苦故切胯股也从肉夸絝脛衣也从糸夸作袴非竝徐呂切叙次第也从攴余序東西牆也从广予竝他含切貪从貝今欲物也欿从欠臽欲得也<pc n="lb"/>
+                        <pb n="99b"/>竝毗祭切上㡀敗衣也从巾象形中敝同一曰帗也从攴㡀下弊頓仆从犬敝竝似嗟切上衺也从衣牙中邪又以遮切瑯琊郡名从邑牙下斜杼也从斗余竝是爲切上<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>艸/木葉<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>也中垂逺<pc n="lb"/>
+                        <pb n="100a"/>                        <graphic n="KR2173" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2173.png" mimeType="image/png"/>也从土<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>下/小口罌从缶<graphic n="KR1136" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1136.png" mimeType="image/png"/>
+                    竝許斤切上忻闓也从心斤中欣笑喜也从欠斤下訢喜也从言斤竝古弚切上噭吼也从口敫二叫/嘑也从口丩三髙聲也一曰大呼从</hi>
+                    <pc n="lb"/>
+                    <pb n="100b"/>
+                    <pb n="101a"/>
+                    <hi>竝孚梵切上泛浮也从水中氾濫也从水已下汎浮皃从水凡竝薄經切上蓱萍也从艸洴中萍苹也从水萍下苹蓱也从艸平符兵切無根浮水生者竝居六切上蘜治牆也从艸鞠中䕮<pc n="lb"/>
+                        <pb n="102a"/>曰精似秋蕐从艸<graphic n="KR3013" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3013.png" mimeType="image/png"/>省下菊蘧麥从艸匊竝子肖切上醮冠娶礼祭从酉焦中釂㱃酒盡也从酉嚼省下潐盡也从水焦竝户吳切上餬寄食也从食胡中黏也从黍古下䭈也从<graphic n="KR2471" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2471.png" mimeType="image/png"/>古<pc n="lb"/>
+                        <pb n="102b"/>竝以成切上嬴少昊氏之姓从女<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>
+                    中贏有餘賈利也从貝<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>徐鉉曰當从嬴省乃得聲瀛水名从水嬴竝郎果切上<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>或曰嘼名象形中蠃蜾蠃蒲盧細腰土蠭也中从虫<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>下/袒也从衣<graphic n="KR2195" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR2195.png" mimeType="image/png"/>與裸同</hi>
+                    <pc n="lb"/>
+                    <pb n="103a"/>
+                    <pb n="103b"/>
+                    <hi>也从人支下妓婦人小物也从女从支</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>筆迹<pc n="　"/>小<pc n="　"/>異<pc n="lb"/>
+<hi>八博拔切辵丑畧切彳丑亦切廴余忍切行户庚切牙五加切</hi>
+                    <pc n="lb"/>
+                    <pb n="103b"/>
+                    <pb n="104a"/>
+                    <hi>入人汁切畗芳逼切复房六切者之也切月魚厥切
+                        <graphic n="KR1887" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR1887.png" mimeType="image/png"/>乎感切齊徂兮切秊奴顛切疒女疙切人如鄰切<pc n="lb"/>
+                        <pb n="105a"/>匕呼跨切老盧皓切舟職流切俞芉朱切欠去劒切旡居未切頁胡結切駕古訝切文無分切卯去京切</hi>
+                    <pc n="lb"/>
+                    <pb n="105b"/>
+                    <pb n="106a"/>
+                    <hi>永于憬切谷古祿切魚語居切
+                        <graphic n="KR0875" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0875.png" mimeType="image/png"/>居玉切户矦古切門莫奔切也芉者切氏承旨切建居萬切所疏舉切<pc n="lb"/>
+                        <pb n="107a"/>久舉友切我五可切乍鉏駕切虫許偉切可肯我切即子力切旣居未切力林直切昔思積切九舉有切</hi>
+                    <pc n="lb"/>
+                    <pb n="107b"/>
+                    <pb n="108a"/>
+                    <hi>子即里切亥胡改切</hi>
+                    <pc n="lb"/>
+<pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>
+                    <pc n="　"/>上正<pc n="　"/>下譌<pc n="lb"/>
+<hi>天他前切毒徒沃切走子茍切歩薄故切乏房法切章諸良切<pc n="lb"/>
+                        <pb n="109a"/>殳市朱切以周切羽王矩切鳥都了切焉有䖍切畢卑吉切爭側莖切
+                        <graphic n="KR0671" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0671.png" mimeType="image/png"/>房九切耒盧對切乃奴亥切</hi>
+                    <pc n="lb"/>
+                    <pb n="109b"/>
+                    <pb n="110a"/>
+                    <hi>舍始夜切㫃於幰切甬余隴切录盧谷切西呼訝切戎而中切衆之仲切交古爻切老盧浩切石常隻切<pc n="lb"/>
+                        <pb n="111a"/>而如之切吳五乎切亢古郎切囟息進切云王分切非甫微切烏代切俞羊朱切匄古代切甚常枕切</hi>
+                    <pc n="lb"/>
+                    <pb n="111b"/>
+                    <pb n="112a"/>
+                    <pb n="113a"/>
+                    <pb n="114a"/>
+                    <pb n="115a"/>
+                </p>
+
+  </div>
+            <div>
+    <p>
+後序<pc n="lb"/>
+程子曰學之不可以不專也涉<pc n="lb"/>
+其流者未有能極其原㳺之蕃<pc n="lb"/>
+者未有能覩其奥不極其原不<pc n="lb"/>
+覩其奥求其是且精焉無有也<pc n="lb"/>
+                    <pb n="1a"/>
+                    <pb n="1b"/>
+                    <pb n="1b"/>作自繹山真刻不傳至唐字學<pc n="lb"/>
+雖盛而以篆法盖一時名後世者<pc n="lb"/>
+唯李陽冰為稱首徐鉉後出茟<pc n="lb"/>
+力勁古遂出陽冰上近世名茟<pc n="lb"/>
+固多其分閒布白規圜繩直不<pc n="lb"/>
+                    <pb n="1b"/>
+                    <pb n="2a"/>
+                    <pb n="3a"/>
+                    <pb n="4a"/>
+                    <pb n="5a"/>其傳因次叙如此政和二年歲<pc n="lb"/>
+癸已九月朔信安程俱叙<pc n="lb"/>
+                    <pb n="6a"/>
+                    <pb n="6b"/>
+                    <pb n="6b"/>
+                    <pb n="6b"/>
+                    <pb n="6b"/>
+                    <pb n="6b"/>復古編序<pc n="lb"/>
+書名之作其來尚矣自伏犧造書契而文籍生<pc n="lb"/>
+降及三代因革不同蟲魚萆木之形變於周史逮<pc n="lb"/>
+至秦漢作者閒出李斯趙高作蒼頡爰歷之書<pc n="lb"/>
+一變而爲小篆軍正程邈便於簡易再變而爲<pc n="lb"/>
+隸魏晉以來籀篆旣泯唯眞萆盛行至唐韓擇<pc n="lb"/>
+木李陽冰踵嶧山秦望之餘近代徐鉉宗陽氷<pc n="lb"/>
+之法復以小篆行於世然去古彌逺未有能臻<pc n="lb"/>
+                    <pb n="6b"/>其妙者呉興張謙中先生素留心此學深造古<pc n="lb"/>
+人之妙自元豐以來以小篆箸名天下鮮儷焉<pc n="lb"/>
+鄉人徐滋元象舊與先生爲鄰親炙先生餘誨<pc n="lb"/>
+揮毫落紙得先生之法先生亦雅愛奇之其平<pc n="lb"/>
+昔所箸如復古編千字文之類屬纊之際盡以<pc n="lb"/>
+遺之藏于巾笥如獲大寳今將<graphic n="KR0866" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0866.png" mimeType="image/png"/>板勒碑以廣<pc n="lb"/>
+其傳於永乆命㒒作序以誌之聊書其梗槩云<pc n="lb"/>
+時紹興十三年七月六日王佐才序敍<pc n="lb"/>
+                    <pb n="7a"/>復古編新序<hi>加新字所以別扵原序也極是之</hi>
+                    <pc n="lb"/>
+文字之書世謂之小學或者因陋就簡指<pc n="lb"/>
+爲學之細事而忽之非也古者四民擇其<pc n="lb"/>
+秀者爲士而教之所謂八歲入小學者敎<pc n="lb"/>
+以禮樂射御書數是六者雖不見古人之<pc n="lb"/>
+大全周禮注䟽亦見其略是皆有名數法<pc n="lb"/>
+度及人之幼眞淳未散記識性全使習六<pc n="lb"/>
+蓺則終身可以爲用此爲小年之學非曰<pc n="lb"/>
+                    <pb n="7b"/>學者之小事禮壞樂崩射御弗習數學亦<pc n="lb"/>
+復罕傳猶幸六書之說具存凡將爰歷等<pc n="lb"/>
+書不可復見急就章止存大略惟許叔重<pc n="lb"/>
+箸說文解字垂範千載李陽氷中興斯文<pc n="lb"/>
+於唐若南唐二徐兄弟尤深此學楚金在<pc n="lb"/>
+江南旣爲通釋部叙通論袪妄類聚錯綜<pc n="lb"/>
+疑義系述等篇總謂之繫傳又箸韻譜備<pc n="lb"/>
+矣鼎臣入本朝〇事熈陵命校定叔重之<pc n="lb"/>
+                    <pb n="8a"/>書至今賴之爾後楊南仲章友直文勛邵<pc n="lb"/>
+疏陳晞諸公皆以篆鳴遺迹猶辬辬見之<pc n="lb"/>
+然不聞有書以惠後來吳興張有謙中篤<pc n="lb"/>
+志古道傷俗學混淆爲書一編號曰復古<pc n="lb"/>
+用功數十秊書成於大觀政咊之閒陳了<pc n="lb"/>
+齋程北山爲歬後敍稱美甚至足以不朽<pc n="lb"/>
+矣鑰晚出何敢容喙尚有欲言而未盡者<pc n="lb"/>
+謙中攷證精詣字之合於古者皆所不論<pc n="lb"/>
+                    <pb n="8b"/>惟俗書亂之者必正其譌舛豪釐不貸讀<pc n="lb"/>
+者說服無有異論聞其落筆作篆如眞行<pc n="lb"/>
+然略無艱辛之態惟體脩而末重與人小<pc n="lb"/>
+異不入俗目漢宣帝時器械工巧元成閒<pc n="lb"/>
+鮮及之有谷口銅甬傳于卋欵識字其體<pc n="lb"/>
+正爾始知謙中之作葢有自來非以意爲<pc n="lb"/>
+之也巍字从委从嵬或省山以爲韓魏之<pc n="lb"/>
+魏謙中爲林中書家篆墓碑終不省去山<pc n="lb"/>
+                    <pb n="9a"/>字古無菴字謙中以謂當作闇而難以題<pc n="lb"/>
+扁山谷雖定从艸謙中<graphic n="KR0931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0931.png" mimeType="image/png"/>不用也嘗篆楊<pc n="lb"/>
+龜山所作踵息菴記終篇偶無此字碑頟<pc n="lb"/>
+雖从广竟作隸體書之其信古不从俗類<pc n="lb"/>
+若此鑰不能作篆心顧好之陽冰新義猶<pc n="lb"/>
+爲楚金所祛使二徐見此編殆<graphic n="KR0931" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR0931.png" mimeType="image/png"/>無以訾<pc n="lb"/>
+之陽冰務新而謙中一意于古優劣可以<pc n="lb"/>
+坐判矣時嘉定三秊八月朔正奉大夫參<pc n="lb"/>
+                    <pb n="9b"/>知政事兼<pc n="　"/>奉化郡開國公食邑<pc n="lb"/>
+叄仟壹伯戸食實封陸伯戸四朙樓鑰敍<pc n="lb"/>
+于攻媿齋<pc n="lb"/>
+<pc n="　"/>小斆周官六<graphic n="KR3379" url="https://raw.githubusercontent.com/kanripo/KR-Gaiji/master/images/KR3379.png" mimeType="image/png"/>之一也敎國子入<pc n="lb"/>
+<pc n="　"/>何草由斯儻以爲斆之<pc n="　"/>事而忽之則<pc n="lb"/>
+<pc n="　"/>指辵<hi>踔</hi>爲之繞宀<hi>緜</hi>爲両立若此者衆<pc n="lb"/>
+<pc n="　"/>何其誤哉不遇指南曷从正徹吳興張<pc n="lb"/>
+<pc n="　"/>有謙中號眞靜翁于國朝徐鼎臣校定<pc n="lb"/>
+                    <pb n="10a"/>
+                </p>
+
+  </div>
+        </body>
+    </text>
+</TEI>
